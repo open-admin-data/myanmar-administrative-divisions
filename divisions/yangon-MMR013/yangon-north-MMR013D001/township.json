@@ -1,0 +1,674 @@
+[
+  {
+    "id": "MMR013005703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အဖျောက်",
+      "en": "Ahpyauk",
+      "slug": "ahpyauk-MMR013005703"
+    },
+    "code": {
+      "id": "MMR013005703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.38239",
+      "lon": "95.69338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013046701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+      "en": "Hlaingtharya (East)",
+      "slug": "hlaingtharya-east-MMR013046701"
+    },
+    "code": {
+      "id": "MMR013046701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": "96.06893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013047701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လှိုင်သာယာ (အနောက်ပိုင်း)",
+      "en": "Hlaingtharya (West)",
+      "slug": "hlaingtharya-west-MMR013047701"
+    },
+    "code": {
+      "id": "MMR013047701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": "96.06893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လှည်းကူး",
+      "en": "Hlegu",
+      "slug": "hlegu-MMR013004701"
+    },
+    "code": {
+      "id": "MMR013004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.09875",
+      "lon": "96.22745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မှော်ဘီ",
+      "en": "Hmawbi",
+      "slug": "hmawbi-MMR013003701"
+    },
+    "code": {
+      "id": "MMR013003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.09987",
+      "lon": "96.0418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ထန်းတပင်",
+      "en": "Htantabin",
+      "slug": "htantabin-MMR013006701"
+    },
+    "code": {
+      "id": "MMR013006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.0174",
+      "lon": "95.9827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013002702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ထောက်ကြန့်",
+      "en": "Htaukkyant",
+      "slug": "htaukkyant-MMR013002702"
+    },
+    "code": {
+      "id": "MMR013002702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.04276",
+      "lon": "96.13231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်းစိန်",
+      "en": "Insein",
+      "slug": "insein-MMR013001701"
+    },
+    "code": {
+      "id": "MMR013001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.90177",
+      "lon": "96.09596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မင်္ဂလာဒုံ",
+      "en": "Mingaladon",
+      "slug": "mingaladon-MMR013002701"
+    },
+    "code": {
+      "id": "MMR013002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.94914",
+      "lon": "96.12795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဥက္ကံ",
+      "en": "Okekan",
+      "slug": "okekan-MMR013005702"
+    },
+    "code": {
+      "id": "MMR013005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.49696",
+      "lon": "95.8607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာ",
+      "en": "Shwepyithar",
+      "slug": "shwepyithar-MMR013007701"
+    },
+    "code": {
+      "id": "MMR013007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.95504",
+      "lon": "96.08329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တိုက်ကြီး",
+      "en": "Taikkyi",
+      "slug": "taikkyi-MMR013005701"
+    },
+    "code": {
+      "id": "MMR013005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.31263",
+      "lon": "95.96344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

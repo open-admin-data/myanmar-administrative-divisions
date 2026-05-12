@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0460001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0460001"
+    },
+    "code": {
+      "id": "0460001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009007702",
+      "level": 3,
+      "name": {
+        "local": "စကု",
+        "en": "Saku",
+        "slug": "saku-MMR009007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းဘူးခရိုင်",
+          "en": "Minbu",
+          "slug": "minbu-MMR009D002"
+        }
+      },
+      {
+        "id": "MMR009007702",
+        "level": 3,
+        "name": {
+          "local": "စကု",
+          "en": "Saku",
+          "slug": "saku-MMR009007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0460001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0460002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0460002"
+    },
+    "code": {
+      "id": "0460002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009007702",
+      "level": 3,
+      "name": {
+        "local": "စကု",
+        "en": "Saku",
+        "slug": "saku-MMR009007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းဘူးခရိုင်",
+          "en": "Minbu",
+          "slug": "minbu-MMR009D002"
+        }
+      },
+      {
+        "id": "MMR009007702",
+        "level": 3,
+        "name": {
+          "local": "စကု",
+          "en": "Saku",
+          "slug": "saku-MMR009007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0460002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0460003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0460003"
+    },
+    "code": {
+      "id": "0460003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009007702",
+      "level": 3,
+      "name": {
+        "local": "စကု",
+        "en": "Saku",
+        "slug": "saku-MMR009007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းဘူးခရိုင်",
+          "en": "Minbu",
+          "slug": "minbu-MMR009D002"
+        }
+      },
+      {
+        "id": "MMR009007702",
+        "level": 3,
+        "name": {
+          "local": "စကု",
+          "en": "Saku",
+          "slug": "saku-MMR009007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0460003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

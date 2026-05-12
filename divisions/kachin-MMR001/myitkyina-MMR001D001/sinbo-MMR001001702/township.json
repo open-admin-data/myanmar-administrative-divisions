@@ -1,0 +1,56 @@
+{
+  "id": "MMR001001702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဆင်ဘို",
+    "en": "Sinbo",
+    "slug": "sinbo-MMR001001702"
+  },
+  "code": {
+    "id": "MMR001001702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D001",
+    "level": 2,
+    "name": {
+      "local": "မြစ်ကြီးနားခရိုင်",
+      "en": "Myitkyina",
+      "slug": "myitkyina-MMR001D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.77923",
+    "lon": "97.03917"
+  },
+  "metadata": {},
+  "source": {}
+}

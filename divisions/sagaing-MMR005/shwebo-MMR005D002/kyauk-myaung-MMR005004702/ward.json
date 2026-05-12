@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0271001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0271001"
+    },
+    "code": {
+      "id": "0271001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005004702",
+      "level": 3,
+      "name": {
+        "local": "Kyauk Myaung",
+        "en": "Kyauk Myaung",
+        "slug": "kyauk-myaung-MMR005004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005004702",
+        "level": 3,
+        "name": {
+          "local": "Kyauk Myaung",
+          "en": "Kyauk Myaung",
+          "slug": "kyauk-myaung-MMR005004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0271001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0271002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0271002"
+    },
+    "code": {
+      "id": "0271002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005004702",
+      "level": 3,
+      "name": {
+        "local": "Kyauk Myaung",
+        "en": "Kyauk Myaung",
+        "slug": "kyauk-myaung-MMR005004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005004702",
+        "level": 3,
+        "name": {
+          "local": "Kyauk Myaung",
+          "en": "Kyauk Myaung",
+          "slug": "kyauk-myaung-MMR005004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0271002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0271003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0271003"
+    },
+    "code": {
+      "id": "0271003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005004702",
+      "level": 3,
+      "name": {
+        "local": "Kyauk Myaung",
+        "en": "Kyauk Myaung",
+        "slug": "kyauk-myaung-MMR005004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005004702",
+        "level": 3,
+        "name": {
+          "local": "Kyauk Myaung",
+          "en": "Kyauk Myaung",
+          "slug": "kyauk-myaung-MMR005004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0271003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0271004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0271004"
+    },
+    "code": {
+      "id": "0271004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005004702",
+      "level": 3,
+      "name": {
+        "local": "Kyauk Myaung",
+        "en": "Kyauk Myaung",
+        "slug": "kyauk-myaung-MMR005004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005004702",
+        "level": 3,
+        "name": {
+          "local": "Kyauk Myaung",
+          "en": "Kyauk Myaung",
+          "slug": "kyauk-myaung-MMR005004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0271004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

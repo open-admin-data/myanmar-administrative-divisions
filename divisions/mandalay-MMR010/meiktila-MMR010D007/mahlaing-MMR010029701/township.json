@@ -1,0 +1,56 @@
+{
+  "id": "MMR010029701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မလှိုင်",
+    "en": "Mahlaing",
+    "slug": "mahlaing-MMR010029701"
+  },
+  "code": {
+    "id": "MMR010029701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D007",
+    "level": 2,
+    "name": {
+      "local": "မိတ္ထီလာခရိုင်",
+      "en": "Meiktila",
+      "slug": "meiktila-MMR010D007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D007",
+      "level": 2,
+      "name": {
+        "local": "မိတ္ထီလာခရိုင်",
+        "en": "Meiktila",
+        "slug": "meiktila-MMR010D007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.09867",
+    "lon": "95.64698"
+  },
+  "metadata": {},
+  "source": {}
+}

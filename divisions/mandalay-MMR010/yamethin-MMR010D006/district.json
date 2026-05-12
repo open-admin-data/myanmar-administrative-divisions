@@ -1,0 +1,48 @@
+{
+  "id": "MMR010D006",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ရမည်းသင်းခရိုင်",
+    "en": "Yamethin",
+    "slug": "yamethin-MMR010D006"
+  },
+  "code": {
+    "id": "MMR010D006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010",
+    "level": 1,
+    "name": {
+      "local": "မန္တလေးတိုင်းဒေသကြီး",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 2,
+    "ward": 152
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.5126",
+    "lon": "96.0942"
+  },
+  "metadata": {},
+  "source": {}
+}

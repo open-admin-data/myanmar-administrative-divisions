@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "0105009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒုတ္တန် ရပ်ကွက်",
+      "en": "Doke Tan Quarter",
+      "slug": "doke-tan-quarter-0105009"
+    },
+    "code": {
+      "id": "0105009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုခို ရပ်ကွက်",
+      "en": "Ho Kho Quarter",
+      "slug": "ho-kho-quarter-0105002"
+    },
+    "code": {
+      "id": "0105002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖတ်မာ ကျေးရွာအုပ်စု",
+      "en": "Hpat Ma Village Tract",
+      "slug": "hpat-ma-village-tract-0105210"
+    },
+    "code": {
+      "id": "0105210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်ကထောင် ရပ်ကွက်",
+      "en": "Kawng Ka Htaung Quarter",
+      "slug": "kawng-ka-htaung-quarter-0105004"
+    },
+    "code": {
+      "id": "0105004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လန်းတောင် ကျေးရွာအုပ်စု",
+      "en": "Lang Taung Village Tract",
+      "slug": "lang-taung-village-tract-0105208"
+    },
+    "code": {
+      "id": "0105208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေယာဉ်ကွင်း ရပ်ကွက်",
+      "en": "Lay Yin Kwin Quarter",
+      "slug": "lay-yin-kwin-quarter-0105008"
+    },
+    "code": {
+      "id": "0105008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံယှာယန် ကျေးရွာအုပ်စု",
+      "en": "Lon Sha Yang Village Tract",
+      "slug": "lon-sha-yang-village-tract-0105211"
+    },
+    "code": {
+      "id": "0105211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးစွတ် ရပ်ကွက်",
+      "en": "Lone Sut Quarter",
+      "slug": "lone-sut-quarter-0105010"
+    },
+    "code": {
+      "id": "0105010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကပ်မုံ ကျေးရွာအုပ်စု",
+      "en": "Ma Kat Mon Village Tract",
+      "slug": "ma-kat-mon-village-tract-0105213"
+    },
+    "code": {
+      "id": "0105213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်စေခွန် ကျေးရွာအုပ်စု",
+      "en": "Man Say Khun Village Tract",
+      "slug": "man-say-khun-village-tract-0105207"
+    },
+    "code": {
+      "id": "0105207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်စေ ကျေးရွာအုပ်စု",
+      "en": "Man Say Village Tract",
+      "slug": "man-say-village-tract-0105206"
+    },
+    "code": {
+      "id": "0105206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မာလူလဲ့ ကျေးရွာအုပ်စု",
+      "en": "Mar Lu Leit Village Tract",
+      "slug": "mar-lu-leit-village-tract-0105205"
+    },
+    "code": {
+      "id": "0105205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူလာဟောင်း(မူလာဒီ) ကျေးရွာအုပ်စု",
+      "en": "Mu Lar Hawng (Mu Lar Dee) Village Tract",
+      "slug": "mu-lar-hawng-mu-lar-dee-village-tract-0105209"
+    },
+    "code": {
+      "id": "0105209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူလာရှီဒီး ရပ်ကွက်",
+      "en": "Mu Lar Shee Dee Quarter",
+      "slug": "mu-lar-shee-dee-quarter-0105011"
+    },
+    "code": {
+      "id": "0105011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0105003"
+    },
+    "code": {
+      "id": "0105003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်တုံခူး ကျေးရွာအုပ်စု",
+      "en": "Nam Ton Hku Village Tract",
+      "slug": "nam-ton-hku-village-tract-0105202"
+    },
+    "code": {
+      "id": "0105202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းလှိုင် ရပ်ကွက်",
+      "en": "Pan Hlaing Quarter",
+      "slug": "pan-hlaing-quarter-0105001"
+    },
+    "code": {
+      "id": "0105001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းမတီး ကျေးရွာအုပ်စု",
+      "en": "Pang Ma Ti Village Tract",
+      "slug": "pang-ma-ti-village-tract-0105203"
+    },
+    "code": {
+      "id": "0105203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါအင် ရပ်ကွက်",
+      "en": "Par In Quarter",
+      "slug": "par-in-quarter-0105007"
+    },
+    "code": {
+      "id": "0105007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပူတောင်း ကျေးရွာအုပ်စု",
+      "en": "Pu Taung Village Tract",
+      "slug": "pu-taung-village-tract-0105204"
+    },
+    "code": {
+      "id": "0105204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆာရ်ခွမ်ဒမ်း ကျေးရွာအုပ်စု",
+      "en": "Sarl Hkam Dam Village Tract",
+      "slug": "sarl-hkam-dam-village-tract-0105200"
+    },
+    "code": {
+      "id": "0105200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပ်သစ် ရပ်ကွက်",
+      "en": "Tat Thit Quarter",
+      "slug": "tat-thit-quarter-0105005"
+    },
+    "code": {
+      "id": "0105005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုံလီထု ရပ်ကွက်",
+      "en": "Ton Li Htu Quarter",
+      "slug": "ton-li-htu-quarter-0105006"
+    },
+    "code": {
+      "id": "0105006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွမ်ပီယန် ကျေးရွာအုပ်စု",
+      "en": "Tsum Pi Yang Village Tract",
+      "slug": "tsum-pi-yang-village-tract-0105212"
+    },
+    "code": {
+      "id": "0105212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0105201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးအွန် ကျေးရွာအုပ်စု",
+      "en": "Zi Aun Village Tract",
+      "slug": "zi-aun-village-tract-0105201"
+    },
+    "code": {
+      "id": "0105201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001014701",
+      "level": 3,
+      "name": {
+        "local": "ပူတာအို",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001014701",
+        "level": 3,
+        "name": {
+          "local": "ပူတာအို",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0105201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1163001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1163001"
+    },
+    "code": {
+      "id": "1163001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005703",
+      "level": 3,
+      "name": {
+        "local": "အဖျောက်",
+        "en": "Ahpyauk",
+        "slug": "ahpyauk-MMR013005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005703",
+        "level": 3,
+        "name": {
+          "local": "အဖျောက်",
+          "en": "Ahpyauk",
+          "slug": "ahpyauk-MMR013005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1163001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1163002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1163002"
+    },
+    "code": {
+      "id": "1163002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005703",
+      "level": 3,
+      "name": {
+        "local": "အဖျောက်",
+        "en": "Ahpyauk",
+        "slug": "ahpyauk-MMR013005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005703",
+        "level": 3,
+        "name": {
+          "local": "အဖျောက်",
+          "en": "Ahpyauk",
+          "slug": "ahpyauk-MMR013005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1163002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1163003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1163003"
+    },
+    "code": {
+      "id": "1163003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005703",
+      "level": 3,
+      "name": {
+        "local": "အဖျောက်",
+        "en": "Ahpyauk",
+        "slug": "ahpyauk-MMR013005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005703",
+        "level": 3,
+        "name": {
+          "local": "အဖျောက်",
+          "en": "Ahpyauk",
+          "slug": "ahpyauk-MMR013005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1163003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1163004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1163004"
+    },
+    "code": {
+      "id": "1163004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005703",
+      "level": 3,
+      "name": {
+        "local": "အဖျောက်",
+        "en": "Ahpyauk",
+        "slug": "ahpyauk-MMR013005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005703",
+        "level": 3,
+        "name": {
+          "local": "အဖျောက်",
+          "en": "Ahpyauk",
+          "slug": "ahpyauk-MMR013005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1163004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

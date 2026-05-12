@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0168003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေချောင်းသာ ရပ်ကွက်",
+      "en": "Shwe Chaung Thar Quarter",
+      "slug": "shwe-chaung-thar-quarter-0168003"
+    },
+    "code": {
+      "id": "0168003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007703",
+      "level": 3,
+      "name": {
+        "local": "အင်းတော်ကြီး",
+        "en": "Inn Taw Gyi",
+        "slug": "inn-taw-gyi-MMR001007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007703",
+        "level": 3,
+        "name": {
+          "local": "အင်းတော်ကြီး",
+          "en": "Inn Taw Gyi",
+          "slug": "inn-taw-gyi-MMR001007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0168003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0168001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေအင်းသာ ရပ်ကွက်",
+      "en": "Shwe Inn Thar Quarter",
+      "slug": "shwe-inn-thar-quarter-0168001"
+    },
+    "code": {
+      "id": "0168001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007703",
+      "level": 3,
+      "name": {
+        "local": "အင်းတော်ကြီး",
+        "en": "Inn Taw Gyi",
+        "slug": "inn-taw-gyi-MMR001007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007703",
+        "level": 3,
+        "name": {
+          "local": "အင်းတော်ကြီး",
+          "en": "Inn Taw Gyi",
+          "slug": "inn-taw-gyi-MMR001007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0168001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0168002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာ ရပ်ကွက်",
+      "en": "Shwe Pyi Thar Quarter",
+      "slug": "shwe-pyi-thar-quarter-0168002"
+    },
+    "code": {
+      "id": "0168002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007703",
+      "level": 3,
+      "name": {
+        "local": "အင်းတော်ကြီး",
+        "en": "Inn Taw Gyi",
+        "slug": "inn-taw-gyi-MMR001007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007703",
+        "level": 3,
+        "name": {
+          "local": "အင်းတော်ကြီး",
+          "en": "Inn Taw Gyi",
+          "slug": "inn-taw-gyi-MMR001007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0168002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0168004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်တန်းသာ ရပ်ကွက်",
+      "en": "Taung Tan Thar Quarter",
+      "slug": "taung-tan-thar-quarter-0168004"
+    },
+    "code": {
+      "id": "0168004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007703",
+      "level": 3,
+      "name": {
+        "local": "အင်းတော်ကြီး",
+        "en": "Inn Taw Gyi",
+        "slug": "inn-taw-gyi-MMR001007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007703",
+        "level": 3,
+        "name": {
+          "local": "အင်းတော်ကြီး",
+          "en": "Inn Taw Gyi",
+          "slug": "inn-taw-gyi-MMR001007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0168004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

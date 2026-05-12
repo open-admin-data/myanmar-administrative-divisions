@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "1203236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဟုံးဝ ကျေးရွာအုပ်စု",
+      "en": "Ah Hone Wa Village Tract",
+      "slug": "ah-hone-wa-village-tract-1203236"
+    },
+    "code": {
+      "id": "1203236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလူး ကျေးရွာအုပ်စု",
+      "en": "Ah Lu Village Tract",
+      "slug": "ah-lu-village-tract-1203221"
+    },
+    "code": {
+      "id": "1203221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနိင်းပွန် ကျေးရွာအုပ်စု",
+      "en": "Ah Naing Pun Village Tract",
+      "slug": "ah-naing-pun-village-tract-1203205"
+    },
+    "code": {
+      "id": "1203205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အစူးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Ah Su Chaung Village Tract",
+      "slug": "ah-su-chaung-village-tract-1203243"
+    },
+    "code": {
+      "id": "1203243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရက်သီမ ကျေးရွာအုပ်စု",
+      "en": "Ah Yet Thi Ma Village Tract",
+      "slug": "ah-yet-thi-ma-village-tract-1203217"
+    },
+    "code": {
+      "id": "1203217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘောနောခီး ကျေးရွာအုပ်စု",
+      "en": "Baw Naw Khee Village Tract",
+      "slug": "baw-naw-khee-village-tract-1203242"
+    },
+    "code": {
+      "id": "1203242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်တေဇ ရပ်ကွက်",
+      "en": "Bo Tay Za Quarter",
+      "slug": "bo-tay-za-quarter-1203005"
+    },
+    "code": {
+      "id": "1203005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါက်ရပ် ကျေးရွာအုပ်စု",
+      "en": "Dauk Yat Village Tract",
+      "slug": "dauk-yat-village-tract-1203228"
+    },
+    "code": {
+      "id": "1203228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံညင်းနွယ် ကျေးရွာအုပ်စု",
+      "en": "Gon Hnyin Nwei Village Tract",
+      "slug": "gon-hnyin-nwei-village-tract-1203225"
+    },
+    "code": {
+      "id": "1203225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှင်းပုလဲ ကျေးရွာအုပ်စု",
+      "en": "Hnin Pale Village Tract",
+      "slug": "hnin-pale-village-tract-1203200"
+    },
+    "code": {
+      "id": "1203200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Seik Village Tract",
+      "slug": "hpa-yar-seik-village-tract-1203237"
+    },
+    "code": {
+      "id": "1203237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုးလှကြီး ရပ်ကွက်",
+      "en": "Hpoe Hla Gyi Quarter",
+      "slug": "hpoe-hla-gyi-quarter-1203004"
+    },
+    "code": {
+      "id": "1203004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုးဝါးသိမ် ကျေးရွာအုပ်စု",
+      "en": "Hpoe War Thein Village Tract",
+      "slug": "hpoe-war-thein-village-tract-1203224"
+    },
+    "code": {
+      "id": "1203224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုးရာဇာ ရပ်ကွက်",
+      "en": "Hpoe Yar Zar Quarter",
+      "slug": "hpoe-yar-zar-quarter-1203002"
+    },
+    "code": {
+      "id": "1203002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒီပု ကျေးရွာအုပ်စု",
+      "en": "Ka Di Pu Village Tract",
+      "slug": "ka-di-pu-village-tract-1203227"
+    },
+    "code": {
+      "id": "1203227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဇိုင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Zaing Village Tract",
+      "slug": "ka-zaing-village-tract-1203232"
+    },
+    "code": {
+      "id": "1203232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်သာယာ ရပ်ကွက်",
+      "en": "Kan Thar Yar Quarter",
+      "slug": "kan-thar-yar-quarter-1203003"
+    },
+    "code": {
+      "id": "1203003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော့ကဒွတ် ကျေးရွာအုပ်စု",
+      "en": "Kawt Ka Dut Village Tract",
+      "slug": "kawt-ka-dut-village-tract-1203210"
+    },
+    "code": {
+      "id": "1203210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်းရွာ ကျေးရွာအုပ်စု",
+      "en": "Kin Ywar Village Tract",
+      "slug": "kin-ywar-village-tract-1203214"
+    },
+    "code": {
+      "id": "1203214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျခတ်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kya Khat Chaung Village Tract",
+      "slug": "kya-khat-chaung-village-tract-1203230"
+    },
+    "code": {
+      "id": "1203230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျားကွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Kwin Village Tract",
+      "slug": "kyar-kwin-village-tract-1203248"
+    },
+    "code": {
+      "id": "1203248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်လုံးကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Lone Gyi Village Tract",
+      "slug": "kyauk-lone-gyi-village-tract-1203249"
+    },
+    "code": {
+      "id": "1203249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ရေတွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Yae Twin Village Tract",
+      "slug": "kyauk-yae-twin-village-tract-1203223"
+    },
+    "code": {
+      "id": "1203223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြိုးဝိုင်း ကျေးရွာအုပ်စု",
+      "en": "Kyoe Waing Village Tract",
+      "slug": "kyoe-waing-village-tract-1203246"
+    },
+    "code": {
+      "id": "1203246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေးကေ ကျေးရွာအုပ်စု",
+      "en": "Lay Kay Village Tract",
+      "slug": "lay-kay-village-tract-1203245"
+    },
+    "code": {
+      "id": "1203245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိပ်ခုံး ကျေးရွာအုပ်စု",
+      "en": "Leik Khone Village Tract",
+      "slug": "leik-khone-village-tract-1203203"
+    },
+    "code": {
+      "id": "1203203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Kone Village Tract",
+      "slug": "ma-yan-kone-village-tract-1203218"
+    },
+    "code": {
+      "id": "1203218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲလံဂေါင်း ကျေးရွာအုပ်စု",
+      "en": "Me Lan Gaung Village Tract",
+      "slug": "me-lan-gaung-village-tract-1203235"
+    },
+    "code": {
+      "id": "1203235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲလံ ကျေးရွာအုပ်စု",
+      "en": "Me Lan Village Tract",
+      "slug": "me-lan-village-tract-1203234"
+    },
+    "code": {
+      "id": "1203234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲနသန် ကျေးရွာအုပ်စု",
+      "en": "Me Na Than Village Tract",
+      "slug": "me-na-than-village-tract-1203239"
+    },
+    "code": {
+      "id": "1203239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲပလီ ကျေးရွာအုပ်စု",
+      "en": "Me Pa Li Village Tract",
+      "slug": "me-pa-li-village-tract-1203240"
+    },
+    "code": {
+      "id": "1203240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုသင် ကျေးရွာအုပ်စု",
+      "en": "Mu Thin Village Tract",
+      "slug": "mu-thin-village-tract-1203206"
+    },
+    "code": {
+      "id": "1203206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Nat Gyi Village Tract",
+      "slug": "nat-gyi-village-tract-1203238"
+    },
+    "code": {
+      "id": "1203238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပလင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pa Lin Village Tract",
+      "slug": "nyaung-pa-lin-village-tract-1203202"
+    },
+    "code": {
+      "id": "1203202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိုင်ဒဝယ် ကျေးရွာအုပ်စု",
+      "en": "Paing Da Wei Village Tract",
+      "slug": "paing-da-wei-village-tract-1203247"
+    },
+    "code": {
+      "id": "1203247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်တော ကျေးရွာအုပ်စု",
+      "en": "Pauk Taw Village Tract",
+      "slug": "pauk-taw-village-tract-1203213"
+    },
+    "code": {
+      "id": "1203213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပီတိ ကျေးရွာအုပ်စု",
+      "en": "Pi Ti Village Tract",
+      "slug": "pi-ti-village-tract-1203241"
+    },
+    "code": {
+      "id": "1203241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆရာစံ ရပ်ကွက်",
+      "en": "Sa Yar San Quarter",
+      "slug": "sa-yar-san-quarter-1203001"
+    },
+    "code": {
+      "id": "1203001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေလှေ ကျေးရွာအုပ်စု",
+      "en": "Shwe Hlay Village Tract",
+      "slug": "shwe-hlay-village-tract-1203201"
+    },
+    "code": {
+      "id": "1203201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေရောင်ပြ ကျေးရွာအုပ်စု",
+      "en": "Shwe Yaung Pya Village Tract",
+      "slug": "shwe-yaung-pya-village-tract-1203229"
+    },
+    "code": {
+      "id": "1203229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်အင်း ကျေးရွာအုပ်စု",
+      "en": "Sin Inn Village Tract",
+      "slug": "sin-inn-village-tract-1203250"
+    },
+    "code": {
+      "id": "1203250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တဘက်ဆွဲ ကျေးရွာအုပ်စု",
+      "en": "Ta Bet Swea Village Tract",
+      "slug": "ta-bet-swea-village-tract-1203204"
+    },
+    "code": {
+      "id": "1203204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တညင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ta Nyin Kone Village Tract",
+      "slug": "ta-nyin-kone-village-tract-1203231"
+    },
+    "code": {
+      "id": "1203231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Taung Gyi Village Tract",
+      "slug": "taung-gyi-village-tract-1203215"
+    },
+    "code": {
+      "id": "1203215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်စွန်း ကျေးရွာအုပ်စု",
+      "en": "Taung Sun Village Tract",
+      "slug": "taung-sun-village-tract-1203212"
+    },
+    "code": {
+      "id": "1203212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲဖြူချောင်း ကျေးရွာအုပ်စု",
+      "en": "Thea Hpyu Chaung Village Tract",
+      "slug": "thea-hpyu-chaung-village-tract-1203220"
+    },
+    "code": {
+      "id": "1203220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိန်ငူ ကျေးရွာအုပ်စု",
+      "en": "Thein Ngu Village Tract",
+      "slug": "thein-ngu-village-tract-1203219"
+    },
+    "code": {
+      "id": "1203219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းက ကျေးရွာအုပ်စု",
+      "en": "Win Ka Village Tract",
+      "slug": "win-ka-village-tract-1203216"
+    },
+    "code": {
+      "id": "1203216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းပြန် ကျေးရွာအုပ်စု",
+      "en": "Win Pyan Village Tract",
+      "slug": "win-pyan-village-tract-1203222"
+    },
+    "code": {
+      "id": "1203222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းတာပန် ကျေးရွာအုပ်စု",
+      "en": "Win Tar Pan Village Tract",
+      "slug": "win-tar-pan-village-tract-1203244"
+    },
+    "code": {
+      "id": "1203244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းသောင် ကျေးရွာအုပ်စု",
+      "en": "Win Thaung Village Tract",
+      "slug": "win-thaung-village-tract-1203226"
+    },
+    "code": {
+      "id": "1203226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရင်းအုံ ကျေးရွာအုပ်စု",
+      "en": "Yin Ohn Village Tract",
+      "slug": "yin-ohn-village-tract-1203233"
+    },
+    "code": {
+      "id": "1203233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယွန်းဒလင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yun Da Lin Kone Village Tract",
+      "slug": "yun-da-lin-kone-village-tract-1203211"
+    },
+    "code": {
+      "id": "1203211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇုက္ကလီ ကျေးရွာအုပ်စု",
+      "en": "Zoke Ka Li Village Tract",
+      "slug": "zoke-ka-li-village-tract-1203209"
+    },
+    "code": {
+      "id": "1203209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇုတ်သုတ် ကျေးရွာအုပ်စု",
+      "en": "Zoke Thoke Village Tract",
+      "slug": "zoke-thoke-village-tract-1203208"
+    },
+    "code": {
+      "id": "1203208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇွဲကလာ ကျေးရွာအုပ်စု",
+      "en": "Zwe Ka Lar Village Tract",
+      "slug": "zwe-ka-lar-village-tract-1203207"
+    },
+    "code": {
+      "id": "1203207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011010701",
+      "level": 3,
+      "name": {
+        "local": "ဘီးလင်း",
+        "en": "Bilin",
+        "slug": "bilin-MMR011010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011010701",
+        "level": 3,
+        "name": {
+          "local": "ဘီးလင်း",
+          "en": "Bilin",
+          "slug": "bilin-MMR011010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1203207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

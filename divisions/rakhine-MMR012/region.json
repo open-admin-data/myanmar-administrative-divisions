@@ -1,0 +1,31 @@
+{
+  "id": "MMR012",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ရခိုင်ပြည်နယ်",
+    "en": "Rakhine",
+    "slug": "rakhine-MMR012"
+  },
+  "code": {
+    "id": "MMR012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "ward": 1245,
+    "township": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.7253",
+    "lon": "93.4628"
+  },
+  "metadata": {},
+  "source": {}
+}

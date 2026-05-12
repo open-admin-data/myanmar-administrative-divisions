@@ -1,0 +1,4292 @@
+[
+  {
+    "id": "1132208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ရွာ ကျေးရွာအုပ်စု",
+      "en": "Ah Lel Ywar Village Tract",
+      "slug": "ah-lel-ywar-village-tract-1132208"
+    },
+    "code": {
+      "id": "1132208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ကျေးရွာအုပ်စု",
+      "en": "Aung Chan Thar Village Tract",
+      "slug": "aung-chan-thar-village-tract-1132239"
+    },
+    "code": {
+      "id": "1132239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အေးရွာ ကျေးရွာအုပ်စု",
+      "en": "Aye Ywar Village Tract",
+      "slug": "aye-ywar-village-tract-1132209"
+    },
+    "code": {
+      "id": "1132209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုဂံတောင် ကျေးရွာအုပ်စု",
+      "en": "Bagan Taung Village Tract",
+      "slug": "bagan-taung-village-tract-1132225"
+    },
+    "code": {
+      "id": "1132225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုကလေး ကျေးရွာအုပ်စု",
+      "en": "Bo Ka Lay Village Tract",
+      "slug": "bo-ka-lay-village-tract-1132240"
+    },
+    "code": {
+      "id": "1132240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေးပေါက် ကျေးရွာအုပ်စု",
+      "en": "Day Pauk Village Tract",
+      "slug": "day-pauk-village-tract-1132227"
+    },
+    "code": {
+      "id": "1132227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှဘီလူး ကျေးရွာအုပ်စု",
+      "en": "Hla Bi Lu Village Tract",
+      "slug": "hla-bi-lu-village-tract-1132212"
+    },
+    "code": {
+      "id": "1132212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားပျို ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Pyo Village Tract",
+      "slug": "hpa-yar-pyo-village-tract-1132229"
+    },
+    "code": {
+      "id": "1132229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထရန်ကန် ကျေးရွာအုပ်စု",
+      "en": "Hta Yan Kan Village Tract",
+      "slug": "hta-yan-kan-village-tract-1132231"
+    },
+    "code": {
+      "id": "1132231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမာကလုတ် ကျေးရွာအုပ်စု",
+      "en": "Ka Ma Ka Loke Village Tract",
+      "slug": "ka-ma-ka-loke-village-tract-1132217"
+    },
+    "code": {
+      "id": "1132217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမာချိုက် ကျေးရွာအုပ်စု",
+      "en": "Ka Mar Chaik Village Tract",
+      "slug": "ka-mar-chaik-village-tract-1132207"
+    },
+    "code": {
+      "id": "1132207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမာမတ် ကျေးရွာအုပ်စု",
+      "en": "Ka Mar Mat Village Tract",
+      "slug": "ka-mar-mat-village-tract-1132201"
+    },
+    "code": {
+      "id": "1132201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံဘဲ့ ကျေးရွာအုပ်စု",
+      "en": "Kan Beit Village Tract",
+      "slug": "kan-beit-village-tract-1132223"
+    },
+    "code": {
+      "id": "1132223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကောင်း ကျေးရွာအုပ်စု",
+      "en": "Kan Kaung Village Tract",
+      "slug": "kan-kaung-village-tract-1132242"
+    },
+    "code": {
+      "id": "1132242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ညီနောင် ကျေးရွာအုပ်စု",
+      "en": "Kan Nyi Naung Village Tract",
+      "slug": "kan-nyi-naung-village-tract-1132219"
+    },
+    "code": {
+      "id": "1132219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံသာ ကျေးရွာအုပ်စု",
+      "en": "Kan Thar Village Tract",
+      "slug": "kan-thar-village-tract-1132252"
+    },
+    "code": {
+      "id": "1132252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင်ကန် ကျေးရွာအုပ်စု",
+      "en": "Kayin Kan Village Tract",
+      "slug": "kayin-kan-village-tract-1132218"
+    },
+    "code": {
+      "id": "1132218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင်စု ကျေးရွာအုပ်စု",
+      "en": "Kayin Su Village Tract",
+      "slug": "kayin-su-village-tract-1132228"
+    },
+    "code": {
+      "id": "1132228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခမတ် ကျေးရွာအုပ်စု",
+      "en": "Kha Mat Village Tract",
+      "slug": "kha-mat-village-tract-1132222"
+    },
+    "code": {
+      "id": "1132222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်းမွန်းခြုံ ကျေးရွာအုပ်စု",
+      "en": "Kin Mun Chon Village Tract",
+      "slug": "kin-mun-chon-village-tract-1132247"
+    },
+    "code": {
+      "id": "1132247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းမိုးဒိန်း ရပ်ကွက်",
+      "en": "Kun Moe Dein Quarter",
+      "slug": "kun-moe-dein-quarter-1132013"
+    },
+    "code": {
+      "id": "1132013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းလျားရှည် ကျေးရွာအုပ်စု",
+      "en": "Kwin Hlyar Shey Village Tract",
+      "slug": "kwin-hlyar-shey-village-tract-1132230"
+    },
+    "code": {
+      "id": "1132230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyar Kan Village Tract",
+      "slug": "kyar-kan-village-tract-1132237"
+    },
+    "code": {
+      "id": "1132237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီနီချောင် ကျေးရွာအုပ်စု",
+      "en": "Kyi Ni Chaung Village Tract",
+      "slug": "kyi-ni-chaung-village-tract-1132235"
+    },
+    "code": {
+      "id": "1132235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံကန် ကျေးရွာအုပ်စု",
+      "en": "Kyon Kan Village Tract",
+      "slug": "kyon-kan-village-tract-1132249"
+    },
+    "code": {
+      "id": "1132249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတူး ကျေးရွာအုပ်စု",
+      "en": "Kyon Tu Village Tract",
+      "slug": "kyon-tu-village-tract-1132215"
+    },
+    "code": {
+      "id": "1132215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံးကျုံးကျ ကျေးရွာအုပ်စု",
+      "en": "Kyone Kyone Kya Village Tract",
+      "slug": "kyone-kyone-kya-village-tract-1132203"
+    },
+    "code": {
+      "id": "1132203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြူတော ကျေးရွာအုပ်စု",
+      "en": "Kyu Taw Village Tract",
+      "slug": "kyu-taw-village-tract-1132206"
+    },
+    "code": {
+      "id": "1132206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲတလင်း ကျေးရွာအုပ်စု",
+      "en": "Kywe Ta Lin Village Tract",
+      "slug": "kywe-ta-lin-village-tract-1132220"
+    },
+    "code": {
+      "id": "1132220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးကန် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kan Village Tract",
+      "slug": "ma-gyi-kan-village-tract-1132213"
+    },
+    "code": {
+      "id": "1132213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောင်းမ ကျေးရွာအုပ်စု",
+      "en": "Maung Ma Village Tract",
+      "slug": "maung-ma-village-tract-1132205"
+    },
+    "code": {
+      "id": "1132205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မက္ကသန် ကျေးရွာအုပ်စု",
+      "en": "Met Ka Than Village Tract",
+      "slug": "met-ka-than-village-tract-1132202"
+    },
+    "code": {
+      "id": "1132202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1132001"
+    },
+    "code": {
+      "id": "1132001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) ရပ်ကွက်",
+      "en": "No (10) Quarter",
+      "slug": "no-10-quarter-1132010"
+    },
+    "code": {
+      "id": "1132010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၁) ရပ်ကွက်",
+      "en": "No (11) Quarter",
+      "slug": "no-11-quarter-1132011"
+    },
+    "code": {
+      "id": "1132011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၂) ရပ်ကွက်",
+      "en": "No (12) Quarter",
+      "slug": "no-12-quarter-1132012"
+    },
+    "code": {
+      "id": "1132012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1132002"
+    },
+    "code": {
+      "id": "1132002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1132003"
+    },
+    "code": {
+      "id": "1132003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1132004"
+    },
+    "code": {
+      "id": "1132004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1132005"
+    },
+    "code": {
+      "id": "1132005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1132006"
+    },
+    "code": {
+      "id": "1132006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-1132007"
+    },
+    "code": {
+      "id": "1132007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-1132008"
+    },
+    "code": {
+      "id": "1132008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) ရပ်ကွက်",
+      "en": "No (9) Quarter",
+      "slug": "no-9-quarter-1132009"
+    },
+    "code": {
+      "id": "1132009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လန်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lan Village Tract",
+      "slug": "nyaung-lan-village-tract-1132245"
+    },
+    "code": {
+      "id": "1132245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Kwin Village Tract",
+      "slug": "nyaung-pin-kwin-village-tract-1132224"
+    },
+    "code": {
+      "id": "1132224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-1132250"
+    },
+    "code": {
+      "id": "1132250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်းပင် ကျေးရွာအုပ်စု",
+      "en": "Ohn Pin Village Tract",
+      "slug": "ohn-pin-village-tract-1132244"
+    },
+    "code": {
+      "id": "1132244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ်ဖို ကျေးရွာအုပ်စု",
+      "en": "Oke Hpo Village Tract",
+      "slug": "oke-hpo-village-tract-1132204"
+    },
+    "code": {
+      "id": "1132204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပလူကန် ကျေးရွာအုပ်စု",
+      "en": "Pa Lu Kan Village Tract",
+      "slug": "pa-lu-kan-village-tract-1132233"
+    },
+    "code": {
+      "id": "1132233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပလူ ကျေးရွာအုပ်စု",
+      "en": "Pa Lu Village Tract",
+      "slug": "pa-lu-village-tract-1132238"
+    },
+    "code": {
+      "id": "1132238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းတောချောင် ကျေးရွာအုပ်စု",
+      "en": "Pan Taw Chaung Village Tract",
+      "slug": "pan-taw-chaung-village-tract-1132226"
+    },
+    "code": {
+      "id": "1132226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်ပင် ကျေးရွာအုပ်စု",
+      "en": "Pauk Pin Village Tract",
+      "slug": "pauk-pin-village-tract-1132200"
+    },
+    "code": {
+      "id": "1132200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းကန် ကျေးရွာအုပ်စု",
+      "en": "Pein Kan Village Tract",
+      "slug": "pein-kan-village-tract-1132211"
+    },
+    "code": {
+      "id": "1132211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းမကုန်း ကျေးရွာအုပ်စု",
+      "en": "Pyin Ma Kone Village Tract",
+      "slug": "pyin-ma-kone-village-tract-1132236"
+    },
+    "code": {
+      "id": "1132236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Khan Gyi Village Tract",
+      "slug": "sa-khan-gyi-village-tract-1132251"
+    },
+    "code": {
+      "id": "1132251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Sin Kyu Village Tract",
+      "slug": "sin-kyu-village-tract-1132241"
+    },
+    "code": {
+      "id": "1132241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်မင်းအိုင် ကျေးရွာအုပ်စု",
+      "en": "Sin Min Aing Village Tract",
+      "slug": "sin-min-aing-village-tract-1132246"
+    },
+    "code": {
+      "id": "1132246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စွယ်ကတော့ ကျေးရွာအုပ်စု",
+      "en": "Swei Ka Tawt Village Tract",
+      "slug": "swei-ka-tawt-village-tract-1132210"
+    },
+    "code": {
+      "id": "1132210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တကောကန် ကျေးရွာအုပ်စု",
+      "en": "Ta Kaw Kan Village Tract",
+      "slug": "ta-kaw-kan-village-tract-1132234"
+    },
+    "code": {
+      "id": "1132234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမံကြီး ကျေးရွာအုပ်စု",
+      "en": "Ta Man Gyi Village Tract",
+      "slug": "ta-man-gyi-village-tract-1132216"
+    },
+    "code": {
+      "id": "1132216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြုကန် ကျေးရွာအုပ်စု",
+      "en": "Tha Pyu Kan Village Tract",
+      "slug": "tha-pyu-kan-village-tract-1132232"
+    },
+    "code": {
+      "id": "1132232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက္ကယ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thet Kei Kone Village Tract",
+      "slug": "thet-kei-kone-village-tract-1132221"
+    },
+    "code": {
+      "id": "1132221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကျော် ကျေးရွာအုပ်စု",
+      "en": "Yae Kyaw Village Tract",
+      "slug": "yae-kyaw-village-tract-1132243"
+    },
+    "code": {
+      "id": "1132243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရိုးကြီး ကျေးရွာအုပ်စု",
+      "en": "Yoe Gyi Village Tract",
+      "slug": "yoe-gyi-village-tract-1132214"
+    },
+    "code": {
+      "id": "1132214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1132248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးဖြူပင် ကျေးရွာအုပ်စု",
+      "en": "Zee Hpyu Pin Village Tract",
+      "slug": "zee-hpyu-pin-village-tract-1132248"
+    },
+    "code": {
+      "id": "1132248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013026701",
+      "level": 3,
+      "name": {
+        "local": "ခရမ်း",
+        "en": "Kayan",
+        "slug": "kayan-MMR013026701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013026701",
+        "level": 3,
+        "name": {
+          "local": "ခရမ်း",
+          "en": "Kayan",
+          "slug": "kayan-MMR013026701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1132248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

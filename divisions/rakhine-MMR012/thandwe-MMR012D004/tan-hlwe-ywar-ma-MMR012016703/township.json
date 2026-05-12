@@ -1,0 +1,56 @@
+{
+  "id": "MMR012016703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တန်းလွဲရွာမ",
+    "en": "Tan Hlwe Ywar Ma",
+    "slug": "tan-hlwe-ywar-ma-MMR012016703"
+  },
+  "code": {
+    "id": "MMR012016703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D004",
+    "level": 2,
+    "name": {
+      "local": "သံတွဲခရိုင်",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.99829",
+    "lon": "94.12645"
+  },
+  "metadata": {},
+  "source": {}
+}

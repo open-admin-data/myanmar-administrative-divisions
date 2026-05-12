@@ -1,0 +1,4747 @@
+[
+  {
+    "id": "1609001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရစ်ယာန် ရပ်ကွက်",
+      "en": "Christan Quarter",
+      "slug": "christan-quarter-1609001"
+    },
+    "code": {
+      "id": "1609001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုမွန် ရပ်ကွက်",
+      "en": "Ho Mun Quarter",
+      "slug": "ho-mun-quarter-1609004"
+    },
+    "code": {
+      "id": "1609004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုနား ကျေးရွာအုပ်စု",
+      "en": "Ho Nar Village Tract",
+      "slug": "ho-nar-village-tract-1609257"
+    },
+    "code": {
+      "id": "1609257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုင်ကောင်း ကျေးရွာအုပ်စု",
+      "en": "Hpai Kawng Village Tract",
+      "slug": "hpai-kawng-village-tract-1609230"
+    },
+    "code": {
+      "id": "1609230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုင်ကျောင်း ကျေးရွာအုပ်စု",
+      "en": "Hpai Kyawng Village Tract",
+      "slug": "hpai-kyawng-village-tract-1609202"
+    },
+    "code": {
+      "id": "1609202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖာဖိတ် ကျေးရွာအုပ်စု",
+      "en": "Hpar Hpeik Village Tract",
+      "slug": "hpar-hpeik-village-tract-1609229"
+    },
+    "code": {
+      "id": "1609229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖာပွန်လီဆော ကျေးရွာအုပ်စု",
+      "en": "Hpar Pun Li Saw Village Tract",
+      "slug": "hpar-pun-li-saw-village-tract-1609220"
+    },
+    "code": {
+      "id": "1609220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖော်မော် ကျေးရွာအုပ်စု",
+      "en": "Hpaw Maw Village Tract",
+      "slug": "hpaw-maw-village-tract-1609245"
+    },
+    "code": {
+      "id": "1609245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖောင်းဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Hpawng Hseng Village Tract",
+      "slug": "hpawng-hseng-village-tract-1609251"
+    },
+    "code": {
+      "id": "1609251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်းခေါင် ကျေးရွာအုပ်စု",
+      "en": "Hseng Hkawng Village Tract",
+      "slug": "hseng-hkawng-village-tract-1609214"
+    },
+    "code": {
+      "id": "1609214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောက်ကွက် ကျေးရွာအုပ်စု",
+      "en": "Kauk Kwet (Manhlyoe (Manhero) Village Tract",
+      "slug": "kauk-kwet-manhlyoe-manhero-village-tract-1609262"
+    },
+    "code": {
+      "id": "1609262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းမူးတုံ ရပ်ကွက်",
+      "en": "Kawng Hmu Ton Quarter",
+      "slug": "kawng-hmu-ton-quarter-1609009"
+    },
+    "code": {
+      "id": "1609009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းကွေ ကျေးရွာအုပ်စု",
+      "en": "Kawng Kway Village Tract",
+      "slug": "kawng-kway-village-tract-1609240"
+    },
+    "code": {
+      "id": "1609240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းလုံ ကျေးရွာအုပ်စု",
+      "en": "Kawng Long Village Tract",
+      "slug": "kawng-long-village-tract-1609242"
+    },
+    "code": {
+      "id": "1609242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းနောင် ရပ်ကွက်",
+      "en": "Kawng Nawng Quarter",
+      "slug": "kawng-nawng-quarter-1609006"
+    },
+    "code": {
+      "id": "1609006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းဝိန်း ကျေးရွာအုပ်စု",
+      "en": "Kawng Wein Village Tract",
+      "slug": "kawng-wein-village-tract-1609218"
+    },
+    "code": {
+      "id": "1609218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိန်းယန်းတုံ ကျေးရွာအုပ်စု",
+      "en": "Kyein Yang Ton Village Tract",
+      "slug": "kyein-yang-ton-village-tract-1609226"
+    },
+    "code": {
+      "id": "1609226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ဆာ ကျေးရွာအုပ်စု",
+      "en": "Loi Hsar Village Tract",
+      "slug": "loi-hsar-village-tract-1609254"
+    },
+    "code": {
+      "id": "1609254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်လွမ့် ကျေးရွာအုပ်စု",
+      "en": "Loi Lumt Village Tract",
+      "slug": "loi-lumt-village-tract-1609256"
+    },
+    "code": {
+      "id": "1609256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်မကောက် ကျေးရွာအုပ်စု",
+      "en": "Loi Ma Kauk Village Tract",
+      "slug": "loi-ma-kauk-village-tract-1609258"
+    },
+    "code": {
+      "id": "1609258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ဝိန်း ကျေးရွာအုပ်စု",
+      "en": "Loi Wein Village Tract",
+      "slug": "loi-wein-village-tract-1609253"
+    },
+    "code": {
+      "id": "1609253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်းဟန် ကျေးရွာအုပ်စု",
+      "en": "Man Han Village Tract",
+      "slug": "man-han-village-tract-1609211"
+    },
+    "code": {
+      "id": "1609211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်ကန် (မုံးကိုး) ကျေးရွာအုပ်စု",
+      "en": "Man Kan (Mone Koe) Village Tract",
+      "slug": "man-kan-mone-koe-village-tract-1609246"
+    },
+    "code": {
+      "id": "1609246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်နွေ ကျေးရွာအုပ်စု",
+      "en": "Man Nway Village Tract",
+      "slug": "man-nway-village-tract-1609235"
+    },
+    "code": {
+      "id": "1609235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ပြိန်း ကျေးရွာအုပ်စု",
+      "en": "Man Pying Village Tract",
+      "slug": "man-pying-village-tract-1609237"
+    },
+    "code": {
+      "id": "1609237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်ဟိုင်း ကျေးရွာအုပ်စု",
+      "en": "Mant Hai Village Tract",
+      "slug": "mant-hai-village-tract-1609219"
+    },
+    "code": {
+      "id": "1609219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ဂျပ် ကျေးရွာအုပ်စု",
+      "en": "Mant Jat Village Tract",
+      "slug": "mant-jat-village-tract-1609247"
+    },
+    "code": {
+      "id": "1609247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်ကန် ကျေးရွာအုပ်စု",
+      "en": "Mant Kan Village Tract",
+      "slug": "mant-kan-village-tract-1609231"
+    },
+    "code": {
+      "id": "1609231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်ကန် ကျေးရွာအုပ်စု",
+      "en": "Mant Kant Village Tract",
+      "slug": "mant-kant-village-tract-1609250"
+    },
+    "code": {
+      "id": "1609250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်မိုင် ကျေးရွာအုပ်စု",
+      "en": "Mant Mai Village Tract",
+      "slug": "mant-mai-village-tract-1609212"
+    },
+    "code": {
+      "id": "1609212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်နောင် ကျေးရွာအုပ်စု",
+      "en": "Mant Nawng Village Tract",
+      "slug": "mant-nawng-village-tract-1609238"
+    },
+    "code": {
+      "id": "1609238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်စယ် ကျေးရွာအုပ်စု",
+      "en": "Mant Sei Village Tract",
+      "slug": "mant-sei-village-tract-1609236"
+    },
+    "code": {
+      "id": "1609236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန့်ယန် ကျေးရွာအုပ်စု",
+      "en": "Mant Yang Village Tract",
+      "slug": "mant-yang-village-tract-1609252"
+    },
+    "code": {
+      "id": "1609252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မော်တောင်းရွာမ ကျေးရွာအုပ်စု",
+      "en": "Maw Tawng Ywar Ma Village Tract",
+      "slug": "maw-tawng-ywar-ma-village-tract-1609210"
+    },
+    "code": {
+      "id": "1609210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုံးလုံ ကျေးရွာအုပ်စု",
+      "en": "Mone Long Village Tract",
+      "slug": "mone-long-village-tract-1609241"
+    },
+    "code": {
+      "id": "1609241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုန်းပေါ်နမ့်ချက် ကျေးရွာအုပ်စု",
+      "en": "Mone Paw Nam Chet (Zay) Village Tract",
+      "slug": "mone-paw-nam-chet-zay-village-tract-1609232"
+    },
+    "code": {
+      "id": "1609232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုန်းယူး (၁၀၅) မိုင် / မုင်းယု (၁၀၅) မိုင် ကျေးရွာအုပ်စု",
+      "en": "Mone Yu Tit Yar Ngar Maing Village Tract",
+      "slug": "mone-yu-tit-yar-ngar-maing-village-tract-1609208"
+    },
+    "code": {
+      "id": "1609208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်ဖန် ကျေးရွာအုပ်စု",
+      "en": "Mong Hpan Village Tract",
+      "slug": "mong-hpan-village-tract-1609233"
+    },
+    "code": {
+      "id": "1609233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလီ ကျေးရွာအုပ်စု",
+      "en": "Mong Li Village Tract",
+      "slug": "mong-li-village-tract-1609215"
+    },
+    "code": {
+      "id": "1609215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူလွန်ပန်ခါး ကျေးရွာအုပ်စု",
+      "en": "Mu Lun Pang Hkar Village Tract",
+      "slug": "mu-lun-pang-hkar-village-tract-1609222"
+    },
+    "code": {
+      "id": "1609222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက် ရပ်ကွက်",
+      "en": "Myauk Quarter",
+      "slug": "myauk-quarter-1609005"
+    },
+    "code": {
+      "id": "1609005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်အွမ် ကျေးရွာအုပ်စု",
+      "en": "Nam Aum Village Tract",
+      "slug": "nam-aum-village-tract-1609213"
+    },
+    "code": {
+      "id": "1609213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ချက်ရွာမ ကျေးရွာအုပ်စု",
+      "en": "Nam Chet Ywar Ma Village Tract",
+      "slug": "nam-chet-ywar-ma-village-tract-1609234"
+    },
+    "code": {
+      "id": "1609234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ကတ် ကျေးရွာအုပ်စု",
+      "en": "Nam Kat Village Tract",
+      "slug": "nam-kat-village-tract-1609205"
+    },
+    "code": {
+      "id": "1609205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်လာဟော့ ကျေးရွာအုပ်စု",
+      "en": "Nam Lar Hawt Village Tract",
+      "slug": "nam-lar-hawt-village-tract-1609259"
+    },
+    "code": {
+      "id": "1609259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်မြဲကချင် ကျေးရွာအုပ်စု",
+      "en": "Nam Mye Kachin Village Tract",
+      "slug": "nam-mye-kachin-village-tract-1609224"
+    },
+    "code": {
+      "id": "1609224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ငူး ကျေးရွာအုပ်စု",
+      "en": "Nam Ngu Village Tract",
+      "slug": "nam-ngu-village-tract-1609221"
+    },
+    "code": {
+      "id": "1609221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ပတီး ကျေးရွာအုပ်စု",
+      "en": "Nam Pa Tee Village Tract",
+      "slug": "nam-pa-tee-village-tract-1609223"
+    },
+    "code": {
+      "id": "1609223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ပန်း ကျေးရွာအုပ်စု",
+      "en": "Nam Pang Village Tract",
+      "slug": "nam-pang-village-tract-1609200"
+    },
+    "code": {
+      "id": "1609200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်တောင်း ကျေးရွာအုပ်စု",
+      "en": "Nam Tawng Village Tract",
+      "slug": "nam-tawng-village-tract-1609225"
+    },
+    "code": {
+      "id": "1609225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဟင် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hin (Manhlyoe (Manhero) Village Tract",
+      "slug": "nawng-hin-manhlyoe-manhero-village-tract-1609261"
+    },
+    "code": {
+      "id": "1609261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ခေါ် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hkaw (Manhlyoe (Manhero) Village Tract",
+      "slug": "nawng-hkaw-manhlyoe-manhero-village-tract-1609260"
+    },
+    "code": {
+      "id": "1609260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဖိုင် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hpai (Manhlyoe (Manhero) Village Tract",
+      "slug": "nawng-hpai-manhlyoe-manhero-village-tract-1609263"
+    },
+    "code": {
+      "id": "1609263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hseng Village Tract",
+      "slug": "nawng-hseng-village-tract-1609203"
+    },
+    "code": {
+      "id": "1609203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hseng Village Tract",
+      "slug": "nawng-hseng-village-tract-1609217"
+    },
+    "code": {
+      "id": "1609217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်လောင်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Lawng Village Tract",
+      "slug": "nawng-lawng-village-tract-1609204"
+    },
+    "code": {
+      "id": "1609204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ချို ကျေးရွာအုပ်စု",
+      "en": "Nawnghkio Village Tract",
+      "slug": "nawnghkio-village-tract-1609216"
+    },
+    "code": {
+      "id": "1609216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နော့ကို ကျေးရွာအုပ်စု",
+      "en": "Nawt Ko Village Tract",
+      "slug": "nawt-ko-village-tract-1609244"
+    },
+    "code": {
+      "id": "1609244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ခမ်း ကျေးရွာအုပ်စု",
+      "en": "Pang Hkam Village Tract",
+      "slug": "pang-hkam-village-tract-1609206"
+    },
+    "code": {
+      "id": "1609206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ဆိုင်း ကျေးရွာအုပ်စု",
+      "en": "Pang Hseng Village Tract",
+      "slug": "pang-hseng-village-tract-1609227"
+    },
+    "code": {
+      "id": "1609227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်လွမ်း ကျေးရွာအုပ်စု",
+      "en": "Pang Lum Village Tract",
+      "slug": "pang-lum-village-tract-1609243"
+    },
+    "code": {
+      "id": "1609243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်တောင်း ကျေးရွာအုပ်စု",
+      "en": "Pang Tawng Village Tract",
+      "slug": "pang-tawng-village-tract-1609248"
+    },
+    "code": {
+      "id": "1609248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပူဝမ်း ကျေးရွာအုပ်စု",
+      "en": "Pu Wan Village Tract",
+      "slug": "pu-wan-village-tract-1609249"
+    },
+    "code": {
+      "id": "1609249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စယ်လန့် ကျေးရွာအုပ်စု",
+      "en": "Se Lant Village Tract",
+      "slug": "se-lant-village-tract-1609201"
+    },
+    "code": {
+      "id": "1609201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စွမ်တော် ရပ်ကွက်",
+      "en": "Sum Taw Quarter",
+      "slug": "sum-taw-quarter-1609007"
+    },
+    "code": {
+      "id": "1609007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင် ရပ်ကွက်",
+      "en": "Taung Quarter",
+      "slug": "taung-quarter-1609003"
+    },
+    "code": {
+      "id": "1609003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တော်ရွက် ရပ်ကွက်",
+      "en": "Taw Ywet Quarter",
+      "slug": "taw-ywet-quarter-1609008"
+    },
+    "code": {
+      "id": "1609008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိန်းလုံ (ရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Ting Long (East) Village Tract",
+      "slug": "ting-long-east-village-tract-1609207"
+    },
+    "code": {
+      "id": "1609207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုံအော် ကျေးရွာအုပ်စု",
+      "en": "Ton Aw Village Tract",
+      "slug": "ton-aw-village-tract-1609239"
+    },
+    "code": {
+      "id": "1609239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုန့်ခန်နေ ကျေးရွာအုပ်စု",
+      "en": "Tont Hkan Nay Village Tract",
+      "slug": "tont-hkan-nay-village-tract-1609209"
+    },
+    "code": {
+      "id": "1609209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Wein Hseng Village Tract",
+      "slug": "wein-hseng-village-tract-1609255"
+    },
+    "code": {
+      "id": "1609255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယီခူး ကျေးရွာအုပ်စု",
+      "en": "Yi Hku Village Tract",
+      "slug": "yi-hku-village-tract-1609228"
+    },
+    "code": {
+      "id": "1609228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေး ရပ်ကွက်",
+      "en": "Zay Quarter",
+      "slug": "zay-quarter-1609002"
+    },
+    "code": {
+      "id": "1609002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009701",
+      "level": 3,
+      "name": {
+        "local": "မူဆယ်",
+        "en": "Muse",
+        "slug": "muse-MMR015009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009701",
+        "level": 3,
+        "name": {
+          "local": "မူဆယ်",
+          "en": "Muse",
+          "slug": "muse-MMR015009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1609002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

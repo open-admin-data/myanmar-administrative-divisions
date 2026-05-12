@@ -1,0 +1,56 @@
+{
+  "id": "MMR014001703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျောက်တလုံးကြီး",
+    "en": "Kyauktalonegyi",
+    "slug": "kyauktalonegyi-MMR014001703"
+  },
+  "code": {
+    "id": "MMR014001703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D001",
+    "level": 2,
+    "name": {
+      "local": "တောင်ကြီးခရိုင်",
+      "en": "Taunggyi",
+      "slug": "taunggyi-MMR014D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D001",
+      "level": 2,
+      "name": {
+        "local": "တောင်ကြီးခရိုင်",
+        "en": "Taunggyi",
+        "slug": "taunggyi-MMR014D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.371",
+    "lon": "97.024"
+  },
+  "metadata": {},
+  "source": {}
+}

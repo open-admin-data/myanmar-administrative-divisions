@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "1505002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနော်ရထာ ရပ်ကွက်",
+      "en": "Ah Naw Ra Htar Quarter",
+      "slug": "ah-naw-ra-htar-quarter-1505002"
+    },
+    "code": {
+      "id": "1505002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ဇေယျ ရပ်ကွက်",
+      "en": "Aung Zay Ya Quarter",
+      "slug": "aung-zay-ya-quarter-1505004"
+    },
+    "code": {
+      "id": "1505004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေတ်အေး ကျေးရွာအုပ်စု",
+      "en": "Khit Aye Village Tract",
+      "slug": "khit-aye-village-tract-1505208"
+    },
+    "code": {
+      "id": "1505208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျန်စစ်သား ရပ်ကွက်",
+      "en": "Kyan Sit Thar Quarter",
+      "slug": "kyan-sit-thar-quarter-1505001"
+    },
+    "code": {
+      "id": "1505001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ချက် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Chet Village Tract",
+      "slug": "kyauk-chet-village-tract-1505200"
+    },
+    "code": {
+      "id": "1505200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဖျာ ကျေးရွာအုပ်စု",
+      "en": "Kyauk Hpyar Village Tract",
+      "slug": "kyauk-hpyar-village-tract-1505210"
+    },
+    "code": {
+      "id": "1505210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျည်တောင် ကျေးရွာအုပ်စု",
+      "en": "Kyi Taung Village Tract",
+      "slug": "kyi-taung-village-tract-1505207"
+    },
+    "code": {
+      "id": "1505207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မအူတော ကျေးရွာအုပ်စု",
+      "en": "Ma Au Taw Village Tract",
+      "slug": "ma-au-taw-village-tract-1505203"
+    },
+    "code": {
+      "id": "1505203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းသြ ကျေးရွာအုပ်စု",
+      "en": "Nan Aw Village Tract",
+      "slug": "nan-aw-village-tract-1505209"
+    },
+    "code": {
+      "id": "1505209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုပ္ပါးကုန်း ရပ်ကွက်",
+      "en": "Poke Par Kone Quarter",
+      "slug": "poke-par-kone-quarter-1505005"
+    },
+    "code": {
+      "id": "1505005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်စံအောင် ရပ်ကွက်",
+      "en": "Pyi San Aung Quarter",
+      "slug": "pyi-san-aung-quarter-1505003"
+    },
+    "code": {
+      "id": "1505003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စည်ပင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Si Pin Gyi Village Tract",
+      "slug": "si-pin-gyi-village-tract-1505211"
+    },
+    "code": {
+      "id": "1505211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည် ကျေးရွာအုပ်စု",
+      "en": "Thar Si Village Tract",
+      "slug": "thar-si-village-tract-1505202"
+    },
+    "code": {
+      "id": "1505202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာယာကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thar Yar Kone Village Tract",
+      "slug": "thar-yar-kone-village-tract-1505212"
+    },
+    "code": {
+      "id": "1505212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက်နှင်းအင်း ကျေးရွာအုပ်စု",
+      "en": "Thet Hnin Inn Village Tract",
+      "slug": "thet-hnin-inn-village-tract-1505206"
+    },
+    "code": {
+      "id": "1505206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်တပ် ကျေးရွာအုပ်စု",
+      "en": "Thit Tat Village Tract",
+      "slug": "thit-tat-village-tract-1505205"
+    },
+    "code": {
+      "id": "1505205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းရောင်း ကျေးရွာအုပ်စု",
+      "en": "vKyun Yaung Village Tract",
+      "slug": "vkyun-yaung-village-tract-1505201"
+    },
+    "code": {
+      "id": "1505201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေဆင်း ကျေးရွာအုပ်စု",
+      "en": "Yae Sin Village Tract",
+      "slug": "yae-sin-village-tract-1505204"
+    },
+    "code": {
+      "id": "1505204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018001701",
+      "level": 3,
+      "name": {
+        "local": "ဇေယျာသီရိ",
+        "en": "Zay Yar Thi Ri",
+        "slug": "zay-yar-thi-ri-MMR018001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D001",
+        "level": 2,
+        "name": {
+          "local": "ဥတ္တရခရိုင်",
+          "en": "Oke Ta Ra",
+          "slug": "oke-ta-ra-MMR018D001"
+        }
+      },
+      {
+        "id": "MMR018001701",
+        "level": 3,
+        "name": {
+          "local": "ဇေယျာသီရိ",
+          "en": "Zay Yar Thi Ri",
+          "slug": "zay-yar-thi-ri-MMR018001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1505204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

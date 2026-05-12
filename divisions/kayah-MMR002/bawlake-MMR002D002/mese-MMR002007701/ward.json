@@ -1,0 +1,522 @@
+[
+  {
+    "id": "0906205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါကဒွီး ကျေးရွာအုပ်စု",
+      "en": "Daw Ka Dwee Village Tract",
+      "slug": "daw-ka-dwee-village-tract-0906205"
+    },
+    "code": {
+      "id": "0906205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုဂျစ် ကျေးရွာအုပ်စု",
+      "en": "Ho Gyit Village Tract",
+      "slug": "ho-gyit-village-tract-0906201"
+    },
+    "code": {
+      "id": "0906201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မယ်ဆည်နမ် ကျေးရွာအုပ်စု",
+      "en": "Mei Se Nan Village Tract",
+      "slug": "mei-se-nan-village-tract-0906202"
+    },
+    "code": {
+      "id": "0906202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မယ်စဲ့ ကျေးရွာအုပ်စု",
+      "en": "Mese Village Tract",
+      "slug": "mese-village-tract-0906200"
+    },
+    "code": {
+      "id": "0906200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-0906001"
+    },
+    "code": {
+      "id": "0906001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းမန်း ကျေးရွာအုပ်စု",
+      "en": "Nan Man Village Tract",
+      "slug": "nan-man-village-tract-0906203"
+    },
+    "code": {
+      "id": "0906203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-0906002"
+    },
+    "code": {
+      "id": "0906002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0906204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာယာ ကျေးရွာအုပ်စု",
+      "en": "Thar Yar Village Tract",
+      "slug": "thar-yar-village-tract-0906204"
+    },
+    "code": {
+      "id": "0906204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002007701",
+      "level": 3,
+      "name": {
+        "local": "မယ်စဲ",
+        "en": "Mese",
+        "slug": "mese-MMR002007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002007701",
+        "level": 3,
+        "name": {
+          "local": "မယ်စဲ",
+          "en": "Mese",
+          "slug": "mese-MMR002007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0906204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

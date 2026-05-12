@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0960003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0960003"
+    },
+    "code": {
+      "id": "0960003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001702",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်လင်လေး",
+        "en": "Loilen Lay",
+        "slug": "loilen-lay-MMR002001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001702",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်လင်လေး",
+          "en": "Loilen Lay",
+          "slug": "loilen-lay-MMR002001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0960003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0960001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်တေဇ ရပ်ကွက်",
+      "en": "Aung Tay Za Quarter",
+      "slug": "aung-tay-za-quarter-0960001"
+    },
+    "code": {
+      "id": "0960001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001702",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်လင်လေး",
+        "en": "Loilen Lay",
+        "slug": "loilen-lay-MMR002001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001702",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်လင်လေး",
+          "en": "Loilen Lay",
+          "slug": "loilen-lay-MMR002001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0960001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0960002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သိန္ဒိ ရပ်ကွက်",
+      "en": "Aung Theik Di Quarter",
+      "slug": "aung-theik-di-quarter-0960002"
+    },
+    "code": {
+      "id": "0960002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001702",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်လင်လေး",
+        "en": "Loilen Lay",
+        "slug": "loilen-lay-MMR002001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001702",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်လင်လေး",
+          "en": "Loilen Lay",
+          "slug": "loilen-lay-MMR002001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0960002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR015019701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မန်တုံ",
+    "en": "Manton",
+    "slug": "manton-MMR015019701"
+  },
+  "code": {
+    "id": "MMR015019701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR015D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်မဲခရိုင်",
+      "en": "Kyaukme",
+      "slug": "kyaukme-MMR015D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR015D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်မဲခရိုင်",
+        "en": "Kyaukme",
+        "slug": "kyaukme-MMR015D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.24648",
+    "lon": "97.12222"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "1602200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခမ်းတိမ်း ကျေးရွာအုပ်စု",
+      "en": "Hkam Tein Village Tract",
+      "slug": "hkam-tein-village-tract-1602200"
+    },
+    "code": {
+      "id": "1602200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုပန်မျဉ်း ကျေးရွာအုပ်စု",
+      "en": "Ho Pang Myin Village Tract",
+      "slug": "ho-pang-myin-village-tract-1602208"
+    },
+    "code": {
+      "id": "1602208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုတုံ ကျေးရွာအုပ်စု",
+      "en": "Ho Ton Village Tract",
+      "slug": "ho-ton-village-tract-1602207"
+    },
+    "code": {
+      "id": "1602207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟွေတောင် ကျေးရွာအုပ်စု",
+      "en": "Hway Tawng Village Tract",
+      "slug": "hway-tawng-village-tract-1602222"
+    },
+    "code": {
+      "id": "1602222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းအိုင် ကျေးရွာအုပ်စု",
+      "en": "Kawng Aing Village Tract",
+      "slug": "kawng-aing-village-tract-1602215"
+    },
+    "code": {
+      "id": "1602215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းဟော် ကျေးရွာအုပ်စု",
+      "en": "Kawng Haw Village Tract",
+      "slug": "kawng-haw-village-tract-1602202"
+    },
+    "code": {
+      "id": "1602202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းကော် ကျေးရွာအုပ်စု",
+      "en": "Kawng Kaw Village Tract",
+      "slug": "kawng-kaw-village-tract-1602221"
+    },
+    "code": {
+      "id": "1602221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းမူးဖိတ် ကျေးရွာအုပ်စု",
+      "en": "Kawng Mu Hpeik Village Tract",
+      "slug": "kawng-mu-hpeik-village-tract-1602216"
+    },
+    "code": {
+      "id": "1602216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းဝိန်း ကျေးရွာအုပ်စု",
+      "en": "Kawng Wein Village Tract",
+      "slug": "kawng-wein-village-tract-1602225"
+    },
+    "code": {
+      "id": "1602225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းညောင် ကျေးရွာအုပ်စု",
+      "en": "Kone Nyaung Village Tract",
+      "slug": "kone-nyaung-village-tract-1602218"
+    },
+    "code": {
+      "id": "1602218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွန်ကောက် ကျေးရွာအုပ်စု",
+      "en": "Kun Kauk Village Tract",
+      "slug": "kun-kauk-village-tract-1602219"
+    },
+    "code": {
+      "id": "1602219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Loi Hseng Village Tract",
+      "slug": "loi-hseng-village-tract-1602227"
+    },
+    "code": {
+      "id": "1602227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ကန် ကျေးရွာအုပ်စု",
+      "en": "Man Kan Village Tract",
+      "slug": "man-kan-village-tract-1602231"
+    },
+    "code": {
+      "id": "1602231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်လင် ကျေးရွာအုပ်စု",
+      "en": "Man Len Village Tract",
+      "slug": "man-len-village-tract-1602224"
+    },
+    "code": {
+      "id": "1602224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက်စလီ ကျေးရွာအုပ်စု",
+      "en": "Mauk Sa Li Village Tract",
+      "slug": "mauk-sa-li-village-tract-1602214"
+    },
+    "code": {
+      "id": "1602214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလီ ကျေးရွာအုပ်စု",
+      "en": "Mong Li Village Tract",
+      "slug": "mong-li-village-tract-1602210"
+    },
+    "code": {
+      "id": "1602210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပါး ကျေးရွာအုပ်စု",
+      "en": "Mong Par Village Tract",
+      "slug": "mong-par-village-tract-1602213"
+    },
+    "code": {
+      "id": "1602213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းယန်း ကျေးရွာအုပ်စု",
+      "en": "Mong Yang Village Tract",
+      "slug": "mong-yang-village-tract-1602206"
+    },
+    "code": {
+      "id": "1602206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်စလပ် ကျေးရွာအုပ်စု",
+      "en": "Nam Sa Lat Village Tract",
+      "slug": "nam-sa-lat-village-tract-1602220"
+    },
+    "code": {
+      "id": "1602220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်တုတ် ကျေးရွာအုပ်စု",
+      "en": "Nam Toke Village Tract",
+      "slug": "nam-toke-village-tract-1602223"
+    },
+    "code": {
+      "id": "1602223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားဆော့ ကျေးရွာအုပ်စု",
+      "en": "Nar Hsawt Village Tract",
+      "slug": "nar-hsawt-village-tract-1602211"
+    },
+    "code": {
+      "id": "1602211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားငင်း ကျေးရွာအုပ်စု",
+      "en": "Nar Ngin Village Tract",
+      "slug": "nar-ngin-village-tract-1602212"
+    },
+    "code": {
+      "id": "1602212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားတီး ကျေးရွာအုပ်စု",
+      "en": "Nar Tee Village Tract",
+      "slug": "nar-tee-village-tract-1602228"
+    },
+    "code": {
+      "id": "1602228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကျောင်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Kyawng Village Tract",
+      "slug": "nawng-kyawng-village-tract-1602209"
+    },
+    "code": {
+      "id": "1602209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ချို ကျေးရွာအုပ်စု",
+      "en": "Nawnghkio Village Tract",
+      "slug": "nawnghkio-village-tract-1602229"
+    },
+    "code": {
+      "id": "1602229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1602001"
+    },
+    "code": {
+      "id": "1602001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1602002"
+    },
+    "code": {
+      "id": "1602002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1602003"
+    },
+    "code": {
+      "id": "1602003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1602004"
+    },
+    "code": {
+      "id": "1602004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်လော့ ကျေးရွာအုပ်စု",
+      "en": "Pang Lawt Village Tract",
+      "slug": "pang-lawt-village-tract-1602201"
+    },
+    "code": {
+      "id": "1602201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်တီး ကျေးရွာအုပ်စု",
+      "en": "Pang Tee Village Tract",
+      "slug": "pang-tee-village-tract-1602230"
+    },
+    "code": {
+      "id": "1602230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းဆာ ကျေးရွာအုပ်စု",
+      "en": "Pein Hsar Village Tract",
+      "slug": "pein-hsar-village-tract-1602204"
+    },
+    "code": {
+      "id": "1602204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စယ်အူ ကျေးရွာအုပ်စု",
+      "en": "Sei Au Village Tract",
+      "slug": "sei-au-village-tract-1602217"
+    },
+    "code": {
+      "id": "1602217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှန်တုံငယ် ကျေးရွာအုပ်စု",
+      "en": "Shan Ton Nge Village Tract",
+      "slug": "shan-ton-nge-village-tract-1602226"
+    },
+    "code": {
+      "id": "1602226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိုင်ယက် ကျေးရွာအုပ်စု",
+      "en": "Taing Yet Village Tract",
+      "slug": "taing-yet-village-tract-1602205"
+    },
+    "code": {
+      "id": "1602205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ်မှူး ကျေးရွာအုပ်စု",
+      "en": "U Yin Hmu Village Tract",
+      "slug": "u-yin-hmu-village-tract-1602203"
+    },
+    "code": {
+      "id": "1602203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015002701",
+      "level": 3,
+      "name": {
+        "local": "သိန္နီ",
+        "en": "Hseni",
+        "slug": "hseni-MMR015002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015002701",
+        "level": 3,
+        "name": {
+          "local": "သိန္နီ",
+          "en": "Hseni",
+          "slug": "hseni-MMR015002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1602203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

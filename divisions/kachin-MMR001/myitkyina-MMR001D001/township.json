@@ -1,0 +1,618 @@
+[
+  {
+    "id": "MMR001005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ချီဖွေ",
+      "en": "Chipwi",
+      "slug": "chipwi-MMR001005701"
+    },
+    "code": {
+      "id": "MMR001005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.88635",
+      "lon": "98.12976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်ဂျန်းယန်",
+      "en": "Injangyang",
+      "slug": "injangyang-MMR001003701"
+    },
+    "code": {
+      "id": "MMR001003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.82991",
+      "lon": "97.72671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001002703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကန်ပိုက်တီ",
+      "en": "Kan Paik Ti",
+      "slug": "kan-paik-ti-MMR001002703"
+    },
+    "code": {
+      "id": "MMR001002703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.40319",
+      "lon": "98.11739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြစ်ကြီးနား",
+      "en": "Myitkyina",
+      "slug": "myitkyina-MMR001001701"
+    },
+    "code": {
+      "id": "MMR001001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.38749",
+      "lon": "97.39036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပန်ဝါ",
+      "en": "Pang War",
+      "slug": "pang-war-MMR001005702"
+    },
+    "code": {
+      "id": "MMR001005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.59866",
+      "lon": "98.37863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001002702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆဒုံး",
+      "en": "Sadung",
+      "slug": "sadung-MMR001002702"
+    },
+    "code": {
+      "id": "MMR001002702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.39709",
+      "lon": "97.89996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001004702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရှင်ဗွေယန်",
+      "en": "Shin Bway Yang",
+      "slug": "shin-bway-yang-MMR001004702"
+    },
+    "code": {
+      "id": "MMR001004702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.69478",
+      "lon": "96.2094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆင်ဘို",
+      "en": "Sinbo",
+      "slug": "sinbo-MMR001001702"
+    },
+    "code": {
+      "id": "MMR001001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.77923",
+      "lon": "97.03917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တနိုင်း",
+      "en": "Tanai",
+      "slug": "tanai-MMR001004701"
+    },
+    "code": {
+      "id": "MMR001004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.35797",
+      "lon": "96.71655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆော့လော်",
+      "en": "Tsawlaw",
+      "slug": "tsawlaw-MMR001006701"
+    },
+    "code": {
+      "id": "MMR001006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.15419",
+      "lon": "98.27049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဝိုင်းမော်",
+      "en": "Waingmaw",
+      "slug": "waingmaw-MMR001002701"
+    },
+    "code": {
+      "id": "MMR001002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.35099",
+      "lon": "97.44281"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

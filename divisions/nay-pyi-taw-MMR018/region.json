@@ -1,0 +1,31 @@
+{
+  "id": "MMR018",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "နေပြည်တော်",
+    "en": "Nay Pyi Taw",
+    "slug": "nay-pyi-taw-MMR018"
+  },
+  "code": {
+    "id": "MMR018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "ward": 248,
+    "township": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.8209",
+    "lon": "96.1525"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "MMR005",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+    "en": "Sagaing",
+    "slug": "sagaing-MMR005"
+  },
+  "code": {
+    "id": "MMR005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "ward": 1889,
+    "township": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.1833",
+    "lon": "95.2912"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "MMR001D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ဗန်းမော်ခရိုင်",
+    "en": "Bhamo",
+    "slug": "bhamo-MMR001D003"
+  },
+  "code": {
+    "id": "MMR001D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001",
+    "level": 1,
+    "name": {
+      "local": "ကချင်ပြည်နယ်",
+      "en": "Kachin",
+      "slug": "kachin-MMR001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 212
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.3035",
+    "lon": "97.2168"
+  },
+  "metadata": {},
+  "source": {}
+}

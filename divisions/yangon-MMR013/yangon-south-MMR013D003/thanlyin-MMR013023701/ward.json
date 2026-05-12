@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "1129006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှုထမ်း ရပ်ကွက်",
+      "en": "Ah Hmu Htan Quarter",
+      "slug": "ah-hmu-htan-quarter-1129006"
+    },
+    "code": {
+      "id": "1129006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလွန်းဆုတ် ကျေးရွာအုပ်စု",
+      "en": "Ah Lun Soke Village Tract",
+      "slug": "ah-lun-soke-village-tract-1129210"
+    },
+    "code": {
+      "id": "1129210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-1129017"
+    },
+    "code": {
+      "id": "1129017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-1129014"
+    },
+    "code": {
+      "id": "1129014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘယက် ကျေးရွာအုပ်စု",
+      "en": "Ba Yet Village Tract",
+      "slug": "ba-yet-village-tract-1129215"
+    },
+    "code": {
+      "id": "1129215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုဂံတောင် ကျေးရွာအုပ်စု",
+      "en": "Bagan Taung Village Tract",
+      "slug": "bagan-taung-village-tract-1129209"
+    },
+    "code": {
+      "id": "1129209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲခူးစု ရပ်ကွက်",
+      "en": "Bago Su Quarter",
+      "slug": "bago-su-quarter-1129007"
+    },
+    "code": {
+      "id": "1129007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘောသပြေကန် ကျေးရွာအုပ်စု",
+      "en": "Baw Tha Pyay Kan Village Tract",
+      "slug": "baw-tha-pyay-kan-village-tract-1129206"
+    },
+    "code": {
+      "id": "1129206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်ချုပ် ကျေးရွာအုပ်စု",
+      "en": "Bo Gyoke Village Tract",
+      "slug": "bo-gyoke-village-tract-1129219"
+    },
+    "code": {
+      "id": "1129219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းစောက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Sauk Village Tract",
+      "slug": "chaung-sauk-village-tract-1129227"
+    },
+    "code": {
+      "id": "1129227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒါရ်ဂါ ရပ်ကွက်",
+      "en": "Dahr Gar Quarter",
+      "slug": "dahr-gar-quarter-1129015"
+    },
+    "code": {
+      "id": "1129015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေးဇတ် ကျေးရွာအုပ်စု",
+      "en": "Day Zat Village Tract",
+      "slug": "day-zat-village-tract-1129203"
+    },
+    "code": {
+      "id": "1129203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကုန်း ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Kone Village Tract",
+      "slug": "hpa-yar-kone-village-tract-1129221"
+    },
+    "code": {
+      "id": "1129221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖားကူး (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Hpar Ku (East) Village Tract",
+      "slug": "hpar-ku-east-village-tract-1129201"
+    },
+    "code": {
+      "id": "1129201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖားကူး (အနောက်) ကျေးရွာအုပ်စု",
+      "en": "Hpar Ku (West) Village Tract",
+      "slug": "hpar-ku-west-village-tract-1129202"
+    },
+    "code": {
+      "id": "1129202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထန်းပင်ကုန်း ရပ်ကွက်",
+      "en": "Htan Pin Kone Quarter",
+      "slug": "htan-pin-kone-quarter-1129008"
+    },
+    "code": {
+      "id": "1129008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒတ်ဖျာ ကျေးရွာအုပ်စု",
+      "en": "Ka Dat Hpyar Village Tract",
+      "slug": "ka-dat-hpyar-village-tract-1129223"
+    },
+    "code": {
+      "id": "1129223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင်ဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Kayin Seik Village Tract",
+      "slug": "kayin-seik-village-tract-1129207"
+    },
+    "code": {
+      "id": "1129207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားဝဲ ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Wea Village Tract",
+      "slug": "ku-lar-wea-village-tract-1129225"
+    },
+    "code": {
+      "id": "1129225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းကုန်းဆိပ်ကြီး (ခ) ဂျမား ကျေးရွာအုပ်စု",
+      "en": "Kyaung Kone Seik Gyi (a) Gya Mar Village Tract",
+      "slug": "kyaung-kone-seik-gyi-a-gya-mar-village-tract-1129211"
+    },
+    "code": {
+      "id": "1129211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဟာယက် ကျေးရွာအုပ်စု",
+      "en": "La Har Yet Village Tract",
+      "slug": "la-har-yet-village-tract-1129222"
+    },
+    "code": {
+      "id": "1129222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ယက်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Let Yet San Village Tract",
+      "slug": "let-yet-san-village-tract-1129212"
+    },
+    "code": {
+      "id": "1129212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလွန်း ကျေးရွာအုပ်စု",
+      "en": "Min Ga Lun Village Tract",
+      "slug": "min-ga-lun-village-tract-1129205"
+    },
+    "code": {
+      "id": "1129205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်းအရှေ့ ရပ်ကွက်",
+      "en": "Myo Haung (East) Quarter",
+      "slug": "myo-haung-east-quarter-1129003"
+    },
+    "code": {
+      "id": "1129003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်းအလယ် ရပ်ကွက်",
+      "en": "Myo Haung (Middle) Quarter",
+      "slug": "myo-haung-middle-quarter-1129002"
+    },
+    "code": {
+      "id": "1129002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်းအနောက် ရပ်ကွက်",
+      "en": "Myo Haung (West) Quarter",
+      "slug": "myo-haung-west-quarter-1129001"
+    },
+    "code": {
+      "id": "1129001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မမြောက် ရပ်ကွက်",
+      "en": "Myo Ma (North) Quarter",
+      "slug": "myo-ma-north-quarter-1129013"
+    },
+    "code": {
+      "id": "1129013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မတောင် ရပ်ကွက်",
+      "en": "Myo Ma (South) Quarter",
+      "slug": "myo-ma-south-quarter-1129012"
+    },
+    "code": {
+      "id": "1129012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ်အရှေ့ ရပ်ကွက်",
+      "en": "Myo Thit (East) Quarter",
+      "slug": "myo-thit-east-quarter-1129009"
+    },
+    "code": {
+      "id": "1129009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ်အလယ် ရပ်ကွက်",
+      "en": "Myo Thit (Middle) Quarter",
+      "slug": "myo-thit-middle-quarter-1129010"
+    },
+    "code": {
+      "id": "1129010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ်အနောက် ရပ်ကွက်",
+      "en": "Myo Thit (West) Quarter",
+      "slug": "myo-thit-west-quarter-1129011"
+    },
+    "code": {
+      "id": "1129011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးဗြေမ ကျေးရွာအုပ်စု",
+      "en": "Nga Byay Ma Village Tract",
+      "slug": "nga-byay-ma-village-tract-1129216"
+    },
+    "code": {
+      "id": "1129216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "င/ပ ကျေးရွာအုပ်စု",
+      "en": "Nga/Pa Village Tract",
+      "slug": "ngapa-village-tract-1129217"
+    },
+    "code": {
+      "id": "1129217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လေးပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lay Pin Village Tract",
+      "slug": "nyaung-lay-pin-village-tract-1129224"
+    },
+    "code": {
+      "id": "1129224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်သုံးပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Thone Pin Village Tract",
+      "slug": "nyaung-thone-pin-village-tract-1129220"
+    },
+    "code": {
+      "id": "1129220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ်ဖိုစု ရပ်ကွက်",
+      "en": "Oke Hpo Su Quarter",
+      "slug": "oke-hpo-su-quarter-1129005"
+    },
+    "code": {
+      "id": "1129005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆေးလုံးကြီး ကျေးရွာအုပ်စု",
+      "en": "Say Lone Gyi Village Tract",
+      "slug": "say-lone-gyi-village-tract-1129226"
+    },
+    "code": {
+      "id": "1129226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ပင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Sit Pin Kwin Village Tract",
+      "slug": "sit-pin-kwin-village-tract-1129214"
+    },
+    "code": {
+      "id": "1129214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သနပ်ပင် ကျေးရွာအုပ်စု",
+      "en": "Tha Nat Pin Village Tract",
+      "slug": "tha-nat-pin-village-tract-1129218"
+    },
+    "code": {
+      "id": "1129218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Kone Village Tract",
+      "slug": "tha-pyay-kone-village-tract-1129208"
+    },
+    "code": {
+      "id": "1129208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သောက်တော်ကွင်း ရပ်ကွက်",
+      "en": "Thauk Taw Kwin Quarter",
+      "slug": "thauk-taw-kwin-quarter-1129004"
+    },
+    "code": {
+      "id": "1129004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သူဌေးကွင်း ကျေးရွာအုပ်စု",
+      "en": "Thu Htay Kwin Village Tract",
+      "slug": "thu-htay-kwin-village-tract-1129213"
+    },
+    "code": {
+      "id": "1129213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းခနီး ကျေးရွာအုပ်စု",
+      "en": "Win Kha Nee Village Tract",
+      "slug": "win-kha-nee-village-tract-1129200"
+    },
+    "code": {
+      "id": "1129200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေနံ ရပ်ကွက်",
+      "en": "Yae Nan Quarter",
+      "slug": "yae-nan-quarter-1129016"
+    },
+    "code": {
+      "id": "1129016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1129204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးသပြေကန် ကျေးရွာအုပ်စု",
+      "en": "Yone Tha Pyay Kan Village Tract",
+      "slug": "yone-tha-pyay-kan-village-tract-1129204"
+    },
+    "code": {
+      "id": "1129204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013023701",
+      "level": 3,
+      "name": {
+        "local": "သန်လျင်",
+        "en": "Thanlyin",
+        "slug": "thanlyin-MMR013023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013023701",
+        "level": 3,
+        "name": {
+          "local": "သန်လျင်",
+          "en": "Thanlyin",
+          "slug": "thanlyin-MMR013023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1129204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

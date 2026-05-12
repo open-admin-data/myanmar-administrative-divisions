@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0868003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းကြီးဆွေ ရပ်ကွက်",
+      "en": "Min Gyi Swe Quarter",
+      "slug": "min-gyi-swe-quarter-0868003"
+    },
+    "code": {
+      "id": "0868003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007009702",
+      "level": 3,
+      "name": {
+        "local": "ကေတုမတီ",
+        "en": "Kaytumati",
+        "slug": "kaytumati-MMR007009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007009702",
+        "level": 3,
+        "name": {
+          "local": "ကေတုမတီ",
+          "en": "Kaytumati",
+          "slug": "kaytumati-MMR007009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0868003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0868001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်သျှင်နောင် ရပ်ကွက်",
+      "en": "Nat Shin Naung Quarter",
+      "slug": "nat-shin-naung-quarter-0868001"
+    },
+    "code": {
+      "id": "0868001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007009702",
+      "level": 3,
+      "name": {
+        "local": "ကေတုမတီ",
+        "en": "Kaytumati",
+        "slug": "kaytumati-MMR007009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007009702",
+        "level": 3,
+        "name": {
+          "local": "ကေတုမတီ",
+          "en": "Kaytumati",
+          "slug": "kaytumati-MMR007009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0868001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0868002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပင်ရွှေထီး ရပ်ကွက်",
+      "en": "Ta Pin Shwe Htee Quarter",
+      "slug": "ta-pin-shwe-htee-quarter-0868002"
+    },
+    "code": {
+      "id": "0868002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007009702",
+      "level": 3,
+      "name": {
+        "local": "ကေတုမတီ",
+        "en": "Kaytumati",
+        "slug": "kaytumati-MMR007009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007009702",
+        "level": 3,
+        "name": {
+          "local": "ကေတုမတီ",
+          "en": "Kaytumati",
+          "slug": "kaytumati-MMR007009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0868002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0868004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဝန်ငယ် ရပ်ကွက်",
+      "en": "Tha Wun Nge Quarter",
+      "slug": "tha-wun-nge-quarter-0868004"
+    },
+    "code": {
+      "id": "0868004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007009702",
+      "level": 3,
+      "name": {
+        "local": "ကေတုမတီ",
+        "en": "Kaytumati",
+        "slug": "kaytumati-MMR007009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007009702",
+        "level": 3,
+        "name": {
+          "local": "ကေတုမတီ",
+          "en": "Kaytumati",
+          "slug": "kaytumati-MMR007009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0868004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

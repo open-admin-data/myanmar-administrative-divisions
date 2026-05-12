@@ -1,0 +1,3772 @@
+[
+  {
+    "id": "0101217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အကြဲ ကျေးရွာအုပ်စု",
+      "en": "Ah Kye Village Tract",
+      "slug": "ah-kye-village-tract-0101217"
+    },
+    "code": {
+      "id": "0101217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အာလမ် ကျေးရွာအုပ်စု",
+      "en": "Alam Village Tract",
+      "slug": "alam-village-tract-0101200"
+    },
+    "code": {
+      "id": "0101200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်နန်းရိပ်သာ ရပ်ကွက်",
+      "en": "Aung Nan Yeik Thar Quarter",
+      "slug": "aung-nan-yeik-thar-quarter-0101014"
+    },
+    "code": {
+      "id": "0101014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧရာ ရပ်ကွက်",
+      "en": "Aye Yar Quarter",
+      "slug": "aye-yar-quarter-0101001"
+    },
+    "code": {
+      "id": "0101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အေးစေတီ ရပ်ကွက်",
+      "en": "Aye Zay Di Quarter",
+      "slug": "aye-zay-di-quarter-0101011"
+    },
+    "code": {
+      "id": "0101011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒူကထောင် ရပ်ကွက်",
+      "en": "Du Ka Htaung Quarter",
+      "slug": "du-ka-htaung-quarter-0101004"
+    },
+    "code": {
+      "id": "0101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်ဖူးရွာဟောင်း ကျေးရွာအုပ်စု",
+      "en": "Hkaung Hpu Ywar Haung Village Tract",
+      "slug": "hkaung-hpu-ywar-haung-village-tract-0101214"
+    },
+    "code": {
+      "id": "0101214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်ဖူးရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Hkaung Hpu Ywar Thit Village Tract",
+      "slug": "hkaung-hpu-ywar-thit-village-tract-0101213"
+    },
+    "code": {
+      "id": "0101213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုကပ် ကျေးရွာအုပ်စု",
+      "en": "Ho Kat Village Tract",
+      "slug": "ho-kat-village-tract-0101215"
+    },
+    "code": {
+      "id": "0101215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဂျစ်ယန် ကျေးရွာအုပ်စု",
+      "en": "In Jit Yang Village Tract",
+      "slug": "in-jit-yang-village-tract-0101210"
+    },
+    "code": {
+      "id": "0101210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကချင်စု ရပ်ကွက်",
+      "en": "Kachin Su Quarter",
+      "slug": "kachin-su-quarter-0101009"
+    },
+    "code": {
+      "id": "0101009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေမာသီရိ ရပ်ကွက်",
+      "en": "Khay Mar Thi Ri Quarter",
+      "slug": "khay-mar-thi-ri-quarter-0101015"
+    },
+    "code": {
+      "id": "0101015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101023",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်ပေါင်ခြံ ရပ်ကွက်",
+      "en": "Kyet Paung Chan Quarter",
+      "slug": "kyet-paung-chan-quarter-0101023"
+    },
+    "code": {
+      "id": "0101023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101023"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းပင်သာ ရပ်ကွက်",
+      "en": "Kyun Pin Thar Quarter",
+      "slug": "kyun-pin-thar-quarter-0101010"
+    },
+    "code": {
+      "id": "0101010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101025",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ကုန်း ရပ်ကွက်",
+      "en": "Lel Kone Quarter",
+      "slug": "lel-kone-quarter-0101025"
+    },
+    "code": {
+      "id": "0101025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101025"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ခေါ ကျေးရွာအုပ်စု",
+      "en": "Loi Hkaw Village Tract",
+      "slug": "loi-hkaw-village-tract-0101208"
+    },
+    "code": {
+      "id": "0101208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံဖွား ကျေးရွာအုပ်စု",
+      "en": "Man Hpwar Village Tract",
+      "slug": "man-hpwar-village-tract-0101226"
+    },
+    "code": {
+      "id": "0101226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ခိန် ရပ်ကွက်",
+      "en": "Man Khein Quarter",
+      "slug": "man-khein-quarter-0101019"
+    },
+    "code": {
+      "id": "0101019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံကင်း ကျေးရွာအုပ်စု",
+      "en": "Man Kin Village Tract",
+      "slug": "man-kin-village-tract-0101222"
+    },
+    "code": {
+      "id": "0101222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မော်ဖေါင်း ကျေးရွာအုပ်စု",
+      "en": "Maw Hpawng Village Tract",
+      "slug": "maw-hpawng-village-tract-0101206"
+    },
+    "code": {
+      "id": "0101206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းရပ် ရပ်ကွက်",
+      "en": "Min Yat Quarter",
+      "slug": "min-yat-quarter-0101006"
+    },
+    "code": {
+      "id": "0101006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေမြင့် ရပ်ကွက်",
+      "en": "Myay Myint Quarter",
+      "slug": "myay-myint-quarter-0101017"
+    },
+    "code": {
+      "id": "0101017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်သာ ကျေးရွာအုပ်စု",
+      "en": "Myin Thar Village Tract",
+      "slug": "myin-thar-village-tract-0101218"
+    },
+    "code": {
+      "id": "0101218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0101005"
+    },
+    "code": {
+      "id": "0101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101024",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ်ကြီး ရပ်ကွက်",
+      "en": "Myo Thit Gyi Quarter",
+      "slug": "myo-thit-gyi-quarter-0101024"
+    },
+    "code": {
+      "id": "0101024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101024"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ် ရပ်ကွက်",
+      "en": "Myo Thit Quarter",
+      "slug": "myo-thit-quarter-0101013"
+    },
+    "code": {
+      "id": "0101013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းကွေ့ ကျေးရွာအုပ်စု",
+      "en": "Nam Kwayt Village Tract",
+      "slug": "nam-kwayt-village-tract-0101204"
+    },
+    "code": {
+      "id": "0101204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်ကျင် ကျေးရွာအုပ်စု",
+      "en": "Nam Kyin Village Tract",
+      "slug": "nam-kyin-village-tract-0101203"
+    },
+    "code": {
+      "id": "0101203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်နန်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Nang Village Tract",
+      "slug": "nawng-nang-village-tract-0101201"
+    },
+    "code": {
+      "id": "0101201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ပွဲ ကျေးရွာအုပ်စု",
+      "en": "Nawng Pwe Village Tract",
+      "slug": "nawng-pwe-village-tract-0101224"
+    },
+    "code": {
+      "id": "0101224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နယ်ခြား ကျေးရွာအုပ်စု",
+      "en": "Nei Char Village Tract",
+      "slug": "nei-char-village-tract-0101225"
+    },
+    "code": {
+      "id": "0101225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-0101227"
+    },
+    "code": {
+      "id": "0101227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပလနစခန်းများ ကျေးရွာအုပ်စု",
+      "en": "Pa La Na Sa Khan Myar Village Tract",
+      "slug": "pa-la-na-sa-khan-myar-village-tract-0101202"
+    },
+    "code": {
+      "id": "0101202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပမ္မတီး ကျေးရွာအုပ်စု",
+      "en": "Pam Ma Ti Village Tract",
+      "slug": "pam-ma-ti-village-tract-0101205"
+    },
+    "code": {
+      "id": "0101205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101028",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပမ္မတီး ရပ်ကွက်",
+      "en": "Pan Ma Ti Quarter",
+      "slug": "pan-ma-ti-quarter-0101028"
+    },
+    "code": {
+      "id": "0101028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101028"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်တော် ကျေးရွာအုပ်စု",
+      "en": "Pin Taw Village Tract",
+      "slug": "pin-taw-village-tract-0101220"
+    },
+    "code": {
+      "id": "0101220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101022",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်ပူ ရပ်ကွက်",
+      "en": "Ram Pu Quarter",
+      "slug": "ram-pu-quarter-0101022"
+    },
+    "code": {
+      "id": "0101022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101022"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံကင်း ကျေးရွာအုပ်စု",
+      "en": "San Kin Village Tract",
+      "slug": "san-kin-village-tract-0101216"
+    },
+    "code": {
+      "id": "0101216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှဒေါင် ကျေးရွာအုပ်စု",
+      "en": "Sha Daung Village Tract",
+      "slug": "sha-daung-village-tract-0101207"
+    },
+    "code": {
+      "id": "0101207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစုမြောက် ရပ်ကွက်",
+      "en": "Shan Su (North) Quarter",
+      "slug": "shan-su-north-quarter-0101007"
+    },
+    "code": {
+      "id": "0101007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစုတောင် ရပ်ကွက်",
+      "en": "Shan Su (South) Quarter",
+      "slug": "shan-su-south-quarter-0101008"
+    },
+    "code": {
+      "id": "0101008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101026",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေအိုက် ရပ်ကွက်",
+      "en": "Shwe Aik Quarter",
+      "slug": "shwe-aik-quarter-0101026"
+    },
+    "code": {
+      "id": "0101026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101026"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေညောင်ပင် ရပ်ကွက်",
+      "en": "Shwe Nyaung Pin Quarter",
+      "slug": "shwe-nyaung-pin-quarter-0101012"
+    },
+    "code": {
+      "id": "0101012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101027",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာ ရပ်ကွက်",
+      "en": "Shwe Pyi Thar Quarter",
+      "slug": "shwe-pyi-thar-quarter-0101027"
+    },
+    "code": {
+      "id": "0101027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101027"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေစက် ရပ်ကွက်",
+      "en": "Shwe Set Quarter",
+      "slug": "shwe-set-quarter-0101018"
+    },
+    "code": {
+      "id": "0101018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101021",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီတာပူ ရပ်ကွက်",
+      "en": "Si Tar Pu Quarter",
+      "slug": "si-tar-pu-quarter-0101021"
+    },
+    "code": {
+      "id": "0101021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101021"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာလောကြီး ကျေးရွာအုပ်စု",
+      "en": "Ta Law Gyi Village Tract",
+      "slug": "ta-law-gyi-village-tract-0101212"
+    },
+    "code": {
+      "id": "0101212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တန်ဖဲ ကျေးရွာအုပ်စု",
+      "en": "Tang Hpe Village Tract",
+      "slug": "tang-hpe-village-tract-0101209"
+    },
+    "code": {
+      "id": "0101209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာဟိုးနား ကျေးရွာအုပ်စု",
+      "en": "Tar Hoe Nar Village Tract",
+      "slug": "tar-hoe-nar-village-tract-0101229"
+    },
+    "code": {
+      "id": "0101229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပ်ကုန်း ရပ်ကွက်",
+      "en": "Tat Kone Quarter",
+      "slug": "tat-kone-quarter-0101020"
+    },
+    "code": {
+      "id": "0101020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောပင်လုံ ကျေးရွာအုပ်စု",
+      "en": "Taw Pin Lon Village Tract",
+      "slug": "taw-pin-lon-village-tract-0101221"
+    },
+    "code": {
+      "id": "0101221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီတာ ရပ်ကွက်",
+      "en": "Thi Dar Quarter",
+      "slug": "thi-dar-quarter-0101002"
+    },
+    "code": {
+      "id": "0101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီယန်ဇွပ် ကျေးရွာအုပ်စု",
+      "en": "Ti Yang Zug Village Tract",
+      "slug": "ti-yang-zug-village-tract-0101211"
+    },
+    "code": {
+      "id": "0101211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိုင်းလုံ ကျေးရွာအုပ်စု",
+      "en": "Waing Lon Village Tract",
+      "slug": "waing-lon-village-tract-0101228"
+    },
+    "code": {
+      "id": "0101228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝဲကြီး ကျေးရွာအုပ်စု",
+      "en": "Wea Gyi Village Tract",
+      "slug": "wea-gyi-village-tract-0101223"
+    },
+    "code": {
+      "id": "0101223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေနားပင်လုံ ကျေးရွာအုပ်စု",
+      "en": "Yae Nar Pin Lon Village Tract",
+      "slug": "yae-nar-pin-lon-village-tract-0101219"
+    },
+    "code": {
+      "id": "0101219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်ကြီးအောင် ရပ်ကွက်",
+      "en": "Yan Gyi Aung Quarter",
+      "slug": "yan-gyi-aung-quarter-0101003"
+    },
+    "code": {
+      "id": "0101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0101016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယုဇန ရပ်ကွက်",
+      "en": "Yu Za Na Quarter",
+      "slug": "yu-za-na-quarter-0101016"
+    },
+    "code": {
+      "id": "0101016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001701",
+      "level": 3,
+      "name": {
+        "local": "မြစ်ကြီးနား",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001701",
+        "level": 3,
+        "name": {
+          "local": "မြစ်ကြီးနား",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0101016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

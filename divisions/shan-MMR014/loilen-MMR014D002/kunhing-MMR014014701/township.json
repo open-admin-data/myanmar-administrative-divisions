@@ -1,0 +1,56 @@
+{
+  "id": "MMR014014701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကွန်ဟိန်း",
+    "en": "Kunhing",
+    "slug": "kunhing-MMR014014701"
+  },
+  "code": {
+    "id": "MMR014014701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D002",
+    "level": 2,
+    "name": {
+      "local": "လွိုင်လင်ခရိုင်",
+      "en": "Loilen",
+      "slug": "loilen-MMR014D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D002",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်လင်ခရိုင်",
+        "en": "Loilen",
+        "slug": "loilen-MMR014D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.301",
+    "lon": "98.424"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2407 @@
+[
+  {
+    "id": "0602222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်ဆိုင်း ကျေးရွာအုပ်စု",
+      "en": "Baw Hseng Village Tract",
+      "slug": "baw-hseng-village-tract-0602222"
+    },
+    "code": {
+      "id": "0602222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်နင်း ကျေးရွာအုပ်စု",
+      "en": "Baw Nin Village Tract",
+      "slug": "baw-nin-village-tract-0602223"
+    },
+    "code": {
+      "id": "0602223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမ္ဘားနီ ကျေးရွာအုပ်စု",
+      "en": "Kan Bar Ni Village Tract",
+      "slug": "kan-bar-ni-village-tract-0602209"
+    },
+    "code": {
+      "id": "0602209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ထပ် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Htat Village Tract",
+      "slug": "kyauk-htat-village-tract-0602221"
+    },
+    "code": {
+      "id": "0602221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမိုင်း ကျေးရွာအုပ်စု",
+      "en": "La Mong Village Tract",
+      "slug": "la-mong-village-tract-0602200"
+    },
+    "code": {
+      "id": "0602200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ကြား ကျေးရွာအုပ်စု",
+      "en": "Lel Kyar Village Tract",
+      "slug": "lel-kyar-village-tract-0602214"
+    },
+    "code": {
+      "id": "0602214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်အံ ကျေးရွာအုပ်စု",
+      "en": "Loi An Village Tract",
+      "slug": "loi-an-village-tract-0602202"
+    },
+    "code": {
+      "id": "0602202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်မော ကျေးရွာအုပ်စု",
+      "en": "Loi Maw Village Tract",
+      "slug": "loi-maw-village-tract-0602216"
+    },
+    "code": {
+      "id": "0602216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းမထိ ကျေးရွာအုပ်စု",
+      "en": "Myin Ma Hti Village Tract",
+      "slug": "myin-ma-hti-village-tract-0602203"
+    },
+    "code": {
+      "id": "0602203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းနိုင် ကျေးရွာအုပ်စု",
+      "en": "Nang Naing Village Tract",
+      "slug": "nang-naing-village-tract-0602201"
+    },
+    "code": {
+      "id": "0602201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းတိုင်း ကျေးရွာအုပ်စု",
+      "en": "Nang Taing Village Tract",
+      "slug": "nang-taing-village-tract-0602208"
+    },
+    "code": {
+      "id": "0602208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ရဲ ကျေးရွာအုပ်စု",
+      "en": "Nawng Ye Village Tract",
+      "slug": "nawng-ye-village-tract-0602211"
+    },
+    "code": {
+      "id": "0602211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငုတ် ကျေးရွာအုပ်စု",
+      "en": "Ngoke Village Tract",
+      "slug": "ngoke-village-tract-0602217"
+    },
+    "code": {
+      "id": "0602217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငုံးသုံ ကျေးရွာအုပ်စု",
+      "en": "Ngone Thon Village Tract",
+      "slug": "ngone-thon-village-tract-0602218"
+    },
+    "code": {
+      "id": "0602218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0602001"
+    },
+    "code": {
+      "id": "0602001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) ရပ်ကွက်",
+      "en": "No (10) Quarter",
+      "slug": "no-10-quarter-0602010"
+    },
+    "code": {
+      "id": "0602010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၁) ရပ်ကွက်",
+      "en": "No (11) Quarter",
+      "slug": "no-11-quarter-0602011"
+    },
+    "code": {
+      "id": "0602011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0602002"
+    },
+    "code": {
+      "id": "0602002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0602003"
+    },
+    "code": {
+      "id": "0602003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0602004"
+    },
+    "code": {
+      "id": "0602004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0602005"
+    },
+    "code": {
+      "id": "0602005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-0602006"
+    },
+    "code": {
+      "id": "0602006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-0602007"
+    },
+    "code": {
+      "id": "0602007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-0602008"
+    },
+    "code": {
+      "id": "0602008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) ရပ်ကွက်",
+      "en": "No (9) Quarter",
+      "slug": "no-9-quarter-0602009"
+    },
+    "code": {
+      "id": "0602009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲရင်းတောင် ကျေးရွာအုပ်စု",
+      "en": "Pe Yin Taung Village Tract",
+      "slug": "pe-yin-taung-village-tract-0602224"
+    },
+    "code": {
+      "id": "0602224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်မှီ ကျေးရွာအုပ်စု",
+      "en": "Pin Hmi Village Tract",
+      "slug": "pin-hmi-village-tract-0602213"
+    },
+    "code": {
+      "id": "0602213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စကားအင်း ကျေးရွာအုပ်စု",
+      "en": "Sa Kar Inn Village Tract",
+      "slug": "sa-kar-inn-village-tract-0602225"
+    },
+    "code": {
+      "id": "0602225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေမင်းဖုန်း ကျေးရွာအုပ်စု",
+      "en": "Shwe Min Hpone Village Tract",
+      "slug": "shwe-min-hpone-village-tract-0602207"
+    },
+    "code": {
+      "id": "0602207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကွဲ ကျေးရွာအုပ်စု",
+      "en": "Taung Kwe Village Tract",
+      "slug": "taung-kwe-village-tract-0602205"
+    },
+    "code": {
+      "id": "0602205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်လား ကျေးရွာအုပ်စု",
+      "en": "Taung Lar Village Tract",
+      "slug": "taung-lar-village-tract-0602204"
+    },
+    "code": {
+      "id": "0602204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာမိုင်းခမ်း ကျေးရွာအုပ်စု",
+      "en": "Thar Mong Hkam Village Tract",
+      "slug": "thar-mong-hkam-village-tract-0602215"
+    },
+    "code": {
+      "id": "0602215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီခေါင် ကျေးရွာအုပ်စု",
+      "en": "Thi Hkawng Village Tract",
+      "slug": "thi-hkawng-village-tract-0602220"
+    },
+    "code": {
+      "id": "0602220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သူရဲ ကျေးရွာအုပ်စု",
+      "en": "Thu Ye Village Tract",
+      "slug": "thu-ye-village-tract-0602212"
+    },
+    "code": {
+      "id": "0602212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးရုံပင် ကျေးရွာအုပ်စု",
+      "en": "War Yon Pin Village Tract",
+      "slug": "war-yon-pin-village-tract-0602219"
+    },
+    "code": {
+      "id": "0602219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ဖြူရေ ကျေးရွာအုပ်စု",
+      "en": "Wet Hpyu Yae Village Tract",
+      "slug": "wet-hpyu-yae-village-tract-0602206"
+    },
+    "code": {
+      "id": "0602206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0602210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေချို ကျေးရွာအုပ်စု",
+      "en": "Yae Cho Village Tract",
+      "slug": "yae-cho-village-tract-0602210"
+    },
+    "code": {
+      "id": "0602210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005701",
+      "level": 3,
+      "name": {
+        "local": "ကလော",
+        "en": "Kalaw",
+        "slug": "kalaw-MMR014005701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005701",
+        "level": 3,
+        "name": {
+          "local": "ကလော",
+          "en": "Kalaw",
+          "slug": "kalaw-MMR014005701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0602210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

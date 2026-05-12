@@ -1,0 +1,56 @@
+{
+  "id": "MMR008013701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိုးညို",
+    "en": "Monyo",
+    "slug": "monyo-MMR008013701"
+  },
+  "code": {
+    "id": "MMR008013701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D002",
+    "level": 2,
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.02719",
+    "lon": "95.51185"
+  },
+  "metadata": {},
+  "source": {}
+}

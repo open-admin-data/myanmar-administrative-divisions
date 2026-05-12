@@ -1,0 +1,31 @@
+{
+  "id": "MMR004",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ချင်းပြည်နယ်",
+    "en": "Chin",
+    "slug": "chin-MMR004"
+  },
+  "code": {
+    "id": "MMR004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "ward": 543,
+    "township": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.304",
+    "lon": "93.565"
+  },
+  "metadata": {},
+  "source": {}
+}

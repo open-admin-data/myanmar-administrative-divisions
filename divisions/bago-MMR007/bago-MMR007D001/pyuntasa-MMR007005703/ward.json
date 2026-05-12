@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0865001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၁) ရပ်ကွက်",
+      "en": "Myo Ma No (1) Quarter",
+      "slug": "myo-ma-no-1-quarter-0865001"
+    },
+    "code": {
+      "id": "0865001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005703",
+      "level": 3,
+      "name": {
+        "local": "ပြွန်တန်ဆာ",
+        "en": "Pyuntasa",
+        "slug": "pyuntasa-MMR007005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005703",
+        "level": 3,
+        "name": {
+          "local": "ပြွန်တန်ဆာ",
+          "en": "Pyuntasa",
+          "slug": "pyuntasa-MMR007005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0865001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၂) ရပ်ကွက်",
+      "en": "Myo Ma No (2) Quarter",
+      "slug": "myo-ma-no-2-quarter-0865002"
+    },
+    "code": {
+      "id": "0865002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005703",
+      "level": 3,
+      "name": {
+        "local": "ပြွန်တန်ဆာ",
+        "en": "Pyuntasa",
+        "slug": "pyuntasa-MMR007005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005703",
+        "level": 3,
+        "name": {
+          "local": "ပြွန်တန်ဆာ",
+          "en": "Pyuntasa",
+          "slug": "pyuntasa-MMR007005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0865002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၃) ရပ်ကွက်",
+      "en": "Myo Ma No (3) Quarter",
+      "slug": "myo-ma-no-3-quarter-0865003"
+    },
+    "code": {
+      "id": "0865003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005703",
+      "level": 3,
+      "name": {
+        "local": "ပြွန်တန်ဆာ",
+        "en": "Pyuntasa",
+        "slug": "pyuntasa-MMR007005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005703",
+        "level": 3,
+        "name": {
+          "local": "ပြွန်တန်ဆာ",
+          "en": "Pyuntasa",
+          "slug": "pyuntasa-MMR007005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0865003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0865004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၄) ရပ်ကွက်",
+      "en": "Myo Ma No (4) Quarter",
+      "slug": "myo-ma-no-4-quarter-0865004"
+    },
+    "code": {
+      "id": "0865004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005703",
+      "level": 3,
+      "name": {
+        "local": "ပြွန်တန်ဆာ",
+        "en": "Pyuntasa",
+        "slug": "pyuntasa-MMR007005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005703",
+        "level": 3,
+        "name": {
+          "local": "ပြွန်တန်ဆာ",
+          "en": "Pyuntasa",
+          "slug": "pyuntasa-MMR007005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0865004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

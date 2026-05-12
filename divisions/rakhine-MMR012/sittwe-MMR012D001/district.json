@@ -1,0 +1,48 @@
+{
+  "id": "MMR012D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "စစ်တွေခရိုင်",
+    "en": "Sittwe",
+    "slug": "sittwe-MMR012D001"
+  },
+  "code": {
+    "id": "MMR012D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012",
+    "level": 1,
+    "name": {
+      "local": "ရခိုင်ပြည်နယ်",
+      "en": "Rakhine",
+      "slug": "rakhine-MMR012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 306
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.2831",
+    "lon": "92.9285"
+  },
+  "metadata": {},
+  "source": {}
+}

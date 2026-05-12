@@ -1,0 +1,56 @@
+{
+  "id": "MMR014003701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဟိုပုံး",
+    "en": "Hopong",
+    "slug": "hopong-MMR014003701"
+  },
+  "code": {
+    "id": "MMR014003701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D001",
+    "level": 2,
+    "name": {
+      "local": "တောင်ကြီးခရိုင်",
+      "en": "Taunggyi",
+      "slug": "taunggyi-MMR014D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D001",
+      "level": 2,
+      "name": {
+        "local": "တောင်ကြီးခရိုင်",
+        "en": "Taunggyi",
+        "slug": "taunggyi-MMR014D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.79743",
+    "lon": "97.17024"
+  },
+  "metadata": {},
+  "source": {}
+}

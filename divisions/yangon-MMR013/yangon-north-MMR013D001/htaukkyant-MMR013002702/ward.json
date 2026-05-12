@@ -1,0 +1,847 @@
+[
+  {
+    "id": "1160007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧကရာဇ် ရပ်ကွက်",
+      "en": "Aye Ka Rit Quarter",
+      "slug": "aye-ka-rit-quarter-1160007"
+    },
+    "code": {
+      "id": "1160007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲခူးလမ်း ရပ်ကွက်",
+      "en": "Bago Lan Quarter",
+      "slug": "bago-lan-quarter-1160008"
+    },
+    "code": {
+      "id": "1160008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်လုံးကွင်း ရပ်ကွက်",
+      "en": "Baw Lone Kwin Quarter",
+      "slug": "baw-lone-kwin-quarter-1160006"
+    },
+    "code": {
+      "id": "1160006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒု-စံပြ ရပ်ကွက်",
+      "en": "Du-San Pya Quarter",
+      "slug": "du-san-pya-quarter-1160004"
+    },
+    "code": {
+      "id": "1160004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောက်ကြန့် (မြောက်ပိုင်း) ရပ်ကွက်",
+      "en": "Htauk Kyant (North) Quarter",
+      "slug": "htauk-kyant-north-quarter-1160002"
+    },
+    "code": {
+      "id": "1160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောက်ကြန့် (တောင်ပိုင်း) ရပ်ကွက်",
+      "en": "Htauk Kyant (South) Quarter",
+      "slug": "htauk-kyant-south-quarter-1160001"
+    },
+    "code": {
+      "id": "1160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောက်ကြန့်တိုးချဲ့ ရပ်ကွက်",
+      "en": "Htauk Kyant Toe Cheit Quarter",
+      "slug": "htauk-kyant-toe-cheit-quarter-1160013"
+    },
+    "code": {
+      "id": "1160013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမ်းဆုံပိုင်း ရပ်ကွက်",
+      "en": "Lan Son Paing Quarter",
+      "slug": "lan-son-paing-quarter-1160010"
+    },
+    "code": {
+      "id": "1160010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပ-စံပြ ရပ်ကွက်",
+      "en": "Pa-San Pya Quarter",
+      "slug": "pa-san-pya-quarter-1160003"
+    },
+    "code": {
+      "id": "1160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိလောကရုံ ရပ်ကွက်",
+      "en": "Ti Law Kar Yon Quarter",
+      "slug": "ti-law-kar-yon-quarter-1160009"
+    },
+    "code": {
+      "id": "1160009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲစုတောင် ရပ်ကွက်",
+      "en": "Ye Su (South) Quarter",
+      "slug": "ye-su-south-quarter-1160005"
+    },
+    "code": {
+      "id": "1160005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမပိုင်း ရပ်ကွက်",
+      "en": "Ywar Ma Paing Quarter",
+      "slug": "ywar-ma-paing-quarter-1160012"
+    },
+    "code": {
+      "id": "1160012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1160011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စျေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-1160011"
+    },
+    "code": {
+      "id": "1160011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013002702",
+      "level": 3,
+      "name": {
+        "local": "ထောက်ကြန့်",
+        "en": "Htaukkyant",
+        "slug": "htaukkyant-MMR013002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013002702",
+        "level": 3,
+        "name": {
+          "local": "ထောက်ကြန့်",
+          "en": "Htaukkyant",
+          "slug": "htaukkyant-MMR013002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1160011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

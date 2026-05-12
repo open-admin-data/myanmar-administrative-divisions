@@ -1,0 +1,56 @@
+{
+  "id": "MMR017006703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အသုတ်",
+    "en": "Ahthoke",
+    "slug": "ahthoke-MMR017006703"
+  },
+  "code": {
+    "id": "MMR017006703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D001",
+    "level": 2,
+    "name": {
+      "local": "ပုသိမ်ခရိုင်",
+      "en": "Pathein",
+      "slug": "pathein-MMR017D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.19974",
+    "lon": "95.08331"
+  },
+  "metadata": {},
+  "source": {}
+}

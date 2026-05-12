@@ -1,0 +1,31 @@
+{
+  "id": "MMR011",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "မွန်ပြည်နယ်",
+    "en": "Mon",
+    "slug": "mon-MMR011"
+  },
+  "code": {
+    "id": "MMR011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "ward": 494,
+    "township": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.3986",
+    "lon": "97.5216"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR006005701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မြိတ်",
+    "en": "Myeik",
+    "slug": "myeik-MMR006005701"
+  },
+  "code": {
+    "id": "MMR006005701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR006D002",
+    "level": 2,
+    "name": {
+      "local": "မြိတ်ခရိုင်",
+      "en": "Myeik",
+      "slug": "myeik-MMR006D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.44112",
+    "lon": "98.60978"
+  },
+  "metadata": {},
+  "source": {}
+}

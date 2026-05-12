@@ -1,0 +1,56 @@
+{
+  "id": "MMR010003701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မဟာအောင်မြေ",
+    "en": "Mahaaungmyay",
+    "slug": "mahaaungmyay-MMR010003701"
+  },
+  "code": {
+    "id": "MMR010003701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D001",
+    "level": 2,
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D001",
+      "level": 2,
+      "name": {
+        "local": "မန္တလေးခရိုင်",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.97535",
+    "lon": "96.0946"
+  },
+  "metadata": {},
+  "source": {}
+}

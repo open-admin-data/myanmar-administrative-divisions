@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "0502001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်နန်းရိပ်သာ (အရှေ့) ရပ်ကွက်",
+      "en": "Aung Nan Yeik Thar (East) Quarter",
+      "slug": "aung-nan-yeik-thar-east-quarter-0502001"
+    },
+    "code": {
+      "id": "0502001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်နန်းရိပ်သာ (အနောက်) ရပ်ကွက်",
+      "en": "Aung Nan Yeik Thar (West) Quarter",
+      "slug": "aung-nan-yeik-thar-west-quarter-0502002"
+    },
+    "code": {
+      "id": "0502002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းအေးသာစံ (အရှေ့) ရပ်ကွက်",
+      "en": "Chan Aye Thar Zan (East) Quarter",
+      "slug": "chan-aye-thar-zan-east-quarter-0502003"
+    },
+    "code": {
+      "id": "0502003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းအေးသာစံ (အလယ်) ရပ်ကွက်",
+      "en": "Chan Aye Thar Zan (Middle) Quarter",
+      "slug": "chan-aye-thar-zan-middle-quarter-0502004"
+    },
+    "code": {
+      "id": "0502004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းအေးသာစံ (အနောက်) ရပ်ကွက်",
+      "en": "Chan Aye Thar Zan (West) Quarter",
+      "slug": "chan-aye-thar-zan-west-quarter-0502005"
+    },
+    "code": {
+      "id": "0502005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေးဝန်း (အနောက်) ရပ်ကွက်",
+      "en": "Day Wun (West) Quarter",
+      "slug": "day-wun-west-quarter-0502006"
+    },
+    "code": {
+      "id": "0502006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟေမာဇလ ရပ်ကွက်",
+      "en": "Hay Mar Za La Quarter",
+      "slug": "hay-mar-za-la-quarter-0502007"
+    },
+    "code": {
+      "id": "0502007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကောက် ရပ်ကွက်",
+      "en": "Kan Kauk Quarter",
+      "slug": "kan-kauk-quarter-0502008"
+    },
+    "code": {
+      "id": "0502008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဉ္စနမဟီ ရပ်ကွက်",
+      "en": "Kit Sa Na Ma Hi Quarter",
+      "slug": "kit-sa-na-ma-hi-quarter-0502009"
+    },
+    "code": {
+      "id": "0502009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောရဂီဝါ ရပ်ကွက်",
+      "en": "Maw Ra Gi War Quarter",
+      "slug": "maw-ra-gi-war-quarter-0502010"
+    },
+    "code": {
+      "id": "0502010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါတ်ကုန်းပျော်ဘွယ် ရပ်ကွက်",
+      "en": "Pat Kone Pyaw Bwei Quarter",
+      "slug": "pat-kone-pyaw-bwei-quarter-0502011"
+    },
+    "code": {
+      "id": "0502011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါတ်ကုန်းဝန်းကျင် ရပ်ကွက်",
+      "en": "Pat Kone Wun Kyin Quarter",
+      "slug": "pat-kone-wun-kyin-quarter-0502012"
+    },
+    "code": {
+      "id": "0502012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးမျက်မှန် ရပ်ကွက်",
+      "en": "Pyi Gyi Myet Hman Quarter",
+      "slug": "pyi-gyi-myet-hman-quarter-0502013"
+    },
+    "code": {
+      "id": "0502013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးမျက်ရှင် ရပ်ကွက်",
+      "en": "Pyi Gyi Myet Shin Quarter",
+      "slug": "pyi-gyi-myet-shin-quarter-0502014"
+    },
+    "code": {
+      "id": "0502014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးပျော်ဘွယ် (အရှေ့) ရပ်ကွက်",
+      "en": "Pyi Gyi Pyawbwe (East) Quarter",
+      "slug": "pyi-gyi-pyawbwe-east-quarter-0502015"
+    },
+    "code": {
+      "id": "0502015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးပျော်ဘွယ် (အနောက်) ရပ်ကွက်",
+      "en": "Pyi Gyi Pyawbwe (West) Quarter",
+      "slug": "pyi-gyi-pyawbwe-west-quarter-0502016"
+    },
+    "code": {
+      "id": "0502016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိတ္တရမဟီ ရပ်ကွက်",
+      "en": "Seik Ta Ra Ma Hi Quarter",
+      "slug": "seik-ta-ra-ma-hi-quarter-0502017"
+    },
+    "code": {
+      "id": "0502017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိဟေမာ (အရှေ့) ရပ်ကွက်",
+      "en": "Thi Ri Hay Mar (East) Quarter",
+      "slug": "thi-ri-hay-mar-east-quarter-0502018"
+    },
+    "code": {
+      "id": "0502018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိဟေမာ (အနောက်) ရပ်ကွက်",
+      "en": "Thi Ri Hay Mar (West) Quarter",
+      "slug": "thi-ri-hay-mar-west-quarter-0502019"
+    },
+    "code": {
+      "id": "0502019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0502020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်မျိုးလုံ ရပ်ကွက်",
+      "en": "Yan Myo Lon Quarter",
+      "slug": "yan-myo-lon-quarter-0502020"
+    },
+    "code": {
+      "id": "0502020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010002701",
+      "level": 3,
+      "name": {
+        "local": "ချမ်းအေးသာဇံ",
+        "en": "Chanayethazan",
+        "slug": "chanayethazan-MMR010002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010002701",
+        "level": 3,
+        "name": {
+          "local": "ချမ်းအေးသာဇံ",
+          "en": "Chanayethazan",
+          "slug": "chanayethazan-MMR010002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0502020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "0762002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-0762002"
+    },
+    "code": {
+      "id": "0762002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-0762001"
+    },
+    "code": {
+      "id": "0762001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-0762003"
+    },
+    "code": {
+      "id": "0762003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂြင်းတော ရပ်ကွက်",
+      "en": "Gyin Taw Quarter",
+      "slug": "gyin-taw-quarter-0762008"
+    },
+    "code": {
+      "id": "0762008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖွေရာ ရပ်ကွက်",
+      "en": "Hpway Yar Quarter",
+      "slug": "hpway-yar-quarter-0762006"
+    },
+    "code": {
+      "id": "0762006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောချောင်း ရပ်ကွက်",
+      "en": "Myaw Chaung Quarter",
+      "slug": "myaw-chaung-quarter-0762007"
+    },
+    "code": {
+      "id": "0762007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှီးဒါး ရပ်ကွက်",
+      "en": "Shee Dar Quarter",
+      "slug": "shee-dar-quarter-0762005"
+    },
+    "code": {
+      "id": "0762005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0762004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-0762004"
+    },
+    "code": {
+      "id": "0762004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009704",
+      "level": 3,
+      "name": {
+        "local": "မြင်းလွှတ်",
+        "en": "Myin Hlut",
+        "slug": "myin-hlut-MMR012009704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009704",
+        "level": 3,
+        "name": {
+          "local": "မြင်းလွှတ်",
+          "en": "Myin Hlut",
+          "slug": "myin-hlut-MMR012009704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0762004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR007006702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပဲနွယ်ကုန်း",
+    "en": "Penwegon",
+    "slug": "penwegon-MMR007006702"
+  },
+  "code": {
+    "id": "MMR007006702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D001",
+    "level": 2,
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D001",
+      "level": 2,
+      "name": {
+        "local": "ပဲခူးခရိုင်",
+        "en": "Bago",
+        "slug": "bago-MMR007D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.22271",
+    "lon": "96.56886"
+  },
+  "metadata": {},
+  "source": {}
+}

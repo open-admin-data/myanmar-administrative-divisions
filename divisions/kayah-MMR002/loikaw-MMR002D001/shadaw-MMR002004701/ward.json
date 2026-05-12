@@ -1,0 +1,522 @@
+[
+  {
+    "id": "0907004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-0907004"
+    },
+    "code": {
+      "id": "0907004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0907001"
+    },
+    "code": {
+      "id": "0907001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားတောအလယ်ပိုင်း ကျေးရွာအုပ်စု",
+      "en": "Shadaw (Middle) Village Tract",
+      "slug": "shadaw-middle-village-tract-0907202"
+    },
+    "code": {
+      "id": "0907202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားတောမြောက်ပိုင်း ကျေးရွာအုပ်စု",
+      "en": "Shadaw (North) Village Tract",
+      "slug": "shadaw-north-village-tract-0907200"
+    },
+    "code": {
+      "id": "0907200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားတောတောင်ပိုင်း ကျေးရွာအုပ်စု",
+      "en": "Shadaw (South) Village Tract",
+      "slug": "shadaw-south-village-tract-0907201"
+    },
+    "code": {
+      "id": "0907201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-0907003"
+    },
+    "code": {
+      "id": "0907003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံလွင် (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Than Lwin (East) Village Tract",
+      "slug": "than-lwin-east-village-tract-0907203"
+    },
+    "code": {
+      "id": "0907203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0907002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-0907002"
+    },
+    "code": {
+      "id": "0907002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002004701",
+      "level": 3,
+      "name": {
+        "local": "ရှားတော",
+        "en": "Shadaw",
+        "slug": "shadaw-MMR002004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002004701",
+        "level": 3,
+        "name": {
+          "local": "ရှားတော",
+          "en": "Shadaw",
+          "slug": "shadaw-MMR002004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0907002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR018007701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "လယ်ဝေး",
+    "en": "Lewe",
+    "slug": "lewe-MMR018007701"
+  },
+  "code": {
+    "id": "MMR018007701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR018D002",
+    "level": 2,
+    "name": {
+      "local": "ဒက္ခိဏခရိုင်",
+      "en": "Det Khi Na",
+      "slug": "det-khi-na-MMR018D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    {
+      "id": "MMR018D002",
+      "level": 2,
+      "name": {
+        "local": "ဒက္ခိဏခရိုင်",
+        "en": "Det Khi Na",
+        "slug": "det-khi-na-MMR018D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.63467",
+    "lon": "96.11007"
+  },
+  "metadata": {},
+  "source": {}
+}

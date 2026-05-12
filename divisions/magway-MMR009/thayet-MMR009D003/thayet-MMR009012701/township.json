@@ -1,0 +1,56 @@
+{
+  "id": "MMR009012701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "သရက်",
+    "en": "Thayet",
+    "slug": "thayet-MMR009012701"
+  },
+  "code": {
+    "id": "MMR009012701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009D003",
+    "level": 2,
+    "name": {
+      "local": "သရက်ခရိုင်",
+      "en": "Thayet",
+      "slug": "thayet-MMR009D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    {
+      "id": "MMR009D003",
+      "level": 2,
+      "name": {
+        "local": "သရက်ခရိုင်",
+        "en": "Thayet",
+        "slug": "thayet-MMR009D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.3215",
+    "lon": "95.17716"
+  },
+  "metadata": {},
+  "source": {}
+}

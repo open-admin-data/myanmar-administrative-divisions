@@ -1,0 +1,56 @@
+{
+  "id": "MMR018004701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဒက္ခိဏသီရိ",
+    "en": "Det Khi Na Thi Ri",
+    "slug": "det-khi-na-thi-ri-MMR018004701"
+  },
+  "code": {
+    "id": "MMR018004701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR018D002",
+    "level": 2,
+    "name": {
+      "local": "ဒက္ခိဏခရိုင်",
+      "en": "Det Khi Na",
+      "slug": "det-khi-na-MMR018D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    {
+      "id": "MMR018D002",
+      "level": 2,
+      "name": {
+        "local": "ဒက္ခိဏခရိုင်",
+        "en": "Det Khi Na",
+        "slug": "det-khi-na-MMR018D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.70026",
+    "lon": "96.0905"
+  },
+  "metadata": {},
+  "source": {}
+}

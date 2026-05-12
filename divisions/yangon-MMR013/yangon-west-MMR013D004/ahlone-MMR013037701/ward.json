@@ -1,0 +1,717 @@
+[
+  {
+    "id": "1112001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧရာဝတီ ရပ်ကွက်",
+      "en": "Aye Yar Wa Di Quarter",
+      "slug": "aye-yar-wa-di-quarter-1112001"
+    },
+    "code": {
+      "id": "1112001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂဠုန် ရပ်ကွက်",
+      "en": "Ga Lon Quarter",
+      "slug": "ga-lon-quarter-1112008"
+    },
+    "code": {
+      "id": "1112008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဌာနာ ရပ်ကွက်",
+      "en": "Htar Nar Quarter",
+      "slug": "htar-nar-quarter-1112005"
+    },
+    "code": {
+      "id": "1112005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင်ခြံ ရပ်ကွက်",
+      "en": "Kayin Chan Quarter",
+      "slug": "kayin-chan-quarter-1112010"
+    },
+    "code": {
+      "id": "1112010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွတ်လပ်ရေး ရပ်ကွက်",
+      "en": "Lut Lat Yay Quarter",
+      "slug": "lut-lat-yay-quarter-1112009"
+    },
+    "code": {
+      "id": "1112009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စောရန်ပိုင်(အရှေ့) ရပ်ကွက်",
+      "en": "Saw Yan Paing_East Quarter",
+      "slug": "saw-yan-paing_east-quarter-1112003"
+    },
+    "code": {
+      "id": "1112003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စောရန်ပိုင်မြောက် ရပ်ကွက်",
+      "en": "Saw Yan Paing_North Quarter",
+      "slug": "saw-yan-paing_north-quarter-1112006"
+    },
+    "code": {
+      "id": "1112006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စောရန်ပိုင်တောင် ရပ်ကွက်",
+      "en": "Saw Yan Paing_South Quarter",
+      "slug": "saw-yan-paing_south-quarter-1112004"
+    },
+    "code": {
+      "id": "1112004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စောရန်ပိုင်အနောက် ရပ်ကွက်",
+      "en": "Saw Yan Paing_West Quarter",
+      "slug": "saw-yan-paing_west-quarter-1112002"
+    },
+    "code": {
+      "id": "1112002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်မင်း ရပ်ကွက်",
+      "en": "Sin Min Quarter",
+      "slug": "sin-min-quarter-1112007"
+    },
+    "code": {
+      "id": "1112007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1112011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်တော ရပ်ကွက်",
+      "en": "Thit Taw Quarter",
+      "slug": "thit-taw-quarter-1112011"
+    },
+    "code": {
+      "id": "1112011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013037701",
+      "level": 3,
+      "name": {
+        "local": "အလုံ",
+        "en": "Ahlone",
+        "slug": "ahlone-MMR013037701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013037701",
+        "level": 3,
+        "name": {
+          "local": "အလုံ",
+          "en": "Ahlone",
+          "slug": "ahlone-MMR013037701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1112011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

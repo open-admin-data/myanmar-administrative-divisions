@@ -1,0 +1,48 @@
+{
+  "id": "MMR010D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ပြင်ဦးလွင်ခရိုင်",
+    "en": "Pyinoolwin",
+    "slug": "pyinoolwin-MMR010D002"
+  },
+  "code": {
+    "id": "MMR010D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010",
+    "level": 1,
+    "name": {
+      "local": "မန္တလေးတိုင်းဒေသကြီး",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 6,
+    "ward": 248
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.6803",
+    "lon": "96.1756"
+  },
+  "metadata": {},
+  "source": {}
+}

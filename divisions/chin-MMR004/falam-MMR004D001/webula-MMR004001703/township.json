@@ -1,0 +1,56 @@
+{
+  "id": "MMR004001703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဝေဘူလ",
+    "en": "Webula",
+    "slug": "webula-MMR004001703"
+  },
+  "code": {
+    "id": "MMR004001703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004D001",
+    "level": 2,
+    "name": {
+      "local": "ဖလမ်းခရိုင်",
+      "en": "Falam",
+      "slug": "falam-MMR004D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.0168",
+    "lon": "93.9133"
+  },
+  "metadata": {},
+  "source": {}
+}

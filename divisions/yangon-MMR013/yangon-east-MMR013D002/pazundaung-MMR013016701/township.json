@@ -1,0 +1,56 @@
+{
+  "id": "MMR013016701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပုဇွန်တောင်",
+    "en": "Pazundaung",
+    "slug": "pazundaung-MMR013016701"
+  },
+  "code": {
+    "id": "MMR013016701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D002",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D002",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+        "en": "Yangon (East)",
+        "slug": "yangon-east-MMR013D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.77965",
+    "lon": "96.17439"
+  },
+  "metadata": {},
+  "source": {}
+}

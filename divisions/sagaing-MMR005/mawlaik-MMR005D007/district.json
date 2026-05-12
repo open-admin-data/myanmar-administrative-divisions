@@ -1,0 +1,48 @@
+{
+  "id": "MMR005D007",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မော်လိုက်ခရိုင်",
+    "en": "Mawlaik",
+    "slug": "mawlaik-MMR005D007"
+  },
+  "code": {
+    "id": "MMR005D007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005",
+    "level": 1,
+    "name": {
+      "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 2,
+    "ward": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.9514",
+    "lon": "94.6144"
+  },
+  "metadata": {},
+  "source": {}
+}

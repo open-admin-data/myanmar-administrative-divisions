@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0167001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြသီတာ ရပ်ကွက်",
+      "en": "Mya Thi Dar Quarter",
+      "slug": "mya-thi-dar-quarter-0167001"
+    },
+    "code": {
+      "id": "0167001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007702",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပင်",
+        "en": "Hopin",
+        "slug": "hopin-MMR001007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007702",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပင်",
+          "en": "Hopin",
+          "slug": "hopin-MMR001007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0167001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0167002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြဇေယျာ ရပ်ကွက်",
+      "en": "Mya Zay Yar Quarter",
+      "slug": "mya-zay-yar-quarter-0167002"
+    },
+    "code": {
+      "id": "0167002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007702",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပင်",
+        "en": "Hopin",
+        "slug": "hopin-MMR001007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007702",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပင်",
+          "en": "Hopin",
+          "slug": "hopin-MMR001007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0167002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0167004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မမြောက် ရပ်ကွက်",
+      "en": "Myo Ma (North) Quarter",
+      "slug": "myo-ma-north-quarter-0167004"
+    },
+    "code": {
+      "id": "0167004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007702",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပင်",
+        "en": "Hopin",
+        "slug": "hopin-MMR001007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007702",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပင်",
+          "en": "Hopin",
+          "slug": "hopin-MMR001007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0167004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0167003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မတောင် ရပ်ကွက်",
+      "en": "Myo Ma (South) Quarter",
+      "slug": "myo-ma-south-quarter-0167003"
+    },
+    "code": {
+      "id": "0167003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007702",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပင်",
+        "en": "Hopin",
+        "slug": "hopin-MMR001007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007702",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပင်",
+          "en": "Hopin",
+          "slug": "hopin-MMR001007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0167003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

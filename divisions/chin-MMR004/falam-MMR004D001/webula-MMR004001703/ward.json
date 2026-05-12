@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0363002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျန်ဘာရီ ရပ်ကွက်",
+      "en": "Kyan Bar Yi Quarter",
+      "slug": "kyan-bar-yi-quarter-0363002"
+    },
+    "code": {
+      "id": "0363002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001703",
+      "level": 3,
+      "name": {
+        "local": "ဝေဘူလ",
+        "en": "Webula",
+        "slug": "webula-MMR004001703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001703",
+        "level": 3,
+        "name": {
+          "local": "ဝေဘူလ",
+          "en": "Webula",
+          "slug": "webula-MMR004001703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0363002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0363003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးသပ် ရပ်ကွက်",
+      "en": "Lone That Quarter",
+      "slug": "lone-that-quarter-0363003"
+    },
+    "code": {
+      "id": "0363003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001703",
+      "level": 3,
+      "name": {
+        "local": "ဝေဘူလ",
+        "en": "Webula",
+        "slug": "webula-MMR004001703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001703",
+        "level": 3,
+        "name": {
+          "local": "ဝေဘူလ",
+          "en": "Webula",
+          "slug": "webula-MMR004001703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0363003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0363004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွာလ်ဇောလ် ရပ်ကွက်",
+      "en": "Mualzawl Quarter",
+      "slug": "mualzawl-quarter-0363004"
+    },
+    "code": {
+      "id": "0363004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001703",
+      "level": 3,
+      "name": {
+        "local": "ဝေဘူလ",
+        "en": "Webula",
+        "slug": "webula-MMR004001703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001703",
+        "level": 3,
+        "name": {
+          "local": "ဝေဘူလ",
+          "en": "Webula",
+          "slug": "webula-MMR004001703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0363004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0363001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0363001"
+    },
+    "code": {
+      "id": "0363001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001703",
+      "level": 3,
+      "name": {
+        "local": "ဝေဘူလ",
+        "en": "Webula",
+        "slug": "webula-MMR004001703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001703",
+        "level": 3,
+        "name": {
+          "local": "ဝေဘူလ",
+          "en": "Webula",
+          "slug": "webula-MMR004001703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0363001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

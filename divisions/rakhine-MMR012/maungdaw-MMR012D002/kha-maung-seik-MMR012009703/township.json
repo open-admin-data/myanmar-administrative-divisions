@@ -1,0 +1,56 @@
+{
+  "id": "MMR012009703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ခမောင်းဆိပ်",
+    "en": "Kha Maung Seik",
+    "slug": "kha-maung-seik-MMR012009703"
+  },
+  "code": {
+    "id": "MMR012009703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D002",
+    "level": 2,
+    "name": {
+      "local": "မောင်တောခရိုင်",
+      "en": "Maungdaw",
+      "slug": "maungdaw-MMR012D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.26554",
+    "lon": "92.27141"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR011001701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မော်လမြိုင်",
+    "en": "Mawlamyine",
+    "slug": "mawlamyine-MMR011001701"
+  },
+  "code": {
+    "id": "MMR011001701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011D001",
+    "level": 2,
+    "name": {
+      "local": "မော်လမြိုင်ခရိုင်",
+      "en": "Mawlamyine",
+      "slug": "mawlamyine-MMR011D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    {
+      "id": "MMR011D001",
+      "level": 2,
+      "name": {
+        "local": "မော်လမြိုင်ခရိုင်",
+        "en": "Mawlamyine",
+        "slug": "mawlamyine-MMR011D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.48459",
+    "lon": "97.62593"
+  },
+  "metadata": {},
+  "source": {}
+}

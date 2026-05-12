@@ -1,0 +1,56 @@
+{
+  "id": "MMR018003701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တပ်ကုန်း",
+    "en": "Tatkon",
+    "slug": "tatkon-MMR018003701"
+  },
+  "code": {
+    "id": "MMR018003701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR018D001",
+    "level": 2,
+    "name": {
+      "local": "ဥတ္တရခရိုင်",
+      "en": "Oke Ta Ra",
+      "slug": "oke-ta-ra-MMR018D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    {
+      "id": "MMR018D001",
+      "level": 2,
+      "name": {
+        "local": "ဥတ္တရခရိုင်",
+        "en": "Oke Ta Ra",
+        "slug": "oke-ta-ra-MMR018D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.13041",
+    "lon": "96.20297"
+  },
+  "metadata": {},
+  "source": {}
+}

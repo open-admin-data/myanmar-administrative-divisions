@@ -1,0 +1,114 @@
+[
+  {
+    "id": "MMR005031701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မော်လိုက်",
+      "en": "Mawlaik",
+      "slug": "mawlaik-MMR005031701"
+    },
+    "code": {
+      "id": "MMR005031701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D007",
+      "level": 2,
+      "name": {
+        "local": "မော်လိုက်ခရိုင်",
+        "en": "Mawlaik",
+        "slug": "mawlaik-MMR005D007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D007",
+        "level": 2,
+        "name": {
+          "local": "မော်လိုက်ခရိုင်",
+          "en": "Mawlaik",
+          "slug": "mawlaik-MMR005D007"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.63512",
+      "lon": "94.41201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005032701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဖောင်းပြင်",
+      "en": "Paungbyin",
+      "slug": "paungbyin-MMR005032701"
+    },
+    "code": {
+      "id": "MMR005032701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D007",
+      "level": 2,
+      "name": {
+        "local": "မော်လိုက်ခရိုင်",
+        "en": "Mawlaik",
+        "slug": "mawlaik-MMR005D007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D007",
+        "level": 2,
+        "name": {
+          "local": "မော်လိုက်ခရိုင်",
+          "en": "Mawlaik",
+          "slug": "mawlaik-MMR005D007"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.26768",
+      "lon": "94.81686"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

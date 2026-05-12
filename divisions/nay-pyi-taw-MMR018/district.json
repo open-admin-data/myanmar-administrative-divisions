@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MMR018D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဒက္ခိဏခရိုင်",
+      "en": "Det Khi Na",
+      "slug": "det-khi-na-MMR018D002"
+    },
+    "code": {
+      "id": "MMR018D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.7099",
+      "lon": "96.1205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR018D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဥတ္တရခရိုင်",
+      "en": "Oke Ta Ra",
+      "slug": "oke-ta-ra-MMR018D001"
+    },
+    "code": {
+      "id": "MMR018D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9318",
+      "lon": "96.1844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

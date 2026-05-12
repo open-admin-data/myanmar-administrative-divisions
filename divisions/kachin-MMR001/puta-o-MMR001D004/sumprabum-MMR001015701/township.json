@@ -1,0 +1,56 @@
+{
+  "id": "MMR001015701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဆွမ်ပရာဘွမ်",
+    "en": "Sumprabum",
+    "slug": "sumprabum-MMR001015701"
+  },
+  "code": {
+    "id": "MMR001015701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D004",
+    "level": 2,
+    "name": {
+      "local": "ပူတာအိုခရိုင်",
+      "en": "Puta-O",
+      "slug": "puta-o-MMR001D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "26.54373",
+    "lon": "97.5677"
+  },
+  "metadata": {},
+  "source": {}
+}

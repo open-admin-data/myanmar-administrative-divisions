@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR012010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဘူးသီးတောင်",
+      "en": "Buthidaung",
+      "slug": "buthidaung-MMR012010701"
+    },
+    "code": {
+      "id": "MMR012010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.87498",
+      "lon": "92.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012009703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခမောင်းဆိပ်",
+      "en": "Kha Maung Seik",
+      "slug": "kha-maung-seik-MMR012009703"
+    },
+    "code": {
+      "id": "MMR012009703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.26554",
+      "lon": "92.27141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မောင်တော",
+      "en": "Maungdaw",
+      "slug": "maungdaw-MMR012009701"
+    },
+    "code": {
+      "id": "MMR012009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.81897",
+      "lon": "92.36776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012009704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြင်းလွှတ်",
+      "en": "Myin Hlut",
+      "slug": "myin-hlut-MMR012009704"
+    },
+    "code": {
+      "id": "MMR012009704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.62786",
+      "lon": "92.50212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တောင်ပြိုလက်ဝဲ",
+      "en": "Taungpyoletwea",
+      "slug": "taungpyoletwea-MMR012009702"
+    },
+    "code": {
+      "id": "MMR012009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19991",
+      "lon": "92.20068"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

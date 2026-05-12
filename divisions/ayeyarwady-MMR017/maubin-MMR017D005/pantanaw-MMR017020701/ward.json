@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "1017002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-1017002"
+    },
+    "code": {
+      "id": "1017002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-1017003"
+    },
+    "code": {
+      "id": "1017003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-1017001"
+    },
+    "code": {
+      "id": "1017001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘဝိုင်း ကျေးရွာအုပ်စု",
+      "en": "Ba Waing Village Tract",
+      "slug": "ba-waing-village-tract-1017201"
+    },
+    "code": {
+      "id": "1017201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Chaung Ka Lay Village Tract",
+      "slug": "chaung-ka-lay-village-tract-1017202"
+    },
+    "code": {
+      "id": "1017202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓနော် ကျေးရွာအုပ်စု",
+      "en": "Da Naw Village Tract",
+      "slug": "da-naw-village-tract-1017204"
+    },
+    "code": {
+      "id": "1017204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါဝါး ကျေးရွာအုပ်စု",
+      "en": "Daw War Village Tract",
+      "slug": "daw-war-village-tract-1017203"
+    },
+    "code": {
+      "id": "1017203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားချောင်း ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Chaung Village Tract",
+      "slug": "hpa-yar-chaung-village-tract-1017231"
+    },
+    "code": {
+      "id": "1017231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ကုလားကုန်း ကျေးရွာအုပ်စု",
+      "en": "Htein Ku Lar Kone Village Tract",
+      "slug": "htein-ku-lar-kone-village-tract-1017239"
+    },
+    "code": {
+      "id": "1017239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းမ ကျေးရွာအုပ်စု",
+      "en": "Inn Ma Village Tract",
+      "slug": "inn-ma-village-tract-1017205"
+    },
+    "code": {
+      "id": "1017205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းတကော ကျေးရွာအုပ်စု",
+      "en": "Inn Ta Kaw Village Tract",
+      "slug": "inn-ta-kaw-village-tract-1017206"
+    },
+    "code": {
+      "id": "1017206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kone Village Tract",
+      "slug": "ka-nyin-kone-village-tract-1017210"
+    },
+    "code": {
+      "id": "1017210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ငူ ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Ngu Village Tract",
+      "slug": "ka-nyin-ngu-village-tract-1017200"
+    },
+    "code": {
+      "id": "1017200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကပိုင် ကျေးရွာအုပ်စု",
+      "en": "Ka Paing Village Tract",
+      "slug": "ka-paing-village-tract-1017207"
+    },
+    "code": {
+      "id": "1017207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကတောက်ဆပ် ကျေးရွာအုပ်စု",
+      "en": "Ka Tauk Sat Village Tract",
+      "slug": "ka-tauk-sat-village-tract-1017208"
+    },
+    "code": {
+      "id": "1017208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဇင်းငူ ကျေးရွာအုပ်စု",
+      "en": "Ka Zin Ngu Village Tract",
+      "slug": "ka-zin-ngu-village-tract-1017214"
+    },
+    "code": {
+      "id": "1017214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဿဝင် ကျေးရွာအုပ်စု",
+      "en": "Kat Tha Win Village Tract",
+      "slug": "kat-tha-win-village-tract-1017211"
+    },
+    "code": {
+      "id": "1017211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခနွဲ့ကဘို ကျေးရွာအုပ်စု",
+      "en": "Kha Nwet Ka Bo Village Tract",
+      "slug": "kha-nwet-ka-bo-village-tract-1017209"
+    },
+    "code": {
+      "id": "1017209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရေဂန် ကျေးရွာအုပ်စု",
+      "en": "Kha Yae Gan Village Tract",
+      "slug": "kha-yae-gan-village-tract-1017213"
+    },
+    "code": {
+      "id": "1017213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခတ္တိယ (အထက်) ကျေးရွာအုပ်စု",
+      "en": "Khat Ti Ya (Upper) Village Tract",
+      "slug": "khat-ti-ya-upper-village-tract-1017212"
+    },
+    "code": {
+      "id": "1017212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံလမ်း ကျေးရွာအုပ်စု",
+      "en": "Kyon Lan Village Tract",
+      "slug": "kyon-lan-village-tract-1017217"
+    },
+    "code": {
+      "id": "1017217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတိုင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyon Taing Gyi Village Tract",
+      "slug": "kyon-taing-gyi-village-tract-1017215"
+    },
+    "code": {
+      "id": "1017215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတိုင်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Kyon Taing Ka Lay Village Tract",
+      "slug": "kyon-taing-ka-lay-village-tract-1017216"
+    },
+    "code": {
+      "id": "1017216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတုံးကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyon Tone Gyi Village Tract",
+      "slug": "kyon-tone-gyi-village-tract-1017218"
+    },
+    "code": {
+      "id": "1017218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတုံးကလေး ကျေးရွာအုပ်စု",
+      "en": "Kyon Tone Ka Lay Village Tract",
+      "slug": "kyon-tone-ka-lay-village-tract-1017219"
+    },
+    "code": {
+      "id": "1017219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Let Pan Kone Village Tract",
+      "slug": "let-pan-kone-village-tract-1017220"
+    },
+    "code": {
+      "id": "1017220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်း ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Village Tract",
+      "slug": "ma-yan-village-tract-1017221"
+    },
+    "code": {
+      "id": "1017221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိမ္မပြေး ကျေးရွာအုပ်စု",
+      "en": "Mein Ma Pyay Village Tract",
+      "slug": "mein-ma-pyay-village-tract-1017222"
+    },
+    "code": {
+      "id": "1017222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဂရု ကျေးရွာအုပ်စု",
+      "en": "Min Ga Yu Village Tract",
+      "slug": "min-ga-yu-village-tract-1017223"
+    },
+    "code": {
+      "id": "1017223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဆယ် ကျေးရွာအုပ်စု",
+      "en": "Min Se Village Tract",
+      "slug": "min-se-village-tract-1017224"
+    },
+    "code": {
+      "id": "1017224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးကုတ် ကျေးရွာအုပ်စု",
+      "en": "Moe Goke Village Tract",
+      "slug": "moe-goke-village-tract-1017225"
+    },
+    "code": {
+      "id": "1017225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေနု ကျေးရွာအုပ်စု",
+      "en": "Myay Nu Village Tract",
+      "slug": "myay-nu-village-tract-1017226"
+    },
+    "code": {
+      "id": "1017226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြစ်ဝ ကျေးရွာအုပ်စု",
+      "en": "Myit Wa Village Tract",
+      "slug": "myit-wa-village-tract-1017227"
+    },
+    "code": {
+      "id": "1017227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ကွက်သစ် ရပ်ကွက်",
+      "en": "Myo Kwet Thit Quarter",
+      "slug": "myo-kwet-thit-quarter-1017004"
+    },
+    "code": {
+      "id": "1017004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုးဘို ကျေးရွာအုပ်စု",
+      "en": "Oe Bo Village Tract",
+      "slug": "oe-bo-village-tract-1017250"
+    },
+    "code": {
+      "id": "1017250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပသွယ် ကျေးရွာအုပ်စု",
+      "en": "Pa Thwei Village Tract",
+      "slug": "pa-thwei-village-tract-1017228"
+    },
+    "code": {
+      "id": "1017228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေပင်မြောက် ကျေးရွာအုပ်စု",
+      "en": "Pay Pin Myauk Village Tract",
+      "slug": "pay-pin-myauk-village-tract-1017251"
+    },
+    "code": {
+      "id": "1017251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေပင်တောင် ကျေးရွာအုပ်စု",
+      "en": "Pay Pin Taung Village Tract",
+      "slug": "pay-pin-taung-village-tract-1017229"
+    },
+    "code": {
+      "id": "1017229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြလင်း ကျေးရွာအုပ်စု",
+      "en": "Pya Lin Village Tract",
+      "slug": "pya-lin-village-tract-1017230"
+    },
+    "code": {
+      "id": "1017230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Sagaing Village Tract",
+      "slug": "sagaing-village-tract-1017236"
+    },
+    "code": {
+      "id": "1017236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆပ်သေ ကျေးရွာအုပ်စု",
+      "en": "Sat Thay Village Tract",
+      "slug": "sat-thay-village-tract-1017232"
+    },
+    "code": {
+      "id": "1017232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေလှေ ကျေးရွာအုပ်စု",
+      "en": "Shwe Hlay Village Tract",
+      "slug": "shwe-hlay-village-tract-1017234"
+    },
+    "code": {
+      "id": "1017234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကျောင်းမြောက် ကျေးရွာအုပ်စု",
+      "en": "Shwe Kyaung Myauk Village Tract",
+      "slug": "shwe-kyaung-myauk-village-tract-1017233"
+    },
+    "code": {
+      "id": "1017233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်လမ်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sin Lan Gyi Village Tract",
+      "slug": "sin-lan-gyi-village-tract-1017235"
+    },
+    "code": {
+      "id": "1017235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆုတောင်းပြည့် ကျေးရွာအုပ်စု",
+      "en": "Su Taung Pyayt Village Tract",
+      "slug": "su-taung-pyayt-village-tract-1017237"
+    },
+    "code": {
+      "id": "1017237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကျောင်း ကျေးရွာအုပ်စု",
+      "en": "Taw Kyaung Village Tract",
+      "slug": "taw-kyaung-village-tract-1017238"
+    },
+    "code": {
+      "id": "1017238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ငူ ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Ngu Village Tract",
+      "slug": "tha-yet-ngu-village-tract-1017240"
+    },
+    "code": {
+      "id": "1017240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုံးခွ ကျေးရွာအုပ်စု",
+      "en": "Thone Gwa Village Tract",
+      "slug": "thone-gwa-village-tract-1017241"
+    },
+    "code": {
+      "id": "1017241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Tu Chaung Village Tract",
+      "slug": "tu-chaung-village-tract-1017242"
+    },
+    "code": {
+      "id": "1017242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝဲဒေါင့် ကျေးရွာအုပ်စု",
+      "en": "Wea Daunt Village Tract",
+      "slug": "wea-daunt-village-tract-1017243"
+    },
+    "code": {
+      "id": "1017243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေလဲနှဲကော ကျေးရွာအုပ်စု",
+      "en": "Yae Le Hne Kaw Village Tract",
+      "slug": "yae-le-hne-kaw-village-tract-1017246"
+    },
+    "code": {
+      "id": "1017246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေပေါ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Yae Paw Gyi Village Tract",
+      "slug": "yae-paw-gyi-village-tract-1017245"
+    },
+    "code": {
+      "id": "1017245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေပေါ်ရေလဲ ကျေးရွာအုပ်စု",
+      "en": "Yae Paw Yae Le Village Tract",
+      "slug": "yae-paw-yae-le-village-tract-1017244"
+    },
+    "code": {
+      "id": "1017244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယင်းယို ကျေးရွာအုပ်စု",
+      "en": "Yin Yo Village Tract",
+      "slug": "yin-yo-village-tract-1017247"
+    },
+    "code": {
+      "id": "1017247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးတော ကျေးရွာအုပ်စု",
+      "en": "Yone Taw Village Tract",
+      "slug": "yone-taw-village-tract-1017248"
+    },
+    "code": {
+      "id": "1017248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1017249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇရပ်လှကြီး ကျေးရွာအုပ်စု",
+      "en": "Za Yat Hla Gyi Village Tract",
+      "slug": "za-yat-hla-gyi-village-tract-1017249"
+    },
+    "code": {
+      "id": "1017249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017020701",
+      "level": 3,
+      "name": {
+        "local": "ပန်းတနော်",
+        "en": "Pantanaw",
+        "slug": "pantanaw-MMR017020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017020701",
+        "level": 3,
+        "name": {
+          "local": "ပန်းတနော်",
+          "en": "Pantanaw",
+          "slug": "pantanaw-MMR017020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1017249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

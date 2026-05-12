@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0769001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂေါ့ ရပ်ကွက်",
+      "en": "Gawt Quarter",
+      "slug": "gawt-quarter-0769001"
+    },
+    "code": {
+      "id": "0769001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015702",
+      "level": 3,
+      "name": {
+        "local": "ငပလီ",
+        "en": "Ngapali",
+        "slug": "ngapali-MMR012015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015702",
+        "level": 3,
+        "name": {
+          "local": "ငပလီ",
+          "en": "Ngapali",
+          "slug": "ngapali-MMR012015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0769001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂျိတ္တော ရပ်ကွက်",
+      "en": "Gyeik Taw Quarter",
+      "slug": "gyeik-taw-quarter-0769005"
+    },
+    "code": {
+      "id": "0769005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015702",
+      "level": 3,
+      "name": {
+        "local": "ငပလီ",
+        "en": "Ngapali",
+        "slug": "ngapali-MMR012015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015702",
+        "level": 3,
+        "name": {
+          "local": "ငပလီ",
+          "en": "Ngapali",
+          "slug": "ngapali-MMR012015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0769005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင်းသာ ရပ်ကွက်",
+      "en": "Lin Thar Quarter",
+      "slug": "lin-thar-quarter-0769003"
+    },
+    "code": {
+      "id": "0769003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015702",
+      "level": 3,
+      "name": {
+        "local": "ငပလီ",
+        "en": "Ngapali",
+        "slug": "ngapali-MMR012015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015702",
+        "level": 3,
+        "name": {
+          "local": "ငပလီ",
+          "en": "Ngapali",
+          "slug": "ngapali-MMR012015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0769003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြပြင် ရပ်ကွက်",
+      "en": "Mya Pyin Quarter",
+      "slug": "mya-pyin-quarter-0769004"
+    },
+    "code": {
+      "id": "0769004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015702",
+      "level": 3,
+      "name": {
+        "local": "ငပလီ",
+        "en": "Ngapali",
+        "slug": "ngapali-MMR012015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015702",
+        "level": 3,
+        "name": {
+          "local": "ငပလီ",
+          "en": "Ngapali",
+          "slug": "ngapali-MMR012015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0769004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0769002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးဖြူကုန်း ရပ်ကွက်",
+      "en": "Zee Hpyu Kone Quarter",
+      "slug": "zee-hpyu-kone-quarter-0769002"
+    },
+    "code": {
+      "id": "0769002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015702",
+      "level": 3,
+      "name": {
+        "local": "ငပလီ",
+        "en": "Ngapali",
+        "slug": "ngapali-MMR012015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015702",
+        "level": 3,
+        "name": {
+          "local": "ငပလီ",
+          "en": "Ngapali",
+          "slug": "ngapali-MMR012015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0769002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

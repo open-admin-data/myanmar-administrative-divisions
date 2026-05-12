@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MMR012D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျောက်ဖြူခရိုင်",
+      "en": "Kyaukpyu",
+      "slug": "kyaukpyu-MMR012D003"
+    },
+    "code": {
+      "id": "MMR012D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 220
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2836",
+      "lon": "93.7924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မောင်တောခရိုင်",
+      "en": "Maungdaw",
+      "slug": "maungdaw-MMR012D002"
+    },
+    "code": {
+      "id": "MMR012D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 211
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9575",
+      "lon": "92.3734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြောက်ဦးခရိုင်",
+      "en": "Mrauk-U",
+      "slug": "mrauk-u-MMR012D005"
+    },
+    "code": {
+      "id": "MMR012D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 330
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3408",
+      "lon": "93.3133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "စစ်တွေခရိုင်",
+      "en": "Sittwe",
+      "slug": "sittwe-MMR012D001"
+    },
+    "code": {
+      "id": "MMR012D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 306
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2831",
+      "lon": "92.9285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သံတွဲခရိုင်",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012D004"
+    },
+    "code": {
+      "id": "MMR012D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.5284",
+      "lon": "94.3235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

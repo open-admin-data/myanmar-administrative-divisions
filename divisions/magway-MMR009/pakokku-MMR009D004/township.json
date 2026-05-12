@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR009018702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကမ္မ",
+      "en": "Kamma (PKU)",
+      "slug": "kamma-pku-MMR009018702"
+    },
+    "code": {
+      "id": "MMR009018702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.38358",
+      "lon": "94.81558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009020701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြိုင်",
+      "en": "Myaing",
+      "slug": "myaing-MMR009020701"
+    },
+    "code": {
+      "id": "MMR009020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 84
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.61256",
+      "lon": "94.85432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009018703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြစ်ခြေ",
+      "en": "Myit Chay",
+      "slug": "myit-chay-MMR009018703"
+    },
+    "code": {
+      "id": "MMR009018703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.2454",
+      "lon": "94.8511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009018701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပခုက္ကူ",
+      "en": "Pakokku",
+      "slug": "pakokku-MMR009018701"
+    },
+    "code": {
+      "id": "MMR009018701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.335",
+      "lon": "95.08227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009021701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါက်",
+      "en": "Pauk",
+      "slug": "pauk-MMR009021701"
+    },
+    "code": {
+      "id": "MMR009021701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.45215",
+      "lon": "94.47374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009022701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆိပ်ဖြူ",
+      "en": "Seikphyu",
+      "slug": "seikphyu-MMR009022701"
+    },
+    "code": {
+      "id": "MMR009022701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.90651",
+      "lon": "94.79243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009019701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေစကြို",
+      "en": "Yesagyo",
+      "slug": "yesagyo-MMR009019701"
+    },
+    "code": {
+      "id": "MMR009019701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009D004",
+      "level": 2,
+      "name": {
+        "local": "ပခုက္ကူခရိုင်",
+        "en": "Pakokku",
+        "slug": "pakokku-MMR009D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D004",
+        "level": 2,
+        "name": {
+          "local": "ပခုက္ကူခရိုင်",
+          "en": "Pakokku",
+          "slug": "pakokku-MMR009D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.63388",
+      "lon": "95.2453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

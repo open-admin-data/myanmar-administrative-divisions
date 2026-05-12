@@ -1,0 +1,56 @@
+{
+  "id": "MMR013015701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တာမွေ",
+    "en": "Tamwe",
+    "slug": "tamwe-MMR013015701"
+  },
+  "code": {
+    "id": "MMR013015701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D002",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D002",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+        "en": "Yangon (East)",
+        "slug": "yangon-east-MMR013D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.81018",
+    "lon": "96.17646"
+  },
+  "metadata": {},
+  "source": {}
+}

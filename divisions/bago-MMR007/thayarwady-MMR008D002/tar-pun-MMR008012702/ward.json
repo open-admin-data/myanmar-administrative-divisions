@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1868003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-1868003"
+    },
+    "code": {
+      "id": "1868003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008012702",
+      "level": 3,
+      "name": {
+        "local": "တာပွန်",
+        "en": "Tar Pun",
+        "slug": "tar-pun-MMR008012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008012702",
+        "level": 3,
+        "name": {
+          "local": "တာပွန်",
+          "en": "Tar Pun",
+          "slug": "tar-pun-MMR008012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1868003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1868002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-1868002"
+    },
+    "code": {
+      "id": "1868002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008012702",
+      "level": 3,
+      "name": {
+        "local": "တာပွန်",
+        "en": "Tar Pun",
+        "slug": "tar-pun-MMR008012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008012702",
+        "level": 3,
+        "name": {
+          "local": "တာပွန်",
+          "en": "Tar Pun",
+          "slug": "tar-pun-MMR008012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1868002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1868001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-1868001"
+    },
+    "code": {
+      "id": "1868001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008012702",
+      "level": 3,
+      "name": {
+        "local": "တာပွန်",
+        "en": "Tar Pun",
+        "slug": "tar-pun-MMR008012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008012702",
+        "level": 3,
+        "name": {
+          "local": "တာပွန်",
+          "en": "Tar Pun",
+          "slug": "tar-pun-MMR008012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1868001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

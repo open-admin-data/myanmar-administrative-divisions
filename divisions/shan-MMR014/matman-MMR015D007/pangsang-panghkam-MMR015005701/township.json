@@ -1,0 +1,56 @@
+{
+  "id": "MMR015005701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပန်ဆန်း (ပန်ခမ်း)",
+    "en": "Pangsang (Panghkam)",
+    "slug": "pangsang-panghkam-MMR015005701"
+  },
+  "code": {
+    "id": "MMR015005701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR015D007",
+    "level": 2,
+    "name": {
+      "local": "မက်မန်းခရိုင်",
+      "en": "Matman",
+      "slug": "matman-MMR015D007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR015D007",
+      "level": 2,
+      "name": {
+        "local": "မက်မန်းခရိုင်",
+        "en": "Matman",
+        "slug": "matman-MMR015D007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.17594",
+    "lon": "99.17044"
+  },
+  "metadata": {},
+  "source": {}
+}

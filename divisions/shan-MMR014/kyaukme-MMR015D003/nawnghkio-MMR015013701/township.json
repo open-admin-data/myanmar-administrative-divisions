@@ -1,0 +1,56 @@
+{
+  "id": "MMR015013701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "နောင်ချို",
+    "en": "Nawnghkio",
+    "slug": "nawnghkio-MMR015013701"
+  },
+  "code": {
+    "id": "MMR015013701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR015D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်မဲခရိုင်",
+      "en": "Kyaukme",
+      "slug": "kyaukme-MMR015D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR015D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်မဲခရိုင်",
+        "en": "Kyaukme",
+        "slug": "kyaukme-MMR015D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.33003",
+    "lon": "96.79895"
+  },
+  "metadata": {},
+  "source": {}
+}

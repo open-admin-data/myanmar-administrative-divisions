@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0860001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီး (၁) ရပ်ကွက်",
+      "en": "Hpa Yar Gyi (1) Quarter",
+      "slug": "hpa-yar-gyi-1-quarter-0860001"
+    },
+    "code": {
+      "id": "0860001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007001702",
+      "level": 3,
+      "name": {
+        "local": "ဘုရားကြီး",
+        "en": "Hpayargyi",
+        "slug": "hpayargyi-MMR007001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007001702",
+        "level": 3,
+        "name": {
+          "local": "ဘုရားကြီး",
+          "en": "Hpayargyi",
+          "slug": "hpayargyi-MMR007001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0860001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီး (၂) ရပ်ကွက်",
+      "en": "Hpa Yar Gyi (2) Quarter",
+      "slug": "hpa-yar-gyi-2-quarter-0860002"
+    },
+    "code": {
+      "id": "0860002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007001702",
+      "level": 3,
+      "name": {
+        "local": "ဘုရားကြီး",
+        "en": "Hpayargyi",
+        "slug": "hpayargyi-MMR007001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007001702",
+        "level": 3,
+        "name": {
+          "local": "ဘုရားကြီး",
+          "en": "Hpayargyi",
+          "slug": "hpayargyi-MMR007001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0860002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0860003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီး (၃) ရပ်ကွက်",
+      "en": "Hpa Yar Gyi (3) Quarter",
+      "slug": "hpa-yar-gyi-3-quarter-0860003"
+    },
+    "code": {
+      "id": "0860003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007001702",
+      "level": 3,
+      "name": {
+        "local": "ဘုရားကြီး",
+        "en": "Hpayargyi",
+        "slug": "hpayargyi-MMR007001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007001702",
+        "level": 3,
+        "name": {
+          "local": "ဘုရားကြီး",
+          "en": "Hpayargyi",
+          "slug": "hpayargyi-MMR007001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0860003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

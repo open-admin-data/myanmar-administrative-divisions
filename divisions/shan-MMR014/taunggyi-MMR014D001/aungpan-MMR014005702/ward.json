@@ -1,0 +1,782 @@
+[
+  {
+    "id": "0663002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှည်းရိုး ရပ်ကွက်",
+      "en": "Hle Yoe Quarter",
+      "slug": "hle-yoe-quarter-0663002"
+    },
+    "code": {
+      "id": "0663002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်မပင် ရပ်ကွက်",
+      "en": "Let Ma Pin Quarter",
+      "slug": "let-ma-pin-quarter-0663009"
+    },
+    "code": {
+      "id": "0663009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလာ ရပ်ကွက်",
+      "en": "Min Ga Lar Quarter",
+      "slug": "min-ga-lar-quarter-0663011"
+    },
+    "code": {
+      "id": "0663011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးကောင်း ရပ်ကွက်",
+      "en": "Moe Kawng Quarter",
+      "slug": "moe-kawng-quarter-0663006"
+    },
+    "code": {
+      "id": "0663006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်း ရပ်ကွက်",
+      "en": "Myo Haung Quarter",
+      "slug": "myo-haung-quarter-0663010"
+    },
+    "code": {
+      "id": "0663010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0663004"
+    },
+    "code": {
+      "id": "0663004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0663005"
+    },
+    "code": {
+      "id": "0663005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0663007"
+    },
+    "code": {
+      "id": "0663007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0663008"
+    },
+    "code": {
+      "id": "0663008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်ထောင် ရပ်ကွက်",
+      "en": "Nyaung Pin Htaung Quarter",
+      "slug": "nyaung-pin-htaung-quarter-0663001"
+    },
+    "code": {
+      "id": "0663001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာငံစု ရပ်ကွက်",
+      "en": "Ywar Ngan Su Quarter",
+      "slug": "ywar-ngan-su-quarter-0663003"
+    },
+    "code": {
+      "id": "0663003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0663012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-0663012"
+    },
+    "code": {
+      "id": "0663012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014005702",
+      "level": 3,
+      "name": {
+        "local": "အောင်ပန်း",
+        "en": "Aungpan",
+        "slug": "aungpan-MMR014005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014005702",
+        "level": 3,
+        "name": {
+          "local": "အောင်ပန်း",
+          "en": "Aungpan",
+          "slug": "aungpan-MMR014005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0663012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

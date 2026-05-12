@@ -1,0 +1,6112 @@
+[
+  {
+    "id": "0303267",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုင်ရဲဘွာလ် ကျေးရွာအုပ်စု",
+      "en": "Airebual Village Tract",
+      "slug": "airebual-village-tract-0303267"
+    },
+    "code": {
+      "id": "0303267",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303267"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗလိုင် ရပ်ကွက်",
+      "en": "Balai Ward Quarter",
+      "slug": "balai-ward-quarter-0303002"
+    },
+    "code": {
+      "id": "0303002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303277",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုကျုံး ကျေးရွာအုပ်စု",
+      "en": "Bocung Village Tract",
+      "slug": "bocung-village-tract-0303277"
+    },
+    "code": {
+      "id": "0303277",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303277"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွာလ်ခွာ ကျေးရွာအုပ်စု",
+      "en": "Bualkhua Village Tract",
+      "slug": "bualkhua-village-tract-0303228"
+    },
+    "code": {
+      "id": "0303228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွာလ်မင်း ကျေးရွာအုပ်စု",
+      "en": "Bualmin Village Tract",
+      "slug": "bualmin-village-tract-0303257"
+    },
+    "code": {
+      "id": "0303257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီဇာမွာလ် ကျေးရွာအုပ်စု",
+      "en": "C. Zamual Village Tract",
+      "slug": "c-zamual-village-tract-0303210"
+    },
+    "code": {
+      "id": "0303210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303285",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျော့သဲ ကျေးရွာအုပ်စု",
+      "en": "Cawhte Village Tract",
+      "slug": "cawhte-village-tract-0303285"
+    },
+    "code": {
+      "id": "0303285",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303285"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျဲရ်မွန် ကျေးရွာအုပ်စု",
+      "en": "Cerhmun Village Tract",
+      "slug": "cerhmun-village-tract-0303218"
+    },
+    "code": {
+      "id": "0303218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျင်မွာလ် ရပ်ကွက်",
+      "en": "Cinmual Ward Quarter",
+      "slug": "cinmual-ward-quarter-0303001"
+    },
+    "code": {
+      "id": "0303001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303280",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြောင်ဟွေ့ ကျေးရွာအုပ်စု",
+      "en": "Conghoih Village Tract",
+      "slug": "conghoih-village-tract-0303280"
+    },
+    "code": {
+      "id": "0303280",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303280"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြောင်းကွာ ကျေးရွာအုပ်စု",
+      "en": "Congkua Village Tract",
+      "slug": "congkua-village-tract-0303248"
+    },
+    "code": {
+      "id": "0303248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြောင်ထဲ ကျေးရွာအုပ်စု",
+      "en": "Congthe Village Tract",
+      "slug": "congthe-village-tract-0303208"
+    },
+    "code": {
+      "id": "0303208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303265",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒါရ်သဲသီး ကျေးရွာအုပ်စု",
+      "en": "Darteti Village Tract",
+      "slug": "darteti-village-tract-0303265"
+    },
+    "code": {
+      "id": "0303265",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303265"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒုမန်း ကျေးရွာအုပ်စု",
+      "en": "Duhmang Village Tract",
+      "slug": "duhmang-village-tract-0303232"
+    },
+    "code": {
+      "id": "0303232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖာရ်ခေါမ်း ကျေးရွာအုပ်စု",
+      "en": "Farkhawm Village Tract",
+      "slug": "farkhawm-village-tract-0303230"
+    },
+    "code": {
+      "id": "0303230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှောင်မွာလ် ကျေးရွာအုပ်စု",
+      "en": "Hlawnmual Village Tract",
+      "slug": "hlawnmual-village-tract-0303224"
+    },
+    "code": {
+      "id": "0303224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303271",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မှောင်ကွန် ကျေးရွာအုပ်စု",
+      "en": "Hmawngkawn Village Tract",
+      "slug": "hmawngkawn-village-tract-0303271"
+    },
+    "code": {
+      "id": "0303271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303271"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွန်လီ ကျေးရွာအုပ်စု",
+      "en": "Hmunli Village Tract",
+      "slug": "hmunli-village-tract-0303238"
+    },
+    "code": {
+      "id": "0303238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟရိန်နှန် ကျေးရွာအုပ်စု",
+      "en": "Hrianghgnang Village Tract",
+      "slug": "hrianghgnang-village-tract-0303217"
+    },
+    "code": {
+      "id": "0303217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကေဟိုင်မွာလ် ကျေးရွာအုပ်စု",
+      "en": "K.Haimual Village Tract",
+      "slug": "khaimual-village-tract-0303200"
+    },
+    "code": {
+      "id": "0303200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခိသမ်း ကျေးရွာအုပ်စု",
+      "en": "Khitam Village Tract",
+      "slug": "khitam-village-tract-0303245"
+    },
+    "code": {
+      "id": "0303245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303278",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါဒါရ် ကျေးရွာအုပ်စု",
+      "en": "Khuadar Village Tract",
+      "slug": "khuadar-village-tract-0303278"
+    },
+    "code": {
+      "id": "0303278",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303278"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်လယ် ကျေးရွာအုပ်စု",
+      "en": "Khualei Village Tract",
+      "slug": "khualei-village-tract-0303235"
+    },
+    "code": {
+      "id": "0303235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်လုံး ကျေးရွာအုပ်စု",
+      "en": "Khualung Village Tract",
+      "slug": "khualung-village-tract-0303263"
+    },
+    "code": {
+      "id": "0303263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွန်လီ ကျေးရွာအုပ်စု",
+      "en": "Khuangli Village Tract",
+      "slug": "khuangli-village-tract-0303225"
+    },
+    "code": {
+      "id": "0303225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303276",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်ပွာလ် ကျေးရွာအုပ်စု",
+      "en": "Khuapual Village Tract",
+      "slug": "khuapual-village-tract-0303276"
+    },
+    "code": {
+      "id": "0303276",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303276"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်ဆွမ်း ကျေးရွာအုပ်စု",
+      "en": "Khuasum Village Tract",
+      "slug": "khuasum-village-tract-0303259"
+    },
+    "code": {
+      "id": "0303259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303284",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်ထီရ် ကျေးရွာအုပ်စု",
+      "en": "Khuathlir Village Tract",
+      "slug": "khuathlir-village-tract-0303284"
+    },
+    "code": {
+      "id": "0303284",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303284"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုမ်းဇိန်း ကျေးရွာအုပ်စု",
+      "en": "Khumzing Village Tract",
+      "slug": "khumzing-village-tract-0303241"
+    },
+    "code": {
+      "id": "0303241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုပ်လဲင် ကျေးရွာအုပ်စု",
+      "en": "Khupleng Village Tract",
+      "slug": "khupleng-village-tract-0303251"
+    },
+    "code": {
+      "id": "0303251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွန်ဒွန် ကျေးရွာအုပ်စု",
+      "en": "Kundon Village Tract",
+      "slug": "kundon-village-tract-0303253"
+    },
+    "code": {
+      "id": "0303253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဲလ်မွန်ပီး ကျေးရွာအုပ်စု",
+      "en": "L. Hmunpi Village Tract",
+      "slug": "l-hmunpi-village-tract-0303207"
+    },
+    "code": {
+      "id": "0303207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဲလ်ဇာမွာလ် ကျေးရွာအုပ်စု",
+      "en": "L. Zamual Village Tract",
+      "slug": "l-zamual-village-tract-0303215"
+    },
+    "code": {
+      "id": "0303215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်လွန် ရပ်ကွက်",
+      "en": "Lailun Ward Quarter",
+      "slug": "lailun-ward-quarter-0303006"
+    },
+    "code": {
+      "id": "0303006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303275",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်းဇောလ် ကျေးရွာအုပ်စု",
+      "en": "Laizawl Village Tract",
+      "slug": "laizawl-village-tract-0303275"
+    },
+    "code": {
+      "id": "0303275",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303275"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်ဇိုး ကျေးရွာအုပ်စု",
+      "en": "Laizo Village Tract",
+      "slug": "laizo-village-tract-0303206"
+    },
+    "code": {
+      "id": "0303206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်ဇိုး ရပ်ကွက်",
+      "en": "Laizo Ward Quarter",
+      "slug": "laizo-ward-quarter-0303005"
+    },
+    "code": {
+      "id": "0303005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လာသီး ကျေးရွာအုပ်စု",
+      "en": "Lati Village Tract",
+      "slug": "lati-village-tract-0303236"
+    },
+    "code": {
+      "id": "0303236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဲင်ဟိုင် ကျေးရွာအုပ်စု",
+      "en": "Lenhai Village Tract",
+      "slug": "lenhai-village-tract-0303203"
+    },
+    "code": {
+      "id": "0303203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဲင်သဲ ကျေးရွာအုပ်စု",
+      "en": "Lente Village Tract",
+      "slug": "lente-village-tract-0303204"
+    },
+    "code": {
+      "id": "0303204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လျန်ရိ ကျေးရွာအုပ်စု",
+      "en": "Lianrih Village Tract",
+      "slug": "lianrih-village-tract-0303249"
+    },
+    "code": {
+      "id": "0303249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုကြွမ်း ကျေးရွာအုပ်စု",
+      "en": "Lochum Village Tract",
+      "slug": "lochum-village-tract-0303239"
+    },
+    "code": {
+      "id": "0303239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုဆာအို ကျေးရွာအုပ်စု",
+      "en": "Losau Village Tract",
+      "slug": "losau-village-tract-0303256"
+    },
+    "code": {
+      "id": "0303256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံဘန်း ကျေးရွာအုပ်စု",
+      "en": "Lumbang Village Tract",
+      "slug": "lumbang-village-tract-0303233"
+    },
+    "code": {
+      "id": "0303233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုမ်သဲ ကျေးရွာအုပ်စု",
+      "en": "Lumte Village Tract",
+      "slug": "lumte-village-tract-0303246"
+    },
+    "code": {
+      "id": "0303246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးဟော့ ကျေးရွာအုပ်စု",
+      "en": "Lunghawh Village Tract",
+      "slug": "lunghawh-village-tract-0303234"
+    },
+    "code": {
+      "id": "0303234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံပီး ရပ်ကွက်",
+      "en": "Lungpi Ward Quarter",
+      "slug": "lungpi-ward-quarter-0303007"
+    },
+    "code": {
+      "id": "0303007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွန်ခွာ ကျေးရွာအုပ်စု",
+      "en": "Lunkhua Village Tract",
+      "slug": "lunkhua-village-tract-0303258"
+    },
+    "code": {
+      "id": "0303258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ခင်း ကျေးရွာအုပ်စု",
+      "en": "MangKheng Village Tract",
+      "slug": "mangkheng-village-tract-0303202"
+    },
+    "code": {
+      "id": "0303202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူရန်း ကျေးရွာအုပ်စု",
+      "en": "Murang Village Tract",
+      "slug": "murang-village-tract-0303250"
+    },
+    "code": {
+      "id": "0303250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303266",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါလ်သီး ကျေးရွာအုပ်စု",
+      "en": "Ngalti Village Tract",
+      "slug": "ngalti-village-tract-0303266"
+    },
+    "code": {
+      "id": "0303266",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303266"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါမွာလ် ကျေးရွာအုပ်စု",
+      "en": "Ngamual Village Tract",
+      "slug": "ngamual-village-tract-0303227"
+    },
+    "code": {
+      "id": "0303227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုင်ဇော်လ် ကျေးရွာအုပ်စု",
+      "en": "Phaizawl Village Tract",
+      "slug": "phaizawl-village-tract-0303229"
+    },
+    "code": {
+      "id": "0303229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖာရ်ထောက် ရပ်ကွက်",
+      "en": "Phathauk Ward Quarter",
+      "slug": "phathauk-ward-quarter-0303003"
+    },
+    "code": {
+      "id": "0303003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရာလ်လန် ကျေးရွာအုပ်စု",
+      "en": "Rallang Village Tract",
+      "slug": "rallang-village-tract-0303221"
+    },
+    "code": {
+      "id": "0303221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရာလ်လောန် ကျေးရွာအုပ်စု",
+      "en": "Rallawn Village Tract",
+      "slug": "rallawn-village-tract-0303201"
+    },
+    "code": {
+      "id": "0303201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်ထလို ကျေးရွာအုပ်စု",
+      "en": "Ramthlo Village Tract",
+      "slug": "ramthlo-village-tract-0303213"
+    },
+    "code": {
+      "id": "0303213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲလ်စိန်း ကျေးရွာအုပ်စု",
+      "en": "Relsing Village Tract",
+      "slug": "relsing-village-tract-0303223"
+    },
+    "code": {
+      "id": "0303223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုလ်ဘူး ကျေးရွာအုပ်စု",
+      "en": "Rulbu Village Tract",
+      "slug": "rulbu-village-tract-0303214"
+    },
+    "code": {
+      "id": "0303214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303283",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆအက် ကျေးရွာအုပ်စု",
+      "en": "Saek Village Tract",
+      "slug": "saek-village-tract-0303283"
+    },
+    "code": {
+      "id": "0303283",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303283"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303279",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်မွန် ကျေးရွာအုပ်စု",
+      "en": "Saihmun Village Tract",
+      "slug": "saihmun-village-tract-0303279"
+    },
+    "code": {
+      "id": "0303279",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303279"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303273",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စတောမ် ကျေးရွာအုပ်စု",
+      "en": "Satawm Village Tract",
+      "slug": "satawm-village-tract-0303273"
+    },
+    "code": {
+      "id": "0303273",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303273"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆယ်ပီး ကျေးရွာအုပ်စု",
+      "en": "Seipi Village Tract",
+      "slug": "seipi-village-tract-0303254"
+    },
+    "code": {
+      "id": "0303254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303269",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆယ်လောန် ကျေးရွာအုပ်စု",
+      "en": "Selawn Village Tract",
+      "slug": "selawn-village-tract-0303269"
+    },
+    "code": {
+      "id": "0303269",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303269"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိမ်/ဒီဟိုင် ကျေးရွာအုပ်စု",
+      "en": "Sim/Dihai Village Tract",
+      "slug": "simdihai-village-tract-0303260"
+    },
+    "code": {
+      "id": "0303260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိမ်ဇောလ် ကျေးရွာအုပ်စု",
+      "en": "Simzawl Village Tract",
+      "slug": "simzawl-village-tract-0303237"
+    },
+    "code": {
+      "id": "0303237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303270",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီငိုင် ကျေးရွာအုပ်စု",
+      "en": "Singai Village Tract",
+      "slug": "singai-village-tract-0303270"
+    },
+    "code": {
+      "id": "0303270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303270"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွန်းတလား (ဟောင်း) ကျေးရွာအုပ်စု",
+      "en": "Sunthla (Haung) Village Tract",
+      "slug": "sunthla-haung-village-tract-0303222"
+    },
+    "code": {
+      "id": "0303222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တားလ် ကျေးရွာအုပ်စု",
+      "en": "Taal Village Tract",
+      "slug": "taal-village-tract-0303211"
+    },
+    "code": {
+      "id": "0303211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာရွန် ကျေးရွာအုပ်စု",
+      "en": "Taisum Village Tract",
+      "slug": "taisum-village-tract-0303209"
+    },
+    "code": {
+      "id": "0303209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောရ်ဇန် ကျေးရွာအုပ်စု",
+      "en": "Thorzan Village Tract",
+      "slug": "thorzan-village-tract-0303252"
+    },
+    "code": {
+      "id": "0303252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထုံးထုလ် ကျေးရွာအုပ်စု",
+      "en": "Thungthul Village Tract",
+      "slug": "thungthul-village-tract-0303205"
+    },
+    "code": {
+      "id": "0303205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တျဒိုင် ကျေးရွာအုပ်စု",
+      "en": "Tiahdai Village Tract",
+      "slug": "tiahdai-village-tract-0303216"
+    },
+    "code": {
+      "id": "0303216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303272",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီးဘွာလ် ကျေးရွာအုပ်စု",
+      "en": "Tibual Village Tract",
+      "slug": "tibual-village-tract-0303272"
+    },
+    "code": {
+      "id": "0303272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303272"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303281",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီးကျိရ် ကျေးရွာအုပ်စု",
+      "en": "Ticirh Village Tract",
+      "slug": "ticirh-village-tract-0303281"
+    },
+    "code": {
+      "id": "0303281",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303281"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီးလီ ကျေးရွာအုပ်စု",
+      "en": "Tili Village Tract",
+      "slug": "tili-village-tract-0303212"
+    },
+    "code": {
+      "id": "0303212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီးလုမ် ကျေးရွာအုပ်စု",
+      "en": "Tilum Village Tract",
+      "slug": "tilum-village-tract-0303261"
+    },
+    "code": {
+      "id": "0303261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303282",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်းစာန်း ကျေးရွာအုပ်စု",
+      "en": "Tingcang Village Tract",
+      "slug": "tingcang-village-tract-0303282"
+    },
+    "code": {
+      "id": "0303282",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303282"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီးဆဲင်း ကျေးရွာအုပ်စု",
+      "en": "Tisen Village Tract",
+      "slug": "tisen-village-tract-0303231"
+    },
+    "code": {
+      "id": "0303231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တလန်ကျိန် ကျေးရွာအုပ်စု",
+      "en": "Tlangcing Village Tract",
+      "slug": "tlangcing-village-tract-0303255"
+    },
+    "code": {
+      "id": "0303255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တလန်ဇောလ် ကျေးရွာအုပ်စု",
+      "en": "Tlangzawl Village Tract",
+      "slug": "tlangzawl-village-tract-0303262"
+    },
+    "code": {
+      "id": "0303262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တလန်လို ရပ်ကွက်",
+      "en": "Tlanlau Ward Quarter",
+      "slug": "tlanlau-ward-quarter-0303004"
+    },
+    "code": {
+      "id": "0303004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကလောမွန် ကျေးရွာအုပ်စု",
+      "en": "Tlauhmun Village Tract",
+      "slug": "tlauhmun-village-tract-0303220"
+    },
+    "code": {
+      "id": "0303220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောရ်သန်း ကျေးရွာအုပ်စု",
+      "en": "Tlortang Village Tract",
+      "slug": "tlortang-village-tract-0303247"
+    },
+    "code": {
+      "id": "0303247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303274",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗန်ဗား ကျေးရွာအုပ်စု",
+      "en": "Vangva Village Tract",
+      "slug": "vangva-village-tract-0303274"
+    },
+    "code": {
+      "id": "0303274",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303274"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝေဘူလ ကျေးရွာအုပ်စု",
+      "en": "Webula Village Tract",
+      "slug": "webula-village-tract-0303243"
+    },
+    "code": {
+      "id": "0303243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇာလိုင် ရပ်ကွက်",
+      "en": "Zalai Ward Quarter",
+      "slug": "zalai-ward-quarter-0303008"
+    },
+    "code": {
+      "id": "0303008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇာလန် ကျေးရွာအုပ်စု",
+      "en": "Zalang Village Tract",
+      "slug": "zalang-village-tract-0303242"
+    },
+    "code": {
+      "id": "0303242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇာထလိရ် ကျေးရွာအုပ်စု",
+      "en": "Zathlir Village Tract",
+      "slug": "zathlir-village-tract-0303219"
+    },
+    "code": {
+      "id": "0303219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇာသွားလ် ကျေးရွာအုပ်စု",
+      "en": "Zatual Village Tract",
+      "slug": "zatual-village-tract-0303244"
+    },
+    "code": {
+      "id": "0303244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇောလ်နိုး ကျေးရွာအုပ်စု",
+      "en": "Zawlnu Village Tract",
+      "slug": "zawlnu-village-tract-0303226"
+    },
+    "code": {
+      "id": "0303226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303264",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇို/ဒီဟိုင် ကျေးရွာအုပ်စု",
+      "en": "Zo/Dihai Village Tract",
+      "slug": "zodihai-village-tract-0303264"
+    },
+    "code": {
+      "id": "0303264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303264"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303268",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇောင်သဲ ကျေးရွာအုပ်စု",
+      "en": "Zongte Village Tract",
+      "slug": "zongte-village-tract-0303268"
+    },
+    "code": {
+      "id": "0303268",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303268"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0303240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇူးလ်သူး ကျေးရွာအုပ်စု",
+      "en": "Zultu Village Tract",
+      "slug": "zultu-village-tract-0303240"
+    },
+    "code": {
+      "id": "0303240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004001701",
+      "level": 3,
+      "name": {
+        "local": "ဖလမ်း",
+        "en": "Falam",
+        "slug": "falam-MMR004001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004001701",
+        "level": 3,
+        "name": {
+          "local": "ဖလမ်း",
+          "en": "Falam",
+          "slug": "falam-MMR004001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0303240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

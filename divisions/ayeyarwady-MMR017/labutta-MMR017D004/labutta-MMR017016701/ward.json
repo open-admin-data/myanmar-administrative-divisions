@@ -1,0 +1,4877 @@
+[
+  {
+    "id": "1012206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမတ် ကျေးရွာအုပ်စု",
+      "en": "Ah Mat Village Tract",
+      "slug": "ah-mat-village-tract-1012206"
+    },
+    "code": {
+      "id": "1012206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုင်းဒေါင့်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Baing Daunt Chaung Village Tract",
+      "slug": "baing-daunt-chaung-village-tract-1012238"
+    },
+    "code": {
+      "id": "1012238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘာသာကုန်း ကျေးရွာအုပ်စု",
+      "en": "Bar Thar Kone Village Tract",
+      "slug": "bar-thar-kone-village-tract-1012252"
+    },
+    "code": {
+      "id": "1012252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘေးပေါက် ကျေးရွာအုပ်စု",
+      "en": "Bay Pauk Village Tract",
+      "slug": "bay-pauk-village-tract-1012213"
+    },
+    "code": {
+      "id": "1012213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘီတွတ် ကျေးရွာအုပ်စု",
+      "en": "Bi Tut Village Tract",
+      "slug": "bi-tut-village-tract-1012218"
+    },
+    "code": {
+      "id": "1012218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုးပြေ့ ကျေးရွာအုပ်စု",
+      "en": "Boe Pyayt Village Tract",
+      "slug": "boe-pyayt-village-tract-1012215"
+    },
+    "code": {
+      "id": "1012215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုန်းကြီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Bone Gyi Kone Village Tract",
+      "slug": "bone-gyi-kone-village-tract-1012260"
+    },
+    "code": {
+      "id": "1012260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓနိဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Da Ni Seik Village Tract",
+      "slug": "da-ni-seik-village-tract-1012241"
+    },
+    "code": {
+      "id": "1012241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂန့်အိပ် ကျေးရွာအုပ်စု",
+      "en": "Gant Eik Village Tract",
+      "slug": "gant-eik-village-tract-1012227"
+    },
+    "code": {
+      "id": "1012227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံညှင်းတန်း ကျေးရွာအုပ်စု",
+      "en": "Gon Hnyin Tan Village Tract",
+      "slug": "gon-hnyin-tan-village-tract-1012217"
+    },
+    "code": {
+      "id": "1012217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှိုင်းဘုန်း ကျေးရွာအုပ်စု",
+      "en": "Hlaing Bone Village Tract",
+      "slug": "hlaing-bone-village-tract-1012257"
+    },
+    "code": {
+      "id": "1012257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွှဇာ ကျေးရွာအုပ်စု",
+      "en": "Hlwa Zar Village Tract",
+      "slug": "hlwa-zar-village-tract-1012236"
+    },
+    "code": {
+      "id": "1012236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထင်းပုံကွင်း ကျေးရွာအုပ်စု",
+      "en": "Htin Pon Kwin Village Tract",
+      "slug": "htin-pon-kwin-village-tract-1012209"
+    },
+    "code": {
+      "id": "1012209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကကရန် ကျေးရွာအုပ်စု",
+      "en": "Ka Ka Yan Village Tract",
+      "slug": "ka-ka-yan-village-tract-1012223"
+    },
+    "code": {
+      "id": "1012223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kaing Village Tract",
+      "slug": "ka-nyin-kaing-village-tract-1012261"
+    },
+    "code": {
+      "id": "1012261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kone Village Tract",
+      "slug": "ka-nyin-kone-village-tract-1012205"
+    },
+    "code": {
+      "id": "1012205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကသပေါင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Tha Paung Village Tract",
+      "slug": "ka-tha-paung-village-tract-1012247"
+    },
+    "code": {
+      "id": "1012247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012264",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကိုင်းသောင် ကျေးရွာအုပ်စု",
+      "en": "Kaing Thaung Village Tract",
+      "slug": "kaing-thaung-village-tract-1012264"
+    },
+    "code": {
+      "id": "1012264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012264"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ဘက် ကျေးရွာအုပ်စု",
+      "en": "Kan Bet Village Tract",
+      "slug": "kan-bet-village-tract-1012210"
+    },
+    "code": {
+      "id": "1012210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန့်ဘလာ ကျေးရွာအုပ်စု",
+      "en": "Kant Ba Lar Village Tract",
+      "slug": "kant-ba-lar-village-tract-1012228"
+    },
+    "code": {
+      "id": "1012228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုက္ကို ကျေးရွာအုပ်စု",
+      "en": "Koke Ko Village Tract",
+      "slug": "koke-ko-village-tract-1012237"
+    },
+    "code": {
+      "id": "1012237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kone Gyi Village Tract",
+      "slug": "kone-gyi-village-tract-1012234"
+    },
+    "code": {
+      "id": "1012234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyar Kan Village Tract",
+      "slug": "kyar-kan-village-tract-1012243"
+    },
+    "code": {
+      "id": "1012243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်မှော် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Hmaw Village Tract",
+      "slug": "kyauk-hmaw-village-tract-1012200"
+    },
+    "code": {
+      "id": "1012200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဖြူ/ပိန္နဲတောင် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Hpyu Pein Hne Taung Village Tract",
+      "slug": "kyauk-hpyu-pein-hne-taung-village-tract-1012246"
+    },
+    "code": {
+      "id": "1012246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Gyi Village Tract",
+      "slug": "kyauk-tan-gyi-village-tract-1012248"
+    },
+    "code": {
+      "id": "1012248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Ka Lay Village Tract",
+      "slug": "kyauk-tan-ka-lay-village-tract-1012249"
+    },
+    "code": {
+      "id": "1012249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြီးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kyee Chaung Village Tract",
+      "slug": "kyee-chaung-village-tract-1012224"
+    },
+    "code": {
+      "id": "1012224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြိမ်ကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyein Kone Gyi Village Tract",
+      "slug": "kyein-kone-gyi-village-tract-1012212"
+    },
+    "code": {
+      "id": "1012212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြိမ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyein Kwin Village Tract",
+      "slug": "kyein-kwin-village-tract-1012211"
+    },
+    "code": {
+      "id": "1012211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြူတော ကျေးရွာအုပ်စု",
+      "en": "Kyu Taw Village Tract",
+      "slug": "kyu-taw-village-tract-1012216"
+    },
+    "code": {
+      "id": "1012216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kyun Chaung Village Tract",
+      "slug": "kyun-chaung-village-tract-1012225"
+    },
+    "code": {
+      "id": "1012225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လပွတ်ပြေးလဲပြောက် ကျေးရွာအုပ်စု",
+      "en": "La Put Pyay Le Pyauk Village Tract",
+      "slug": "la-put-pyay-le-pyauk-village-tract-1012256"
+    },
+    "code": {
+      "id": "1012256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လပွတ္တလုပ် (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "La Put Ta Loke (North) Village Tract",
+      "slug": "la-put-ta-loke-north-village-tract-1012202"
+    },
+    "code": {
+      "id": "1012202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လပွတ္တလုပ် (တောင်) ကျေးရွာအုပ်စု",
+      "en": "La Put Ta Loke (South) Village Tract",
+      "slug": "la-put-ta-loke-south-village-tract-1012203"
+    },
+    "code": {
+      "id": "1012203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောင်ဒီ ကျေးရွာအုပ်စု",
+      "en": "Maung De Village Tract",
+      "slug": "maung-de-village-tract-1012254"
+    },
+    "code": {
+      "id": "1012254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောင်ငယ် ကျေးရွာအုပ်စု",
+      "en": "Maung Nge Village Tract",
+      "slug": "maung-nge-village-tract-1012219"
+    },
+    "code": {
+      "id": "1012219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဘူးစု ကျေးရွာအုပ်စု",
+      "en": "Min Bu Su Village Tract",
+      "slug": "min-bu-su-village-tract-1012253"
+    },
+    "code": {
+      "id": "1012253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြွေဟောက် ကျေးရွာအုပ်စု",
+      "en": "Mway Hauk Village Tract",
+      "slug": "mway-hauk-village-tract-1012255"
+    },
+    "code": {
+      "id": "1012255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြစ်ပေါက် ကျေးရွာအုပ်စု",
+      "en": "Myit Pauk Village Tract",
+      "slug": "myit-pauk-village-tract-1012220"
+    },
+    "code": {
+      "id": "1012220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1012001"
+    },
+    "code": {
+      "id": "1012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) ရပ်ကွက်",
+      "en": "No (10) Quarter",
+      "slug": "no-10-quarter-1012010"
+    },
+    "code": {
+      "id": "1012010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1012002"
+    },
+    "code": {
+      "id": "1012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1012003"
+    },
+    "code": {
+      "id": "1012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1012004"
+    },
+    "code": {
+      "id": "1012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1012005"
+    },
+    "code": {
+      "id": "1012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1012006"
+    },
+    "code": {
+      "id": "1012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-1012007"
+    },
+    "code": {
+      "id": "1012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-1012008"
+    },
+    "code": {
+      "id": "1012008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) ရပ်ကွက်",
+      "en": "No (9) Quarter",
+      "slug": "no-9-quarter-1012009"
+    },
+    "code": {
+      "id": "1012009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညံကွင်း ကျေးရွာအုပ်စု",
+      "en": "Nyan Kwin Village Tract",
+      "slug": "nyan-kwin-village-tract-1012250"
+    },
+    "code": {
+      "id": "1012250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Chaung Village Tract",
+      "slug": "nyaung-chaung-village-tract-1012222"
+    },
+    "code": {
+      "id": "1012222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လန်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lan Village Tract",
+      "slug": "nyaung-lan-village-tract-1012214"
+    },
+    "code": {
+      "id": "1012214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လိန် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lein Village Tract",
+      "slug": "nyaung-lein-village-tract-1012201"
+    },
+    "code": {
+      "id": "1012201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုံးတပင် ကျေးရွာအုပ်စု",
+      "en": "Ohn Ta Pin Village Tract",
+      "slug": "ohn-ta-pin-village-tract-1012208"
+    },
+    "code": {
+      "id": "1012208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းတုံးကွင်း ကျေးရွာအုပ်စု",
+      "en": "Pan Tone Kwin Village Tract",
+      "slug": "pan-tone-kwin-village-tract-1012251"
+    },
+    "code": {
+      "id": "1012251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိုးလောင်း ကျေးရွာအုပ်စု",
+      "en": "Poe Laung Village Tract",
+      "slug": "poe-laung-village-tract-1012242"
+    },
+    "code": {
+      "id": "1012242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စလူဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Sa Lu Seik Village Tract",
+      "slug": "sa-lu-seik-village-tract-1012233"
+    },
+    "code": {
+      "id": "1012233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားချက် ကျေးရွာအုပ်စု",
+      "en": "Sar Chet Village Tract",
+      "slug": "sar-chet-village-tract-1012239"
+    },
+    "code": {
+      "id": "1012239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားကျင်း ကျေးရွာအုပ်စု",
+      "en": "Sar Kyin Village Tract",
+      "slug": "sar-kyin-village-tract-1012204"
+    },
+    "code": {
+      "id": "1012204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှော်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Shaw Chaung Village Tract",
+      "slug": "shaw-chaung-village-tract-1012221"
+    },
+    "code": {
+      "id": "1012221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ခြေယာ ကျေးရွာအုပ်စု",
+      "en": "Sin Chay Yar Village Tract",
+      "slug": "sin-chay-yar-village-tract-1012229"
+    },
+    "code": {
+      "id": "1012229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Tat Kwin Village Tract",
+      "slug": "tat-kwin-village-tract-1012226"
+    },
+    "code": {
+      "id": "1012226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တယ်ပင်တိုင်း ကျေးရွာအုပ်စု",
+      "en": "Tei Pin Taing Village Tract",
+      "slug": "tei-pin-taing-village-tract-1012235"
+    },
+    "code": {
+      "id": "1012235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သနပ်ဖက် ကျေးရွာအုပ်စု",
+      "en": "Tha Nat Hpet Village Tract",
+      "slug": "tha-nat-hpet-village-tract-1012207"
+    },
+    "code": {
+      "id": "1012207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေချောင်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Chaung Village Tract",
+      "slug": "tha-pyay-chaung-village-tract-1012262"
+    },
+    "code": {
+      "id": "1012262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြုကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyu Kone Village Tract",
+      "slug": "tha-pyu-kone-village-tract-1012230"
+    },
+    "code": {
+      "id": "1012230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ကုန်းလဲပြောက် ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Kone Le Pyauk Village Tract",
+      "slug": "tha-yet-kone-le-pyauk-village-tract-1012258"
+    },
+    "code": {
+      "id": "1012258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာလိကာကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thar Li Kar Kone Village Tract",
+      "slug": "thar-li-kar-kone-village-tract-1012259"
+    },
+    "code": {
+      "id": "1012259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သင်္ဃန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Thin Gan Gyi Village Tract",
+      "slug": "thin-gan-gyi-village-tract-1012231"
+    },
+    "code": {
+      "id": "1012231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ပုတ် ကျေးရွာအုပ်စု",
+      "en": "Thit Poke Village Tract",
+      "slug": "thit-poke-village-tract-1012263"
+    },
+    "code": {
+      "id": "1012263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူးမြောင်း ကျေးရွာအုပ်စု",
+      "en": "Tu Myaung Village Tract",
+      "slug": "tu-myaung-village-tract-1012244"
+    },
+    "code": {
+      "id": "1012244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Yae Saing Village Tract",
+      "slug": "yae-saing-village-tract-1012245"
+    },
+    "code": {
+      "id": "1012245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Seik Village Tract",
+      "slug": "yae-twin-seik-village-tract-1012240"
+    },
+    "code": {
+      "id": "1012240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1012232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွေး ကျေးရွာအုပ်စု",
+      "en": "Yway Village Tract",
+      "slug": "yway-village-tract-1012232"
+    },
+    "code": {
+      "id": "1012232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016701",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ",
+        "en": "Labutta",
+        "slug": "labutta-MMR017016701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016701",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ",
+          "en": "Labutta",
+          "slug": "labutta-MMR017016701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1012232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

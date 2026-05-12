@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "0234001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-0234001"
+    },
+    "code": {
+      "id": "0234001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-0234004"
+    },
+    "code": {
+      "id": "0234004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အာလကပ္ပ ကျေးရွာအုပ်စု",
+      "en": "Ahr Lar Kat Pa Village Tract",
+      "slug": "ahr-lar-kat-pa-village-tract-0234211"
+    },
+    "code": {
+      "id": "0234211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုးမင်းကြီးကင်း ကျေးရွာအုပ်စု",
+      "en": "Boe Min Gyi Kin Village Tract",
+      "slug": "boe-min-gyi-kin-village-tract-0234206"
+    },
+    "code": {
+      "id": "0234206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခြေရာတော် ကျေးရွာအုပ်စု",
+      "en": "Chay Yar Taw Village Tract",
+      "slug": "chay-yar-taw-village-tract-0234204"
+    },
+    "code": {
+      "id": "0234204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂရု ကျေးရွာအုပ်စု",
+      "en": "Ga Yu Village Tract",
+      "slug": "ga-yu-village-tract-0234235"
+    },
+    "code": {
+      "id": "0234235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံညင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Gon Hnyin Seik Village Tract",
+      "slug": "gon-hnyin-seik-village-tract-0234217"
+    },
+    "code": {
+      "id": "0234217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးပင်တော ကျေးရွာအုပ်စု",
+      "en": "Gway Pin Taw Village Tract",
+      "slug": "gway-pin-taw-village-tract-0234205"
+    },
+    "code": {
+      "id": "0234205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီးဆောင်း ကျေးရွာအုပ်စု",
+      "en": "Htee Saung Village Tract",
+      "slug": "htee-saung-village-tract-0234214"
+    },
+    "code": {
+      "id": "0234214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ကန် ကျေးရွာအုပ်စု",
+      "en": "Htein Kan Village Tract",
+      "slug": "htein-kan-village-tract-0234226"
+    },
+    "code": {
+      "id": "0234226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းမ ကျေးရွာအုပ်စု",
+      "en": "Inn Ma Village Tract",
+      "slug": "inn-ma-village-tract-0234223"
+    },
+    "code": {
+      "id": "0234223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ပြား ကျေးရွာအုပ်စု",
+      "en": "Kan Pyar Village Tract",
+      "slug": "kan-pyar-village-tract-0234228"
+    },
+    "code": {
+      "id": "0234228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော် ကျေးရွာအုပ်စု",
+      "en": "Kan Taw Village Tract",
+      "slug": "kan-taw-village-tract-0234227"
+    },
+    "code": {
+      "id": "0234227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွက်ခွင်း ကျေးရွာအုပ်စု",
+      "en": "Khwet Khwin Village Tract",
+      "slug": "khwet-khwin-village-tract-0234225"
+    },
+    "code": {
+      "id": "0234225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kone Village Tract",
+      "slug": "kone-village-tract-0234245"
+    },
+    "code": {
+      "id": "0234245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားပျံ ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Pyan Village Tract",
+      "slug": "ku-lar-pyan-village-tract-0234213"
+    },
+    "code": {
+      "id": "0234213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျော့မင်း ကျေးရွာအုပ်စု",
+      "en": "Kyawt Min Village Tract",
+      "slug": "kyawt-min-village-tract-0234203"
+    },
+    "code": {
+      "id": "0234203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲရိုက် ကျေးရွာအုပ်စု",
+      "en": "Kywe Yaik Village Tract",
+      "slug": "kywe-yaik-village-tract-0234202"
+    },
+    "code": {
+      "id": "0234202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ထုတ္တော ကျေးရွာအုပ်စု",
+      "en": "Let Htoke Taw Village Tract",
+      "slug": "let-htoke-taw-village-tract-0234212"
+    },
+    "code": {
+      "id": "0234212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပကျင်း ကျေးရွာအုပ်စု",
+      "en": "Let Pa Kyin Village Tract",
+      "slug": "let-pa-kyin-village-tract-0234241"
+    },
+    "code": {
+      "id": "0234241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန် ကျေးရွာအုပ်စု",
+      "en": "Let Pan Village Tract",
+      "slug": "let-pan-village-tract-0234244"
+    },
+    "code": {
+      "id": "0234244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးကန် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kan Village Tract",
+      "slug": "ma-gyi-kan-village-tract-0234232"
+    },
+    "code": {
+      "id": "0234232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးစု ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Su Village Tract",
+      "slug": "ma-gyi-su-village-tract-0234209"
+    },
+    "code": {
+      "id": "0234209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲနော ကျေးရွာအုပ်စု",
+      "en": "Me Naw Village Tract",
+      "slug": "me-naw-village-tract-0234236"
+    },
+    "code": {
+      "id": "0234236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူးမန္တလေး ကျေးရွာအုပ်စု",
+      "en": "Mu Mandalay Village Tract",
+      "slug": "mu-mandalay-village-tract-0234221"
+    },
+    "code": {
+      "id": "0234221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မူးဝရွာထောင် ကျေးရွာအုပ်စု",
+      "en": "Mu Wa Ywar Htaung Village Tract",
+      "slug": "mu-wa-ywar-htaung-village-tract-0234233"
+    },
+    "code": {
+      "id": "0234233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-0234002"
+    },
+    "code": {
+      "id": "0234002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နဘဲကြူး ကျေးရွာအုပ်စု",
+      "en": "Na Be Kyu Village Tract",
+      "slug": "na-be-kyu-village-tract-0234230"
+    },
+    "code": {
+      "id": "0234230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးကင်း ကျေးရွာအုပ်စု",
+      "en": "Ngar Kin Village Tract",
+      "slug": "ngar-kin-village-tract-0234224"
+    },
+    "code": {
+      "id": "0234224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်မြစ် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Myit Village Tract",
+      "slug": "nyaung-myit-village-tract-0234218"
+    },
+    "code": {
+      "id": "0234218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်ကန် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Kan Village Tract",
+      "slug": "nyaung-pin-kan-village-tract-0234239"
+    },
+    "code": {
+      "id": "0234239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ရင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Yin Village Tract",
+      "slug": "nyaung-yin-village-tract-0234216"
+    },
+    "code": {
+      "id": "0234216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဒတ္တိုင်း ကျေးရွာအုပ်စု",
+      "en": "Pa Dat Taing Village Tract",
+      "slug": "pa-dat-taing-village-tract-0234240"
+    },
+    "code": {
+      "id": "0234240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုလဲတန် ကျေးရွာအုပ်စု",
+      "en": "Pale Tan Village Tract",
+      "slug": "pale-tan-village-tract-0234247"
+    },
+    "code": {
+      "id": "0234247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲကူ ကျေးရွာအုပ်စု",
+      "en": "Pe Ku Village Tract",
+      "slug": "pe-ku-village-tract-0234215"
+    },
+    "code": {
+      "id": "0234215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲတောင်း ကျေးရွာအုပ်စု",
+      "en": "Pe Taung Village Tract",
+      "slug": "pe-taung-village-tract-0234246"
+    },
+    "code": {
+      "id": "0234246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုံညာ ကျေးရွာအုပ်စု",
+      "en": "Pon Nyar Village Tract",
+      "slug": "pon-nyar-village-tract-0234219"
+    },
+    "code": {
+      "id": "0234219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျော့ ကျေးရွာအုပ်စု",
+      "en": "Pyawt Village Tract",
+      "slug": "pyawt-village-tract-0234231"
+    },
+    "code": {
+      "id": "0234231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဉ္စာကုံး ကျေးရွာအုပ်စု",
+      "en": "Pyin Sar Kone Village Tract",
+      "slug": "pyin-sar-kone-village-tract-0234243"
+    },
+    "code": {
+      "id": "0234243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံတင်ကင်း ကျေးရွာအုပ်စု",
+      "en": "San Tin Kin Village Tract",
+      "slug": "san-tin-kin-village-tract-0234210"
+    },
+    "code": {
+      "id": "0234210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆပ်ပန်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Sat Pan Kone Village Tract",
+      "slug": "sat-pan-kone-village-tract-0234201"
+    },
+    "code": {
+      "id": "0234201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆပ်ပြာကျင်း ကျေးရွာအုပ်စု",
+      "en": "Sat Pyar Kyin Village Tract",
+      "slug": "sat-pyar-kyin-village-tract-0234229"
+    },
+    "code": {
+      "id": "0234229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကျောင်းကန် ကျေးရွာအုပ်စု",
+      "en": "Shwe Kyaung Kan Village Tract",
+      "slug": "shwe-kyaung-kan-village-tract-0234222"
+    },
+    "code": {
+      "id": "0234222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေယင်းမာ ကျေးရွာအုပ်စု",
+      "en": "Shwe Yin Mar Village Tract",
+      "slug": "shwe-yin-mar-village-tract-0234237"
+    },
+    "code": {
+      "id": "0234237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စည်ပင် ကျေးရွာအုပ်စု",
+      "en": "Si Pin Village Tract",
+      "slug": "si-pin-village-tract-0234208"
+    },
+    "code": {
+      "id": "0234208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-0234003"
+    },
+    "code": {
+      "id": "0234003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောချောင်းဦး ကျေးရွာအုပ်စု",
+      "en": "Taw Chaung U Village Tract",
+      "slug": "taw-chaung-u-village-tract-0234234"
+    },
+    "code": {
+      "id": "0234234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သမန္တော ကျေးရွာအုပ်စု",
+      "en": "Tha Man Taw Village Tract",
+      "slug": "tha-man-taw-village-tract-0234242"
+    },
+    "code": {
+      "id": "0234242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေသာ ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Thar Village Tract",
+      "slug": "tha-pyay-thar-village-tract-0234220"
+    },
+    "code": {
+      "id": "0234220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တွင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Twin Gyi Village Tract",
+      "slug": "twin-gyi-village-tract-0234207"
+    },
+    "code": {
+      "id": "0234207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်းပြည့် ကျေးရွာအုပ်စု",
+      "en": "Wan Pyayt Village Tract",
+      "slug": "wan-pyayt-village-tract-0234200"
+    },
+    "code": {
+      "id": "0234200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0234238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးကား ကျေးရွာအုပ်စု",
+      "en": "Yone Kar Village Tract",
+      "slug": "yone-kar-village-tract-0234238"
+    },
+    "code": {
+      "id": "0234238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005002701",
+      "level": 3,
+      "name": {
+        "local": "မြင်းမူ",
+        "en": "Myinmu",
+        "slug": "myinmu-MMR005002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်ကိုင်းခရိုင်",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005D001"
+        }
+      },
+      {
+        "id": "MMR005002701",
+        "level": 3,
+        "name": {
+          "local": "မြင်းမူ",
+          "en": "Myinmu",
+          "slug": "myinmu-MMR005002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0234238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

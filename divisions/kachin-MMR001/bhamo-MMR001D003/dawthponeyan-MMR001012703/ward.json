@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0173001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0173001"
+    },
+    "code": {
+      "id": "0173001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012703",
+      "level": 3,
+      "name": {
+        "local": "ဒေါ့ဖုန်းယန်",
+        "en": "Dawthponeyan",
+        "slug": "dawthponeyan-MMR001012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012703",
+        "level": 3,
+        "name": {
+          "local": "ဒေါ့ဖုန်းယန်",
+          "en": "Dawthponeyan",
+          "slug": "dawthponeyan-MMR001012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0173001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0173002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0173002"
+    },
+    "code": {
+      "id": "0173002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012703",
+      "level": 3,
+      "name": {
+        "local": "ဒေါ့ဖုန်းယန်",
+        "en": "Dawthponeyan",
+        "slug": "dawthponeyan-MMR001012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012703",
+        "level": 3,
+        "name": {
+          "local": "ဒေါ့ဖုန်းယန်",
+          "en": "Dawthponeyan",
+          "slug": "dawthponeyan-MMR001012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0173002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0173003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0173003"
+    },
+    "code": {
+      "id": "0173003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012703",
+      "level": 3,
+      "name": {
+        "local": "ဒေါ့ဖုန်းယန်",
+        "en": "Dawthponeyan",
+        "slug": "dawthponeyan-MMR001012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012703",
+        "level": 3,
+        "name": {
+          "local": "ဒေါ့ဖုန်းယန်",
+          "en": "Dawthponeyan",
+          "slug": "dawthponeyan-MMR001012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0173003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

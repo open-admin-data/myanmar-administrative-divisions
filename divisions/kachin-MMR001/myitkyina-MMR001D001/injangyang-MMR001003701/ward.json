@@ -1,0 +1,4357 @@
+[
+  {
+    "id": "0102251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဒန်ဂါး ကျေးရွာအုပ်စု",
+      "en": "Adan Ga Village Tract",
+      "slug": "adan-ga-village-tract-0102251"
+    },
+    "code": {
+      "id": "0102251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အူဂါအူဆီ ကျေးရွာအုပ်စု",
+      "en": "Au Ga Au Si Village Tract",
+      "slug": "au-ga-au-si-village-tract-0102231"
+    },
+    "code": {
+      "id": "0102231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွမ်လန် ကျေးရွာအုပ်စု",
+      "en": "Gum Lang Village Tract",
+      "slug": "gum-lang-village-tract-0102252"
+    },
+    "code": {
+      "id": "0102252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခန်ဒေါက်ယန် ကျေးရွာအုပ်စု",
+      "en": "Hkan Dauk Yang Village Tract",
+      "slug": "hkan-dauk-yang-village-tract-0102221"
+    },
+    "code": {
+      "id": "0102221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွမ်ဘွဲအူမား ကျေးရွာအုပ်စု",
+      "en": "Hkum Bwe Au Mar Village Tract",
+      "slug": "hkum-bwe-au-mar-village-tract-0102241"
+    },
+    "code": {
+      "id": "0102241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖုန်ဂန် ကျေးရွာအုပ်စု",
+      "en": "Hpon Gan Village Tract",
+      "slug": "hpon-gan-village-tract-0102206"
+    },
+    "code": {
+      "id": "0102206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖွမ်ယောင်ဒိန်ဆာ ကျေးရွာအုပ်စု",
+      "en": "Hpum Yawng Ding Sa Village Tract",
+      "slug": "hpum-yawng-ding-sa-village-tract-0102253"
+    },
+    "code": {
+      "id": "0102253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဘန်ဘွမ်း ကျေးရွာအုပ်စု",
+      "en": "In Bang Bum Village Tract",
+      "slug": "in-bang-bum-village-tract-0102256"
+    },
+    "code": {
+      "id": "0102256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဗျိုင်ဂါး ကျေးရွာအုပ်စု",
+      "en": "In Byine Gar Village Tract",
+      "slug": "in-byine-gar-village-tract-0102261"
+    },
+    "code": {
+      "id": "0102261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဒုံးယန် ကျေးရွာအုပ်စု",
+      "en": "In Dung Yang Village Tract",
+      "slug": "in-dung-yang-village-tract-0102205"
+    },
+    "code": {
+      "id": "0102205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဂေါ့အူမား ကျေးရွာအုပ်စု",
+      "en": "In Gawt Au Mar Village Tract",
+      "slug": "in-gawt-au-mar-village-tract-0102232"
+    },
+    "code": {
+      "id": "0102232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဂွမ်းလ ကျေးရွာအုပ်စု",
+      "en": "In Gum La Village Tract",
+      "slug": "in-gum-la-village-tract-0102255"
+    },
+    "code": {
+      "id": "0102255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ခူဂါး ကျေးရွာအုပ်စု",
+      "en": "In Hku Ga Village Tract",
+      "slug": "in-hku-ga-village-tract-0102226"
+    },
+    "code": {
+      "id": "0102226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ခူး ကျေးရွာအုပ်စု",
+      "en": "In Hku Village Tract",
+      "slug": "in-hku-village-tract-0102250"
+    },
+    "code": {
+      "id": "0102250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဖျင်ဂါး ကျေးရွာအုပ်စု",
+      "en": "In Hpyin Ga Village Tract",
+      "slug": "in-hpyin-ga-village-tract-0102211"
+    },
+    "code": {
+      "id": "0102211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ထောက်ဂါး ကျေးရွာအုပ်စု",
+      "en": "In Htauk Ga Village Tract",
+      "slug": "in-htauk-ga-village-tract-0102217"
+    },
+    "code": {
+      "id": "0102217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဂျီအူးမား ကျေးရွာအုပ်စု",
+      "en": "In Ji Au Mar Village Tract",
+      "slug": "in-ji-au-mar-village-tract-0102227"
+    },
+    "code": {
+      "id": "0102227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဂျွန်ဂါး ကျေးရွာအုပ်စု",
+      "en": "In Jun Ga Village Tract",
+      "slug": "in-jun-ga-village-tract-0102200"
+    },
+    "code": {
+      "id": "0102200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ကွယ် ကျေးရွာအုပ်စု",
+      "en": "In Kwei Village Tract",
+      "slug": "in-kwei-village-tract-0102260"
+    },
+    "code": {
+      "id": "0102260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်လောအူမား ကျေးရွာအုပ်စု",
+      "en": "In Law Au Mar Village Tract",
+      "slug": "in-law-au-mar-village-tract-0102243"
+    },
+    "code": {
+      "id": "0102243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်မန်ခဂျန် ကျေးရွာအုပ်စု",
+      "en": "In Man Hka Jang Village Tract",
+      "slug": "in-man-hka-jang-village-tract-0102210"
+    },
+    "code": {
+      "id": "0102210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ပေါက်ချက် ကျေးရွာအုပ်စု",
+      "en": "In Pauk Chet Village Tract",
+      "slug": "in-pauk-chet-village-tract-0102225"
+    },
+    "code": {
+      "id": "0102225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ပေါမ်ဘွမ်း ကျေးရွာအုပ်စု",
+      "en": "In Pawm Bum Village Tract",
+      "slug": "in-pawm-bum-village-tract-0102234"
+    },
+    "code": {
+      "id": "0102234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဆာခရန် ကျေးရွာအုပ်စု",
+      "en": "In Sar Hkram Village Tract",
+      "slug": "in-sar-hkram-village-tract-0102262"
+    },
+    "code": {
+      "id": "0102262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ရှန်ခိုးဂါး ကျေးရွာအုပ်စု",
+      "en": "In Shang Hkoe Gar Village Tract",
+      "slug": "in-shang-hkoe-gar-village-tract-0102246"
+    },
+    "code": {
+      "id": "0102246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်တျိန်ခရမ် ကျေးရွာအုပ်စု",
+      "en": "In Trein Hka Yam Village Tract",
+      "slug": "in-trein-hka-yam-village-tract-0102220"
+    },
+    "code": {
+      "id": "0102220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဝိုင်းကောင် ကျေးရွာအုပ်စု",
+      "en": "In Waing Kawng Village Tract",
+      "slug": "in-waing-kawng-village-tract-0102223"
+    },
+    "code": {
+      "id": "0102223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂျိန်မာယန် ကျေးရွာအုပ်စု",
+      "en": "Jing Ma Yang Village Tract",
+      "slug": "jing-ma-yang-village-tract-0102222"
+    },
+    "code": {
+      "id": "0102222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒေါ့ဇွမ်ဖော် ကျေးရွာအုပ်စု",
+      "en": "Ka Dawt Zum Hpaw Village Tract",
+      "slug": "ka-dawt-zum-hpaw-village-tract-0102259"
+    },
+    "code": {
+      "id": "0102259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကထန်တူ ကျေးရွာအုပ်စု",
+      "en": "Ka Htang Tu Village Tract",
+      "slug": "ka-htang-tu-village-tract-0102254"
+    },
+    "code": {
+      "id": "0102254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂကျီးထုလနန် ကျေးရွာအုပ်စု",
+      "en": "Ka Kyee Htu La Nang Village Tract",
+      "slug": "ka-kyee-htu-la-nang-village-tract-0102228"
+    },
+    "code": {
+      "id": "0102228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကကျီးထူ ကျေးရွာအုပ်စု",
+      "en": "Ka Kyee Htu Village Tract",
+      "slug": "ka-kyee-htu-village-tract-0102237"
+    },
+    "code": {
+      "id": "0102237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရိန်ဂါး ကျေးရွာအုပ်စု",
+      "en": "Ka Ring Ga Village Tract",
+      "slug": "ka-ring-ga-village-tract-0102240"
+    },
+    "code": {
+      "id": "0102240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရောင်ထိန်ရော့ ကျေးရွာအုပ်စု",
+      "en": "Ka Yawng Htein Rawt Village Tract",
+      "slug": "ka-yawng-htein-rawt-village-tract-0102218"
+    },
+    "code": {
+      "id": "0102218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိန်မာဂါး ကျေးရွာအုပ်စု",
+      "en": "Kying Ma Gar Village Tract",
+      "slug": "kying-ma-gar-village-tract-0102247"
+    },
+    "code": {
+      "id": "0102247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဂန်အင်ဘောက်တူ ကျေးရွာအုပ်စု",
+      "en": "La Gan In Bauk Htu Village Tract",
+      "slug": "la-gan-in-bauk-htu-village-tract-0102229"
+    },
+    "code": {
+      "id": "0102229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဝါ့ယန် ကျေးရွာအုပ်စု",
+      "en": "La Wa Yang Village Tract",
+      "slug": "la-wa-yang-village-tract-0102236"
+    },
+    "code": {
+      "id": "0102236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဇီးဂွမ်ရန်လာ ကျေးရွာအုပ်စု",
+      "en": "La Zee Gum Yang Lar Village Tract",
+      "slug": "la-zee-gum-yang-lar-village-tract-0102235"
+    },
+    "code": {
+      "id": "0102235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဒန်တူ ကျေးရွာအုပ်စု",
+      "en": "Ma Dan Tu Village Tract",
+      "slug": "ma-dan-tu-village-tract-0102242"
+    },
+    "code": {
+      "id": "0102242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မထော်အူမား ကျေးရွာအုပ်စု",
+      "en": "Ma Htaw Au Mar Village Tract",
+      "slug": "ma-htaw-au-mar-village-tract-0102257"
+    },
+    "code": {
+      "id": "0102257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မထွမ် ကျေးရွာအုပ်စု",
+      "en": "Ma Htum Village Tract",
+      "slug": "ma-htum-village-tract-0102203"
+    },
+    "code": {
+      "id": "0102203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျန်ဒိန်ဆာ ကျေးရွာအုပ်စု",
+      "en": "Ma Kyang Ding Sa Village Tract",
+      "slug": "ma-kyang-ding-sa-village-tract-0102239"
+    },
+    "code": {
+      "id": "0102239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဝန်အူမား ကျေးရွာအုပ်စု",
+      "en": "Ma Wun Au Mar Village Tract",
+      "slug": "ma-wun-au-mar-village-tract-0102248"
+    },
+    "code": {
+      "id": "0102248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်ရွန်း ကျေးရွာအုပ်စု",
+      "en": "Mai Rawn Village Tract",
+      "slug": "mai-rawn-village-tract-0102202"
+    },
+    "code": {
+      "id": "0102202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်တောင် ကျေးရွာအုပ်စု",
+      "en": "Mai Taung Village Tract",
+      "slug": "mai-taung-village-tract-0102212"
+    },
+    "code": {
+      "id": "0102212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြစ်ဆုံ ကျေးရွာအုပ်စု",
+      "en": "Myit Son Village Tract",
+      "slug": "myit-son-village-tract-0102224"
+    },
+    "code": {
+      "id": "0102224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နော့ခွမ်ဂါး ကျေးရွာအုပ်စု",
+      "en": "Naw Hkum Ga Village Tract",
+      "slug": "naw-hkum-ga-village-tract-0102245"
+    },
+    "code": {
+      "id": "0102245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နော်လန် ကျေးရွာအုပ်စု",
+      "en": "Naw Lang Village Tract",
+      "slug": "naw-lang-village-tract-0102258"
+    },
+    "code": {
+      "id": "0102258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0102001"
+    },
+    "code": {
+      "id": "0102001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0102002"
+    },
+    "code": {
+      "id": "0102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0102003"
+    },
+    "code": {
+      "id": "0102003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0102004"
+    },
+    "code": {
+      "id": "0102004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်လောင် ကျေးရွာအုပ်စု",
+      "en": "Pin Laung Village Tract",
+      "slug": "pin-laung-village-tract-0102216"
+    },
+    "code": {
+      "id": "0102216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆလော်ဒိန်ငွတ် ကျေးရွာအုပ်စု",
+      "en": "Sa Law Ding Ngut Village Tract",
+      "slug": "sa-law-ding-ngut-village-tract-0102238"
+    },
+    "code": {
+      "id": "0102238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆလော်ဒိန်ဆာ ကျေးရွာအုပ်စု",
+      "en": "Sa Law Ding Sar Village Tract",
+      "slug": "sa-law-ding-sar-village-tract-0102208"
+    },
+    "code": {
+      "id": "0102208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆမ်ဖွမ်ဂါး ကျေးရွာအုပ်စု",
+      "en": "Sam Hpum Ga Village Tract",
+      "slug": "sam-hpum-ga-village-tract-0102204"
+    },
+    "code": {
+      "id": "0102204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှဒန်လော့ခွမ် ကျေးရွာအုပ်စု",
+      "en": "Sha Dan Lawt Khum Village Tract",
+      "slug": "sha-dan-lawt-khum-village-tract-0102209"
+    },
+    "code": {
+      "id": "0102209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှဒန်ပုန်ဝါ ကျေးရွာအုပ်စု",
+      "en": "Sha Dan Pong War Village Tract",
+      "slug": "sha-dan-pong-war-village-tract-0102219"
+    },
+    "code": {
+      "id": "0102219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှဂရီကထောင် ကျေးရွာအုပ်စု",
+      "en": "Sha Ga Ri Ka Htaung Village Tract",
+      "slug": "sha-ga-ri-ka-htaung-village-tract-0102213"
+    },
+    "code": {
+      "id": "0102213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှရဲအူမား ကျေးရွာအုပ်စု",
+      "en": "Sha Re Au Mar Village Tract",
+      "slug": "sha-re-au-mar-village-tract-0102249"
+    },
+    "code": {
+      "id": "0102249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှင်ဒန်ဒိန်ဆာ ကျေးရွာအုပ်စု",
+      "en": "Shadan Ding Sa Village Tract",
+      "slug": "shadan-ding-sa-village-tract-0102233"
+    },
+    "code": {
+      "id": "0102233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှဂရီဘွမ် ကျေးရွာအုပ်စု",
+      "en": "Shagri Bum Village Tract",
+      "slug": "shagri-bum-village-tract-0102201"
+    },
+    "code": {
+      "id": "0102201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှင်ကွန် (ကျိန်ထောင်ဂါး) ကျေးရွာအုပ်စု",
+      "en": "Shin Kun (Kying Htaung Ga) Village Tract",
+      "slug": "shin-kun-kying-htaung-ga-village-tract-0102214"
+    },
+    "code": {
+      "id": "0102214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွပ်မာတူ ကျေးရွာအုပ်စု",
+      "en": "Sut Mar Tu Village Tract",
+      "slug": "sut-mar-tu-village-tract-0102207"
+    },
+    "code": {
+      "id": "0102207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွမ်ဒွါဂါး ကျေးရွာအုပ်စု",
+      "en": "Tsum Dwar Ga Village Tract",
+      "slug": "tsum-dwar-ga-village-tract-0102215"
+    },
+    "code": {
+      "id": "0102215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွမ်ဖောင်း ကျေးရွာအုပ်စု",
+      "en": "Tsum Hpawng Village Tract",
+      "slug": "tsum-hpawng-village-tract-0102230"
+    },
+    "code": {
+      "id": "0102230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0102244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါလီချက် ကျေးရွာအုပ်စု",
+      "en": "War Li Chet Village Tract",
+      "slug": "war-li-chet-village-tract-0102244"
+    },
+    "code": {
+      "id": "0102244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001003701",
+      "level": 3,
+      "name": {
+        "local": "အင်ဂျန်းယန်",
+        "en": "Injangyang",
+        "slug": "injangyang-MMR001003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001003701",
+        "level": 3,
+        "name": {
+          "local": "အင်ဂျန်းယန်",
+          "en": "Injangyang",
+          "slug": "injangyang-MMR001003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0102244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "MMR010",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "မန္တလေးတိုင်းဒေသကြီး",
+    "en": "Mandalay",
+    "slug": "mandalay-MMR010"
+  },
+  "code": {
+    "id": "MMR010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "ward": 1703,
+    "township": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.6657",
+    "lon": "95.875"
+  },
+  "metadata": {},
+  "source": {}
+}

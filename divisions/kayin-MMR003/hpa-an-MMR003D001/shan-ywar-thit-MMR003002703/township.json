@@ -1,0 +1,56 @@
+{
+  "id": "MMR003002703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရှမ်းရွာသစ်",
+    "en": "Shan Ywar Thit",
+    "slug": "shan-ywar-thit-MMR003002703"
+  },
+  "code": {
+    "id": "MMR003002703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003D001",
+    "level": 2,
+    "name": {
+      "local": "ဘားအံခရိုင်",
+      "en": "Hpa-An",
+      "slug": "hpa-an-MMR003D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    {
+      "id": "MMR003D001",
+      "level": 2,
+      "name": {
+        "local": "ဘားအံခရိုင်",
+        "en": "Hpa-An",
+        "slug": "hpa-an-MMR003D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.42438",
+    "lon": "97.88778"
+  },
+  "metadata": {},
+  "source": {}
+}

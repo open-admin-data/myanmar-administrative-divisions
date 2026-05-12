@@ -1,0 +1,56 @@
+{
+  "id": "MMR003006702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျုံဒိုး",
+    "en": "Kyondoe",
+    "slug": "kyondoe-MMR003006702"
+  },
+  "code": {
+    "id": "MMR003006702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003D003",
+    "level": 2,
+    "name": {
+      "local": "ကော့ကရိတ်ခရိုင်",
+      "en": "Kawkareik",
+      "slug": "kawkareik-MMR003D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    {
+      "id": "MMR003D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့ကရိတ်ခရိုင်",
+        "en": "Kawkareik",
+        "slug": "kawkareik-MMR003D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.59446",
+    "lon": "98.04353"
+  },
+  "metadata": {},
+  "source": {}
+}

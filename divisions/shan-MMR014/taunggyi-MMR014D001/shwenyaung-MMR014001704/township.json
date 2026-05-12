@@ -1,0 +1,56 @@
+{
+  "id": "MMR014001704",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရွှေညောင်",
+    "en": "Shwenyaung",
+    "slug": "shwenyaung-MMR014001704"
+  },
+  "code": {
+    "id": "MMR014001704",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D001",
+    "level": 2,
+    "name": {
+      "local": "တောင်ကြီးခရိုင်",
+      "en": "Taunggyi",
+      "slug": "taunggyi-MMR014D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D001",
+      "level": 2,
+      "name": {
+        "local": "တောင်ကြီးခရိုင်",
+        "en": "Taunggyi",
+        "slug": "taunggyi-MMR014D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.76015",
+    "lon": "96.93614"
+  },
+  "metadata": {},
+  "source": {}
+}

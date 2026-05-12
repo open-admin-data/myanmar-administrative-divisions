@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0770001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0770001"
+    },
+    "code": {
+      "id": "0770001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012017702",
+      "level": 3,
+      "name": {
+        "local": "ကျိန္တလီ",
+        "en": "Kyeintali",
+        "slug": "kyeintali-MMR012017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012017702",
+        "level": 3,
+        "name": {
+          "local": "ကျိန္တလီ",
+          "en": "Kyeintali",
+          "slug": "kyeintali-MMR012017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0770001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0770002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0770002"
+    },
+    "code": {
+      "id": "0770002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012017702",
+      "level": 3,
+      "name": {
+        "local": "ကျိန္တလီ",
+        "en": "Kyeintali",
+        "slug": "kyeintali-MMR012017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012017702",
+        "level": 3,
+        "name": {
+          "local": "ကျိန္တလီ",
+          "en": "Kyeintali",
+          "slug": "kyeintali-MMR012017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0770002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0770003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0770003"
+    },
+    "code": {
+      "id": "0770003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012017702",
+      "level": 3,
+      "name": {
+        "local": "ကျိန္တလီ",
+        "en": "Kyeintali",
+        "slug": "kyeintali-MMR012017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012017702",
+        "level": 3,
+        "name": {
+          "local": "ကျိန္တလီ",
+          "en": "Kyeintali",
+          "slug": "kyeintali-MMR012017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0770003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

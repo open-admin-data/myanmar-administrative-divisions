@@ -1,0 +1,48 @@
+{
+  "id": "MMR004D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ဟားခါးခရိုင်",
+    "en": "Hakha",
+    "slug": "hakha-MMR004D003"
+  },
+  "code": {
+    "id": "MMR004D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004",
+    "level": 1,
+    "name": {
+      "local": "ချင်းပြည်နယ်",
+      "en": "Chin",
+      "slug": "chin-MMR004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.446",
+    "lon": "93.5257"
+  },
+  "metadata": {},
+  "source": {}
+}

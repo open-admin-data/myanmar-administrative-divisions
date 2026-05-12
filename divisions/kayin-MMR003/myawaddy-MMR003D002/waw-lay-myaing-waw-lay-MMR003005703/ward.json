@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1367001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1367001"
+    },
+    "code": {
+      "id": "1367001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003005703",
+      "level": 3,
+      "name": {
+        "local": "Waw Lay Myaing (Waw Lay)",
+        "en": "Waw Lay Myaing (Waw Lay)",
+        "slug": "waw-lay-myaing-waw-lay-MMR003005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      },
+      {
+        "id": "MMR003005703",
+        "level": 3,
+        "name": {
+          "local": "Waw Lay Myaing (Waw Lay)",
+          "en": "Waw Lay Myaing (Waw Lay)",
+          "slug": "waw-lay-myaing-waw-lay-MMR003005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1367001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1367002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1367002"
+    },
+    "code": {
+      "id": "1367002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003005703",
+      "level": 3,
+      "name": {
+        "local": "Waw Lay Myaing (Waw Lay)",
+        "en": "Waw Lay Myaing (Waw Lay)",
+        "slug": "waw-lay-myaing-waw-lay-MMR003005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      },
+      {
+        "id": "MMR003005703",
+        "level": 3,
+        "name": {
+          "local": "Waw Lay Myaing (Waw Lay)",
+          "en": "Waw Lay Myaing (Waw Lay)",
+          "slug": "waw-lay-myaing-waw-lay-MMR003005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1367002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

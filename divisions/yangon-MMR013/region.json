@@ -1,0 +1,31 @@
+{
+  "id": "MMR013",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+    "en": "Yangon",
+    "slug": "yangon-MMR013"
+  },
+  "code": {
+    "id": "MMR013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "ward": 1408,
+    "township": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.8",
+    "lon": "96.094"
+  },
+  "metadata": {},
+  "source": {}
+}

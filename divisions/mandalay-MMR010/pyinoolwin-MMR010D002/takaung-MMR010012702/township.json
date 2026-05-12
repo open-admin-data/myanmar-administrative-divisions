@@ -1,0 +1,56 @@
+{
+  "id": "MMR010012702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တကောင်း",
+    "en": "Takaung",
+    "slug": "takaung-MMR010012702"
+  },
+  "code": {
+    "id": "MMR010012702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D002",
+    "level": 2,
+    "name": {
+      "local": "ပြင်ဦးလွင်ခရိုင်",
+      "en": "Pyinoolwin",
+      "slug": "pyinoolwin-MMR010D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D002",
+      "level": 2,
+      "name": {
+        "local": "ပြင်ဦးလွင်ခရိုင်",
+        "en": "Pyinoolwin",
+        "slug": "pyinoolwin-MMR010D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.50188",
+    "lon": "96.01367"
+  },
+  "metadata": {},
+  "source": {}
+}

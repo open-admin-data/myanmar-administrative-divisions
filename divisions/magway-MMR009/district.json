@@ -1,0 +1,242 @@
+[
+  {
+    "id": "MMR009D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဂန့်ဂေါခရိုင်",
+      "en": "Gangaw",
+      "slug": "gangaw-MMR009D005"
+    },
+    "code": {
+      "id": "MMR009D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 219
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.6712",
+      "lon": "94.1754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မကွေးခရိုင်",
+      "en": "Magway",
+      "slug": "magway-MMR009D001"
+    },
+    "code": {
+      "id": "MMR009D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 406
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4111",
+      "lon": "95.1076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မင်းဘူးခရိုင်",
+      "en": "Minbu",
+      "slug": "minbu-MMR009D002"
+    },
+    "code": {
+      "id": "MMR009D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 324
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3606",
+      "lon": "94.6255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပခုက္ကူခရိုင်",
+      "en": "Pakokku",
+      "slug": "pakokku-MMR009D004"
+    },
+    "code": {
+      "id": "MMR009D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 385
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.367",
+      "lon": "94.8735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သရက်ခရိုင်",
+      "en": "Thayet",
+      "slug": "thayet-MMR009D003"
+    },
+    "code": {
+      "id": "MMR009D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 343
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.4581",
+      "lon": "95.0701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

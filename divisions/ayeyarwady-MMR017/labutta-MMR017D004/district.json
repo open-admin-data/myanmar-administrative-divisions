@@ -1,0 +1,48 @@
+{
+  "id": "MMR017D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "လပွတ္တာခရိုင်",
+    "en": "Labutta",
+    "slug": "labutta-MMR017D004"
+  },
+  "code": {
+    "id": "MMR017D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017",
+    "level": 1,
+    "name": {
+      "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "en": "Ayeyarwady",
+      "slug": "ayeyarwady-MMR017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 203
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.1378",
+    "lon": "94.9031"
+  },
+  "metadata": {},
+  "source": {}
+}

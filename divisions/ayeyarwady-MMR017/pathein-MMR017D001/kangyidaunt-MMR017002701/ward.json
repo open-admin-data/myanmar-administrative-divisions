@@ -1,0 +1,5202 @@
+[
+  {
+    "id": "1002241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဓလောက် ကျေးရွာအုပ်စု",
+      "en": "Ah Da Lauk Village Tract",
+      "slug": "ah-da-lauk-village-tract-1002241"
+    },
+    "code": {
+      "id": "1002241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အထက်တံခွန်တိုင် ကျေးရွာအုပ်စု",
+      "en": "Ah Htet Ta Khun Taing Village Tract",
+      "slug": "ah-htet-ta-khun-taing-village-tract-1002259"
+    },
+    "code": {
+      "id": "1002259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အပင်နှစ်ဆယ် ကျေးရွာအုပ်စု",
+      "en": "Ah Pin Hnit Se Village Tract",
+      "slug": "ah-pin-hnit-se-village-tract-1002236"
+    },
+    "code": {
+      "id": "1002236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အစုကြီး ကျေးရွာအုပ်စု",
+      "en": "Ah Su Gyi Village Tract",
+      "slug": "ah-su-gyi-village-tract-1002210"
+    },
+    "code": {
+      "id": "1002210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်တံခွန်တိုင် ကျေးရွာအုပ်စု",
+      "en": "Auk Ta Khun Taing Village Tract",
+      "slug": "auk-ta-khun-taing-village-tract-1002225"
+    },
+    "code": {
+      "id": "1002225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းစောက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Sauk Village Tract",
+      "slug": "chaung-sauk-village-tract-1002256"
+    },
+    "code": {
+      "id": "1002256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒါးက ကျေးရွာအုပ်စု",
+      "en": "Dar Ka Village Tract",
+      "slug": "dar-ka-village-tract-1002238"
+    },
+    "code": {
+      "id": "1002238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002272",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒီးဒုတ် ကျေးရွာအုပ်စု",
+      "en": "Dee Doke Village Tract",
+      "slug": "dee-doke-village-tract-1002272"
+    },
+    "code": {
+      "id": "1002272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002272"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံညင်းတန်း ကျေးရွာအုပ်စု",
+      "en": "Gon Hnyin Tan Village Tract",
+      "slug": "gon-hnyin-tan-village-tract-1002240"
+    },
+    "code": {
+      "id": "1002240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားချောင်း ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Chaung Village Tract",
+      "slug": "hpa-yar-chaung-village-tract-1002206"
+    },
+    "code": {
+      "id": "1002206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထန်းပင် ကျေးရွာအုပ်စု",
+      "en": "Htan Pin Village Tract",
+      "slug": "htan-pin-village-tract-1002255"
+    },
+    "code": {
+      "id": "1002255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်တောကြီး ကျေးရွာအုပ်စု",
+      "en": "Htein Taw Gyi Village Tract",
+      "slug": "htein-taw-gyi-village-tract-1002234"
+    },
+    "code": {
+      "id": "1002234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညွတ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyut Kone Village Tract",
+      "slug": "ka-nyut-kone-village-tract-1002253"
+    },
+    "code": {
+      "id": "1002253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန် ကျေးရွာအုပ်စု",
+      "en": "Kan Village Tract",
+      "slug": "kan-village-tract-1002233"
+    },
+    "code": {
+      "id": "1002233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုံဇင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Khon Zin Kone Village Tract",
+      "slug": "khon-zin-kone-village-tract-1002229"
+    },
+    "code": {
+      "id": "1002229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခူချောင် ကျေးရွာအုပ်စု",
+      "en": "Khu Chaung Village Tract",
+      "slug": "khu-chaung-village-tract-1002202"
+    },
+    "code": {
+      "id": "1002202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားကွင်း ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Kwin Village Tract",
+      "slug": "ku-lar-kwin-village-tract-1002227"
+    },
+    "code": {
+      "id": "1002227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းသီးပင်ဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Kun Thee Pin Seik Village Tract",
+      "slug": "kun-thee-pin-seik-village-tract-1002263"
+    },
+    "code": {
+      "id": "1002263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းယား (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Kwin Yar (East) Village Tract",
+      "slug": "kwin-yar-east-village-tract-1002207"
+    },
+    "code": {
+      "id": "1002207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းယား (အနောက်) ကျေးရွာအုပ်စု",
+      "en": "Kwin Yar (West) Village Tract",
+      "slug": "kwin-yar-west-village-tract-1002214"
+    },
+    "code": {
+      "id": "1002214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက်လတ် ကျေးရွာအုပ်စု",
+      "en": "Kyaik Lat Village Tract",
+      "slug": "kyaik-lat-village-tract-1002200"
+    },
+    "code": {
+      "id": "1002200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီးတော ကျေးရွာအုပ်စု",
+      "en": "Kyee Taw Village Tract",
+      "slug": "kyee-taw-village-tract-1002203"
+    },
+    "code": {
+      "id": "1002203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံဒရယ် ကျေးရွာအုပ်စု",
+      "en": "Kyon Da Yei Village Tract",
+      "slug": "kyon-da-yei-village-tract-1002243"
+    },
+    "code": {
+      "id": "1002243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyon Gyi Village Tract",
+      "slug": "kyon-gyi-village-tract-1002226"
+    },
+    "code": {
+      "id": "1002226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002265",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံပဒုတ် ကျေးရွာအုပ်စု",
+      "en": "Kyon Pa Doke Village Tract",
+      "slug": "kyon-pa-doke-village-tract-1002265"
+    },
+    "code": {
+      "id": "1002265",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002265"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံရပ် ကျေးရွာအုပ်စု",
+      "en": "Kyon Yat Village Tract",
+      "slug": "kyon-yat-village-tract-1002209"
+    },
+    "code": {
+      "id": "1002209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002269",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျူတန်း ကျေးရွာအုပ်စု",
+      "en": "Kyu Tan Village Tract",
+      "slug": "kyu-tan-village-tract-1002269"
+    },
+    "code": {
+      "id": "1002269",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002269"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002271",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyun Gyi Village Tract",
+      "slug": "kyun-gyi-village-tract-1002271"
+    },
+    "code": {
+      "id": "1002271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002271"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းလျှားရှည် ကျေးရွာအုပ်စု",
+      "en": "Kyun Hlyar Shey Village Tract",
+      "slug": "kyun-hlyar-shey-village-tract-1002204"
+    },
+    "code": {
+      "id": "1002204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းတောကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyun Taw Kone Village Tract",
+      "slug": "kyun-taw-kone-village-tract-1002251"
+    },
+    "code": {
+      "id": "1002251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းဦး ကျေးရွာအုပ်စု",
+      "en": "Kyun U Village Tract",
+      "slug": "kyun-u-village-tract-1002218"
+    },
+    "code": {
+      "id": "1002218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002270",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဟာကလူ ကျေးရွာအုပ်စု",
+      "en": "La Har Ka Lu Village Tract",
+      "slug": "la-har-ka-lu-village-tract-1002270"
+    },
+    "code": {
+      "id": "1002270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002270"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေးဆူ ကျေးရွာအုပ်စု",
+      "en": "Lay Su Village Tract",
+      "slug": "lay-su-village-tract-1002261"
+    },
+    "code": {
+      "id": "1002261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိပ်ကမ္ဘာ ကျေးရွာအုပ်စု",
+      "en": "Leik Ka Bar Village Tract",
+      "slug": "leik-ka-bar-village-tract-1002239"
+    },
+    "code": {
+      "id": "1002239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန် ကျေးရွာအုပ်စု",
+      "en": "Let Pan Village Tract",
+      "slug": "let-pan-village-tract-1002250"
+    },
+    "code": {
+      "id": "1002250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ဆောင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Let Saung Kwin Village Tract",
+      "slug": "let-saung-kwin-village-tract-1002232"
+    },
+    "code": {
+      "id": "1002232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002267",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဂကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Ka Kyun Village Tract",
+      "slug": "ma-ka-kyun-village-tract-1002267"
+    },
+    "code": {
+      "id": "1002267",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002267"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002264",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မတော့ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Tawt Kone Village Tract",
+      "slug": "ma-tawt-kone-village-tract-1002264"
+    },
+    "code": {
+      "id": "1002264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002264"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိချောင်းဂေါင်း ကျေးရွာအုပ်စု",
+      "en": "Mi Chaung Gaung Village Tract",
+      "slug": "mi-chaung-gaung-village-tract-1002231"
+    },
+    "code": {
+      "id": "1002231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိချောင်းတစ်ရာ ကျေးရွာအုပ်စု",
+      "en": "Mi Chaung Ta Yar Village Tract",
+      "slug": "mi-chaung-ta-yar-village-tract-1002235"
+    },
+    "code": {
+      "id": "1002235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြတ်လေးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Myat Lay Chaung Village Tract",
+      "slug": "myat-lay-chaung-village-tract-1002223"
+    },
+    "code": {
+      "id": "1002223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းကဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Myin Ka Seik Village Tract",
+      "slug": "myin-ka-seik-village-tract-1002244"
+    },
+    "code": {
+      "id": "1002244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နနွင်းဂရက် ကျေးရွာအုပ်စု",
+      "en": "Na Nwin Ga Yet Village Tract",
+      "slug": "na-nwin-ga-yet-village-tract-1002205"
+    },
+    "code": {
+      "id": "1002205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1002001"
+    },
+    "code": {
+      "id": "1002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1002002"
+    },
+    "code": {
+      "id": "1002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1002003"
+    },
+    "code": {
+      "id": "1002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1002004"
+    },
+    "code": {
+      "id": "1002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1002005"
+    },
+    "code": {
+      "id": "1002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1002006"
+    },
+    "code": {
+      "id": "1002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-1002007"
+    },
+    "code": {
+      "id": "1002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Chaung Village Tract",
+      "slug": "nyaung-chaung-village-tract-1002262"
+    },
+    "code": {
+      "id": "1002262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Kone Village Tract",
+      "slug": "nyaung-kone-village-tract-1002252"
+    },
+    "code": {
+      "id": "1002252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-1002228"
+    },
+    "code": {
+      "id": "1002228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002268",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဝိုင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Waing Village Tract",
+      "slug": "nyaung-waing-village-tract-1002268"
+    },
+    "code": {
+      "id": "1002268",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002268"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်းပင်ဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Ohn Pin Seik Village Tract",
+      "slug": "ohn-pin-seik-village-tract-1002258"
+    },
+    "code": {
+      "id": "1002258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်ကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Pauk Kyun Village Tract",
+      "slug": "pauk-kyun-village-tract-1002245"
+    },
+    "code": {
+      "id": "1002245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေပင် (ဒယ်ကန်) ကျေးရွာအုပ်စု",
+      "en": "Pay Pin (Dei Kan) Village Tract",
+      "slug": "pay-pin-dei-kan-village-tract-1002230"
+    },
+    "code": {
+      "id": "1002230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေပင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Pay Pin Gyi Village Tract",
+      "slug": "pay-pin-gyi-village-tract-1002217"
+    },
+    "code": {
+      "id": "1002217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းချောင် ကျေးရွာအုပ်စု",
+      "en": "Pein Chaung Village Tract",
+      "slug": "pein-chaung-village-tract-1002242"
+    },
+    "code": {
+      "id": "1002242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိတောက်ပင် ကျေးရွာအုပ်စု",
+      "en": "Pi Tauk Pin Village Tract",
+      "slug": "pi-tauk-pin-village-tract-1002237"
+    },
+    "code": {
+      "id": "1002237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းမငူ ကျေးရွာအုပ်စု",
+      "en": "Pyin Ma Ngu Village Tract",
+      "slug": "pyin-ma-ngu-village-tract-1002216"
+    },
+    "code": {
+      "id": "1002216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆပ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Sat Kwin Village Tract",
+      "slug": "sat-kwin-village-tract-1002213"
+    },
+    "code": {
+      "id": "1002213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိပ်သာ ကျေးရွာအုပ်စု",
+      "en": "Seik Thar Village Tract",
+      "slug": "seik-thar-village-tract-1002260"
+    },
+    "code": {
+      "id": "1002260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းငူ ကျေးရွာအုပ်စု",
+      "en": "Shan Ngu Village Tract",
+      "slug": "shan-ngu-village-tract-1002254"
+    },
+    "code": {
+      "id": "1002254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်း ကျေးရွာအုပ်စု",
+      "en": "Shan Village Tract",
+      "slug": "shan-village-tract-1002221"
+    },
+    "code": {
+      "id": "1002221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လျှော်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Shaw Kone Village Tract",
+      "slug": "shaw-kone-village-tract-1002248"
+    },
+    "code": {
+      "id": "1002248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Ta Kone Gyi Village Tract",
+      "slug": "ta-kone-gyi-village-tract-1002201"
+    },
+    "code": {
+      "id": "1002201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002266",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဘော့ငူ ကျေးရွာအုပ်စု",
+      "en": "Tha Bawt Ngu Village Tract",
+      "slug": "tha-bawt-ngu-village-tract-1002266"
+    },
+    "code": {
+      "id": "1002266",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002266"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Kwin Village Tract",
+      "slug": "tha-yet-kwin-village-tract-1002246"
+    },
+    "code": {
+      "id": "1002246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သောင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Thaung Gyi Village Tract",
+      "slug": "thaung-gyi-village-tract-1002224"
+    },
+    "code": {
+      "id": "1002224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲဖြူ ကျေးရွာအုပ်စု",
+      "en": "Thea Hpyu Village Tract",
+      "slug": "thea-hpyu-village-tract-1002222"
+    },
+    "code": {
+      "id": "1002222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးဒူး ကျေးရွာအုပ်စု",
+      "en": "War Du Village Tract",
+      "slug": "war-du-village-tract-1002249"
+    },
+    "code": {
+      "id": "1002249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝဲကြီး ကျေးရွာအုပ်စု",
+      "en": "Wea Gyi Village Tract",
+      "slug": "wea-gyi-village-tract-1002247"
+    },
+    "code": {
+      "id": "1002247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ထိုး ကျေးရွာအုပ်စု",
+      "en": "Wet Htoe Village Tract",
+      "slug": "wet-htoe-village-tract-1002215"
+    },
+    "code": {
+      "id": "1002215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေချိုကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yae Cho Kone Village Tract",
+      "slug": "yae-cho-kone-village-tract-1002220"
+    },
+    "code": {
+      "id": "1002220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Kone Gyi Village Tract",
+      "slug": "yae-twin-kone-gyi-village-tract-1002219"
+    },
+    "code": {
+      "id": "1002219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းကုန်းလေး ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Kone Lay Village Tract",
+      "slug": "yae-twin-kone-lay-village-tract-1002211"
+    },
+    "code": {
+      "id": "1002211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Seik Village Tract",
+      "slug": "yae-twin-seik-village-tract-1002257"
+    },
+    "code": {
+      "id": "1002257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွေးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yway Kone Village Tract",
+      "slug": "yway-kone-village-tract-1002212"
+    },
+    "code": {
+      "id": "1002212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1002208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွေး ကျေးရွာအုပ်စု",
+      "en": "Yway Village Tract",
+      "slug": "yway-village-tract-1002208"
+    },
+    "code": {
+      "id": "1002208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017002701",
+      "level": 3,
+      "name": {
+        "local": "ကန်ကြီးထောင့်",
+        "en": "Kangyidaunt",
+        "slug": "kangyidaunt-MMR017002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017002701",
+        "level": 3,
+        "name": {
+          "local": "ကန်ကြီးထောင့်",
+          "en": "Kangyidaunt",
+          "slug": "kangyidaunt-MMR017002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1002208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0761002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အစံကျော် ရပ်ကွက်",
+      "en": "Ah San Kyaw Quarter",
+      "slug": "ah-san-kyaw-quarter-0761002"
+    },
+    "code": {
+      "id": "0761002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009703",
+      "level": 3,
+      "name": {
+        "local": "ခမောင်းဆိပ်",
+        "en": "Kha Maung Seik",
+        "slug": "kha-maung-seik-MMR012009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009703",
+        "level": 3,
+        "name": {
+          "local": "ခမောင်းဆိပ်",
+          "en": "Kha Maung Seik",
+          "slug": "kha-maung-seik-MMR012009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0761002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0761001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-0761001"
+    },
+    "code": {
+      "id": "0761001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009703",
+      "level": 3,
+      "name": {
+        "local": "ခမောင်းဆိပ်",
+        "en": "Kha Maung Seik",
+        "slug": "kha-maung-seik-MMR012009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009703",
+        "level": 3,
+        "name": {
+          "local": "ခမောင်းဆိပ်",
+          "en": "Kha Maung Seik",
+          "slug": "kha-maung-seik-MMR012009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0761001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0761005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းခမောင်း ရပ်ကွက်",
+      "en": "Min Kha Maung Quarter",
+      "slug": "min-kha-maung-quarter-0761005"
+    },
+    "code": {
+      "id": "0761005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009703",
+      "level": 3,
+      "name": {
+        "local": "ခမောင်းဆိပ်",
+        "en": "Kha Maung Seik",
+        "slug": "kha-maung-seik-MMR012009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009703",
+        "level": 3,
+        "name": {
+          "local": "ခမောင်းဆိပ်",
+          "en": "Kha Maung Seik",
+          "slug": "kha-maung-seik-MMR012009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0761005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0761004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိုင်းဘင်္ဂါ ရပ်ကွက်",
+      "en": "Taing Bin Gar Quarter",
+      "slug": "taing-bin-gar-quarter-0761004"
+    },
+    "code": {
+      "id": "0761004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009703",
+      "level": 3,
+      "name": {
+        "local": "ခမောင်းဆိပ်",
+        "en": "Kha Maung Seik",
+        "slug": "kha-maung-seik-MMR012009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009703",
+        "level": 3,
+        "name": {
+          "local": "ခမောင်းဆိပ်",
+          "en": "Kha Maung Seik",
+          "slug": "kha-maung-seik-MMR012009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0761004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0761003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲဘောက်ကျာ ရပ်ကွက်",
+      "en": "Ye Bauk Kyar Quarter",
+      "slug": "ye-bauk-kyar-quarter-0761003"
+    },
+    "code": {
+      "id": "0761003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009703",
+      "level": 3,
+      "name": {
+        "local": "ခမောင်းဆိပ်",
+        "en": "Kha Maung Seik",
+        "slug": "kha-maung-seik-MMR012009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009703",
+        "level": 3,
+        "name": {
+          "local": "ခမောင်းဆိပ်",
+          "en": "Kha Maung Seik",
+          "slug": "kha-maung-seik-MMR012009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0761003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

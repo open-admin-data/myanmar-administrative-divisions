@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1666004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အထက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Htet Paing Quarter",
+      "slug": "ah-htet-paing-quarter-1666004"
+    },
+    "code": {
+      "id": "1666004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1666005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-1666005"
+    },
+    "code": {
+      "id": "1666005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1666006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်ပိုင်း ရပ်ကွက်",
+      "en": "Auk Paing Quarter",
+      "slug": "auk-paing-quarter-1666006"
+    },
+    "code": {
+      "id": "1666006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1666001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခန္တီ ရပ်ကွက်",
+      "en": "Hkan Ti Quarter",
+      "slug": "hkan-ti-quarter-1666001"
+    },
+    "code": {
+      "id": "1666001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1666003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ပိန် ရပ်ကွက်",
+      "en": "Namt Paing Quarter",
+      "slug": "namt-paing-quarter-1666003"
+    },
+    "code": {
+      "id": "1666003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1666002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေး ရပ်ကွက်",
+      "en": "Zay Quarter",
+      "slug": "zay-quarter-1666002"
+    },
+    "code": {
+      "id": "1666002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012703",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းလုံ",
+        "en": "Monglon",
+        "slug": "monglon-MMR015012703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012703",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းလုံ",
+          "en": "Monglon",
+          "slug": "monglon-MMR015012703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1666002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

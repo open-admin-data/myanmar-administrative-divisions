@@ -1,0 +1,56 @@
+{
+  "id": "MMR005017701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကနီ",
+    "en": "Kani",
+    "slug": "kani-MMR005017701"
+  },
+  "code": {
+    "id": "MMR005017701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D009",
+    "level": 2,
+    "name": {
+      "local": "ယင်းမာပင်ခရိုင်",
+      "en": "Yinmarbin",
+      "slug": "yinmarbin-MMR005D009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D009",
+      "level": 2,
+      "name": {
+        "local": "ယင်းမာပင်ခရိုင်",
+        "en": "Yinmarbin",
+        "slug": "yinmarbin-MMR005D009"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.43291",
+    "lon": "94.84847"
+  },
+  "metadata": {},
+  "source": {}
+}

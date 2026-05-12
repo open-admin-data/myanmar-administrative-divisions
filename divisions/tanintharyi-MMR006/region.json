@@ -1,0 +1,31 @@
+{
+  "id": "MMR006",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+    "en": "Tanintharyi",
+    "slug": "tanintharyi-MMR006"
+  },
+  "code": {
+    "id": "MMR006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "ward": 358,
+    "township": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.603",
+    "lon": "98.5983"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR012017701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဂွ",
+      "en": "Gwa",
+      "slug": "gwa-MMR012017701"
+    },
+    "code": {
+      "id": "MMR012017701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.59369",
+      "lon": "94.57996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012017702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျိန္တလီ",
+      "en": "Kyeintali",
+      "slug": "kyeintali-MMR012017702"
+    },
+    "code": {
+      "id": "MMR012017702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.00712",
+      "lon": "94.49141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012016702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မအီ",
+      "en": "Ma-Ei",
+      "slug": "ma-ei-MMR012016702"
+    },
+    "code": {
+      "id": "MMR012016702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.34234",
+      "lon": "94.13845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012015702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငပလီ",
+      "en": "Ngapali",
+      "slug": "ngapali-MMR012015702"
+    },
+    "code": {
+      "id": "MMR012015702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.43755",
+      "lon": "94.3206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012016703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တန်းလွဲရွာမ",
+      "en": "Tan Hlwe Ywar Ma",
+      "slug": "tan-hlwe-ywar-ma-MMR012016703"
+    },
+    "code": {
+      "id": "MMR012016703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.99829",
+      "lon": "94.12645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012015701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သံတွဲ",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012015701"
+    },
+    "code": {
+      "id": "MMR012015701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.4662",
+      "lon": "94.3677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012016701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တောင်ကုတ်",
+      "en": "Toungup",
+      "slug": "toungup-MMR012016701"
+    },
+    "code": {
+      "id": "MMR012016701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.85353",
+      "lon": "94.23972"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

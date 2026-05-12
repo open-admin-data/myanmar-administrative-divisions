@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0561001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0561001"
+    },
+    "code": {
+      "id": "0561001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010012702",
+      "level": 3,
+      "name": {
+        "local": "တကောင်း",
+        "en": "Takaung",
+        "slug": "takaung-MMR010012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010012702",
+        "level": 3,
+        "name": {
+          "local": "တကောင်း",
+          "en": "Takaung",
+          "slug": "takaung-MMR010012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0561001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0561002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0561002"
+    },
+    "code": {
+      "id": "0561002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010012702",
+      "level": 3,
+      "name": {
+        "local": "တကောင်း",
+        "en": "Takaung",
+        "slug": "takaung-MMR010012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010012702",
+        "level": 3,
+        "name": {
+          "local": "တကောင်း",
+          "en": "Takaung",
+          "slug": "takaung-MMR010012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0561002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0561003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0561003"
+    },
+    "code": {
+      "id": "0561003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010012702",
+      "level": 3,
+      "name": {
+        "local": "တကောင်း",
+        "en": "Takaung",
+        "slug": "takaung-MMR010012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010012702",
+        "level": 3,
+        "name": {
+          "local": "တကောင်း",
+          "en": "Takaung",
+          "slug": "takaung-MMR010012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0561003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

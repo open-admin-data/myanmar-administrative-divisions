@@ -1,0 +1,84 @@
+# Myanmar Administrative Divisions
+
+> Open dataset of Myanmar's administrative hierarchy:
+> 15 state/regions, 77 districts, 491 townships, 17,043 ward/village tracts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total state/regions: 15
+- Total districts: 77
+- Total townships: 491
+- Total ward/village tracts: 17,043
+- Coordinates: included (all levels)
+- Last updated: 2026-05-12
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All state/regions (JSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/all-district.json)
+- [All townships (JSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/all-township.json)
+- [All ward/village tracts (JSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/all-ward.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/data/schema.json)
+
+## Browse by State/Region
+
+- [Kachin](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/kachin-MMR001/) — 4 districts, 33 townships, 780 ward/village tracts
+- [Kayah](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/kayah-MMR002/) — 2 districts, 10 townships, 124 ward/village tracts
+- [Kayin](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/kayin-MMR003/) — 4 districts, 18 townships, 463 ward/village tracts
+- [Chin](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/chin-MMR004/) — 4 districts, 20 townships, 543 ward/village tracts
+- [Sagaing](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/sagaing-MMR005/) — 11 districts, 42 townships, 1889 ward/village tracts
+- [Tanintharyi](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/tanintharyi-MMR006/) — 3 districts, 18 townships, 358 ward/village tracts
+- [Bago](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/bago-MMR007/) — 4 districts, 51 townships, 1804 ward/village tracts
+- [Magway](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/magway-MMR009/) — 5 districts, 32 townships, 1677 ward/village tracts
+- [Mandalay](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/mandalay-MMR010/) — 7 districts, 34 townships, 1703 ward/village tracts
+- [Mon](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/mon-MMR011/) — 2 districts, 17 townships, 494 ward/village tracts
+- [Rakhine](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/rakhine-MMR012/) — 5 districts, 28 townships, 1245 ward/village tracts
+- [Yangon](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/yangon-MMR013/) — 4 districts, 49 townships, 1408 ward/village tracts
+- [Shan](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/shan-MMR014/) — 14 districts, 86 townships, 2077 ward/village tracts
+- [Ayeyarwady](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/ayeyarwady-MMR017/) — 6 districts, 45 townships, 2230 ward/village tracts
+- [Nay Pyi Taw](https://github.com/open-admin-data/myanmar-administrative-divisions/tree/main/divisions/nay-pyi-taw-MMR018/) — 2 districts, 8 townships, 248 ward/village tracts
+
+## Per-State/Region Full Data
+
+- [Kachin](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/kachin-MMR001.txt)
+- [Kayah](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/kayah-MMR002.txt)
+- [Kayin](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/kayin-MMR003.txt)
+- [Chin](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/chin-MMR004.txt)
+- [Sagaing](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/sagaing-MMR005.txt)
+- [Tanintharyi](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/tanintharyi-MMR006.txt)
+- [Bago](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/bago-MMR007.txt)
+- [Magway](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/magway-MMR009.txt)
+- [Mandalay](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/mandalay-MMR010.txt)
+- [Mon](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/mon-MMR011.txt)
+- [Rakhine](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/rakhine-MMR012.txt)
+- [Yangon](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/yangon-MMR013.txt)
+- [Shan](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/shan-MMR014.txt)
+- [Ayeyarwady](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/ayeyarwady-MMR017.txt)
+- [Nay Pyi Taw](https://raw.githubusercontent.com/open-admin-data/myanmar-administrative-divisions/main/docs/llms-full/nay-pyi-taw-MMR018.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state/region), 2 (district), 3 (township), 4 (ward/village tract)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Myanmar Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/myanmar-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

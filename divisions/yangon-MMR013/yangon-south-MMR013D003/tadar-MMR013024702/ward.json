@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1161001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1161001"
+    },
+    "code": {
+      "id": "1161001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024702",
+      "level": 3,
+      "name": {
+        "local": "တံတား",
+        "en": "Tadar",
+        "slug": "tadar-MMR013024702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024702",
+        "level": 3,
+        "name": {
+          "local": "တံတား",
+          "en": "Tadar",
+          "slug": "tadar-MMR013024702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1161001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1161002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1161002"
+    },
+    "code": {
+      "id": "1161002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024702",
+      "level": 3,
+      "name": {
+        "local": "တံတား",
+        "en": "Tadar",
+        "slug": "tadar-MMR013024702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024702",
+        "level": 3,
+        "name": {
+          "local": "တံတား",
+          "en": "Tadar",
+          "slug": "tadar-MMR013024702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1161002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1161003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1161003"
+    },
+    "code": {
+      "id": "1161003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024702",
+      "level": 3,
+      "name": {
+        "local": "တံတား",
+        "en": "Tadar",
+        "slug": "tadar-MMR013024702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024702",
+        "level": 3,
+        "name": {
+          "local": "တံတား",
+          "en": "Tadar",
+          "slug": "tadar-MMR013024702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1161003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1161004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1161004"
+    },
+    "code": {
+      "id": "1161004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024702",
+      "level": 3,
+      "name": {
+        "local": "တံတား",
+        "en": "Tadar",
+        "slug": "tadar-MMR013024702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024702",
+        "level": 3,
+        "name": {
+          "local": "တံတား",
+          "en": "Tadar",
+          "slug": "tadar-MMR013024702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1161004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

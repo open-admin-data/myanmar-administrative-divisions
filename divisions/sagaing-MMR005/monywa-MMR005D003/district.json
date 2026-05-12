@@ -1,0 +1,48 @@
+{
+  "id": "MMR005D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မုံရွာခရိုင်",
+    "en": "Monywa",
+    "slug": "monywa-MMR005D003"
+  },
+  "code": {
+    "id": "MMR005D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005",
+    "level": 1,
+    "name": {
+      "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 215
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.1883",
+    "lon": "95.2531"
+  },
+  "metadata": {},
+  "source": {}
+}

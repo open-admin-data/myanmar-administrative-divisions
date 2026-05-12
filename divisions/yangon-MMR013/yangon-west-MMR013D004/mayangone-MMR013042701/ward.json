@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1106001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) (သမိုင်းဘူတာအနောက်) ရပ်ကွက်",
+      "en": "No (1) (Tha Maing Bu Tar (West)) Quarter",
+      "slug": "no-1-tha-maing-bu-tar-west-quarter-1106001"
+    },
+    "code": {
+      "id": "1106001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) (ချော်တွင်းကုန်း) ရပ်ကွက်",
+      "en": "No (10)  (Chaw Twin Kone) Quarter",
+      "slug": "no-10-chaw-twin-kone-quarter-1106010"
+    },
+    "code": {
+      "id": "1106010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) (သမိုင်းမြို့) ရပ်ကွက်",
+      "en": "No (2)  (Tha Maing Myo) Quarter",
+      "slug": "no-2-tha-maing-myo-quarter-1106002"
+    },
+    "code": {
+      "id": "1106002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) (ကျိုက်ဝိုင်းကြီး) ရပ်ကွက်",
+      "en": "No (3) (Kyaik Waing Gyi) Quarter",
+      "slug": "no-3-kyaik-waing-gyi-quarter-1106003"
+    },
+    "code": {
+      "id": "1106003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄)  (ကျိုက်ဝိုင်းလေး) ရပ်ကွက်",
+      "en": "No (4) (Kyaik Waing Lay) Quarter",
+      "slug": "no-4-kyaik-waing-lay-quarter-1106004"
+    },
+    "code": {
+      "id": "1106004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) (စိန်ပန်းမြိုင်၊ ကိုးမိုင်) ရပ်ကွက်",
+      "en": "No (5) (Sein Pan Myaing/9 Miles) Quarter",
+      "slug": "no-5-sein-pan-myaing9-miles-quarter-1106005"
+    },
+    "code": {
+      "id": "1106005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) (ဉာဏစာဂီ) ရပ်ကွက်",
+      "en": "No (6)(Nyar Na Sar Gi) Quarter",
+      "slug": "no-6nyar-na-sar-gi-quarter-1106006"
+    },
+    "code": {
+      "id": "1106006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) (ရွာတန်းရှည်) ရပ်ကွက်",
+      "en": "No (7)  (Ywar Tan Shey) Quarter",
+      "slug": "no-7-ywar-tan-shey-quarter-1106007"
+    },
+    "code": {
+      "id": "1106007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) (ကမ္ဘာအေးစံပြ) ရပ်ကွက်",
+      "en": "No (8)  (Ka Ba Aye San Pya) Quarter",
+      "slug": "no-8-ka-ba-aye-san-pya-quarter-1106008"
+    },
+    "code": {
+      "id": "1106008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) (ရေကူး) ရပ်ကွက်",
+      "en": "No (9) (Yae Ku) Quarter",
+      "slug": "no-9-yae-ku-quarter-1106009"
+    },
+    "code": {
+      "id": "1106009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013042701",
+      "level": 3,
+      "name": {
+        "local": "မရမ်းကုန်း",
+        "en": "Mayangone",
+        "slug": "mayangone-MMR013042701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013042701",
+        "level": 3,
+        "name": {
+          "local": "မရမ်းကုန်း",
+          "en": "Mayangone",
+          "slug": "mayangone-MMR013042701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1106009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

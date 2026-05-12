@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1076001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1076001"
+    },
+    "code": {
+      "id": "1076001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004703",
+      "level": 3,
+      "name": {
+        "local": "ဟိုင်းကြီးကျွန်း",
+        "en": "Hainggyikyun",
+        "slug": "hainggyikyun-MMR017004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004703",
+        "level": 3,
+        "name": {
+          "local": "ဟိုင်းကြီးကျွန်း",
+          "en": "Hainggyikyun",
+          "slug": "hainggyikyun-MMR017004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1076001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1076002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1076002"
+    },
+    "code": {
+      "id": "1076002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004703",
+      "level": 3,
+      "name": {
+        "local": "ဟိုင်းကြီးကျွန်း",
+        "en": "Hainggyikyun",
+        "slug": "hainggyikyun-MMR017004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004703",
+        "level": 3,
+        "name": {
+          "local": "ဟိုင်းကြီးကျွန်း",
+          "en": "Hainggyikyun",
+          "slug": "hainggyikyun-MMR017004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1076002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1076003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1076003"
+    },
+    "code": {
+      "id": "1076003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004703",
+      "level": 3,
+      "name": {
+        "local": "ဟိုင်းကြီးကျွန်း",
+        "en": "Hainggyikyun",
+        "slug": "hainggyikyun-MMR017004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004703",
+        "level": 3,
+        "name": {
+          "local": "ဟိုင်းကြီးကျွန်း",
+          "en": "Hainggyikyun",
+          "slug": "hainggyikyun-MMR017004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1076003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

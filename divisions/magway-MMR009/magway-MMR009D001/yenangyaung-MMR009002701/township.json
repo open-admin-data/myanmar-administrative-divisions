@@ -1,0 +1,56 @@
+{
+  "id": "MMR009002701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရေနံချောင်း",
+    "en": "Yenangyaung",
+    "slug": "yenangyaung-MMR009002701"
+  },
+  "code": {
+    "id": "MMR009002701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009D001",
+    "level": 2,
+    "name": {
+      "local": "မကွေးခရိုင်",
+      "en": "Magway",
+      "slug": "magway-MMR009D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    {
+      "id": "MMR009D001",
+      "level": 2,
+      "name": {
+        "local": "မကွေးခရိုင်",
+        "en": "Magway",
+        "slug": "magway-MMR009D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.45837",
+    "lon": "94.8731"
+  },
+  "metadata": {},
+  "source": {}
+}

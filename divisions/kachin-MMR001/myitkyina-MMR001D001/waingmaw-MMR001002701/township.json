@@ -1,0 +1,56 @@
+{
+  "id": "MMR001002701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဝိုင်းမော်",
+    "en": "Waingmaw",
+    "slug": "waingmaw-MMR001002701"
+  },
+  "code": {
+    "id": "MMR001002701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D001",
+    "level": 2,
+    "name": {
+      "local": "မြစ်ကြီးနားခရိုင်",
+      "en": "Myitkyina",
+      "slug": "myitkyina-MMR001D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.35099",
+    "lon": "97.44281"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "0615206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟာဝမ် ကျေးရွာအုပ်စု",
+      "en": "Har Wan Village Tract",
+      "slug": "har-wan-village-tract-0615206"
+    },
+    "code": {
+      "id": "0615206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟော်ကုန်း ရပ်ကွက်",
+      "en": "Haw Kone Quarter",
+      "slug": "haw-kone-quarter-0615004"
+    },
+    "code": {
+      "id": "0615004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါက်စန့် ကျေးရွာအုပ်စု",
+      "en": "Hkauk Sant Village Tract",
+      "slug": "hkauk-sant-village-tract-0615213"
+    },
+    "code": {
+      "id": "0615213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုခို ရပ်ကွက်",
+      "en": "Ho Hko Quarter",
+      "slug": "ho-hko-quarter-0615006"
+    },
+    "code": {
+      "id": "0615006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုပုန် ကျေးရွာအုပ်စု",
+      "en": "Hopong Village Tract",
+      "slug": "hopong-village-tract-0615222"
+    },
+    "code": {
+      "id": "0615222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖတ်နမ် ကျေးရွာအုပ်စု",
+      "en": "Hpet Nam Village Tract",
+      "slug": "hpet-nam-village-tract-0615201"
+    },
+    "code": {
+      "id": "0615201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်းလင် ကျေးရွာအုပ်စု",
+      "en": "Hseng Lin Village Tract",
+      "slug": "hseng-lin-village-tract-0615205"
+    },
+    "code": {
+      "id": "0615205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ပန် ရပ်ကွက်",
+      "en": "Kang Pang Quarter",
+      "slug": "kang-pang-quarter-0615002"
+    },
+    "code": {
+      "id": "0615002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုင်းလင် ကျေးရွာအုပ်စု",
+      "en": "Keng Len Village Tract",
+      "slug": "keng-len-village-tract-0615209"
+    },
+    "code": {
+      "id": "0615209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံပု ရပ်ကွက်",
+      "en": "Long Pu Quarter",
+      "slug": "long-pu-quarter-0615005"
+    },
+    "code": {
+      "id": "0615005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံယန်း ကျေးရွာအုပ်စု",
+      "en": "Long Yang Village Tract",
+      "slug": "long-yang-village-tract-0615225"
+    },
+    "code": {
+      "id": "0615225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းဆောင် ကျေးရွာအုပ်စု",
+      "en": "Mong Hsaung Village Tract",
+      "slug": "mong-hsaung-village-tract-0615230"
+    },
+    "code": {
+      "id": "0615230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းကောင် ကျေးရွာအုပ်စု",
+      "en": "Mong Kawng Village Tract",
+      "slug": "mong-kawng-village-tract-0615216"
+    },
+    "code": {
+      "id": "0615216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလင်း ကျေးရွာအုပ်စု",
+      "en": "Mong Lin Village Tract",
+      "slug": "mong-lin-village-tract-0615228"
+    },
+    "code": {
+      "id": "0615228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းနန်း ကျေးရွာအုပ်စု",
+      "en": "Mong Nang Village Tract",
+      "slug": "mong-nang-village-tract-0615221"
+    },
+    "code": {
+      "id": "0615221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းနင် ကျေးရွာအုပ်စု",
+      "en": "Mong Nin Village Tract",
+      "slug": "mong-nin-village-tract-0615207"
+    },
+    "code": {
+      "id": "0615207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းယန်း ကျေးရွာအုပ်စု",
+      "en": "Mong Yang Village Tract",
+      "slug": "mong-yang-village-tract-0615227"
+    },
+    "code": {
+      "id": "0615227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းရဲ ကျေးရွာအုပ်စု",
+      "en": "Mong Ye Village Tract",
+      "slug": "mong-ye-village-tract-0615223"
+    },
+    "code": {
+      "id": "0615223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားကန်း ကျေးရွာအုပ်စု",
+      "en": "Nar Kan Village Tract",
+      "slug": "nar-kan-village-tract-0615217"
+    },
+    "code": {
+      "id": "0615217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားလွယ် ကျေးရွာအုပ်စု",
+      "en": "Nar Loi Village Tract",
+      "slug": "nar-loi-village-tract-0615231"
+    },
+    "code": {
+      "id": "0615231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်အယ် ကျေးရွာအုပ်စု",
+      "en": "Nawng Ae Village Tract",
+      "slug": "nawng-ae-village-tract-0615218"
+    },
+    "code": {
+      "id": "0615218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဆွမ်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Sum Village Tract",
+      "slug": "nawng-sum-village-tract-0615215"
+    },
+    "code": {
+      "id": "0615215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်တော ကျေးရွာအုပ်စု",
+      "en": "Nawng Taw Village Tract",
+      "slug": "nawng-taw-village-tract-0615229"
+    },
+    "code": {
+      "id": "0615229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်လော့ ကျေးရွာအုပ်စု",
+      "en": "Pang Lawt Village Tract",
+      "slug": "pang-lawt-village-tract-0615202"
+    },
+    "code": {
+      "id": "0615202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်စယ် ကျေးရွာအုပ်စု",
+      "en": "Pang Sei Village Tract",
+      "slug": "pang-sei-village-tract-0615200"
+    },
+    "code": {
+      "id": "0615200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူယား ကျေးရွာအုပ်စု",
+      "en": "Tu Yar Village Tract",
+      "slug": "tu-yar-village-tract-0615220"
+    },
+    "code": {
+      "id": "0615220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ချင် ကျေးရွာအုပ်စု",
+      "en": "Wan Chin Village Tract",
+      "slug": "wan-chin-village-tract-0615210"
+    },
+    "code": {
+      "id": "0615210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ဟိုင်း ကျေးရွာအုပ်စု",
+      "en": "Wan Hai Village Tract",
+      "slug": "wan-hai-village-tract-0615214"
+    },
+    "code": {
+      "id": "0615214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ခုန့် ကျေးရွာအုပ်စု",
+      "en": "Wan Hkont Village Tract",
+      "slug": "wan-hkont-village-tract-0615204"
+    },
+    "code": {
+      "id": "0615204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ဖွီး ကျေးရွာအုပ်စု",
+      "en": "Wan Hpwee Village Tract",
+      "slug": "wan-hpwee-village-tract-0615203"
+    },
+    "code": {
+      "id": "0615203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ကန် ရပ်ကွက်",
+      "en": "Wan Kang Quarter",
+      "slug": "wan-kang-quarter-0615001"
+    },
+    "code": {
+      "id": "0615001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်စပ် ကျေးရွာအုပ်စု",
+      "en": "Wan Sat Village Tract",
+      "slug": "wan-sat-village-tract-0615212"
+    },
+    "code": {
+      "id": "0615212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်စိမ်း ကျေးရွာအုပ်စု",
+      "en": "Wan Sein Village Tract",
+      "slug": "wan-sein-village-tract-0615226"
+    },
+    "code": {
+      "id": "0615226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်တုံ ကျေးရွာအုပ်စု",
+      "en": "Wan Ton Village Tract",
+      "slug": "wan-ton-village-tract-0615224"
+    },
+    "code": {
+      "id": "0615224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ဝ ကျေးရွာအုပ်စု",
+      "en": "Wan Wa Village Tract",
+      "slug": "wan-wa-village-tract-0615208"
+    },
+    "code": {
+      "id": "0615208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ်ဝပ် ကျေးရွာအုပ်စု",
+      "en": "Wan Wut Village Tract",
+      "slug": "wan-wut-village-tract-0615211"
+    },
+    "code": {
+      "id": "0615211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းကောင် ကျေးရွာအုပ်စု",
+      "en": "Wein Kawng Village Tract",
+      "slug": "wein-kawng-village-tract-0615219"
+    },
+    "code": {
+      "id": "0615219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0615003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေး ရပ်ကွက်",
+      "en": "Zay Quarter",
+      "slug": "zay-quarter-0615003"
+    },
+    "code": {
+      "id": "0615003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015701",
+      "level": 3,
+      "name": {
+        "local": "ကျေးသီး",
+        "en": "Kyethi",
+        "slug": "kyethi-MMR014015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015701",
+        "level": 3,
+        "name": {
+          "local": "ကျေးသီး",
+          "en": "Kyethi",
+          "slug": "kyethi-MMR014015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0615003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

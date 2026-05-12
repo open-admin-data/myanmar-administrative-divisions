@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR004007703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လိုင်လင်းပီ",
+      "en": "Lalengpi",
+      "slug": "lalengpi-MMR004007703"
+    },
+    "code": {
+      "id": "MMR004007703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.9592",
+      "lon": "93.1143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မတူပီ",
+      "en": "Matupi",
+      "slug": "matupi-MMR004007701"
+    },
+    "code": {
+      "id": "MMR004007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.60475",
+      "lon": "93.44086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပလက်ဝ",
+      "en": "Paletwa",
+      "slug": "paletwa-MMR004009701"
+    },
+    "code": {
+      "id": "MMR004009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.30441",
+      "lon": "92.85461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေဇွာ",
+      "en": "Rezua",
+      "slug": "rezua-MMR004007702"
+    },
+    "code": {
+      "id": "MMR004007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.05289",
+      "lon": "93.40857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆမီး",
+      "en": "Samee",
+      "slug": "samee-MMR004009702"
+    },
+    "code": {
+      "id": "MMR004009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.29333",
+      "lon": "93.09649"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

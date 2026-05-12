@@ -1,0 +1,56 @@
+{
+  "id": "MMR012009702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တောင်ပြိုလက်ဝဲ",
+    "en": "Taungpyoletwea",
+    "slug": "taungpyoletwea-MMR012009702"
+  },
+  "code": {
+    "id": "MMR012009702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D002",
+    "level": 2,
+    "name": {
+      "local": "မောင်တောခရိုင်",
+      "en": "Maungdaw",
+      "slug": "maungdaw-MMR012D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D002",
+      "level": 2,
+      "name": {
+        "local": "မောင်တောခရိုင်",
+        "en": "Maungdaw",
+        "slug": "maungdaw-MMR012D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.19991",
+    "lon": "92.20068"
+  },
+  "metadata": {},
+  "source": {}
+}

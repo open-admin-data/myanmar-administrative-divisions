@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR006010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဘုတ်ပြင်း",
+      "en": "Bokpyin",
+      "slug": "bokpyin-MMR006010701"
+    },
+    "code": {
+      "id": "MMR006010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့သောင်းခရိုင်",
+        "en": "Kawthoung",
+        "slug": "kawthoung-MMR006D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.26504",
+      "lon": "98.75909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006010703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကရသူရိ",
+      "en": "Karathuri",
+      "slug": "karathuri-MMR006010703"
+    },
+    "code": {
+      "id": "MMR006010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့သောင်းခရိုင်",
+        "en": "Kawthoung",
+        "slug": "kawthoung-MMR006D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.93336",
+      "lon": "98.75998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကော့သောင်း",
+      "en": "Kawthoung",
+      "slug": "kawthoung-MMR006009701"
+    },
+    "code": {
+      "id": "MMR006009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့သောင်းခရိုင်",
+        "en": "Kawthoung",
+        "slug": "kawthoung-MMR006D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.98261",
+      "lon": "98.54995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခမောက်ကြီး",
+      "en": "Khamaukgyi",
+      "slug": "khamaukgyi-MMR006009702"
+    },
+    "code": {
+      "id": "MMR006009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့သောင်းခရိုင်",
+        "en": "Kawthoung",
+        "slug": "kawthoung-MMR006D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.353",
+      "lon": "98.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006010702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပြည်ကြီးမဏ္ဍိုင်",
+      "en": "Pyigyimandaing",
+      "slug": "pyigyimandaing-MMR006010702"
+    },
+    "code": {
+      "id": "MMR006010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့သောင်းခရိုင်",
+        "en": "Kawthoung",
+        "slug": "kawthoung-MMR006D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.46842",
+      "lon": "99.00144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

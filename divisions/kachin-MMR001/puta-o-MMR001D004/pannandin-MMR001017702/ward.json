@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0161001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0161001"
+    },
+    "code": {
+      "id": "0161001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001017702",
+      "level": 3,
+      "name": {
+        "local": "ပန်နန်းဒင်",
+        "en": "Pannandin",
+        "slug": "pannandin-MMR001017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      },
+      {
+        "id": "MMR001017702",
+        "level": 3,
+        "name": {
+          "local": "ပန်နန်းဒင်",
+          "en": "Pannandin",
+          "slug": "pannandin-MMR001017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0161001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

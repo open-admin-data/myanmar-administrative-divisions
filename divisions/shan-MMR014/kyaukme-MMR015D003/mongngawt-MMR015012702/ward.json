@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1665003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ကောင်း ရပ်ကွက်",
+      "en": "Man Kawng Quarter",
+      "slug": "man-kawng-quarter-1665003"
+    },
+    "code": {
+      "id": "1665003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းငေါ့",
+        "en": "Mongngawt",
+        "slug": "mongngawt-MMR015012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းငေါ့",
+          "en": "Mongngawt",
+          "slug": "mongngawt-MMR015012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1665003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်လုံ ရပ်ကွက်",
+      "en": "Man Long Quarter",
+      "slug": "man-long-quarter-1665004"
+    },
+    "code": {
+      "id": "1665004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းငေါ့",
+        "en": "Mongngawt",
+        "slug": "mongngawt-MMR015012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းငေါ့",
+          "en": "Mongngawt",
+          "slug": "mongngawt-MMR015012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1665004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းငေါ့ဈေး ရပ်ကွက်",
+      "en": "Mong Ngawt Zay Quarter",
+      "slug": "mong-ngawt-zay-quarter-1665005"
+    },
+    "code": {
+      "id": "1665005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းငေါ့",
+        "en": "Mongngawt",
+        "slug": "mongngawt-MMR015012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းငေါ့",
+          "en": "Mongngawt",
+          "slug": "mongngawt-MMR015012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1665005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ဖတ်ဖာ ရပ်ကွက်",
+      "en": "Pang Hpat Hpar Quarter",
+      "slug": "pang-hpat-hpar-quarter-1665002"
+    },
+    "code": {
+      "id": "1665002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းငေါ့",
+        "en": "Mongngawt",
+        "slug": "mongngawt-MMR015012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းငေါ့",
+          "en": "Mongngawt",
+          "slug": "mongngawt-MMR015012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1665002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1665001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာလုံ ရပ်ကွက်",
+      "en": "Tar Long Quarter",
+      "slug": "tar-long-quarter-1665001"
+    },
+    "code": {
+      "id": "1665001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015012702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းငေါ့",
+        "en": "Mongngawt",
+        "slug": "mongngawt-MMR015012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်မဲခရိုင်",
+          "en": "Kyaukme",
+          "slug": "kyaukme-MMR015D003"
+        }
+      },
+      {
+        "id": "MMR015012702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းငေါ့",
+          "en": "Mongngawt",
+          "slug": "mongngawt-MMR015012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1665001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

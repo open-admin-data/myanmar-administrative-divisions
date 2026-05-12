@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0873003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညွတ်ကွင်းအနောက် (၁) ရပ်ကွက်",
+      "en": "Ka Nyut Kwin Ah Nauk (1) Quarter",
+      "slug": "ka-nyut-kwin-ah-nauk-1-quarter-0873003"
+    },
+    "code": {
+      "id": "0873003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007012702",
+      "level": 3,
+      "name": {
+        "local": "ကညွတ်ကွင်း",
+        "en": "Kanyutkwin",
+        "slug": "kanyutkwin-MMR007012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007012702",
+        "level": 3,
+        "name": {
+          "local": "ကညွတ်ကွင်း",
+          "en": "Kanyutkwin",
+          "slug": "kanyutkwin-MMR007012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0873003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0873004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညွတ်ကွင်းအနောက် (၂) ရပ်ကွက်",
+      "en": "Ka Nyut Kwin Ah Nauk (2) Quarter",
+      "slug": "ka-nyut-kwin-ah-nauk-2-quarter-0873004"
+    },
+    "code": {
+      "id": "0873004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007012702",
+      "level": 3,
+      "name": {
+        "local": "ကညွတ်ကွင်း",
+        "en": "Kanyutkwin",
+        "slug": "kanyutkwin-MMR007012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007012702",
+        "level": 3,
+        "name": {
+          "local": "ကညွတ်ကွင်း",
+          "en": "Kanyutkwin",
+          "slug": "kanyutkwin-MMR007012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0873004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0873001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညွတ်ကွင်းအရှေ့ (၁) ရပ်ကွက်",
+      "en": "Ka Nyut Kwin Ah Shey (1) Quarter",
+      "slug": "ka-nyut-kwin-ah-shey-1-quarter-0873001"
+    },
+    "code": {
+      "id": "0873001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007012702",
+      "level": 3,
+      "name": {
+        "local": "ကညွတ်ကွင်း",
+        "en": "Kanyutkwin",
+        "slug": "kanyutkwin-MMR007012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007012702",
+        "level": 3,
+        "name": {
+          "local": "ကညွတ်ကွင်း",
+          "en": "Kanyutkwin",
+          "slug": "kanyutkwin-MMR007012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0873001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0873002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညွတ်ကွင်းအရှေ့ (၂) ရပ်ကွက်",
+      "en": "Ka Nyut Kwin Ah Shey (2) Quarter",
+      "slug": "ka-nyut-kwin-ah-shey-2-quarter-0873002"
+    },
+    "code": {
+      "id": "0873002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007012702",
+      "level": 3,
+      "name": {
+        "local": "ကညွတ်ကွင်း",
+        "en": "Kanyutkwin",
+        "slug": "kanyutkwin-MMR007012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007012702",
+        "level": 3,
+        "name": {
+          "local": "ကညွတ်ကွင်း",
+          "en": "Kanyutkwin",
+          "slug": "kanyutkwin-MMR007012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0873002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR017023702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အမာ",
+    "en": "Ahmar",
+    "slug": "ahmar-MMR017023702"
+  },
+  "code": {
+    "id": "MMR017023702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D006",
+    "level": 2,
+    "name": {
+      "local": "ဖျာပုံခရိုင်",
+      "en": "Pyapon",
+      "slug": "pyapon-MMR017D006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D006",
+      "level": 2,
+      "name": {
+        "local": "ဖျာပုံခရိုင်",
+        "en": "Pyapon",
+        "slug": "pyapon-MMR017D006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.7994",
+    "lon": "95.29017"
+  },
+  "metadata": {},
+  "source": {}
+}

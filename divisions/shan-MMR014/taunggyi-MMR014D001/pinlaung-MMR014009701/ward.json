@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "0605004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ရပ်ကွက်",
+      "en": "Ah Nauk Quarter",
+      "slug": "ah-nauk-quarter-0605004"
+    },
+    "code": {
+      "id": "0605004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ ရပ်ကွက်",
+      "en": "Ah Shey Quarter",
+      "slug": "ah-shey-quarter-0605003"
+    },
+    "code": {
+      "id": "0605003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘန့်ဘာ ကျေးရွာအုပ်စု",
+      "en": "Bant Bar Village Tract",
+      "slug": "bant-bar-village-tract-0605201"
+    },
+    "code": {
+      "id": "0605201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘန့်ဖယ် ရပ်ကွက်",
+      "en": "Bant Hpei Quarter",
+      "slug": "bant-hpei-quarter-0605001"
+    },
+    "code": {
+      "id": "0605001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘန့်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Bant Pyin Village Tract",
+      "slug": "bant-pyin-village-tract-0605221"
+    },
+    "code": {
+      "id": "0605221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွှေးပြင် ကျေးရွာအုပ်စု",
+      "en": "Hmway Pyin Village Tract",
+      "slug": "hmway-pyin-village-tract-0605223"
+    },
+    "code": {
+      "id": "0605223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားမြောက် ရပ်ကွက်",
+      "en": "Hpa Yar (North) Quarter",
+      "slug": "hpa-yar-north-quarter-0605002"
+    },
+    "code": {
+      "id": "0605002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားဖြူ ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Hpyu Village Tract",
+      "slug": "hpa-yar-hpyu-village-tract-0605222"
+    },
+    "code": {
+      "id": "0605222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စင်းတောင်း ကျေးရွာအုပ်စု",
+      "en": "Hsin Tawng Village Tract",
+      "slug": "hsin-tawng-village-tract-0605206"
+    },
+    "code": {
+      "id": "0605206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ပင် ကျေးရွာအုပ်စု",
+      "en": "Htein Pin Village Tract",
+      "slug": "htein-pin-village-tract-0605208"
+    },
+    "code": {
+      "id": "0605208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်သာဦး ရပ်ကွက်",
+      "en": "Kan Thar U Quarter",
+      "slug": "kan-thar-u-quarter-0605007"
+    },
+    "code": {
+      "id": "0605007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကိုးခေါင် ရပ်ကွက်",
+      "en": "Koe Khaung Quarter",
+      "slug": "koe-khaung-quarter-0605009"
+    },
+    "code": {
+      "id": "0605009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိန့်ညား ကျေးရွာအုပ်စု",
+      "en": "Leint Nyar Village Tract",
+      "slug": "leint-nyar-village-tract-0605210"
+    },
+    "code": {
+      "id": "0605210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်မော ကျေးရွာအုပ်စု",
+      "en": "Loi Maw Village Tract",
+      "slug": "loi-maw-village-tract-0605217"
+    },
+    "code": {
+      "id": "0605217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးပိုး ကျေးရွာအုပ်စု",
+      "en": "Long Poe Village Tract",
+      "slug": "long-poe-village-tract-0605220"
+    },
+    "code": {
+      "id": "0605220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးပျဉ် ကျေးရွာအုပ်စု",
+      "en": "Long Pyin Village Tract",
+      "slug": "long-pyin-village-tract-0605207"
+    },
+    "code": {
+      "id": "0605207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဘူး ကျေးရွာအုပ်စု",
+      "en": "Min Bu Village Tract",
+      "slug": "min-bu-village-tract-0605202"
+    },
+    "code": {
+      "id": "0605202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလာကွက်သစ် ရပ်ကွက်",
+      "en": "Min Ga Lar Kwet Thit Quarter",
+      "slug": "min-ga-lar-kwet-thit-quarter-0605008"
+    },
+    "code": {
+      "id": "0605008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ထိဗွာ ကျေးရွာအုပ်စု",
+      "en": "Myauk Hti Bwar Village Tract",
+      "slug": "myauk-hti-bwar-village-tract-0605211"
+    },
+    "code": {
+      "id": "0605211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းတွင်း ကျေးရွာအုပ်စု",
+      "en": "Myin Twin Village Tract",
+      "slug": "myin-twin-village-tract-0605216"
+    },
+    "code": {
+      "id": "0605216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းပုလင်း ကျေးရွာအုပ်စု",
+      "en": "Nan Pu Lin Village Tract",
+      "slug": "nan-pu-lin-village-tract-0605214"
+    },
+    "code": {
+      "id": "0605214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းတုတ် ကျေးရွာအုပ်စု",
+      "en": "Nang Toke Village Tract",
+      "slug": "nang-toke-village-tract-0605212"
+    },
+    "code": {
+      "id": "0605212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ပီ ကျေးရွာအုပ်စု",
+      "en": "Nawng Pi Village Tract",
+      "slug": "nawng-pi-village-tract-0605218"
+    },
+    "code": {
+      "id": "0605218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါ့အင် ကျေးရွာအုပ်စု",
+      "en": "Pawt In Village Tract",
+      "slug": "pawt-in-village-tract-0605215"
+    },
+    "code": {
+      "id": "0605215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါ့ယား ကျေးရွာအုပ်စု",
+      "en": "Pawt Yar Village Tract",
+      "slug": "pawt-yar-village-tract-0605219"
+    },
+    "code": {
+      "id": "0605219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်ခင် ကျေးရွာအုပ်စု",
+      "en": "Pin Hkin Village Tract",
+      "slug": "pin-hkin-village-tract-0605224"
+    },
+    "code": {
+      "id": "0605224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်မွန်း ကျေးရွာအုပ်စု",
+      "en": "Pin Mun Village Tract",
+      "slug": "pin-mun-village-tract-0605209"
+    },
+    "code": {
+      "id": "0605209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်လောင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Pinlaung Gyi Village Tract",
+      "slug": "pinlaung-gyi-village-tract-0605200"
+    },
+    "code": {
+      "id": "0605200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ထီဗွါ ကျေးရွာအုပ်စု",
+      "en": "Taung Hti Bwar Village Tract",
+      "slug": "taung-hti-bwar-village-tract-0605203"
+    },
+    "code": {
+      "id": "0605203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီပေါင်း ကျေးရွာအုပ်စု",
+      "en": "Taung Hti Bwar Village Tract",
+      "slug": "taung-hti-bwar-village-tract-0605204"
+    },
+    "code": {
+      "id": "0605204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Kone Village Tract",
+      "slug": "tha-pyay-kone-village-tract-0605205"
+    },
+    "code": {
+      "id": "0605205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီကျစ် ကျေးရွာအုပ်စု",
+      "en": "Ti Kyit Village Tract",
+      "slug": "ti-kyit-village-tract-0605213"
+    },
+    "code": {
+      "id": "0605213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရင်းမှီး ရပ်ကွက်",
+      "en": "Yinn Hme Quarter",
+      "slug": "yinn-hme-quarter-0605010"
+    },
+    "code": {
+      "id": "0605010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးဝင်း ရပ်ကွက်",
+      "en": "Yone Win Quarter",
+      "slug": "yone-win-quarter-0605006"
+    },
+    "code": {
+      "id": "0605006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0605005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးတန်း ရပ်ကွက်",
+      "en": "Zay Tan Quarter",
+      "slug": "zay-tan-quarter-0605005"
+    },
+    "code": {
+      "id": "0605005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014009701",
+      "level": 3,
+      "name": {
+        "local": "ပင်လောင်း",
+        "en": "Pinlaung",
+        "slug": "pinlaung-MMR014009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014009701",
+        "level": 3,
+        "name": {
+          "local": "ပင်လောင်း",
+          "en": "Pinlaung",
+          "slug": "pinlaung-MMR014009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0605005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

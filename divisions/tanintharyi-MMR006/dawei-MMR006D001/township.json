@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR006001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ထားဝယ်",
+      "en": "Dawei",
+      "slug": "dawei-MMR006001701"
+    },
+    "code": {
+      "id": "MMR006001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.07753",
+      "lon": "98.19636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006004702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကလိန်အောင်",
+      "en": "Kaleinaung",
+      "slug": "kaleinaung-MMR006004702"
+    },
+    "code": {
+      "id": "MMR006004702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.6238",
+      "lon": "98.13849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လောင်းလုံး",
+      "en": "Launglon",
+      "slug": "launglon-MMR006002701"
+    },
+    "code": {
+      "id": "MMR006002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.97522",
+      "lon": "98.11963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မေတ္တာ",
+      "en": "Myitta",
+      "slug": "myitta-MMR006001702"
+    },
+    "code": {
+      "id": "MMR006001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.16355",
+      "lon": "98.52017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သရက်ချောင်း",
+      "en": "Thayetchaung",
+      "slug": "thayetchaung-MMR006003701"
+    },
+    "code": {
+      "id": "MMR006003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.8687",
+      "lon": "98.26252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေဖြူ",
+      "en": "Yebyu",
+      "slug": "yebyu-MMR006004701"
+    },
+    "code": {
+      "id": "MMR006004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.24591",
+      "lon": "98.20291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

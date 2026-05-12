@@ -1,0 +1,31 @@
+{
+  "id": "MMR017",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+    "en": "Ayeyarwady",
+    "slug": "ayeyarwady-MMR017"
+  },
+  "code": {
+    "id": "MMR017",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "ward": 2230,
+    "township": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.0585",
+    "lon": "95.1448"
+  },
+  "metadata": {},
+  "source": {}
+}

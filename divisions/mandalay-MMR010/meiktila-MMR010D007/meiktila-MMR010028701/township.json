@@ -1,0 +1,56 @@
+{
+  "id": "MMR010028701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိတ္ထီလာ",
+    "en": "Meiktila",
+    "slug": "meiktila-MMR010028701"
+  },
+  "code": {
+    "id": "MMR010028701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D007",
+    "level": 2,
+    "name": {
+      "local": "မိတ္ထီလာခရိုင်",
+      "en": "Meiktila",
+      "slug": "meiktila-MMR010D007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D007",
+      "level": 2,
+      "name": {
+        "local": "မိတ္ထီလာခရိုင်",
+        "en": "Meiktila",
+        "slug": "meiktila-MMR010D007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.88189",
+    "lon": "95.86311"
+  },
+  "metadata": {},
+  "source": {}
+}

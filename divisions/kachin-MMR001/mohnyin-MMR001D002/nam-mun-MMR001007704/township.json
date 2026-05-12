@@ -1,0 +1,56 @@
+{
+  "id": "MMR001007704",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "နန့်မွန်း",
+    "en": "Nam Mun",
+    "slug": "nam-mun-MMR001007704"
+  },
+  "code": {
+    "id": "MMR001007704",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D002",
+    "level": 2,
+    "name": {
+      "local": "မိုးညှင်းခရိုင်",
+      "en": "Mohnyin",
+      "slug": "mohnyin-MMR001D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.0047",
+    "lon": "96.3548"
+  },
+  "metadata": {},
+  "source": {}
+}

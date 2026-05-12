@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR002002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဒီးမော့ဆို",
+      "en": "Demoso",
+      "slug": "demoso-MMR002002701"
+    },
+    "code": {
+      "id": "MMR002002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.53832",
+      "lon": "97.15881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဖရူဆို",
+      "en": "Hpruso",
+      "slug": "hpruso-MMR002003701"
+    },
+    "code": {
+      "id": "MMR002003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.41387",
+      "lon": "97.12799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လွိုင်ကော်",
+      "en": "Loikaw",
+      "slug": "loikaw-MMR002001701"
+    },
+    "code": {
+      "id": "MMR002001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.67424",
+      "lon": "97.20993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လွိုင်လင်လေး",
+      "en": "Loilen Lay",
+      "slug": "loilen-lay-MMR002001702"
+    },
+    "code": {
+      "id": "MMR002001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.8777",
+      "lon": "97.2318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002002702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နန်းမယ်ခုံ",
+      "en": "Nan Mei Khon",
+      "slug": "nan-mei-khon-MMR002002702"
+    },
+    "code": {
+      "id": "MMR002002702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6696",
+      "lon": "97.1091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရှားတော",
+      "en": "Shadaw",
+      "slug": "shadaw-MMR002004701"
+    },
+    "code": {
+      "id": "MMR002004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.63174",
+      "lon": "97.52073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

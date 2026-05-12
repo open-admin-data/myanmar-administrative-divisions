@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR016009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျိုင်းလပ်",
+      "en": "Kenglat",
+      "slug": "kenglat-MMR016009702"
+    },
+    "code": {
+      "id": "MMR016009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.867",
+      "lon": "100.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုင်းဖြတ်",
+      "en": "Monghpyak",
+      "slug": "monghpyak-MMR016010701"
+    },
+    "code": {
+      "id": "MMR016010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.87804",
+      "lon": "99.92333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုင်းယောင်း",
+      "en": "Mongyawng",
+      "slug": "mongyawng-MMR016011701"
+    },
+    "code": {
+      "id": "MMR016011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.1807",
+      "lon": "100.3579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016011702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုင်းယု",
+      "en": "Mongyu",
+      "slug": "mongyu-MMR016011702"
+    },
+    "code": {
+      "id": "MMR016011702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.32976",
+      "lon": "100.55082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တာချီလိတ်",
+      "en": "Tachileik",
+      "slug": "tachileik-MMR016009701"
+    },
+    "code": {
+      "id": "MMR016009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.45304",
+      "lon": "99.88403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016009703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တာလေ",
+      "en": "Tarlay",
+      "slug": "tarlay-MMR016009703"
+    },
+    "code": {
+      "id": "MMR016009703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016D003",
+      "level": 2,
+      "name": {
+        "local": "တာချီလိတ်ခရိုင်",
+        "en": "Tachileik",
+        "slug": "tachileik-MMR016D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.71262",
+      "lon": "100.09307"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "0603009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ရပ်ကွက်",
+      "en": "Ah Nauk Quarter",
+      "slug": "ah-nauk-quarter-0603009"
+    },
+    "code": {
+      "id": "0603009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အော်ယော ရပ်ကွက်",
+      "en": "Aw Yaw Quarter",
+      "slug": "aw-yaw-quarter-0603006"
+    },
+    "code": {
+      "id": "0603006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟော်ကုန်း ရပ်ကွက်",
+      "en": "Haw Kone Quarter",
+      "slug": "haw-kone-quarter-0603008"
+    },
+    "code": {
+      "id": "0603008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငှက်ပျောတော ရပ်ကွက်",
+      "en": "Hgnet Pyaw Taw Quarter",
+      "slug": "hgnet-pyaw-taw-quarter-0603011"
+    },
+    "code": {
+      "id": "0603011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထယ်သွန်း ကျေးရွာအုပ်စု",
+      "en": "Htei Thun Village Tract",
+      "slug": "htei-thun-village-tract-0603205"
+    },
+    "code": {
+      "id": "0603205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထွက်နီ ကျေးရွာအုပ်စု",
+      "en": "Htwet Ni Village Tract",
+      "slug": "htwet-ni-village-tract-0603200"
+    },
+    "code": {
+      "id": "0603200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းငယ် ကျေးရွာအုပ်စု",
+      "en": "Inn Nge Village Tract",
+      "slug": "inn-nge-village-tract-0603216"
+    },
+    "code": {
+      "id": "0603216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကူးကော် ကျေးရွာအုပ်စု",
+      "en": "Ku Kaw Village Tract",
+      "slug": "ku-kaw-village-tract-0603218"
+    },
+    "code": {
+      "id": "0603218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျားကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Kone Village Tract",
+      "slug": "kyar-kone-village-tract-0603222"
+    },
+    "code": {
+      "id": "0603222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်စု ကျေးရွာအုပ်စု",
+      "en": "Kyauk Su Village Tract",
+      "slug": "kyauk-su-village-tract-0603204"
+    },
+    "code": {
+      "id": "0603204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံး ကျေးရွာအုပ်စု",
+      "en": "Kyone Village Tract",
+      "slug": "kyone-village-tract-0603225"
+    },
+    "code": {
+      "id": "0603225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲနယ်တောင် ကျေးရွာအုပ်စု",
+      "en": "Me Nei Taung Village Tract",
+      "slug": "me-nei-taung-village-tract-0603206"
+    },
+    "code": {
+      "id": "0603206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလီ ကျေးရွာအုပ်စု",
+      "en": "Mong Li Village Tract",
+      "slug": "mong-li-village-tract-0603214"
+    },
+    "code": {
+      "id": "0603214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေခြား (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Myay Char (North) Village Tract",
+      "slug": "myay-char-north-village-tract-0603224"
+    },
+    "code": {
+      "id": "0603224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေခြားချိုင့် ကျေးရွာအုပ်စု",
+      "en": "Myay Char Chaint Village Tract",
+      "slug": "myay-char-chaint-village-tract-0603226"
+    },
+    "code": {
+      "id": "0603226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းမူး ကျေးရွာအုပ်စု",
+      "en": "Myin Mu Village Tract",
+      "slug": "myin-mu-village-tract-0603221"
+    },
+    "code": {
+      "id": "0603221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Nan Kone Village Tract",
+      "slug": "nan-kone-village-tract-0603223"
+    },
+    "code": {
+      "id": "0603223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကောက် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Kauk Village Tract",
+      "slug": "nyaung-kauk-village-tract-0603212"
+    },
+    "code": {
+      "id": "0603212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဝန်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Wun Village Tract",
+      "slug": "nyaung-wun-village-tract-0603213"
+    },
+    "code": {
+      "id": "0603213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းစစ် ကျေးရွာအုပ်စု",
+      "en": "Pan Sit Village Tract",
+      "slug": "pan-sit-village-tract-0603208"
+    },
+    "code": {
+      "id": "0603208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်တော ရပ်ကွက်",
+      "en": "Pauk Taw Quarter",
+      "slug": "pauk-taw-quarter-0603010"
+    },
+    "code": {
+      "id": "0603010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်​ပျော် ကျေးရွာအုပ်စု",
+      "en": "Pin Pyaw Village Tract",
+      "slug": "pin-pyaw-village-tract-0603210"
+    },
+    "code": {
+      "id": "0603210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပွေးလှ ကျေးရွာအုပ်စု",
+      "en": "Pway Hla Village Tract",
+      "slug": "pway-hla-village-tract-0603215"
+    },
+    "code": {
+      "id": "0603215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်တော်သာ ရပ်ကွက်",
+      "en": "Pyi Taw Thar Quarter",
+      "slug": "pyi-taw-thar-quarter-0603012"
+    },
+    "code": {
+      "id": "0603012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်း ရပ်ကွက်",
+      "en": "Shan Quarter",
+      "slug": "shan-quarter-0603002"
+    },
+    "code": {
+      "id": "0603002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားပြား ကျေးရွာအုပ်စု",
+      "en": "Shar Pyar Village Tract",
+      "slug": "shar-pyar-village-tract-0603220"
+    },
+    "code": {
+      "id": "0603220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပုထိုး ကျေးရွာအုပ်စု",
+      "en": "Shwe Pu Htoe Village Tract",
+      "slug": "shwe-pu-htoe-village-tract-0603207"
+    },
+    "code": {
+      "id": "0603207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ခေါင်း ရပ်ကွက်",
+      "en": "Sin Gaung Quarter",
+      "slug": "sin-gaung-quarter-0603004"
+    },
+    "code": {
+      "id": "0603004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးဗိုကုန်း ရပ်ကွက်",
+      "en": "Sue Bo Kone Quarter",
+      "slug": "sue-bo-kone-quarter-0603001"
+    },
+    "code": {
+      "id": "0603001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမဲ ကျေးရွာအုပ်စု",
+      "en": "Ta Me Village Tract",
+      "slug": "ta-me-village-tract-0603219"
+    },
+    "code": {
+      "id": "0603219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပေါ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Taung Paw Gyi Village Tract",
+      "slug": "taung-paw-gyi-village-tract-0603202"
+    },
+    "code": {
+      "id": "0603202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ရှည် ကျေးရွာအုပ်စု",
+      "en": "Taung Shey Village Tract",
+      "slug": "taung-shey-village-tract-0603211"
+    },
+    "code": {
+      "id": "0603211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Kone Village Tract",
+      "slug": "tha-yet-kone-village-tract-0603217"
+    },
+    "code": {
+      "id": "0603217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thein Kone Village Tract",
+      "slug": "thein-kone-village-tract-0603209"
+    },
+    "code": {
+      "id": "0603209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိမင်္ဂလာရပ်ကွက် ရပ်ကွက်",
+      "en": "Thiri Mingalar Quarter",
+      "slug": "thiri-mingalar-quarter-0603013"
+    },
+    "code": {
+      "id": "0603013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်အယ်ပင် ကျေးရွာအုပ်စု",
+      "en": "Thit Ae Pin Village Tract",
+      "slug": "thit-ae-pin-village-tract-0603201"
+    },
+    "code": {
+      "id": "0603201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေဖြူ ကျေးရွာအုပ်စု",
+      "en": "Yae Hpyu Village Tract",
+      "slug": "yae-hpyu-village-tract-0603203"
+    },
+    "code": {
+      "id": "0603203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာငယ် ရပ်ကွက်",
+      "en": "Ywar Nge Quarter",
+      "slug": "ywar-nge-quarter-0603007"
+    },
+    "code": {
+      "id": "0603007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ်စေတီကုန်း ရပ်ကွက်",
+      "en": "Ywar Thit Zay Di Kone Quarter",
+      "slug": "ywar-thit-zay-di-kone-quarter-0603005"
+    },
+    "code": {
+      "id": "0603005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0603003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးတန်း ရပ်ကွက်",
+      "en": "Zay Tan Quarter",
+      "slug": "zay-tan-quarter-0603003"
+    },
+    "code": {
+      "id": "0603003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014006701",
+      "level": 3,
+      "name": {
+        "local": "ပင်းတယ",
+        "en": "Pindaya",
+        "slug": "pindaya-MMR014006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014006701",
+        "level": 3,
+        "name": {
+          "local": "ပင်းတယ",
+          "en": "Pindaya",
+          "slug": "pindaya-MMR014006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0603003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

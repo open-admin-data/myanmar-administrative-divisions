@@ -1,0 +1,48 @@
+{
+  "id": "MMR012D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "သံတွဲခရိုင်",
+    "en": "Thandwe",
+    "slug": "thandwe-MMR012D004"
+  },
+  "code": {
+    "id": "MMR012D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012",
+    "level": 1,
+    "name": {
+      "local": "ရခိုင်ပြည်နယ်",
+      "en": "Rakhine",
+      "slug": "rakhine-MMR012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 178
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.5284",
+    "lon": "94.3235"
+  },
+  "metadata": {},
+  "source": {}
+}

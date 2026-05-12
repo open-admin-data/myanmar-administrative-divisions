@@ -1,0 +1,56 @@
+{
+  "id": "MMR005007701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကန့်ဘလူ",
+    "en": "Kanbalu",
+    "slug": "kanbalu-MMR005007701"
+  },
+  "code": {
+    "id": "MMR005007701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D010",
+    "level": 2,
+    "name": {
+      "local": "ကန့်ဘလူခရိုင်",
+      "en": "Kanbalu",
+      "slug": "kanbalu-MMR005D010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D010",
+      "level": 2,
+      "name": {
+        "local": "ကန့်ဘလူခရိုင်",
+        "en": "Kanbalu",
+        "slug": "kanbalu-MMR005D010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.20305",
+    "lon": "95.51886"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0366002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ရော ရပ်ကွက်",
+      "en": "In Yaw Quarter",
+      "slug": "in-yaw-quarter-0366002"
+    },
+    "code": {
+      "id": "0366002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007702",
+      "level": 3,
+      "name": {
+        "local": "ရေဇွာ",
+        "en": "Rezua",
+        "slug": "rezua-MMR004007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007702",
+        "level": 3,
+        "name": {
+          "local": "ရေဇွာ",
+          "en": "Rezua",
+          "slug": "rezua-MMR004007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0366002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0366004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လောင်းရဲ ရပ်ကွက်",
+      "en": "Laung Ye Quarter",
+      "slug": "laung-ye-quarter-0366004"
+    },
+    "code": {
+      "id": "0366004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007702",
+      "level": 3,
+      "name": {
+        "local": "ရေဇွာ",
+        "en": "Rezua",
+        "slug": "rezua-MMR004007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007702",
+        "level": 3,
+        "name": {
+          "local": "ရေဇွာ",
+          "en": "Rezua",
+          "slug": "rezua-MMR004007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0366004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0366003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွာပီး ရပ်ကွက်",
+      "en": "Mual Pi Quarter",
+      "slug": "mual-pi-quarter-0366003"
+    },
+    "code": {
+      "id": "0366003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007702",
+      "level": 3,
+      "name": {
+        "local": "ရေဇွာ",
+        "en": "Rezua",
+        "slug": "rezua-MMR004007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007702",
+        "level": 3,
+        "name": {
+          "local": "ရေဇွာ",
+          "en": "Rezua",
+          "slug": "rezua-MMR004007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0366003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0366001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0366001"
+    },
+    "code": {
+      "id": "0366001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007702",
+      "level": 3,
+      "name": {
+        "local": "ရေဇွာ",
+        "en": "Rezua",
+        "slug": "rezua-MMR004007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007702",
+        "level": 3,
+        "name": {
+          "local": "ရေဇွာ",
+          "en": "Rezua",
+          "slug": "rezua-MMR004007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0366001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

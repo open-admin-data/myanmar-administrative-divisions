@@ -1,0 +1,4357 @@
+[
+  {
+    "id": "0224003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0224003"
+    },
+    "code": {
+      "id": "0224003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ကဲ့ဇင် ကျေးရွာအုပ်စု",
+      "en": "Aung Keit Zin Village Tract",
+      "slug": "aung-keit-zin-village-tract-0224208"
+    },
+    "code": {
+      "id": "0224208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0224001"
+    },
+    "code": {
+      "id": "0224001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ဆန်း ရပ်ကွက်",
+      "en": "Aung San Quarter",
+      "slug": "aung-san-quarter-0224004"
+    },
+    "code": {
+      "id": "0224004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သာ ကျေးရွာအုပ်စု",
+      "en": "Aung Thar Village Tract",
+      "slug": "aung-thar-village-tract-0224210"
+    },
+    "code": {
+      "id": "0224210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်အောင်ဇေယျ ရပ်ကွက်",
+      "en": "Bo Aung Zay Ya Quarter",
+      "slug": "bo-aung-zay-ya-quarter-0224002"
+    },
+    "code": {
+      "id": "0224002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုတ် ကျေးရွာအုပ်စု",
+      "en": "Boke Village Tract",
+      "slug": "boke-village-tract-0224217"
+    },
+    "code": {
+      "id": "0224217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းသာ ကျေးရွာအုပ်စု",
+      "en": "Chan Thar Village Tract",
+      "slug": "chan-thar-village-tract-0224215"
+    },
+    "code": {
+      "id": "0224215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းရှည် ကျေးရွာအုပ်စု",
+      "en": "Chaung Shey Village Tract",
+      "slug": "chaung-shey-village-tract-0224261"
+    },
+    "code": {
+      "id": "0224261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဆုံ ကျေးရွာအုပ်စု",
+      "en": "Chaung Son Village Tract",
+      "slug": "chaung-son-village-tract-0224218"
+    },
+    "code": {
+      "id": "0224218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခြုံ ကျေးရွာအုပ်စု",
+      "en": "Chon Village Tract",
+      "slug": "chon-village-tract-0224219"
+    },
+    "code": {
+      "id": "0224219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှောကုန်း ကျေးရွာအုပ်စု",
+      "en": "Hnaw Kone Village Tract",
+      "slug": "hnaw-kone-village-tract-0224200"
+    },
+    "code": {
+      "id": "0224200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖလံခုံ ကျေးရွာအုပ်စု",
+      "en": "Hpa Lan Khon Village Tract",
+      "slug": "hpa-lan-khon-village-tract-0224203"
+    },
+    "code": {
+      "id": "0224203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖန်းခါးစဉ် ကျေးရွာအုပ်စု",
+      "en": "Hpan Khar Sin Village Tract",
+      "slug": "hpan-khar-sin-village-tract-0224250"
+    },
+    "code": {
+      "id": "0224250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိန်းကား ကျေးရွာအုပ်စု",
+      "en": "Hpein Kar Village Tract",
+      "slug": "hpein-kar-village-tract-0224251"
+    },
+    "code": {
+      "id": "0224251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Htan Gyi Village Tract",
+      "slug": "htan-gyi-village-tract-0224257"
+    },
+    "code": {
+      "id": "0224257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထန်းတော ကျေးရွာအုပ်စု",
+      "en": "Htan Taw Village Tract",
+      "slug": "htan-taw-village-tract-0224258"
+    },
+    "code": {
+      "id": "0224258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ပင် ကျေးရွာအုပ်စု",
+      "en": "In Pin Village Tract",
+      "slug": "in-pin-village-tract-0224233"
+    },
+    "code": {
+      "id": "0224233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်တော ကျေးရွာအုပ်စု",
+      "en": "In Taw Village Tract",
+      "slug": "in-taw-village-tract-0224220"
+    },
+    "code": {
+      "id": "0224220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Inn Gyi Village Tract",
+      "slug": "inn-gyi-village-tract-0224221"
+    },
+    "code": {
+      "id": "0224221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ပေါက် ကျေးရွာအုပ်စု",
+      "en": "Kan Pauk Village Tract",
+      "slug": "kan-pauk-village-tract-0224224"
+    },
+    "code": {
+      "id": "0224224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်နွဲ့ ကျေးရွာအုပ်စု",
+      "en": "Khaung Nwet Village Tract",
+      "slug": "khaung-nwet-village-tract-0224228"
+    },
+    "code": {
+      "id": "0224228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Khin Pin Village Tract",
+      "slug": "khin-pin-village-tract-0224227"
+    },
+    "code": {
+      "id": "0224227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုက္ကိုစု ကျေးရွာအုပ်စု",
+      "en": "Koke Ko Su Village Tract",
+      "slug": "koke-ko-su-village-tract-0224225"
+    },
+    "code": {
+      "id": "0224225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုံးသာ ကျေးရွာအုပ်စု",
+      "en": "Kone Thar Village Tract",
+      "slug": "kone-thar-village-tract-0224226"
+    },
+    "code": {
+      "id": "0224226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းအုံ ကျေးရွာအုပ်စု",
+      "en": "Kun Ohn Village Tract",
+      "slug": "kun-ohn-village-tract-0224245"
+    },
+    "code": {
+      "id": "0224245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာပန်းညို ကျေးရွာအုပ်စု",
+      "en": "Kyar Pan Nyo Village Tract",
+      "slug": "kyar-pan-nyo-village-tract-0224222"
+    },
+    "code": {
+      "id": "0224222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြောင်ပန်းတော ကျေးရွာအုပ်စု",
+      "en": "Kyaung Pan Taw Village Tract",
+      "slug": "kyaung-pan-taw-village-tract-0224223"
+    },
+    "code": {
+      "id": "0224223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေး ကျေးရွာအုပ်စု",
+      "en": "Lay Village Tract",
+      "slug": "lay-village-tract-0224231"
+    },
+    "code": {
+      "id": "0224231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိမ်တော ကျေးရွာအုပ်စု",
+      "en": "Lein Taw Village Tract",
+      "slug": "lein-taw-village-tract-0224229"
+    },
+    "code": {
+      "id": "0224229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင်းဖြူ ကျေးရွာအုပ်စု",
+      "en": "Lin Hpyu Village Tract",
+      "slug": "lin-hpyu-village-tract-0224236"
+    },
+    "code": {
+      "id": "0224236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကြီးနီ ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Ni Village Tract",
+      "slug": "ma-gyi-ni-village-tract-0224241"
+    },
+    "code": {
+      "id": "0224241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကြီးတော ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Taw Village Tract",
+      "slug": "ma-gyi-taw-village-tract-0224240"
+    },
+    "code": {
+      "id": "0224240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲအိုး ကျေးရွာအုပ်စု",
+      "en": "Me Oe Village Tract",
+      "slug": "me-oe-village-tract-0224201"
+    },
+    "code": {
+      "id": "0224201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိတ္ထီလာ ကျေးရွာအုပ်စု",
+      "en": "Meik Hti Lar Village Tract",
+      "slug": "meik-hti-lar-village-tract-0224243"
+    },
+    "code": {
+      "id": "0224243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုတ်စီ ကျေးရွာအုပ်စု",
+      "en": "Moke Si Village Tract",
+      "slug": "moke-si-village-tract-0224211"
+    },
+    "code": {
+      "id": "0224211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုန်တိုင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Mon Taing Pin Village Tract",
+      "slug": "mon-taing-pin-village-tract-0224232"
+    },
+    "code": {
+      "id": "0224232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းပေါက် ကျေးရွာအုပ်စု",
+      "en": "Myin Pauk Village Tract",
+      "slug": "myin-pauk-village-tract-0224202"
+    },
+    "code": {
+      "id": "0224202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ကြီး ကျေးရွာအုပ်စု",
+      "en": "Myo Gyi Village Tract",
+      "slug": "myo-gyi-village-tract-0224244"
+    },
+    "code": {
+      "id": "0224244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နေပူကုန်း ကျေးရွာအုပ်စု",
+      "en": "Nay Pu Kone Village Tract",
+      "slug": "nay-pu-kone-village-tract-0224207"
+    },
+    "code": {
+      "id": "0224207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငြုပ်တုံ ကျေးရွာအုပ်စု",
+      "en": "Nga Yoke Ton Village Tract",
+      "slug": "nga-yoke-ton-village-tract-0224247"
+    },
+    "code": {
+      "id": "0224247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လယ် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lel Village Tract",
+      "slug": "nyaung-lel-village-tract-0224206"
+    },
+    "code": {
+      "id": "0224206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်နီကန် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Ni Kan Village Tract",
+      "slug": "nyaung-ni-kan-village-tract-0224238"
+    },
+    "code": {
+      "id": "0224238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ်ဖို ကျေးရွာအုပ်စု",
+      "en": "Oke Hpo Village Tract",
+      "slug": "oke-hpo-village-tract-0224248"
+    },
+    "code": {
+      "id": "0224248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပလူဇဝ ကျေးရွာအုပ်စု",
+      "en": "Pa Lu Za Wa Village Tract",
+      "slug": "pa-lu-za-wa-village-tract-0224249"
+    },
+    "code": {
+      "id": "0224249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေကြီး ကျေးရွာအုပ်စု",
+      "en": "Pay Gyi Village Tract",
+      "slug": "pay-gyi-village-tract-0224254"
+    },
+    "code": {
+      "id": "0224254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုန်းတကား ကျေးရွာအုပ်စု",
+      "en": "Pone Ta Kar Village Tract",
+      "slug": "pone-ta-kar-village-tract-0224235"
+    },
+    "code": {
+      "id": "0224235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှော်ဖြူ ကျေးရွာအုပ်စု",
+      "en": "Shaw Hpyu Village Tract",
+      "slug": "shaw-hpyu-village-tract-0224260"
+    },
+    "code": {
+      "id": "0224260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာ ရပ်ကွက်",
+      "en": "Shwe Pyi Thar Quarter",
+      "slug": "shwe-pyi-thar-quarter-0224005"
+    },
+    "code": {
+      "id": "0224005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စည်သာမြေ ကျေးရွာအုပ်စု",
+      "en": "Si Thar Myay Village Tract",
+      "slug": "si-thar-myay-village-tract-0224242"
+    },
+    "code": {
+      "id": "0224242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမာတော ကျေးရွာအုပ်စု",
+      "en": "Ta Mar Taw Village Tract",
+      "slug": "ta-mar-taw-village-tract-0224255"
+    },
+    "code": {
+      "id": "0224255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာတိုင် ကျေးရွာအုပ်စု",
+      "en": "Tar Taing Village Tract",
+      "slug": "tar-taing-village-tract-0224237"
+    },
+    "code": {
+      "id": "0224237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကွင် ကျေးရွာအုပ်စု",
+      "en": "Taung Kwin Village Tract",
+      "slug": "taung-kwin-village-tract-0224216"
+    },
+    "code": {
+      "id": "0224216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပြင်ငယ် ကျေးရွာအုပ်စု",
+      "en": "Taung Pyin Nge Village Tract",
+      "slug": "taung-pyin-nge-village-tract-0224253"
+    },
+    "code": {
+      "id": "0224253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံသည် ကျေးရွာအုပ်စု",
+      "en": "Than Thei Village Tract",
+      "slug": "than-thei-village-tract-0224213"
+    },
+    "code": {
+      "id": "0224213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တင်းတိမ်ရံ ကျေးရွာအုပ်စု",
+      "en": "Tin Tein Yan Village Tract",
+      "slug": "tin-tein-yan-village-tract-0224256"
+    },
+    "code": {
+      "id": "0224256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူမောင်း ကျေးရွာအုပ်စု",
+      "en": "Tu Maung Village Tract",
+      "slug": "tu-maung-village-tract-0224252"
+    },
+    "code": {
+      "id": "0224252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်သဲ ကျေးရွာအုပ်စု",
+      "en": "Wet Thea Village Tract",
+      "slug": "wet-thea-village-tract-0224230"
+    },
+    "code": {
+      "id": "0224230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်ဝ ကျေးရွာအုပ်စု",
+      "en": "Win Wa Village Tract",
+      "slug": "win-wa-village-tract-0224246"
+    },
+    "code": {
+      "id": "0224246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေမြက် ကျေးရွာအုပ်စု",
+      "en": "Yae Myet Village Tract",
+      "slug": "yae-myet-village-tract-0224205"
+    },
+    "code": {
+      "id": "0224205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေဦးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yae U Kone Village Tract",
+      "slug": "yae-u-kone-village-tract-0224212"
+    },
+    "code": {
+      "id": "0224212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမိဿာ ကျေးရွာအုပ်စု",
+      "en": "Ywar Meik Thar Village Tract",
+      "slug": "ywar-meik-thar-village-tract-0224209"
+    },
+    "code": {
+      "id": "0224209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာငယ် ကျေးရွာအုပ်စု",
+      "en": "Ywar Nge Village Tract",
+      "slug": "ywar-nge-village-tract-0224204"
+    },
+    "code": {
+      "id": "0224204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာပုကြီး ကျေးရွာအုပ်စု",
+      "en": "Ywar Pu Gyi Village Tract",
+      "slug": "ywar-pu-gyi-village-tract-0224234"
+    },
+    "code": {
+      "id": "0224234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Ywar Thit Village Tract",
+      "slug": "ywar-thit-village-tract-0224214"
+    },
+    "code": {
+      "id": "0224214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇေယျဝတီ ကျေးရွာအုပ်စု",
+      "en": "Zay Ya Wa Di Village Tract",
+      "slug": "zay-ya-wa-di-village-tract-0224239"
+    },
+    "code": {
+      "id": "0224239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0224259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇိန်ဇွန်း ကျေးရွာအုပ်စု",
+      "en": "Zein Zun Village Tract",
+      "slug": "zein-zun-village-tract-0224259"
+    },
+    "code": {
+      "id": "0224259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005009701",
+      "level": 3,
+      "name": {
+        "local": "ရေဦး",
+        "en": "Ye-U",
+        "slug": "ye-u-MMR005009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005009701",
+        "level": 3,
+        "name": {
+          "local": "ရေဦး",
+          "en": "Ye-U",
+          "slug": "ye-u-MMR005009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0224259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

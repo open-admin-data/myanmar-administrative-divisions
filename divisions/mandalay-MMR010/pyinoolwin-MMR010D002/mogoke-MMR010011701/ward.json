@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "0509221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗမွန် ကျေးရွာအုပ်စု",
+      "en": "Ba Mun Village Tract",
+      "slug": "ba-mun-village-tract-0509221"
+    },
+    "code": {
+      "id": "0509221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော့လုံးကြီး ကျေးရွာအုပ်စု",
+      "en": "Bawt Lone Gyi Village Tract",
+      "slug": "bawt-lone-gyi-village-tract-0509212"
+    },
+    "code": {
+      "id": "0509212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Chaung Gyi Village Tract",
+      "slug": "chaung-gyi-village-tract-0509209"
+    },
+    "code": {
+      "id": "0509209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုဝိတ် ကျေးရွာအုပ်စု",
+      "en": "Ho Weik Village Tract",
+      "slug": "ho-weik-village-tract-0509227"
+    },
+    "code": {
+      "id": "0509227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖြူရောင် ကျေးရွာအုပ်စု",
+      "en": "Hpyu Yaung Village Tract",
+      "slug": "hpyu-yaung-village-tract-0509222"
+    },
+    "code": {
+      "id": "0509222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကပိုင် ကျေးရွာအုပ်စု",
+      "en": "Ka Paing Village Tract",
+      "slug": "ka-paing-village-tract-0509213"
+    },
+    "code": {
+      "id": "0509213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကသဲ ကျေးရွာအုပ်စု",
+      "en": "Ka Thea Village Tract",
+      "slug": "ka-thea-village-tract-0509214"
+    },
+    "code": {
+      "id": "0509214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်း ကျေးရွာအုပ်စု",
+      "en": "Kin Village Tract",
+      "slug": "kin-village-tract-0509218"
+    },
+    "code": {
+      "id": "0509218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျပ်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Kyat Pyin Village Tract",
+      "slug": "kyat-pyin-village-tract-0509215"
+    },
+    "code": {
+      "id": "0509215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဆင် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sin Village Tract",
+      "slug": "kyauk-sin-village-tract-0509205"
+    },
+    "code": {
+      "id": "0509205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တလုံး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ta Lone Village Tract",
+      "slug": "kyauk-ta-lone-village-tract-0509223"
+    },
+    "code": {
+      "id": "0509223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဝါ ကျေးရွာအုပ်စု",
+      "en": "Kyauk War Village Tract",
+      "slug": "kyauk-war-village-tract-0509207"
+    },
+    "code": {
+      "id": "0509207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်နှစ်ဖ ကျေးရွာအုပ်စု",
+      "en": "Kyet Na Hpa Village Tract",
+      "slug": "kyet-na-hpa-village-tract-0509211"
+    },
+    "code": {
+      "id": "0509211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လောင်းစင် ကျေးရွာအုပ်စု",
+      "en": "Laung Sin Village Tract",
+      "slug": "laung-sin-village-tract-0509219"
+    },
+    "code": {
+      "id": "0509219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ဦး ရပ်ကွက်",
+      "en": "Lel U Quarter",
+      "slug": "lel-u-quarter-0509004"
+    },
+    "code": {
+      "id": "0509004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လီရှောကျောက်ပုံ ကျေးရွာအုပ်စု",
+      "en": "Li Shaw Kyauk Pon Village Tract",
+      "slug": "li-shaw-kyauk-pon-village-tract-0509210"
+    },
+    "code": {
+      "id": "0509210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လီရှောလယ်ဦး ကျေးရွာအုပ်စု",
+      "en": "Li Shaw Lel U Village Tract",
+      "slug": "li-shaw-lel-u-village-tract-0509208"
+    },
+    "code": {
+      "id": "0509208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ငင်း ကျေးရွာအုပ်စု",
+      "en": "Lwei Ngin Village Tract",
+      "slug": "lwei-ngin-village-tract-0509229"
+    },
+    "code": {
+      "id": "0509229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းတံတား ရပ်ကွက်",
+      "en": "Min Ta Dar Quarter",
+      "slug": "min-ta-dar-quarter-0509003"
+    },
+    "code": {
+      "id": "0509003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မရပ် ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0509001"
+    },
+    "code": {
+      "id": "0509001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ထောက် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Htauk Village Tract",
+      "slug": "nyaung-htauk-village-tract-0509225"
+    },
+    "code": {
+      "id": "0509225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-0509224"
+    },
+    "code": {
+      "id": "0509224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်ဒန် ကျေးရွာအုပ်စု",
+      "en": "Ohn Dan Village Tract",
+      "slug": "ohn-dan-village-tract-0509216"
+    },
+    "code": {
+      "id": "0509216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းပြစ် ကျေးရွာအုပ်စု",
+      "en": "Pein Pyit Village Tract",
+      "slug": "pein-pyit-village-tract-0509200"
+    },
+    "code": {
+      "id": "0509200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်သပြေ ကျေးရွာအုပ်စု",
+      "en": "Pin Tha Pyay Village Tract",
+      "slug": "pin-tha-pyay-village-tract-0509228"
+    },
+    "code": {
+      "id": "0509228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြောင်းပြင် ကျေးရွာအုပ်စု",
+      "en": "Pyaung Pyin Village Tract",
+      "slug": "pyaung-pyin-village-tract-0509204"
+    },
+    "code": {
+      "id": "0509204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှောလီဝိုင်း ရပ်ကွက်",
+      "en": "Shaw Li Waing Quarter",
+      "slug": "shaw-li-waing-quarter-0509002"
+    },
+    "code": {
+      "id": "0509002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေညောင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Shwe Nyaung Pin Village Tract",
+      "slug": "shwe-nyaung-pin-village-tract-0509220"
+    },
+    "code": {
+      "id": "0509220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ဒွန်း ကျေးရွာအုပ်စု",
+      "en": "Taung Dun Village Tract",
+      "slug": "taung-dun-village-tract-0509202"
+    },
+    "code": {
+      "id": "0509202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဒွတ်သျှို ကျေးရွာအုပ်စု",
+      "en": "Tha Dut Sho Village Tract",
+      "slug": "tha-dut-sho-village-tract-0509203"
+    },
+    "code": {
+      "id": "0509203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံလွင်တောင်အရှေ့ ကျေးရွာအုပ်စု",
+      "en": "Than Lwin Taung Ah Shey Village Tract",
+      "slug": "than-lwin-taung-ah-shey-village-tract-0509201"
+    },
+    "code": {
+      "id": "0509201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်္ကဘာ ကျေးရွာအုပ်စု",
+      "en": "Win Ka Bar Village Tract",
+      "slug": "win-ka-bar-village-tract-0509226"
+    },
+    "code": {
+      "id": "0509226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေအေး ကျေးရွာအုပ်စု",
+      "en": "Yae Aye Village Tract",
+      "slug": "yae-aye-village-tract-0509217"
+    },
+    "code": {
+      "id": "0509217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေပူ ရပ်ကွက်",
+      "en": "Yae Pu Quarter",
+      "slug": "yae-pu-quarter-0509005"
+    },
+    "code": {
+      "id": "0509005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0509206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသာယာ ကျေးရွာအုပ်စု",
+      "en": "Ywar Thar Yar Village Tract",
+      "slug": "ywar-thar-yar-village-tract-0509206"
+    },
+    "code": {
+      "id": "0509206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010011701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကုတ်",
+        "en": "Mogoke",
+        "slug": "mogoke-MMR010011701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D002",
+        "level": 2,
+        "name": {
+          "local": "ပြင်ဦးလွင်ခရိုင်",
+          "en": "Pyinoolwin",
+          "slug": "pyinoolwin-MMR010D002"
+        }
+      },
+      {
+        "id": "MMR010011701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကုတ်",
+          "en": "Mogoke",
+          "slug": "mogoke-MMR010011701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0509206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

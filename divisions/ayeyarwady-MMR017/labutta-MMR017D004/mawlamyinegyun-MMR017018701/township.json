@@ -1,0 +1,56 @@
+{
+  "id": "MMR017018701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မော်လမြိုင်ကျွန်း",
+    "en": "Mawlamyinegyun",
+    "slug": "mawlamyinegyun-MMR017018701"
+  },
+  "code": {
+    "id": "MMR017018701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D004",
+    "level": 2,
+    "name": {
+      "local": "လပွတ္တာခရိုင်",
+      "en": "Labutta",
+      "slug": "labutta-MMR017D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D004",
+      "level": 2,
+      "name": {
+        "local": "လပွတ္တာခရိုင်",
+        "en": "Labutta",
+        "slug": "labutta-MMR017D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 121
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.37894",
+    "lon": "95.26298"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR015011702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တာမိုးညဲ",
+    "en": "Tarmoenye",
+    "slug": "tarmoenye-MMR015011702"
+  },
+  "code": {
+    "id": "MMR015011702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR015D002",
+    "level": 2,
+    "name": {
+      "local": "မူဆယ်ခရိုင်",
+      "en": "Muse",
+      "slug": "muse-MMR015D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.57597",
+    "lon": "98.09862"
+  },
+  "metadata": {},
+  "source": {}
+}

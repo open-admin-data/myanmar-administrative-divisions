@@ -1,0 +1,56 @@
+{
+  "id": "MMR011004702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျိုက္ခမီ",
+    "en": "Kyaikkhami",
+    "slug": "kyaikkhami-MMR011004702"
+  },
+  "code": {
+    "id": "MMR011004702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011D001",
+    "level": 2,
+    "name": {
+      "local": "မော်လမြိုင်ခရိုင်",
+      "en": "Mawlamyine",
+      "slug": "mawlamyine-MMR011D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    {
+      "id": "MMR011D001",
+      "level": 2,
+      "name": {
+        "local": "မော်လမြိုင်ခရိုင်",
+        "en": "Mawlamyine",
+        "slug": "mawlamyine-MMR011D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.08",
+    "lon": "97.5675"
+  },
+  "metadata": {},
+  "source": {}
+}

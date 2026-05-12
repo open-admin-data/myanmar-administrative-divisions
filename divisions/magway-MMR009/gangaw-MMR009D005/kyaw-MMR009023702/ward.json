@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0465001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0465001"
+    },
+    "code": {
+      "id": "0465001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023702",
+      "level": 3,
+      "name": {
+        "local": "ကျော",
+        "en": "Kyaw",
+        "slug": "kyaw-MMR009023702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023702",
+        "level": 3,
+        "name": {
+          "local": "ကျော",
+          "en": "Kyaw",
+          "slug": "kyaw-MMR009023702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0465001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0465002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0465002"
+    },
+    "code": {
+      "id": "0465002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023702",
+      "level": 3,
+      "name": {
+        "local": "ကျော",
+        "en": "Kyaw",
+        "slug": "kyaw-MMR009023702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023702",
+        "level": 3,
+        "name": {
+          "local": "ကျော",
+          "en": "Kyaw",
+          "slug": "kyaw-MMR009023702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0465002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0465003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0465003"
+    },
+    "code": {
+      "id": "0465003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023702",
+      "level": 3,
+      "name": {
+        "local": "ကျော",
+        "en": "Kyaw",
+        "slug": "kyaw-MMR009023702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023702",
+        "level": 3,
+        "name": {
+          "local": "ကျော",
+          "en": "Kyaw",
+          "slug": "kyaw-MMR009023702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0465003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

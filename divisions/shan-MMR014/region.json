@@ -1,0 +1,31 @@
+{
+  "id": "MMR014",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ရှမ်းပြည်နယ်",
+    "en": "Shan",
+    "slug": "shan-MMR014"
+  },
+  "code": {
+    "id": "MMR014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "ward": 2077,
+    "township": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.732",
+    "lon": "98.0476"
+  },
+  "metadata": {},
+  "source": {}
+}

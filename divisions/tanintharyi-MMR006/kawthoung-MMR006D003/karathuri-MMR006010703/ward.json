@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1466001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1466001"
+    },
+    "code": {
+      "id": "1466001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010703",
+      "level": 3,
+      "name": {
+        "local": "ကရသူရိ",
+        "en": "Karathuri",
+        "slug": "karathuri-MMR006010703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010703",
+        "level": 3,
+        "name": {
+          "local": "ကရသူရိ",
+          "en": "Karathuri",
+          "slug": "karathuri-MMR006010703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1466001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1466002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1466002"
+    },
+    "code": {
+      "id": "1466002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010703",
+      "level": 3,
+      "name": {
+        "local": "ကရသူရိ",
+        "en": "Karathuri",
+        "slug": "karathuri-MMR006010703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010703",
+        "level": 3,
+        "name": {
+          "local": "ကရသူရိ",
+          "en": "Karathuri",
+          "slug": "karathuri-MMR006010703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1466002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1466003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1466003"
+    },
+    "code": {
+      "id": "1466003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010703",
+      "level": 3,
+      "name": {
+        "local": "ကရသူရိ",
+        "en": "Karathuri",
+        "slug": "karathuri-MMR006010703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010703",
+        "level": 3,
+        "name": {
+          "local": "ကရသူရိ",
+          "en": "Karathuri",
+          "slug": "karathuri-MMR006010703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1466003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

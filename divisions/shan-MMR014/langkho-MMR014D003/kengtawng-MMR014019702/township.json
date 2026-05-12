@@ -1,0 +1,56 @@
+{
+  "id": "MMR014019702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျိုင်းတောင်း",
+    "en": "Kengtawng",
+    "slug": "kengtawng-MMR014019702"
+  },
+  "code": {
+    "id": "MMR014019702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D003",
+    "level": 2,
+    "name": {
+      "local": "လင်းခေးခရိုင်",
+      "en": "Langkho",
+      "slug": "langkho-MMR014D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.75728",
+    "lon": "98.29333"
+  },
+  "metadata": {},
+  "source": {}
+}

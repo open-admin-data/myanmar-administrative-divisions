@@ -1,0 +1,56 @@
+{
+  "id": "MMR009023702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျော",
+    "en": "Kyaw",
+    "slug": "kyaw-MMR009023702"
+  },
+  "code": {
+    "id": "MMR009023702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009D005",
+    "level": 2,
+    "name": {
+      "local": "ဂန့်ဂေါခရိုင်",
+      "en": "Gangaw",
+      "slug": "gangaw-MMR009D005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    {
+      "id": "MMR009D005",
+      "level": 2,
+      "name": {
+        "local": "ဂန့်ဂေါခရိုင်",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009D005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.92737",
+    "lon": "94.35789"
+  },
+  "metadata": {},
+  "source": {}
+}

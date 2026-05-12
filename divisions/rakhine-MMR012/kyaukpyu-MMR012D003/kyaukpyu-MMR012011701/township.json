@@ -1,0 +1,56 @@
+{
+  "id": "MMR012011701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျောက်ဖြူ",
+    "en": "Kyaukpyu",
+    "slug": "kyaukpyu-MMR012011701"
+  },
+  "code": {
+    "id": "MMR012011701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်ဖြူခရိုင်",
+      "en": "Kyaukpyu",
+      "slug": "kyaukpyu-MMR012D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်ဖြူခရိုင်",
+        "en": "Kyaukpyu",
+        "slug": "kyaukpyu-MMR012D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.4239",
+    "lon": "93.5544"
+  },
+  "metadata": {},
+  "source": {}
+}

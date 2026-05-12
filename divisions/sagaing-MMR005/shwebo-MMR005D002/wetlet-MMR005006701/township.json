@@ -1,0 +1,56 @@
+{
+  "id": "MMR005006701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဝက်လက်",
+    "en": "Wetlet",
+    "slug": "wetlet-MMR005006701"
+  },
+  "code": {
+    "id": "MMR005006701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D002",
+    "level": 2,
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.36715",
+    "lon": "95.78812"
+  },
+  "metadata": {},
+  "source": {}
+}

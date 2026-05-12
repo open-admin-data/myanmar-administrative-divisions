@@ -1,0 +1,674 @@
+[
+  {
+    "id": "MMR008014701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကြို့ပင်ကောက်",
+      "en": "Gyobingauk",
+      "slug": "gyobingauk-MMR008014701"
+    },
+    "code": {
+      "id": "MMR008014701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.22989",
+      "lon": "95.65259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လက်ပံတန်း",
+      "en": "Letpadan",
+      "slug": "letpadan-MMR008008701"
+    },
+    "code": {
+      "id": "MMR008008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.779",
+      "lon": "95.74529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မင်းလှ",
+      "en": "Minhla",
+      "slug": "minhla-MMR008009701"
+    },
+    "code": {
+      "id": "MMR008009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 132
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.97389",
+      "lon": "95.70905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008013701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုးညို",
+      "en": "Monyo",
+      "slug": "monyo-MMR008013701"
+    },
+    "code": {
+      "id": "MMR008013701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.02719",
+      "lon": "95.51185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008012701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နတ်တလင်း",
+      "en": "Nattalin",
+      "slug": "nattalin-MMR008012701"
+    },
+    "code": {
+      "id": "MMR008012701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.42753",
+      "lon": "95.54731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008010702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အိုးသည်ကုန်း",
+      "en": "Oe Thei Kone",
+      "slug": "oe-thei-kone-MMR008010702"
+    },
+    "code": {
+      "id": "MMR008010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0432",
+      "lon": "95.6935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အုတ်ဖို",
+      "en": "Okpho",
+      "slug": "okpho-MMR008010701"
+    },
+    "code": {
+      "id": "MMR008010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.13022",
+      "lon": "95.67177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "စစ်ကွင်း",
+      "en": "Sit Kwin",
+      "slug": "sit-kwin-MMR008009702"
+    },
+    "code": {
+      "id": "MMR008009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.8941",
+      "lon": "95.7232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008012702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တာပွန်",
+      "en": "Tar Pun",
+      "slug": "tar-pun-MMR008012702"
+    },
+    "code": {
+      "id": "MMR008012702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.361",
+      "lon": "95.4549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သာယာဝတီ",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008007701"
+    },
+    "code": {
+      "id": "MMR008007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.65441",
+      "lon": "95.78629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သုံးဆယ်",
+      "en": "Thonse",
+      "slug": "thonse-MMR008007702"
+    },
+    "code": {
+      "id": "MMR008007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.62988",
+      "lon": "95.78985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဇီးကုန်း",
+      "en": "Zigon",
+      "slug": "zigon-MMR008011701"
+    },
+    "code": {
+      "id": "MMR008011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.33846",
+      "lon": "95.62304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

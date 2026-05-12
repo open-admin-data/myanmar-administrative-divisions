@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1074001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1074001"
+    },
+    "code": {
+      "id": "1074001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016703",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ (၃) မိုင်",
+        "en": "Labutta (3) Mile",
+        "slug": "labutta-3-mile-MMR017016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016703",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ (၃) မိုင်",
+          "en": "Labutta (3) Mile",
+          "slug": "labutta-3-mile-MMR017016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1074001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1074002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1074002"
+    },
+    "code": {
+      "id": "1074002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016703",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ (၃) မိုင်",
+        "en": "Labutta (3) Mile",
+        "slug": "labutta-3-mile-MMR017016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016703",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ (၃) မိုင်",
+          "en": "Labutta (3) Mile",
+          "slug": "labutta-3-mile-MMR017016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1074002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1074003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1074003"
+    },
+    "code": {
+      "id": "1074003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016703",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ (၃) မိုင်",
+        "en": "Labutta (3) Mile",
+        "slug": "labutta-3-mile-MMR017016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016703",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ (၃) မိုင်",
+          "en": "Labutta (3) Mile",
+          "slug": "labutta-3-mile-MMR017016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1074003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1074004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1074004"
+    },
+    "code": {
+      "id": "1074004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016703",
+      "level": 3,
+      "name": {
+        "local": "လပွတ္တာ (၃) မိုင်",
+        "en": "Labutta (3) Mile",
+        "slug": "labutta-3-mile-MMR017016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016703",
+        "level": 3,
+        "name": {
+          "local": "လပွတ္တာ (၃) မိုင်",
+          "en": "Labutta (3) Mile",
+          "slug": "labutta-3-mile-MMR017016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1074004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

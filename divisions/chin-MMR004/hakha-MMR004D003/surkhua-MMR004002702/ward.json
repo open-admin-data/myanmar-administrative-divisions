@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0360001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်လိုသာရ် ရပ်ကွက်",
+      "en": "Hseng Lo Tar Quarter",
+      "slug": "hseng-lo-tar-quarter-0360001"
+    },
+    "code": {
+      "id": "0360001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004002702",
+      "level": 3,
+      "name": {
+        "local": "ဆူရ်ခွား",
+        "en": "Surkhua",
+        "slug": "surkhua-MMR004002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D003",
+        "level": 2,
+        "name": {
+          "local": "ဟားခါးခရိုင်",
+          "en": "Hakha",
+          "slug": "hakha-MMR004D003"
+        }
+      },
+      {
+        "id": "MMR004002702",
+        "level": 3,
+        "name": {
+          "local": "ဆူရ်ခွား",
+          "en": "Surkhua",
+          "slug": "surkhua-MMR004002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0360001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0360002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆလုံပူး ရပ်ကွက်",
+      "en": "Sa Lung Pu Quarter",
+      "slug": "sa-lung-pu-quarter-0360002"
+    },
+    "code": {
+      "id": "0360002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004002702",
+      "level": 3,
+      "name": {
+        "local": "ဆူရ်ခွား",
+        "en": "Surkhua",
+        "slug": "surkhua-MMR004002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D003",
+        "level": 2,
+        "name": {
+          "local": "ဟားခါးခရိုင်",
+          "en": "Hakha",
+          "slug": "hakha-MMR004D003"
+        }
+      },
+      {
+        "id": "MMR004002702",
+        "level": 3,
+        "name": {
+          "local": "ဆူရ်ခွား",
+          "en": "Surkhua",
+          "slug": "surkhua-MMR004002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0360002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

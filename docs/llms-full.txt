@@ -1,0 +1,41 @@
+# Myanmar Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-12. License: CC-BY-4.0.
+
+## Per-State/Region Data Files
+
+- [Kachin](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/kachin-MMR001.txt) — 4 districts, 33 townships, 780 ward/village tracts
+- [Kayah](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/kayah-MMR002.txt) — 2 districts, 10 townships, 124 ward/village tracts
+- [Kayin](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/kayin-MMR003.txt) — 4 districts, 18 townships, 463 ward/village tracts
+- [Chin](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/chin-MMR004.txt) — 4 districts, 20 townships, 543 ward/village tracts
+- [Sagaing](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/sagaing-MMR005.txt) — 11 districts, 42 townships, 1,889 ward/village tracts
+- [Tanintharyi](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/tanintharyi-MMR006.txt) — 3 districts, 18 townships, 358 ward/village tracts
+- [Bago](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/bago-MMR007.txt) — 4 districts, 51 townships, 1,804 ward/village tracts
+- [Magway](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/magway-MMR009.txt) — 5 districts, 32 townships, 1,677 ward/village tracts
+- [Mandalay](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/mandalay-MMR010.txt) — 7 districts, 34 townships, 1,703 ward/village tracts
+- [Mon](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/mon-MMR011.txt) — 2 districts, 17 townships, 494 ward/village tracts
+- [Rakhine](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/rakhine-MMR012.txt) — 5 districts, 28 townships, 1,245 ward/village tracts
+- [Yangon](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/yangon-MMR013.txt) — 4 districts, 49 townships, 1,408 ward/village tracts
+- [Shan](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/shan-MMR014.txt) — 14 districts, 86 townships, 2,077 ward/village tracts
+- [Ayeyarwady](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/ayeyarwady-MMR017.txt) — 6 districts, 45 townships, 2,230 ward/village tracts
+- [Nay Pyi Taw](https://github.com/open-admin-data/myanmar-administrative-divisions/blob/main/docs/llms-full/nay-pyi-taw-MMR018.txt) — 2 districts, 8 townships, 248 ward/village tracts
+
+## Summary
+
+| State/Region | Districts | Townships | Ward/Village Tracts | 
+|---|---|---|---|
+| Kachin | 4 | 33 | 780 | 
+| Kayah | 2 | 10 | 124 | 
+| Kayin | 4 | 18 | 463 | 
+| Chin | 4 | 20 | 543 | 
+| Sagaing | 11 | 42 | 1,889 | 
+| Tanintharyi | 3 | 18 | 358 | 
+| Bago | 4 | 51 | 1,804 | 
+| Magway | 5 | 32 | 1,677 | 
+| Mandalay | 7 | 34 | 1,703 | 
+| Mon | 2 | 17 | 494 | 
+| Rakhine | 5 | 28 | 1,245 | 
+| Yangon | 4 | 49 | 1,408 | 
+| Shan | 14 | 86 | 2,077 | 
+| Ayeyarwady | 6 | 45 | 2,230 | 
+| Nay Pyi Taw | 2 | 8 | 248 | 

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0361001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0361001"
+    },
+    "code": {
+      "id": "0361001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004003702",
+      "level": 3,
+      "name": {
+        "local": "နှာဟရိန်",
+        "en": "Hnaring",
+        "slug": "hnaring-MMR004003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D003",
+        "level": 2,
+        "name": {
+          "local": "ဟားခါးခရိုင်",
+          "en": "Hakha",
+          "slug": "hakha-MMR004D003"
+        }
+      },
+      {
+        "id": "MMR004003702",
+        "level": 3,
+        "name": {
+          "local": "နှာဟရိန်",
+          "en": "Hnaring",
+          "slug": "hnaring-MMR004003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0361001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0361002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0361002"
+    },
+    "code": {
+      "id": "0361002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004003702",
+      "level": 3,
+      "name": {
+        "local": "နှာဟရိန်",
+        "en": "Hnaring",
+        "slug": "hnaring-MMR004003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D003",
+        "level": 2,
+        "name": {
+          "local": "ဟားခါးခရိုင်",
+          "en": "Hakha",
+          "slug": "hakha-MMR004D003"
+        }
+      },
+      {
+        "id": "MMR004003702",
+        "level": 3,
+        "name": {
+          "local": "နှာဟရိန်",
+          "en": "Hnaring",
+          "slug": "hnaring-MMR004003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0361002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

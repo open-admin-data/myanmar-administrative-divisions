@@ -1,0 +1,730 @@
+[
+  {
+    "id": "MMR017012702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဘက်ရဲ",
+      "en": "Batye",
+      "slug": "batye-MMR017012702"
+    },
+    "code": {
+      "id": "MMR017012702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.30044",
+      "lon": "95.14703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017008703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဒူးယား",
+      "en": "Du Yar",
+      "slug": "du-yar-MMR017008703"
+    },
+    "code": {
+      "id": "MMR017008703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.5616",
+      "lon": "95.4802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဟင်္သာတ",
+      "en": "Hinthada",
+      "slug": "hinthada-MMR017008701"
+    },
+    "code": {
+      "id": "MMR017008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.64958",
+      "lon": "95.45818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017013702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ထူးကြီး",
+      "en": "Htoogyi",
+      "slug": "htoogyi-MMR017013702"
+    },
+    "code": {
+      "id": "MMR017013702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.97132",
+      "lon": "95.26073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017011703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်ပင်",
+      "en": "In Pin",
+      "slug": "in-pin-MMR017011703"
+    },
+    "code": {
+      "id": "MMR017011703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0935",
+      "lon": "95.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017013701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်္ဂပူ",
+      "en": "Ingapu",
+      "slug": "ingapu-MMR017013701"
+    },
+    "code": {
+      "id": "MMR017013701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.80981",
+      "lon": "95.26926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017011702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကနောင်",
+      "en": "Kanaung",
+      "slug": "kanaung-MMR017011702"
+    },
+    "code": {
+      "id": "MMR017011702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.21566",
+      "lon": "95.38137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017012701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကြံခင်း",
+      "en": "Kyangin",
+      "slug": "kyangin-MMR017012701"
+    },
+    "code": {
+      "id": "MMR017012701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.34035",
+      "lon": "95.23914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လေးမျက်နှာ",
+      "en": "Lemyethna",
+      "slug": "lemyethna-MMR017010701"
+    },
+    "code": {
+      "id": "MMR017010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.60038",
+      "lon": "95.17454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017013703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မဲဇလီကုန်း",
+      "en": "Me Za Li Kone",
+      "slug": "me-za-li-kone-MMR017013703"
+    },
+    "code": {
+      "id": "MMR017013703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.9009",
+      "lon": "95.2288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြန်အောင်",
+      "en": "Myanaung",
+      "slug": "myanaung-MMR017011701"
+    },
+    "code": {
+      "id": "MMR017011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.28696",
+      "lon": "95.31779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017008702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တလုတ္ထော်",
+      "en": "Ta Loke Htaw",
+      "slug": "ta-loke-htaw-MMR017008702"
+    },
+    "code": {
+      "id": "MMR017008702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.6419",
+      "lon": "95.3046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဇလွန်",
+      "en": "Zalun",
+      "slug": "zalun-MMR017009701"
+    },
+    "code": {
+      "id": "MMR017009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.4781",
+      "lon": "95.55666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

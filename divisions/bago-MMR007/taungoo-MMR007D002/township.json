@@ -1,0 +1,674 @@
+[
+  {
+    "id": "MMR007010702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆွာ",
+      "en": "Hswar",
+      "slug": "hswar-MMR007010702"
+    },
+    "code": {
+      "id": "MMR007010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.26498",
+      "lon": "96.29072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007012702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကညွတ်ကွင်း",
+      "en": "Kanyutkwin",
+      "slug": "kanyutkwin-MMR007012702"
+    },
+    "code": {
+      "id": "MMR007012702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.3404",
+      "lon": "96.49218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကေတုမတီ",
+      "en": "Kaytumati",
+      "slug": "kaytumati-MMR007009702"
+    },
+    "code": {
+      "id": "MMR007009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.01432",
+      "lon": "96.40357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျောက်ကြီး",
+      "en": "Kyaukkyi",
+      "slug": "kyaukkyi-MMR007011701"
+    },
+    "code": {
+      "id": "MMR007011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.32764",
+      "lon": "96.76862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007013702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျွဲပွဲ",
+      "en": "Kywe Pwe",
+      "slug": "kywe-pwe-MMR007013702"
+    },
+    "code": {
+      "id": "MMR007013702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.7",
+      "lon": "96.4099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007010704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြို့လှ",
+      "en": "Myo Hla",
+      "slug": "myo-hla-MMR007010704"
+    },
+    "code": {
+      "id": "MMR007010704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.40442",
+      "lon": "96.26628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007013701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အုတ်တွင်း",
+      "en": "Oktwin",
+      "slug": "oktwin-MMR007013701"
+    },
+    "code": {
+      "id": "MMR007013701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.83293",
+      "lon": "96.41363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007012701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဖြူး",
+      "en": "Phyu",
+      "slug": "phyu-MMR007012701"
+    },
+    "code": {
+      "id": "MMR007012701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.48438",
+      "lon": "96.43572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တောင်ငူ",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007009701"
+    },
+    "code": {
+      "id": "MMR007009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.93953",
+      "lon": "96.43314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007010703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေနီ",
+      "en": "Yae Ni",
+      "slug": "yae-ni-MMR007010703"
+    },
+    "code": {
+      "id": "MMR007010703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.47438",
+      "lon": "96.26804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေတာရှည်",
+      "en": "Yedashe",
+      "slug": "yedashe-MMR007010701"
+    },
+    "code": {
+      "id": "MMR007010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.15693",
+      "lon": "96.34234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007012703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဇေယျ၀တီ",
+      "en": "Zayyawadi",
+      "slug": "zayyawadi-MMR007012703"
+    },
+    "code": {
+      "id": "MMR007012703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.54097",
+      "lon": "96.43084"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

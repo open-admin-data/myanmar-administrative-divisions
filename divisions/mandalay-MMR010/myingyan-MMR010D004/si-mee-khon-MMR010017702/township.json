@@ -1,0 +1,56 @@
+{
+  "id": "MMR010017702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဆီမီးခုံ",
+    "en": "Si Mee Khon",
+    "slug": "si-mee-khon-MMR010017702"
+  },
+  "code": {
+    "id": "MMR010017702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D004",
+    "level": 2,
+    "name": {
+      "local": "မြင်းခြံခရိုင်",
+      "en": "Myingyan",
+      "slug": "myingyan-MMR010D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.735",
+    "lon": "95.4221"
+  },
+  "metadata": {},
+  "source": {}
+}

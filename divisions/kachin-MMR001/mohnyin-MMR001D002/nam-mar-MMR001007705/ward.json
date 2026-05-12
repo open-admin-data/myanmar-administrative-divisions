@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0170005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းသာ ရပ်ကွက်",
+      "en": "Chaung Thar Quarter",
+      "slug": "chaung-thar-quarter-0170005"
+    },
+    "code": {
+      "id": "0170005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007705",
+      "level": 3,
+      "name": {
+        "local": "နန်းမား",
+        "en": "Nam Mar",
+        "slug": "nam-mar-MMR001007705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007705",
+        "level": 3,
+        "name": {
+          "local": "နန်းမား",
+          "en": "Nam Mar",
+          "slug": "nam-mar-MMR001007705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0170005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0170001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မရန်အောင် ရပ်ကွက်",
+      "en": "Myo Ma Yan Aung Quarter",
+      "slug": "myo-ma-yan-aung-quarter-0170001"
+    },
+    "code": {
+      "id": "0170001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007705",
+      "level": 3,
+      "name": {
+        "local": "နန်းမား",
+        "en": "Nam Mar",
+        "slug": "nam-mar-MMR001007705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007705",
+        "level": 3,
+        "name": {
+          "local": "နန်းမား",
+          "en": "Nam Mar",
+          "slug": "nam-mar-MMR001007705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0170001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0170004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းသာယာ ရပ်ကွက်",
+      "en": "Nan Thar Yar Quarter",
+      "slug": "nan-thar-yar-quarter-0170004"
+    },
+    "code": {
+      "id": "0170004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007705",
+      "level": 3,
+      "name": {
+        "local": "နန်းမား",
+        "en": "Nam Mar",
+        "slug": "nam-mar-MMR001007705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007705",
+        "level": 3,
+        "name": {
+          "local": "နန်းမား",
+          "en": "Nam Mar",
+          "slug": "nam-mar-MMR001007705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0170004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0170002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကုန်း ရပ်ကွက်",
+      "en": "Nyaung Kone Quarter",
+      "slug": "nyaung-kone-quarter-0170002"
+    },
+    "code": {
+      "id": "0170002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007705",
+      "level": 3,
+      "name": {
+        "local": "နန်းမား",
+        "en": "Nam Mar",
+        "slug": "nam-mar-MMR001007705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007705",
+        "level": 3,
+        "name": {
+          "local": "နန်းမား",
+          "en": "Nam Mar",
+          "slug": "nam-mar-MMR001007705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0170002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0170003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစု ရပ်ကွက်",
+      "en": "Shan Su Quarter",
+      "slug": "shan-su-quarter-0170003"
+    },
+    "code": {
+      "id": "0170003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007705",
+      "level": 3,
+      "name": {
+        "local": "နန်းမား",
+        "en": "Nam Mar",
+        "slug": "nam-mar-MMR001007705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007705",
+        "level": 3,
+        "name": {
+          "local": "နန်းမား",
+          "en": "Nam Mar",
+          "slug": "nam-mar-MMR001007705"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0170003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "MMR005D011",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ကောလင်းခရိုင်",
+    "en": "Kawlin",
+    "slug": "kawlin-MMR005D011"
+  },
+  "code": {
+    "id": "MMR005D011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005",
+    "level": 1,
+    "name": {
+      "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 3,
+    "ward": 150
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.9235",
+    "lon": "95.5785"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR013024701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျောက်တန်း",
+    "en": "Kyauktan",
+    "slug": "kyauktan-MMR013024701"
+  },
+  "code": {
+    "id": "MMR013024701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D003",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(တောင်ပိုင်း)",
+      "en": "Yangon (South)",
+      "slug": "yangon-south-MMR013D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D003",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(တောင်ပိုင်း)",
+        "en": "Yangon (South)",
+        "slug": "yangon-south-MMR013D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.63393",
+    "lon": "96.32351"
+  },
+  "metadata": {},
+  "source": {}
+}

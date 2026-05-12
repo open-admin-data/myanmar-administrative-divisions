@@ -1,0 +1,31 @@
+{
+  "id": "MMR002",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ကယားပြည်နယ်",
+    "en": "Kayah",
+    "slug": "kayah-MMR002"
+  },
+  "code": {
+    "id": "MMR002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "ward": 124,
+    "township": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.3688",
+    "lon": "97.3179"
+  },
+  "metadata": {},
+  "source": {}
+}

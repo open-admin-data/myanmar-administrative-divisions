@@ -1,0 +1,56 @@
+{
+  "id": "MMR017001704",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ချောင်းသာ",
+    "en": "Chaung Thar",
+    "slug": "chaung-thar-MMR017001704"
+  },
+  "code": {
+    "id": "MMR017001704",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D001",
+    "level": 2,
+    "name": {
+      "local": "ပုသိမ်ခရိုင်",
+      "en": "Pathein",
+      "slug": "pathein-MMR017D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.9597",
+    "lon": "94.4447"
+  },
+  "metadata": {},
+  "source": {}
+}

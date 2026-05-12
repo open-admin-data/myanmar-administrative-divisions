@@ -1,0 +1,48 @@
+{
+  "id": "MMR010D005",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ညောင်ဦးခရိုင်",
+    "en": "Nyaung-U",
+    "slug": "nyaung-u-MMR010D005"
+  },
+  "code": {
+    "id": "MMR010D005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010",
+    "level": 1,
+    "name": {
+      "local": "မန္တလေးတိုင်းဒေသကြီး",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 214
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.0801",
+    "lon": "95.0106"
+  },
+  "metadata": {},
+  "source": {}
+}

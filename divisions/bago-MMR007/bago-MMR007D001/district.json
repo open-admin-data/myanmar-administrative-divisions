@@ -1,0 +1,48 @@
+{
+  "id": "MMR007D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ပဲခူးခရိုင်",
+    "en": "Bago",
+    "slug": "bago-MMR007D001"
+  },
+  "code": {
+    "id": "MMR007D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007",
+    "level": 1,
+    "name": {
+      "local": "ပဲခူးတိုင်းဒေသကြီး",
+      "en": "Bago",
+      "slug": "bago-MMR007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 16,
+    "ward": 591
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.6768",
+    "lon": "96.6216"
+  },
+  "metadata": {},
+  "source": {}
+}

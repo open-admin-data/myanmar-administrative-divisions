@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1506206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချိုင်း ကျေးရွာအုပ်စု",
+      "en": "Chaing Village Tract",
+      "slug": "chaing-village-tract-1506206"
+    },
+    "code": {
+      "id": "1506206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒက္ခိဏသီရိ ရပ်ကွက်",
+      "en": "Det Khi Na Thi Ri Quarter",
+      "slug": "det-khi-na-thi-ri-quarter-1506001"
+    },
+    "code": {
+      "id": "1506001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိုးနွယ် ကျေးရွာအုပ်စု",
+      "en": "Doe Nwe Village Tract",
+      "slug": "doe-nwe-village-tract-1506203"
+    },
+    "code": {
+      "id": "1506203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကူနှစ်လုံးဆည်စု ကျေးရွာအုပ်စု",
+      "en": "Ku Hnit Lone Se Su Village Tract",
+      "slug": "ku-hnit-lone-se-su-village-tract-1506204"
+    },
+    "code": {
+      "id": "1506204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာပင် ကျေးရွာအုပ်စု",
+      "en": "Kyar Pin Village Tract",
+      "slug": "kyar-pin-village-tract-1506200"
+    },
+    "code": {
+      "id": "1506200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းတပဲ့ ကျေးရွာအုပ်စု",
+      "en": "Kyun Ta Peit Village Tract",
+      "slug": "kyun-ta-peit-village-tract-1506201"
+    },
+    "code": {
+      "id": "1506201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေအင်ကြင်း ရပ်ကွက်",
+      "en": "Shwe In Gyin Quarter",
+      "slug": "shwe-in-gyin-quarter-1506002"
+    },
+    "code": {
+      "id": "1506002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေခဲအင်း ကျေးရွာအုပ်စု",
+      "en": "Shwe Khe Inn Village Tract",
+      "slug": "shwe-khe-inn-village-tract-1506205"
+    },
+    "code": {
+      "id": "1506205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်အောင်မြင် ကျေးရွာအုပ်စု",
+      "en": "Yan Aung Myin Village Tract",
+      "slug": "yan-aung-myin-village-tract-1506202"
+    },
+    "code": {
+      "id": "1506202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမ ကျေးရွာအုပ်စု",
+      "en": "Ywar Ma Village Tract",
+      "slug": "ywar-ma-village-tract-1506207"
+    },
+    "code": {
+      "id": "1506207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018004701",
+      "level": 3,
+      "name": {
+        "local": "ဒက္ခိဏသီရိ",
+        "en": "Det Khi Na Thi Ri",
+        "slug": "det-khi-na-thi-ri-MMR018004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      },
+      {
+        "id": "MMR018D002",
+        "level": 2,
+        "name": {
+          "local": "ဒက္ခိဏခရိုင်",
+          "en": "Det Khi Na",
+          "slug": "det-khi-na-MMR018D002"
+        }
+      },
+      {
+        "id": "MMR018004701",
+        "level": 3,
+        "name": {
+          "local": "ဒက္ခိဏသီရိ",
+          "en": "Det Khi Na Thi Ri",
+          "slug": "det-khi-na-thi-ri-MMR018004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1506207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

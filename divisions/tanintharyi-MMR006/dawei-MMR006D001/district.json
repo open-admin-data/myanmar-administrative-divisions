@@ -1,0 +1,48 @@
+{
+  "id": "MMR006D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ထားဝယ်ခရိုင်",
+    "en": "Dawei",
+    "slug": "dawei-MMR006D001"
+  },
+  "code": {
+    "id": "MMR006D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR006",
+    "level": 1,
+    "name": {
+      "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+      "en": "Tanintharyi",
+      "slug": "tanintharyi-MMR006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 6,
+    "ward": 175
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.1591",
+    "lon": "98.24"
+  },
+  "metadata": {},
+  "source": {}
+}

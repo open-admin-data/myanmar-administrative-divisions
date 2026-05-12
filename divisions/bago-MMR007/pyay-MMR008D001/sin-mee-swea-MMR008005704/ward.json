@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1864001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၁) အောင်ရတနာ ရပ်ကွက်",
+      "en": "(1) Aung Ya Da Nar Quarter",
+      "slug": "1-aung-ya-da-nar-quarter-1864001"
+    },
+    "code": {
+      "id": "1864001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005704",
+      "level": 3,
+      "name": {
+        "local": "ဆင်မြီးဆွဲ",
+        "en": "Sin Mee Swea",
+        "slug": "sin-mee-swea-MMR008005704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005704",
+        "level": 3,
+        "name": {
+          "local": "ဆင်မြီးဆွဲ",
+          "en": "Sin Mee Swea",
+          "slug": "sin-mee-swea-MMR008005704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1864001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1864002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၂) ဗဟို ရပ်ကွက်",
+      "en": "(2) Baho Quarter",
+      "slug": "2-baho-quarter-1864002"
+    },
+    "code": {
+      "id": "1864002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005704",
+      "level": 3,
+      "name": {
+        "local": "ဆင်မြီးဆွဲ",
+        "en": "Sin Mee Swea",
+        "slug": "sin-mee-swea-MMR008005704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005704",
+        "level": 3,
+        "name": {
+          "local": "ဆင်မြီးဆွဲ",
+          "en": "Sin Mee Swea",
+          "slug": "sin-mee-swea-MMR008005704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1864002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1864003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(၃) ခေတ်သစ်ရတနာ ရပ်ကွက်",
+      "en": "(3) Khit Thit Ya Da Nar Quarter",
+      "slug": "3-khit-thit-ya-da-nar-quarter-1864003"
+    },
+    "code": {
+      "id": "1864003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005704",
+      "level": 3,
+      "name": {
+        "local": "ဆင်မြီးဆွဲ",
+        "en": "Sin Mee Swea",
+        "slug": "sin-mee-swea-MMR008005704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005704",
+        "level": 3,
+        "name": {
+          "local": "ဆင်မြီးဆွဲ",
+          "en": "Sin Mee Swea",
+          "slug": "sin-mee-swea-MMR008005704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1864003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

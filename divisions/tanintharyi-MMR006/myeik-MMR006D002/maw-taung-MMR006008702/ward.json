@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1464001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-1464001"
+    },
+    "code": {
+      "id": "1464001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006008702",
+      "level": 3,
+      "name": {
+        "local": "မောတောင်",
+        "en": "Maw Taung",
+        "slug": "maw-taung-MMR006008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006008702",
+        "level": 3,
+        "name": {
+          "local": "မောတောင်",
+          "en": "Maw Taung",
+          "slug": "maw-taung-MMR006008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1464001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1464002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1464002"
+    },
+    "code": {
+      "id": "1464002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006008702",
+      "level": 3,
+      "name": {
+        "local": "မောတောင်",
+        "en": "Maw Taung",
+        "slug": "maw-taung-MMR006008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006008702",
+        "level": 3,
+        "name": {
+          "local": "မောတောင်",
+          "en": "Maw Taung",
+          "slug": "maw-taung-MMR006008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1464002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1464003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1464003"
+    },
+    "code": {
+      "id": "1464003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006008702",
+      "level": 3,
+      "name": {
+        "local": "မောတောင်",
+        "en": "Maw Taung",
+        "slug": "maw-taung-MMR006008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006008702",
+        "level": 3,
+        "name": {
+          "local": "မောတောင်",
+          "en": "Maw Taung",
+          "slug": "maw-taung-MMR006008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1464003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

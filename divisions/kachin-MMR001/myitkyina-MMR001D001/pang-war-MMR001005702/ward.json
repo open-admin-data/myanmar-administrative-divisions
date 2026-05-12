@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0162001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0162001"
+    },
+    "code": {
+      "id": "0162001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001005702",
+      "level": 3,
+      "name": {
+        "local": "ပန်ဝါ",
+        "en": "Pang War",
+        "slug": "pang-war-MMR001005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001005702",
+        "level": 3,
+        "name": {
+          "local": "ပန်ဝါ",
+          "en": "Pang War",
+          "slug": "pang-war-MMR001005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0162001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0162002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0162002"
+    },
+    "code": {
+      "id": "0162002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001005702",
+      "level": 3,
+      "name": {
+        "local": "ပန်ဝါ",
+        "en": "Pang War",
+        "slug": "pang-war-MMR001005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001005702",
+        "level": 3,
+        "name": {
+          "local": "ပန်ဝါ",
+          "en": "Pang War",
+          "slug": "pang-war-MMR001005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0162002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0162003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0162003"
+    },
+    "code": {
+      "id": "0162003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001005702",
+      "level": 3,
+      "name": {
+        "local": "ပန်ဝါ",
+        "en": "Pang War",
+        "slug": "pang-war-MMR001005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001005702",
+        "level": 3,
+        "name": {
+          "local": "ပန်ဝါ",
+          "en": "Pang War",
+          "slug": "pang-war-MMR001005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0162003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

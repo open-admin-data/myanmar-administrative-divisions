@@ -1,0 +1,56 @@
+{
+  "id": "MMR013024702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တံတား",
+    "en": "Tadar",
+    "slug": "tadar-MMR013024702"
+  },
+  "code": {
+    "id": "MMR013024702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D003",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(တောင်ပိုင်း)",
+      "en": "Yangon (South)",
+      "slug": "yangon-south-MMR013D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D003",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(တောင်ပိုင်း)",
+        "en": "Yangon (South)",
+        "slug": "yangon-south-MMR013D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.64788",
+    "lon": "96.53949"
+  },
+  "metadata": {},
+  "source": {}
+}

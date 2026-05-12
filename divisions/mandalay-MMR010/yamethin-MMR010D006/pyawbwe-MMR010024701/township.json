@@ -1,0 +1,56 @@
+{
+  "id": "MMR010024701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပျော်ဘွယ်",
+    "en": "Pyawbwe",
+    "slug": "pyawbwe-MMR010024701"
+  },
+  "code": {
+    "id": "MMR010024701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D006",
+    "level": 2,
+    "name": {
+      "local": "ရမည်းသင်းခရိုင်",
+      "en": "Yamethin",
+      "slug": "yamethin-MMR010D006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D006",
+      "level": 2,
+      "name": {
+        "local": "ရမည်းသင်းခရိုင်",
+        "en": "Yamethin",
+        "slug": "yamethin-MMR010D006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 84
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.59472",
+    "lon": "96.05094"
+  },
+  "metadata": {},
+  "source": {}
+}

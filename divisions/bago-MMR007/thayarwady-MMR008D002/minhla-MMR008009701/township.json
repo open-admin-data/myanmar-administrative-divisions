@@ -1,0 +1,56 @@
+{
+  "id": "MMR008009701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မင်းလှ",
+    "en": "Minhla",
+    "slug": "minhla-MMR008009701"
+  },
+  "code": {
+    "id": "MMR008009701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D002",
+    "level": 2,
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.97389",
+    "lon": "95.70905"
+  },
+  "metadata": {},
+  "source": {}
+}

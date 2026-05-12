@@ -1,0 +1,56 @@
+{
+  "id": "MMR001005702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပန်ဝါ",
+    "en": "Pang War",
+    "slug": "pang-war-MMR001005702"
+  },
+  "code": {
+    "id": "MMR001005702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D001",
+    "level": 2,
+    "name": {
+      "local": "မြစ်ကြီးနားခရိုင်",
+      "en": "Myitkyina",
+      "slug": "myitkyina-MMR001D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D001",
+      "level": 2,
+      "name": {
+        "local": "မြစ်ကြီးနားခရိုင်",
+        "en": "Myitkyina",
+        "slug": "myitkyina-MMR001D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.59866",
+    "lon": "98.37863"
+  },
+  "metadata": {},
+  "source": {}
+}

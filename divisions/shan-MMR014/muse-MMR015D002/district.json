@@ -1,0 +1,48 @@
+{
+  "id": "MMR015D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မူဆယ်ခရိုင်",
+    "en": "Muse",
+    "slug": "muse-MMR015D002"
+  },
+  "code": {
+    "id": "MMR015D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014",
+    "level": 1,
+    "name": {
+      "local": "ရှမ်းပြည်နယ်",
+      "en": "Shan",
+      "slug": "shan-MMR014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 235
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.8556",
+    "lon": "97.9702"
+  },
+  "metadata": {},
+  "source": {}
+}

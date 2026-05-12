@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0367001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0367001"
+    },
+    "code": {
+      "id": "0367001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007703",
+      "level": 3,
+      "name": {
+        "local": "လိုင်လင်းပီ",
+        "en": "Lalengpi",
+        "slug": "lalengpi-MMR004007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007703",
+        "level": 3,
+        "name": {
+          "local": "လိုင်လင်းပီ",
+          "en": "Lalengpi",
+          "slug": "lalengpi-MMR004007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0367001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0367002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0367002"
+    },
+    "code": {
+      "id": "0367002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007703",
+      "level": 3,
+      "name": {
+        "local": "လိုင်လင်းပီ",
+        "en": "Lalengpi",
+        "slug": "lalengpi-MMR004007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007703",
+        "level": 3,
+        "name": {
+          "local": "လိုင်လင်းပီ",
+          "en": "Lalengpi",
+          "slug": "lalengpi-MMR004007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0367002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

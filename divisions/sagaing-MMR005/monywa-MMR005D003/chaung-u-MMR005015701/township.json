@@ -1,0 +1,56 @@
+{
+  "id": "MMR005015701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ချောင်းဦး",
+    "en": "Chaung-U",
+    "slug": "chaung-u-MMR005015701"
+  },
+  "code": {
+    "id": "MMR005015701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D003",
+    "level": 2,
+    "name": {
+      "local": "မုံရွာခရိုင်",
+      "en": "Monywa",
+      "slug": "monywa-MMR005D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D003",
+      "level": 2,
+      "name": {
+        "local": "မုံရွာခရိုင်",
+        "en": "Monywa",
+        "slug": "monywa-MMR005D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.95693",
+    "lon": "95.27363"
+  },
+  "metadata": {},
+  "source": {}
+}

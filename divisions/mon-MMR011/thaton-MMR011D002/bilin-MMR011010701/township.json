@@ -1,0 +1,56 @@
+{
+  "id": "MMR011010701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဘီးလင်း",
+    "en": "Bilin",
+    "slug": "bilin-MMR011010701"
+  },
+  "code": {
+    "id": "MMR011010701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011D002",
+    "level": 2,
+    "name": {
+      "local": "သထုံခရိုင်",
+      "en": "Thaton",
+      "slug": "thaton-MMR011D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.21987",
+    "lon": "97.23931"
+  },
+  "metadata": {},
+  "source": {}
+}

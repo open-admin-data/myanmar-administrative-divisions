@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0766001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0766001"
+    },
+    "code": {
+      "id": "0766001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012014702",
+      "level": 3,
+      "name": {
+        "local": "တပ်တောင်",
+        "en": "Tat Taung",
+        "slug": "tat-taung-MMR012014702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012014702",
+        "level": 3,
+        "name": {
+          "local": "တပ်တောင်",
+          "en": "Tat Taung",
+          "slug": "tat-taung-MMR012014702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0766001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0766002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0766002"
+    },
+    "code": {
+      "id": "0766002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012014702",
+      "level": 3,
+      "name": {
+        "local": "တပ်တောင်",
+        "en": "Tat Taung",
+        "slug": "tat-taung-MMR012014702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012014702",
+        "level": 3,
+        "name": {
+          "local": "တပ်တောင်",
+          "en": "Tat Taung",
+          "slug": "tat-taung-MMR012014702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0766002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0766003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0766003"
+    },
+    "code": {
+      "id": "0766003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012014702",
+      "level": 3,
+      "name": {
+        "local": "တပ်တောင်",
+        "en": "Tat Taung",
+        "slug": "tat-taung-MMR012014702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012014702",
+        "level": 3,
+        "name": {
+          "local": "တပ်တောင်",
+          "en": "Tat Taung",
+          "slug": "tat-taung-MMR012014702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0766003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,4357 @@
+[
+  {
+    "id": "0717218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အထူး ကျေးရွာအုပ်စု",
+      "en": "Ah Htu Village Tract",
+      "slug": "ah-htu-village-tract-0717218"
+    },
+    "code": {
+      "id": "0717218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ် ကျေးရွာအုပ်စု",
+      "en": "Ah Lel Village Tract",
+      "slug": "ah-lel-village-tract-0717210"
+    },
+    "code": {
+      "id": "0717210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အံတော် ကျေးရွာအုပ်စု",
+      "en": "An Taw Village Tract",
+      "slug": "an-taw-village-tract-0717216"
+    },
+    "code": {
+      "id": "0717216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်နတ်မော် ကျေးရွာအုပ်စု",
+      "en": "Auk Nat Maw Village Tract",
+      "slug": "auk-nat-maw-village-tract-0717200"
+    },
+    "code": {
+      "id": "0717200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုးဝကုန်း ကျေးရွာအုပ်စု",
+      "en": "Boe Wa Kone Village Tract",
+      "slug": "boe-wa-kone-village-tract-0717244"
+    },
+    "code": {
+      "id": "0717244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခြံပြင် ကျေးရွာအုပ်စု",
+      "en": "Chan Pyin Village Tract",
+      "slug": "chan-pyin-village-tract-0717228"
+    },
+    "code": {
+      "id": "0717228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံမင်းချောင် ကျေးရွာအုပ်စု",
+      "en": "Gon Min Chaung Village Tract",
+      "slug": "gon-min-chaung-village-tract-0717245"
+    },
+    "code": {
+      "id": "0717245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေ့ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Gwayt Chaung Village Tract",
+      "slug": "gwayt-chaung-village-tract-0717206"
+    },
+    "code": {
+      "id": "0717206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မှိုဟင်းပြင် ကျေးရွာအုပ်စု",
+      "en": "Hmo Hin Pyin Village Tract",
+      "slug": "hmo-hin-pyin-village-tract-0717229"
+    },
+    "code": {
+      "id": "0717229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မျှော့ဝမ်း ကျေးရွာအုပ်စု",
+      "en": "Hmyawt Wan Village Tract",
+      "slug": "hmyawt-wan-village-tract-0717208"
+    },
+    "code": {
+      "id": "0717208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားမော် ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Maw Village Tract",
+      "slug": "hpa-yar-maw-village-tract-0717204"
+    },
+    "code": {
+      "id": "0717204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကနခို ကျေးရွာအုပ်စု",
+      "en": "Ka Na Kho Village Tract",
+      "slug": "ka-na-kho-village-tract-0717253"
+    },
+    "code": {
+      "id": "0717253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kone Village Tract",
+      "slug": "ka-nyin-kone-village-tract-0717233"
+    },
+    "code": {
+      "id": "0717233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kwin Village Tract",
+      "slug": "ka-nyin-kwin-village-tract-0717252"
+    },
+    "code": {
+      "id": "0717252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခမောင်းတုန်း ကျေးရွာအုပ်စု",
+      "en": "Kha Maung Tone Village Tract",
+      "slug": "kha-maung-tone-village-tract-0717201"
+    },
+    "code": {
+      "id": "0717201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရမ်းမော် ကျေးရွာအုပ်စု",
+      "en": "Kha Yan Maw Village Tract",
+      "slug": "kha-yan-maw-village-tract-0717224"
+    },
+    "code": {
+      "id": "0717224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်းမော် ကျေးရွာအုပ်စု",
+      "en": "Kin Maw Village Tract",
+      "slug": "kin-maw-village-tract-0717222"
+    },
+    "code": {
+      "id": "0717222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာညို ကျေးရွာအုပ်စု",
+      "en": "Kyar Nyo Village Tract",
+      "slug": "kyar-nyo-village-tract-0717256"
+    },
+    "code": {
+      "id": "0717256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Gyi Village Tract",
+      "slug": "kyauk-gyi-village-tract-0717255"
+    },
+    "code": {
+      "id": "0717255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက္ကလာပ် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ka Lat Village Tract",
+      "slug": "kyauk-ka-lat-village-tract-0717249"
+    },
+    "code": {
+      "id": "0717249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Village Tract",
+      "slug": "kyauk-tan-village-tract-0717235"
+    },
+    "code": {
+      "id": "0717235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းထိုက် ကျေးရွာအုပ်စု",
+      "en": "Kyaung Htaik Village Tract",
+      "slug": "kyaung-htaik-village-tract-0717220"
+    },
+    "code": {
+      "id": "0717220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီးကန်း ကျေးရွာအုပ်စု",
+      "en": "Kyee Kan Village Tract",
+      "slug": "kyee-kan-village-tract-0717247"
+    },
+    "code": {
+      "id": "0717247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်စားချောင် ကျေးရွာအုပ်စု",
+      "en": "Kyet Sar Chaung Village Tract",
+      "slug": "kyet-sar-chaung-village-tract-0717209"
+    },
+    "code": {
+      "id": "0717209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းပေါက် ကျေးရွာအုပ်စု",
+      "en": "Kyun Pauk Village Tract",
+      "slug": "kyun-pauk-village-tract-0717211"
+    },
+    "code": {
+      "id": "0717211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲသောက် ကျေးရွာအုပ်စု",
+      "en": "Kywe Thauk Village Tract",
+      "slug": "kywe-thauk-village-tract-0717250"
+    },
+    "code": {
+      "id": "0717250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပံစု ကျေးရွာအုပ်စု",
+      "en": "Let Pan Su Village Tract",
+      "slug": "let-pan-su-village-tract-0717239"
+    },
+    "code": {
+      "id": "0717239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင်းမူးတောင် ကျေးရွာအုပ်စု",
+      "en": "Lin Mu Taung Village Tract",
+      "slug": "lin-mu-taung-village-tract-0717212"
+    },
+    "code": {
+      "id": "0717212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မော်ရုံ ကျေးရွာအုပ်စု",
+      "en": "Maw Yon Village Tract",
+      "slug": "maw-yon-village-tract-0717248"
+    },
+    "code": {
+      "id": "0717248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Me Kyun Village Tract",
+      "slug": "me-kyun-village-tract-0717226"
+    },
+    "code": {
+      "id": "0717226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲနယ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Me Nei Kwin Village Tract",
+      "slug": "me-nei-kwin-village-tract-0717242"
+    },
+    "code": {
+      "id": "0717242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nan Chaung Village Tract",
+      "slug": "nan-chaung-village-tract-0717234"
+    },
+    "code": {
+      "id": "0717234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်မော် ကျေးရွာအုပ်စု",
+      "en": "Nat Maw Village Tract",
+      "slug": "nat-maw-village-tract-0717202"
+    },
+    "code": {
+      "id": "0717202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0717001"
+    },
+    "code": {
+      "id": "0717001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0717002"
+    },
+    "code": {
+      "id": "0717002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0717003"
+    },
+    "code": {
+      "id": "0717003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0717004"
+    },
+    "code": {
+      "id": "0717004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0717005"
+    },
+    "code": {
+      "id": "0717005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-0717006"
+    },
+    "code": {
+      "id": "0717006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-0717007"
+    },
+    "code": {
+      "id": "0717007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈)  (ဒွါရာဝတီမြို့သစ်) ရပ်ကွက်",
+      "en": "No (8) (Dwar Yar Wa Ti Myo Thit ) Quarter",
+      "slug": "no-8-dwar-yar-wa-ti-myo-thit-quarter-0717008"
+    },
+    "code": {
+      "id": "0717008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဒဲကော ကျေးရွာအုပ်စု",
+      "en": "Pa De Kaw Village Tract",
+      "slug": "pa-de-kaw-village-tract-0717232"
+    },
+    "code": {
+      "id": "0717232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်တူး ကျေးရွာအုပ်စု",
+      "en": "Pauk Tu Village Tract",
+      "slug": "pauk-tu-village-tract-0717254"
+    },
+    "code": {
+      "id": "0717254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းတောကြီး ကျေးရွာအုပ်စု",
+      "en": "Pein Taw Gyi Village Tract",
+      "slug": "pein-taw-gyi-village-tract-0717251"
+    },
+    "code": {
+      "id": "0717251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုဇွန်ဖြေ ကျေးရွာအုပ်စု",
+      "en": "Pu Zun Hpay Village Tract",
+      "slug": "pu-zun-hpay-village-tract-0717258"
+    },
+    "code": {
+      "id": "0717258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပွင့်ဖြေ ကျေးရွာအုပ်စု",
+      "en": "Pwint Hpyay Village Tract",
+      "slug": "pwint-hpyay-village-tract-0717207"
+    },
+    "code": {
+      "id": "0717207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည့်ဝ ကျေးရွာအုပ်စု",
+      "en": "Pyayt Wa Village Tract",
+      "slug": "pyayt-wa-village-tract-0717225"
+    },
+    "code": {
+      "id": "0717225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းမခုံ ကျေးရွာအုပ်စု",
+      "en": "Pyin Ma Khon Village Tract",
+      "slug": "pyin-ma-khon-village-tract-0717237"
+    },
+    "code": {
+      "id": "0717237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆတ်လည်မျှော် ကျေးရွာအုပ်စု",
+      "en": "Sat Lel Hmyaw Village Tract",
+      "slug": "sat-lel-hmyaw-village-tract-0717246"
+    },
+    "code": {
+      "id": "0717246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှင်အောင် ကျေးရွာအုပ်စု",
+      "en": "Shin Aung Village Tract",
+      "slug": "shin-aung-village-tract-0717217"
+    },
+    "code": {
+      "id": "0717217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေလှော် ကျေးရွာအုပ်စု",
+      "en": "Shwe Hlaw Village Tract",
+      "slug": "shwe-hlaw-village-tract-0717214"
+    },
+    "code": {
+      "id": "0717214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေလှေ ကျေးရွာအုပ်စု",
+      "en": "Shwe Hlay Village Tract",
+      "slug": "shwe-hlay-village-tract-0717203"
+    },
+    "code": {
+      "id": "0717203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကျောင်းပြင် ကျေးရွာအုပ်စု",
+      "en": "Shwe Kyaung Pyin Village Tract",
+      "slug": "shwe-kyaung-pyin-village-tract-0717227"
+    },
+    "code": {
+      "id": "0717227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ခေါင်း ကျေးရွာအုပ်စု",
+      "en": "Sin Gaung Village Tract",
+      "slug": "sin-gaung-village-tract-0717221"
+    },
+    "code": {
+      "id": "0717221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တလင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Ta Lin Seik Village Tract",
+      "slug": "ta-lin-seik-village-tract-0717230"
+    },
+    "code": {
+      "id": "0717230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တရော်တော ကျေးရွာအုပ်စု",
+      "en": "Ta Yaw Taw Village Tract",
+      "slug": "ta-yaw-taw-village-tract-0717215"
+    },
+    "code": {
+      "id": "0717215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ညို ကျေးရွာအုပ်စု",
+      "en": "Taung Nyo Village Tract",
+      "slug": "taung-nyo-village-tract-0717219"
+    },
+    "code": {
+      "id": "0717219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ပင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Pin Kwin Village Tract",
+      "slug": "tha-yet-pin-kwin-village-tract-0717241"
+    },
+    "code": {
+      "id": "0717241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံပုရာ ကျေးရွာအုပ်စု",
+      "en": "Than Pu Yar Village Tract",
+      "slug": "than-pu-yar-village-tract-0717240"
+    },
+    "code": {
+      "id": "0717240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာယာကွင်း ကျေးရွာအုပ်စု",
+      "en": "Thar Yar Kwin Village Tract",
+      "slug": "thar-yar-kwin-village-tract-0717243"
+    },
+    "code": {
+      "id": "0717243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ငုတ္တို ကျေးရွာအုပ်စု",
+      "en": "Thit Ngoke To Village Tract",
+      "slug": "thit-ngoke-to-village-tract-0717257"
+    },
+    "code": {
+      "id": "0717257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုံးတော ကျေးရွာအုပ်စု",
+      "en": "Tone Taw Village Tract",
+      "slug": "tone-taw-village-tract-0717236"
+    },
+    "code": {
+      "id": "0717236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "U Yin Kwin Village Tract",
+      "slug": "u-yin-kwin-village-tract-0717231"
+    },
+    "code": {
+      "id": "0717231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ်ပြင် ကျေးရွာအုပ်စု",
+      "en": "U Yin Pyin Village Tract",
+      "slug": "u-yin-pyin-village-tract-0717223"
+    },
+    "code": {
+      "id": "0717223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ထီးတောင် ကျေးရွာအုပ်စု",
+      "en": "Wet Htee Taung Village Tract",
+      "slug": "wet-htee-taung-village-tract-0717238"
+    },
+    "code": {
+      "id": "0717238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကောက် ကျေးရွာအုပ်စု",
+      "en": "Yae Kauk Village Tract",
+      "slug": "yae-kauk-village-tract-0717205"
+    },
+    "code": {
+      "id": "0717205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0717213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Zee Kone Village Tract",
+      "slug": "zee-kone-village-tract-0717213"
+    },
+    "code": {
+      "id": "0717213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012015701",
+      "level": 3,
+      "name": {
+        "local": "သံတွဲ",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012015701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012015701",
+        "level": 3,
+        "name": {
+          "local": "သံတွဲ",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012015701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0717213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "0209233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့စီး ကျေးရွာအုပ်စု",
+      "en": "Ah Shey See Village Tract",
+      "slug": "ah-shey-see-village-tract-0209233"
+    },
+    "code": {
+      "id": "0209233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0209004"
+    },
+    "code": {
+      "id": "0209004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မြေမာန် ရပ်ကွက်",
+      "en": "Aung Myay Man Quarter",
+      "slug": "aung-myay-man-quarter-0209007"
+    },
+    "code": {
+      "id": "0209007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မေတ္တာ ရပ်ကွက်",
+      "en": "Aung Myit Tar Quarter",
+      "slug": "aung-myit-tar-quarter-0209020"
+    },
+    "code": {
+      "id": "0209020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သစ္စာ ရပ်ကွက်",
+      "en": "Aung Thit Sar Quarter",
+      "slug": "aung-thit-sar-quarter-0209003"
+    },
+    "code": {
+      "id": "0209003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ဇေယျ ရပ်ကွက်",
+      "en": "Aung Zay Ya Quarter",
+      "slug": "aung-zay-ya-quarter-0209008"
+    },
+    "code": {
+      "id": "0209008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းမြေ့အောင်စည် ရပ်ကွက်",
+      "en": "Chan Myayt Aung Si Quarter",
+      "slug": "chan-myayt-aung-si-quarter-0209009"
+    },
+    "code": {
+      "id": "0209009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြို့သုံးပင် ရပ်ကွက်",
+      "en": "Gyo Thone Pin Quarter",
+      "slug": "gyo-thone-pin-quarter-0209015"
+    },
+    "code": {
+      "id": "0209015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှိုင်သာယာ ရပ်ကွက်",
+      "en": "Hlaing Thar Yar Quarter",
+      "slug": "hlaing-thar-yar-quarter-0209016"
+    },
+    "code": {
+      "id": "0209016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောက်ကြံ့ ကျေးရွာအုပ်စု",
+      "en": "Htauk Kyant Village Tract",
+      "slug": "htauk-kyant-village-tract-0209227"
+    },
+    "code": {
+      "id": "0209227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိုမာ ကျေးရွာအုပ်စု",
+      "en": "Hto Mar Village Tract",
+      "slug": "hto-mar-village-tract-0209226"
+    },
+    "code": {
+      "id": "0209226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဒိုင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "In Daing Gyi Village Tract",
+      "slug": "in-daing-gyi-village-tract-0209223"
+    },
+    "code": {
+      "id": "0209223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဒိုင်းကုန်း ရပ်ကွက်",
+      "en": "In Daing Kone Quarter",
+      "slug": "in-daing-kone-quarter-0209018"
+    },
+    "code": {
+      "id": "0209018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းဒင် ကျေးရွာအုပ်စု",
+      "en": "Inn Din Village Tract",
+      "slug": "inn-din-village-tract-0209230"
+    },
+    "code": {
+      "id": "0209230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကြီး ကျေးရွာအုပ်စု",
+      "en": "Kan Gyi Village Tract",
+      "slug": "kan-gyi-village-tract-0209202"
+    },
+    "code": {
+      "id": "0209202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံပုလဲ ကျေးရွာအုပ်စု",
+      "en": "Kan Pale Village Tract",
+      "slug": "kan-pale-village-tract-0209201"
+    },
+    "code": {
+      "id": "0209201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုံဒိုးမြို့သာ ကျေးရွာအုပ်စု",
+      "en": "Khon Doe Myo Thar Village Tract",
+      "slug": "khon-doe-myo-thar-village-tract-0209234"
+    },
+    "code": {
+      "id": "0209234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုံသာ ကျေးရွာအုပ်စု",
+      "en": "Khon Thar Village Tract",
+      "slug": "khon-thar-village-tract-0209220"
+    },
+    "code": {
+      "id": "0209220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်းပွန်းချုံ ကျေးရွာအုပ်စု",
+      "en": "Kin Pun Chon Village Tract",
+      "slug": "kin-pun-chon-village-tract-0209228"
+    },
+    "code": {
+      "id": "0209228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုက္ကို ကျေးရွာအုပ်စု",
+      "en": "Koke Ko Village Tract",
+      "slug": "koke-ko-village-tract-0209219"
+    },
+    "code": {
+      "id": "0209219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ပြုတ် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Pyoke Village Tract",
+      "slug": "kyauk-pyoke-village-tract-0209216"
+    },
+    "code": {
+      "id": "0209216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းတိုက် ကျေးရွာအုပ်စု",
+      "en": "Kyaung Taik Village Tract",
+      "slug": "kyaung-taik-village-tract-0209212"
+    },
+    "code": {
+      "id": "0209212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျော် ကျေးရွာအုပ်စု",
+      "en": "Kyaw Village Tract",
+      "slug": "kyaw-village-tract-0209238"
+    },
+    "code": {
+      "id": "0209238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်ဖနက် ကျေးရွာအုပ်စု",
+      "en": "Kyet Hpa Net Village Tract",
+      "slug": "kyet-hpa-net-village-tract-0209221"
+    },
+    "code": {
+      "id": "0209221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyi Kone Village Tract",
+      "slug": "kyi-kone-village-tract-0209225"
+    },
+    "code": {
+      "id": "0209225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက်လင်း ကျေးရွာအုပ်စု",
+      "en": "Mauk Lin Village Tract",
+      "slug": "mauk-lin-village-tract-0209210"
+    },
+    "code": {
+      "id": "0209210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မော်လိုက်ကလေး ကျေးရွာအုပ်စု",
+      "en": "Maw Laik Ka Lay Village Tract",
+      "slug": "maw-laik-ka-lay-village-tract-0209206"
+    },
+    "code": {
+      "id": "0209206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလာဥယျာဉ် ရပ်ကွက်",
+      "en": "Min Ga Lar U Yin Quarter",
+      "slug": "min-ga-lar-u-yin-quarter-0209006"
+    },
+    "code": {
+      "id": "0209006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်စီး ကျေးရွာအုပ်စု",
+      "en": "Myauk See Village Tract",
+      "slug": "myauk-see-village-tract-0209235"
+    },
+    "code": {
+      "id": "0209235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့လှ ရပ်ကွက်",
+      "en": "Myo Hla Quarter",
+      "slug": "myo-hla-quarter-0209017"
+    },
+    "code": {
+      "id": "0209017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သာ ရပ်ကွက်",
+      "en": "Myo Thar Quarter",
+      "slug": "myo-thar-quarter-0209019"
+    },
+    "code": {
+      "id": "0209019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းကျင်းဆောင် ကျေးရွာအုပ်စု",
+      "en": "Nan Kyin Saung Village Tract",
+      "slug": "nan-kyin-saung-village-tract-0209222"
+    },
+    "code": {
+      "id": "0209222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းစောင်းပု ကျေးရွာအုပ်စု",
+      "en": "Nan Saung Pu Village Tract",
+      "slug": "nan-saung-pu-village-tract-0209203"
+    },
+    "code": {
+      "id": "0209203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nat Chaung Village Tract",
+      "slug": "nat-chaung-village-tract-0209232"
+    },
+    "code": {
+      "id": "0209232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကြီးကုန်း (ကျောက္ကာ) ကျေးရွာအုပ်စု",
+      "en": "Nat Gyi Kone (Kyauk Kar) Village Tract",
+      "slug": "nat-gyi-kone-kyauk-kar-village-tract-0209211"
+    },
+    "code": {
+      "id": "0209211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကြီးကုန်း (ပျဉ်းခုံလေး) ကျေးရွာအုပ်စု",
+      "en": "Nat Gyi Kone (Pyin Khon Lay) Village Tract",
+      "slug": "nat-gyi-kone-pyin-khon-lay-village-tract-0209213"
+    },
+    "code": {
+      "id": "0209213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်မြောင်း ကျေးရွာအုပ်စု",
+      "en": "Nat Myaung Village Tract",
+      "slug": "nat-myaung-village-tract-0209231"
+    },
+    "code": {
+      "id": "0209231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးဖါး ကျေးရွာအုပ်စု",
+      "en": "Ngar Hpar Village Tract",
+      "slug": "ngar-hpar-village-tract-0209214"
+    },
+    "code": {
+      "id": "0209214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ရပ်ကွက်",
+      "en": "Nyaung Pin Thar Quarter",
+      "slug": "nyaung-pin-thar-quarter-0209001"
+    },
+    "code": {
+      "id": "0209001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်တော ကျေးရွာအုပ်စု",
+      "en": "Pauk Taw Village Tract",
+      "slug": "pauk-taw-village-tract-0209229"
+    },
+    "code": {
+      "id": "0209229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်လုံ ရပ်ကွက်",
+      "en": "Pin Lon Quarter",
+      "slug": "pin-lon-quarter-0209002"
+    },
+    "code": {
+      "id": "0209002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းခုံကြီး ကျေးရွာအုပ်စု",
+      "en": "Pyin Khon Gyi Village Tract",
+      "slug": "pyin-khon-gyi-village-tract-0209207"
+    },
+    "code": {
+      "id": "0209207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းတော်ဦး ကျေးရွာအုပ်စု",
+      "en": "Pyin Taw U Village Tract",
+      "slug": "pyin-taw-u-village-tract-0209205"
+    },
+    "code": {
+      "id": "0209205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Khan Gyi Village Tract",
+      "slug": "sa-khan-gyi-village-tract-0209204"
+    },
+    "code": {
+      "id": "0209204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမ်းမြို့ ရပ်ကွက်",
+      "en": "San Myo Quarter",
+      "slug": "san-myo-quarter-0209012"
+    },
+    "code": {
+      "id": "0209012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စော်ဘွားရေရှင် ကျေးရွာအုပ်စု",
+      "en": "Saw Bwar Yae Shin Village Tract",
+      "slug": "saw-bwar-yae-shin-village-tract-0209209"
+    },
+    "code": {
+      "id": "0209209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စက္ကန့် ကျေးရွာအုပ်စု",
+      "en": "Set Kant Village Tract",
+      "slug": "set-kant-village-tract-0209218"
+    },
+    "code": {
+      "id": "0209218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင် ကျေးရွာအုပ်စု",
+      "en": "Sin Village Tract",
+      "slug": "sin-village-tract-0209217"
+    },
+    "code": {
+      "id": "0209217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာဟန်း ရပ်ကွက်",
+      "en": "Tar Han Quarter",
+      "slug": "tar-han-quarter-0209005"
+    },
+    "code": {
+      "id": "0209005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပ်ဦးသီတာ ရပ်ကွက်",
+      "en": "Tat U Thi Dar Quarter",
+      "slug": "tat-u-thi-dar-quarter-0209010"
+    },
+    "code": {
+      "id": "0209010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ဖီလာ ရပ်ကွက်",
+      "en": "Taung Pee Lar Quarter",
+      "slug": "taung-pee-lar-quarter-0209013"
+    },
+    "code": {
+      "id": "0209013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်စီး ကျေးရွာအုပ်စု",
+      "en": "Taung See Village Tract",
+      "slug": "taung-see-village-tract-0209236"
+    },
+    "code": {
+      "id": "0209236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ဇလပ် ရပ်ကွက်",
+      "en": "Taung Zalat Quarter",
+      "slug": "taung-zalat-quarter-0209014"
+    },
+    "code": {
+      "id": "0209014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဇင် ရပ်ကွက်",
+      "en": "Tha Zin Quarter",
+      "slug": "tha-zin-quarter-0209011"
+    },
+    "code": {
+      "id": "0209011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည် ကျေးရွာအုပ်စု",
+      "en": "Thar Si Village Tract",
+      "slug": "thar-si-village-tract-0209200"
+    },
+    "code": {
+      "id": "0209200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တင်သား ကျေးရွာအုပ်စု",
+      "en": "Tin Thar Village Tract",
+      "slug": "tin-thar-village-tract-0209239"
+    },
+    "code": {
+      "id": "0209239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဦးယျဉ် ကျေးရွာအုပ်စု",
+      "en": "U Yin Village Tract",
+      "slug": "u-yin-village-tract-0209224"
+    },
+    "code": {
+      "id": "0209224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေရှင် ကျေးရွာအုပ်စု",
+      "en": "Yae Shin Village Tract",
+      "slug": "yae-shin-village-tract-0209215"
+    },
+    "code": {
+      "id": "0209215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရာဇဂြိုလ် ကျေးရွာအုပ်စု",
+      "en": "Yar Za Gyo Village Tract",
+      "slug": "yar-za-gyo-village-tract-0209208"
+    },
+    "code": {
+      "id": "0209208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0209237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသာ ကျေးရွာအုပ်စု",
+      "en": "Ywar Thar Village Tract",
+      "slug": "ywar-thar-village-tract-0209237"
+    },
+    "code": {
+      "id": "0209237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005027701",
+      "level": 3,
+      "name": {
+        "local": "ကလေး",
+        "en": "Kale",
+        "slug": "kale-MMR005027701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D005",
+        "level": 2,
+        "name": {
+          "local": "ကလေးခရိုင်",
+          "en": "Kale",
+          "slug": "kale-MMR005D005"
+        }
+      },
+      {
+        "id": "MMR005027701",
+        "level": 3,
+        "name": {
+          "local": "ကလေး",
+          "en": "Kale",
+          "slug": "kale-MMR005027701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0209237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR008005703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အင်းမ",
+    "en": "Inn Ma",
+    "slug": "inn-ma-MMR008005703"
+  },
+  "code": {
+    "id": "MMR008005703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D001",
+    "level": 2,
+    "name": {
+      "local": "ပြည်ခရိုင်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.52806",
+    "lon": "95.34904"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "MMR005D009",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ယင်းမာပင်ခရိုင်",
+    "en": "Yinmarbin",
+    "slug": "yinmarbin-MMR005D009"
+  },
+  "code": {
+    "id": "MMR005D009",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005",
+    "level": 1,
+    "name": {
+      "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 197
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.1046",
+    "lon": "94.9265"
+  },
+  "metadata": {},
+  "source": {}
+}

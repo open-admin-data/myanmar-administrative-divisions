@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR014018702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဟိုမိန်း",
+      "en": "Homein",
+      "slug": "homein-MMR014018702"
+    },
+    "code": {
+      "id": "MMR014018702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.769",
+      "lon": "97.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014019702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျိုင်းတောင်း",
+      "en": "Kengtawng",
+      "slug": "kengtawng-MMR014019702"
+    },
+    "code": {
+      "id": "MMR014019702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.75728",
+      "lon": "98.29333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014018701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လင်းခေး",
+      "en": "Langkho",
+      "slug": "langkho-MMR014018701"
+    },
+    "code": {
+      "id": "MMR014018701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.34222",
+      "lon": "98.00371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014020701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မောက်မယ်",
+      "en": "Mawkmai",
+      "slug": "mawkmai-MMR014020701"
+    },
+    "code": {
+      "id": "MMR014020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2305",
+      "lon": "97.72369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014019701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုးနဲ",
+      "en": "Mongnai",
+      "slug": "mongnai-MMR014019701"
+    },
+    "code": {
+      "id": "MMR014019701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.5136",
+      "lon": "97.8712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014021701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုင်းပန်",
+      "en": "Mongpan",
+      "slug": "mongpan-MMR014021701"
+    },
+    "code": {
+      "id": "MMR014021701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3188",
+      "lon": "98.3541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

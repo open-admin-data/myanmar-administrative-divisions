@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0962001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-0962001"
+    },
+    "code": {
+      "id": "0962001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002005702",
+      "level": 3,
+      "name": {
+        "local": "ရွာသစ်",
+        "en": "Ywarthit",
+        "slug": "ywarthit-MMR002005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002005702",
+        "level": 3,
+        "name": {
+          "local": "ရွာသစ်",
+          "en": "Ywarthit",
+          "slug": "ywarthit-MMR002005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0962001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0962002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-0962002"
+    },
+    "code": {
+      "id": "0962002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002005702",
+      "level": 3,
+      "name": {
+        "local": "ရွာသစ်",
+        "en": "Ywarthit",
+        "slug": "ywarthit-MMR002005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D002",
+        "level": 2,
+        "name": {
+          "local": "ဘောလခဲခရိုင်",
+          "en": "Bawlake",
+          "slug": "bawlake-MMR002D002"
+        }
+      },
+      {
+        "id": "MMR002005702",
+        "level": 3,
+        "name": {
+          "local": "ရွာသစ်",
+          "en": "Ywarthit",
+          "slug": "ywarthit-MMR002005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0962002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

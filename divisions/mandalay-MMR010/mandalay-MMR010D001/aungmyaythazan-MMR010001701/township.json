@@ -1,0 +1,56 @@
+{
+  "id": "MMR010001701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အောင်မြေသာဇံ",
+    "en": "Aungmyaythazan",
+    "slug": "aungmyaythazan-MMR010001701"
+  },
+  "code": {
+    "id": "MMR010001701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D001",
+    "level": 2,
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D001",
+      "level": 2,
+      "name": {
+        "local": "မန္တလေးခရိုင်",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.99321",
+    "lon": "96.09686"
+  },
+  "metadata": {},
+  "source": {}
+}

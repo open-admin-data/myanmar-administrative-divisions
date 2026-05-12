@@ -1,0 +1,56 @@
+{
+  "id": "MMR005003701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မြောင်",
+    "en": "Myaung",
+    "slug": "myaung-MMR005003701"
+  },
+  "code": {
+    "id": "MMR005003701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D001",
+    "level": 2,
+    "name": {
+      "local": "စစ်ကိုင်းခရိုင်",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D001",
+      "level": 2,
+      "name": {
+        "local": "စစ်ကိုင်းခရိုင်",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.83164",
+    "lon": "95.42425"
+  },
+  "metadata": {},
+  "source": {}
+}

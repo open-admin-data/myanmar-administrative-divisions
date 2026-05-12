@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1460001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1460001"
+    },
+    "code": {
+      "id": "1460001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006001702",
+      "level": 3,
+      "name": {
+        "local": "မေတ္တာ",
+        "en": "Myitta",
+        "slug": "myitta-MMR006001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006001702",
+        "level": 3,
+        "name": {
+          "local": "မေတ္တာ",
+          "en": "Myitta",
+          "slug": "myitta-MMR006001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1460001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1460002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1460002"
+    },
+    "code": {
+      "id": "1460002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006001702",
+      "level": 3,
+      "name": {
+        "local": "မေတ္တာ",
+        "en": "Myitta",
+        "slug": "myitta-MMR006001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006001702",
+        "level": 3,
+        "name": {
+          "local": "မေတ္တာ",
+          "en": "Myitta",
+          "slug": "myitta-MMR006001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1460002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1460003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1460003"
+    },
+    "code": {
+      "id": "1460003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006001702",
+      "level": 3,
+      "name": {
+        "local": "မေတ္တာ",
+        "en": "Myitta",
+        "slug": "myitta-MMR006001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006001702",
+        "level": 3,
+        "name": {
+          "local": "မေတ္တာ",
+          "en": "Myitta",
+          "slug": "myitta-MMR006001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1460003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

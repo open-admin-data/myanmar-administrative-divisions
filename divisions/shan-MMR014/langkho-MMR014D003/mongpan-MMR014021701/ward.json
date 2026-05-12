@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "0620003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ် ရပ်ကွက်",
+      "en": "Ah Lel Quarter",
+      "slug": "ah-lel-quarter-0620003"
+    },
+    "code": {
+      "id": "0620003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ကွက်သစ် ရပ်ကွက်",
+      "en": "Ah Nauk Kwet Thit Quarter",
+      "slug": "ah-nauk-kwet-thit-quarter-0620005"
+    },
+    "code": {
+      "id": "0620005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ရပ်ကွက်",
+      "en": "Ah Nauk Quarter",
+      "slug": "ah-nauk-quarter-0620004"
+    },
+    "code": {
+      "id": "0620004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ ရပ်ကွက်",
+      "en": "Ah Shey Quarter",
+      "slug": "ah-shey-quarter-0620002"
+    },
+    "code": {
+      "id": "0620002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားဝါ ကျေးရွာအုပ်စု",
+      "en": "Hsar War Village Tract",
+      "slug": "hsar-war-village-tract-0620208"
+    },
+    "code": {
+      "id": "0620208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုံးကျိုင်း ကျေးရွာအုပ်စု",
+      "en": "Kone Keng Village Tract",
+      "slug": "kone-keng-village-tract-0620201"
+    },
+    "code": {
+      "id": "0620201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပန် (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Mongpan (East) Village Tract",
+      "slug": "mongpan-east-village-tract-0620200"
+    },
+    "code": {
+      "id": "0620200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်တိန်း ကျေးရွာအုပ်စု",
+      "en": "Nam Ting Village Tract",
+      "slug": "nam-ting-village-tract-0620202"
+    },
+    "code": {
+      "id": "0620202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားလော ကျေးရွာအုပ်စု",
+      "en": "Nar Law Village Tract",
+      "slug": "nar-law-village-tract-0620207"
+    },
+    "code": {
+      "id": "0620207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားမွန် ကျေးရွာအုပ်စု",
+      "en": "Nar Mun Village Tract",
+      "slug": "nar-mun-village-tract-0620210"
+    },
+    "code": {
+      "id": "0620210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဟီး ကျေးရွာအုပ်စု",
+      "en": "Nawng Hee Village Tract",
+      "slug": "nawng-hee-village-tract-0620204"
+    },
+    "code": {
+      "id": "0620204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်လွမ်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Lum Village Tract",
+      "slug": "nawng-lum-village-tract-0620203"
+    },
+    "code": {
+      "id": "0620203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ရင်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Yin Village Tract",
+      "slug": "nawng-yin-village-tract-0620209"
+    },
+    "code": {
+      "id": "0620209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Taung Kaing Village Tract",
+      "slug": "taung-kaing-village-tract-0620205"
+    },
+    "code": {
+      "id": "0620205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိုးလိုင်း ကျေးရွာအုပ်စု",
+      "en": "Woe Laing Village Tract",
+      "slug": "woe-laing-village-tract-0620206"
+    },
+    "code": {
+      "id": "0620206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0620001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-0620001"
+    },
+    "code": {
+      "id": "0620001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014021701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းပန်",
+        "en": "Mongpan",
+        "slug": "mongpan-MMR014021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014021701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းပန်",
+          "en": "Mongpan",
+          "slug": "mongpan-MMR014021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0620001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

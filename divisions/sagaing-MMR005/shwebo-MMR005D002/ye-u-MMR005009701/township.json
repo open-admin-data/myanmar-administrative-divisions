@@ -1,0 +1,56 @@
+{
+  "id": "MMR005009701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရေဦး",
+    "en": "Ye-U",
+    "slug": "ye-u-MMR005009701"
+  },
+  "code": {
+    "id": "MMR005009701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D002",
+    "level": 2,
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.76914",
+    "lon": "95.43049"
+  },
+  "metadata": {},
+  "source": {}
+}

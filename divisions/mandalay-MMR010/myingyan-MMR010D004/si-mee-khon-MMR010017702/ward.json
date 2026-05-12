@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0565001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0565001"
+    },
+    "code": {
+      "id": "0565001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010017702",
+      "level": 3,
+      "name": {
+        "local": "ဆီမီးခုံ",
+        "en": "Si Mee Khon",
+        "slug": "si-mee-khon-MMR010017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      },
+      {
+        "id": "MMR010017702",
+        "level": 3,
+        "name": {
+          "local": "ဆီမီးခုံ",
+          "en": "Si Mee Khon",
+          "slug": "si-mee-khon-MMR010017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0565001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0565002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0565002"
+    },
+    "code": {
+      "id": "0565002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010017702",
+      "level": 3,
+      "name": {
+        "local": "ဆီမီးခုံ",
+        "en": "Si Mee Khon",
+        "slug": "si-mee-khon-MMR010017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      },
+      {
+        "id": "MMR010017702",
+        "level": 3,
+        "name": {
+          "local": "ဆီမီးခုံ",
+          "en": "Si Mee Khon",
+          "slug": "si-mee-khon-MMR010017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0565002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0565003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0565003"
+    },
+    "code": {
+      "id": "0565003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010017702",
+      "level": 3,
+      "name": {
+        "local": "ဆီမီးခုံ",
+        "en": "Si Mee Khon",
+        "slug": "si-mee-khon-MMR010017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      },
+      {
+        "id": "MMR010017702",
+        "level": 3,
+        "name": {
+          "local": "ဆီမီးခုံ",
+          "en": "Si Mee Khon",
+          "slug": "si-mee-khon-MMR010017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0565003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0565004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0565004"
+    },
+    "code": {
+      "id": "0565004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010017702",
+      "level": 3,
+      "name": {
+        "local": "ဆီမီးခုံ",
+        "en": "Si Mee Khon",
+        "slug": "si-mee-khon-MMR010017702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      },
+      {
+        "id": "MMR010017702",
+        "level": 3,
+        "name": {
+          "local": "ဆီမီးခုံ",
+          "en": "Si Mee Khon",
+          "slug": "si-mee-khon-MMR010017702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0565004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

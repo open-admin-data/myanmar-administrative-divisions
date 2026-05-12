@@ -1,0 +1,56 @@
+{
+  "id": "MMR007013702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျွဲပွဲ",
+    "en": "Kywe Pwe",
+    "slug": "kywe-pwe-MMR007013702"
+  },
+  "code": {
+    "id": "MMR007013702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D002",
+    "level": 2,
+    "name": {
+      "local": "တောင်ငူခရိုင်",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.7",
+    "lon": "96.4099"
+  },
+  "metadata": {},
+  "source": {}
+}

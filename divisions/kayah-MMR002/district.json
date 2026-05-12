@@ -1,0 +1,98 @@
+[
+  {
+    "id": "MMR002D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဘောလခဲခရိုင်",
+      "en": "Bawlake",
+      "slug": "bawlake-MMR002D002"
+    },
+    "code": {
+      "id": "MMR002D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.9706",
+      "lon": "97.4553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လွိုင်ကော်ခရိုင်",
+      "en": "Loikaw",
+      "slug": "loikaw-MMR002D001"
+    },
+    "code": {
+      "id": "MMR002D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6342",
+      "lon": "97.2264"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

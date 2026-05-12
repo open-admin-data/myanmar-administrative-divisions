@@ -1,0 +1,48 @@
+{
+  "id": "MMR003D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ဘားအံခရိုင်",
+    "en": "Hpa-An",
+    "slug": "hpa-an-MMR003D001"
+  },
+  "code": {
+    "id": "MMR003D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003",
+    "level": 1,
+    "name": {
+      "local": "ကရင်ပြည်နယ်",
+      "en": "Kayin",
+      "slug": "kayin-MMR003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 8,
+    "ward": 264
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.0856",
+    "lon": "97.2443"
+  },
+  "metadata": {},
+  "source": {}
+}

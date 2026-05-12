@@ -1,0 +1,48 @@
+{
+  "id": "MMR003D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မြဝတီခရိုင်",
+    "en": "Myawaddy",
+    "slug": "myawaddy-MMR003D002"
+  },
+  "code": {
+    "id": "MMR003D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003",
+    "level": 1,
+    "name": {
+      "local": "ကရင်ပြည်နယ်",
+      "en": "Kayin",
+      "slug": "kayin-MMR003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 3,
+    "ward": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.379",
+    "lon": "98.6075"
+  },
+  "metadata": {},
+  "source": {}
+}

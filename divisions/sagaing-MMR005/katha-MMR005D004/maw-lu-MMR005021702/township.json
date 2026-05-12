@@ -1,0 +1,56 @@
+{
+  "id": "MMR005021702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မော်လူး",
+    "en": "Maw Lu",
+    "slug": "maw-lu-MMR005021702"
+  },
+  "code": {
+    "id": "MMR005021702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D004",
+    "level": 2,
+    "name": {
+      "local": "ကသာခရိုင်",
+      "en": "Katha",
+      "slug": "katha-MMR005D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.4649",
+    "lon": "96.1796"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "MMR009",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "မကွေးတိုင်းဒေသကြီး",
+    "en": "Magway",
+    "slug": "magway-MMR009"
+  },
+  "code": {
+    "id": "MMR009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "ward": 1677,
+    "township": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.6274",
+    "lon": "94.7983"
+  },
+  "metadata": {},
+  "source": {}
+}

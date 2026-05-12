@@ -1,0 +1,56 @@
+{
+  "id": "MMR007008701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရွှေကျင်",
+    "en": "Shwegyin",
+    "slug": "shwegyin-MMR007008701"
+  },
+  "code": {
+    "id": "MMR007008701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D001",
+    "level": 2,
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D001",
+      "level": 2,
+      "name": {
+        "local": "ပဲခူးခရိုင်",
+        "en": "Bago",
+        "slug": "bago-MMR007D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.92304",
+    "lon": "96.87767"
+  },
+  "metadata": {},
+  "source": {}
+}

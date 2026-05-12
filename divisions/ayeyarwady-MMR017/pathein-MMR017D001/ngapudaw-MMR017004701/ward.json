@@ -1,0 +1,5657 @@
+[
+  {
+    "id": "1013218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အထက်ပြွန် ကျေးရွာအုပ်စု",
+      "en": "Ah Htet Pyun Village Tract",
+      "slug": "ah-htet-pyun-village-tract-1013218"
+    },
+    "code": {
+      "id": "1013218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-1013004"
+    },
+    "code": {
+      "id": "1013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-1013003"
+    },
+    "code": {
+      "id": "1013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဝဘိတ် ကျေးရွာအုပ်စု",
+      "en": "Ah Wa Beik Village Tract",
+      "slug": "ah-wa-beik-village-tract-1013207"
+    },
+    "code": {
+      "id": "1013207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရိုးဒါး ကျေးရွာအုပ်စု",
+      "en": "Ah Yoe Dar Village Tract",
+      "slug": "ah-yoe-dar-village-tract-1013212"
+    },
+    "code": {
+      "id": "1013212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အာကာ ကျေးရွာအုပ်စု",
+      "en": "Ahr Kar Village Tract",
+      "slug": "ahr-kar-village-tract-1013209"
+    },
+    "code": {
+      "id": "1013209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013271",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Chaung Wa Village Tract",
+      "slug": "chaung-wa-village-tract-1013271"
+    },
+    "code": {
+      "id": "1013271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013271"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါင့်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Daunt Gyi Village Tract",
+      "slug": "daunt-gyi-village-tract-1013222"
+    },
+    "code": {
+      "id": "1013222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒီးဒူးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Dee Du Kone Village Tract",
+      "slug": "dee-du-kone-village-tract-1013254"
+    },
+    "code": {
+      "id": "1013254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံညင်းတန်း ကျေးရွာအုပ်စု",
+      "en": "Gon Nyin Tan Village Tract",
+      "slug": "gon-nyin-tan-village-tract-1013211"
+    },
+    "code": {
+      "id": "1013211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Gway Chaung Village Tract",
+      "slug": "gway-chaung-village-tract-1013234"
+    },
+    "code": {
+      "id": "1013234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟင်းအိုးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Hin Oe Chaung Village Tract",
+      "slug": "hin-oe-chaung-village-tract-1013208"
+    },
+    "code": {
+      "id": "1013208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငှက်ပေါက် ကျေးရွာအုပ်စု",
+      "en": "Hnget Pauk Village Tract",
+      "slug": "hnget-pauk-village-tract-1013240"
+    },
+    "code": {
+      "id": "1013240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားလှ ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Hla Village Tract",
+      "slug": "hpa-yar-hla-village-tract-1013256"
+    },
+    "code": {
+      "id": "1013256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013270",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖေါင်ဒိုး ကျေးရွာအုပ်စု",
+      "en": "Hpaung Doe Village Tract",
+      "slug": "hpaung-doe-village-tract-1013270"
+    },
+    "code": {
+      "id": "1013270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013270"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖျံရေကျော် ကျေးရွာအုပ်စု",
+      "en": "Hpyan Yae Kyaw Village Tract",
+      "slug": "hpyan-yae-kyaw-village-tract-1013204"
+    },
+    "code": {
+      "id": "1013204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013267",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Chaung Village Tract",
+      "slug": "ka-nyin-chaung-village-tract-1013267"
+    },
+    "code": {
+      "id": "1013267",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013267"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ငူ ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Ngu Village Tract",
+      "slug": "ka-nyin-ngu-village-tract-1013217"
+    },
+    "code": {
+      "id": "1013217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံချိုင် ကျေးရွာအုပ်စု",
+      "en": "Kan Chaing Village Tract",
+      "slug": "kan-chaing-village-tract-1013263"
+    },
+    "code": {
+      "id": "1013263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kan Chaung Village Tract",
+      "slug": "kan-chaung-village-tract-1013243"
+    },
+    "code": {
+      "id": "1013243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကွင်း ကျေးရွာအုပ်စု",
+      "en": "Kan Kwin Village Tract",
+      "slug": "kan-kwin-village-tract-1013201"
+    },
+    "code": {
+      "id": "1013201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမ်းနီ ကျေးရွာအုပ်စု",
+      "en": "Kan Ni Village Tract",
+      "slug": "kan-ni-village-tract-1013237"
+    },
+    "code": {
+      "id": "1013237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန့်ဘလာ (ထိန်တန်း) ကျေးရွာအုပ်စု",
+      "en": "Kant Ba Lar (Htein Tan) Village Tract",
+      "slug": "kant-ba-lar-htein-tan-village-tract-1013242"
+    },
+    "code": {
+      "id": "1013242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန့်ဘာလာကျွန်းညို ကျေးရွာအုပ်စု",
+      "en": "Kant Ba Lar Kyun Nyo Village Tract",
+      "slug": "kant-ba-lar-kyun-nyo-village-tract-1013245"
+    },
+    "code": {
+      "id": "1013245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရင်ဝါးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kha Yin War Chaung Village Tract",
+      "slug": "kha-yin-war-chaung-village-tract-1013223"
+    },
+    "code": {
+      "id": "1013223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကိုးထောင် ကျေးရွာအုပ်စု",
+      "en": "Koe Htaung Village Tract",
+      "slug": "koe-htaung-village-tract-1013216"
+    },
+    "code": {
+      "id": "1013216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Kone Ka Lay Village Tract",
+      "slug": "kone-ka-lay-village-tract-1013232"
+    },
+    "code": {
+      "id": "1013232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းတန်း ကျေးရွာအုပ်စု",
+      "en": "Kone Tan Village Tract",
+      "slug": "kone-tan-village-tract-1013221"
+    },
+    "code": {
+      "id": "1013221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားချောင်း ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Chaung Village Tract",
+      "slug": "ku-lar-chaung-village-tract-1013238"
+    },
+    "code": {
+      "id": "1013238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013279",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းဘက် ကျေးရွာအုပ်စု",
+      "en": "Kwin Bet Village Tract",
+      "slug": "kwin-bet-village-tract-1013279"
+    },
+    "code": {
+      "id": "1013279",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013279"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kwin Chaung Village Tract",
+      "slug": "kwin-chaung-village-tract-1013241"
+    },
+    "code": {
+      "id": "1013241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyar Kan Village Tract",
+      "slug": "kyar-kan-village-tract-1013219"
+    },
+    "code": {
+      "id": "1013219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Kwin Village Tract",
+      "slug": "kyar-kwin-village-tract-1013249"
+    },
+    "code": {
+      "id": "1013249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013266",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Chaung Village Tract",
+      "slug": "kyauk-chaung-village-tract-1013266"
+    },
+    "code": {
+      "id": "1013266",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013266"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ပုံ ကျေးရွာအုပ်စု",
+      "en": "Kyauk Pon Village Tract",
+      "slug": "kyauk-pon-village-tract-1013228"
+    },
+    "code": {
+      "id": "1013228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တံခါး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ta Gar Village Tract",
+      "slug": "kyauk-ta-gar-village-tract-1013220"
+    },
+    "code": {
+      "id": "1013220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Village Tract",
+      "slug": "kyauk-tan-village-tract-1013214"
+    },
+    "code": {
+      "id": "1013214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံကူး ကျေးရွာအုပ်စု",
+      "en": "Kyon Ku Village Tract",
+      "slug": "kyon-ku-village-tract-1013255"
+    },
+    "code": {
+      "id": "1013255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013280",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြွေချိုင် ကျေးရွာအုပ်စု",
+      "en": "Kyway Chaing Village Tract",
+      "slug": "kyway-chaing-village-tract-1013280"
+    },
+    "code": {
+      "id": "1013280",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013280"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိပ်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Leik Chaung Village Tract",
+      "slug": "leik-chaung-village-tract-1013205"
+    },
+    "code": {
+      "id": "1013205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013268",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်းကွင်း ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Kwin Village Tract",
+      "slug": "ma-yan-kwin-village-tract-1013268"
+    },
+    "code": {
+      "id": "1013268",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013268"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဲခရဲ ကျေးရွာအုပ်စု",
+      "en": "Me Kha Ye Village Tract",
+      "slug": "me-kha-ye-village-tract-1013252"
+    },
+    "code": {
+      "id": "1013252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013282",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးတိမ်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Moe Tein Pyin Village Tract",
+      "slug": "moe-tein-pyin-village-tract-1013282"
+    },
+    "code": {
+      "id": "1013282",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013282"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-1013001"
+    },
+    "code": {
+      "id": "1013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ် ကျေးရွာအုပ်စု",
+      "en": "Myo Thit Village Tract",
+      "slug": "myo-thit-village-tract-1013253"
+    },
+    "code": {
+      "id": "1013253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နဂုံး ကျေးရွာအုပ်စု",
+      "en": "Na Gone Village Tract",
+      "slug": "na-gone-village-tract-1013215"
+    },
+    "code": {
+      "id": "1013215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013273",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နံသာပု ကျေးရွာအုပ်စု",
+      "en": "Nan Thar Pu Village Tract",
+      "slug": "nan-thar-pu-village-tract-1013273"
+    },
+    "code": {
+      "id": "1013273",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013273"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013274",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်မှော် ကျေးရွာအုပ်စု",
+      "en": "Nat Hmaw Village Tract",
+      "slug": "nat-hmaw-village-tract-1013274"
+    },
+    "code": {
+      "id": "1013274",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013274"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငပြေမ ကျေးရွာအုပ်စု",
+      "en": "Nga Pyay Ma Village Tract",
+      "slug": "nga-pyay-ma-village-tract-1013251"
+    },
+    "code": {
+      "id": "1013251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငရန့်ချောင်းတောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nga Yant Chaung Taung Chaung Village Tract",
+      "slug": "nga-yant-chaung-taung-chaung-village-tract-1013213"
+    },
+    "code": {
+      "id": "1013213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဝိုင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Waing Village Tract",
+      "slug": "nyaung-waing-village-tract-1013257"
+    },
+    "code": {
+      "id": "1013257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုံးပင်စု ကျေးရွာအုပ်စု",
+      "en": "Ohn Pin Su Village Tract",
+      "slug": "ohn-pin-su-village-tract-1013200"
+    },
+    "code": {
+      "id": "1013200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ်ပုံရေကျော် ကျေးရွာအုပ်စု",
+      "en": "Ok Pon Yae Kyaw Village Tract",
+      "slug": "ok-pon-yae-kyaw-village-tract-1013206"
+    },
+    "code": {
+      "id": "1013206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုတ်ရှစ်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Oke Shit Kwin Village Tract",
+      "slug": "oke-shit-kwin-village-tract-1013229"
+    },
+    "code": {
+      "id": "1013229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ်သင်္ဘော ကျေးရွာအုပ်စု",
+      "en": "Oke Thin Baw Village Tract",
+      "slug": "oke-thin-baw-village-tract-1013233"
+    },
+    "code": {
+      "id": "1013233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013264",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုတ်တွင်း ကျေးရွာအုပ်စု",
+      "en": "Oke Twin Village Tract",
+      "slug": "oke-twin-village-tract-1013264"
+    },
+    "code": {
+      "id": "1013264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013264"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013277",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းမှော် ကျေးရွာအုပ်စု",
+      "en": "Pan Hmaw Village Tract",
+      "slug": "pan-hmaw-village-tract-1013277"
+    },
+    "code": {
+      "id": "1013277",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013277"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိုးလောင်း ကျေးရွာအုပ်စု",
+      "en": "Poe Laung Village Tract",
+      "slug": "poe-laung-village-tract-1013230"
+    },
+    "code": {
+      "id": "1013230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်ခရိုင် ကျေးရွာအုပ်စု",
+      "en": "Pyin Kha Yaing Village Tract",
+      "slug": "pyin-kha-yaing-village-tract-1013261"
+    },
+    "code": {
+      "id": "1013261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013278",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စပါးကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Par Gyi Village Tract",
+      "slug": "sa-par-gyi-village-tract-1013278"
+    },
+    "code": {
+      "id": "1013278",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013278"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမ်းချောင်းစဉ်းအိုးဘို ကျေးရွာအုပ်စု",
+      "en": "San Chaung Sin Oe Bo Village Tract",
+      "slug": "san-chaung-sin-oe-bo-village-tract-1013226"
+    },
+    "code": {
+      "id": "1013226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013269",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမ်းကြီး ကျေးရွာအုပ်စု",
+      "en": "San Gyi Village Tract",
+      "slug": "san-gyi-village-tract-1013269"
+    },
+    "code": {
+      "id": "1013269",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013269"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေတောင် ကျေးရွာအုပ်စု",
+      "en": "Shwe Taung Village Tract",
+      "slug": "shwe-taung-village-tract-1013244"
+    },
+    "code": {
+      "id": "1013244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ကူးကြီး ကျေးရွာအုပ်စု",
+      "en": "Sin Ku Gyi Village Tract",
+      "slug": "sin-ku-gyi-village-tract-1013210"
+    },
+    "code": {
+      "id": "1013210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမံချောင်း ကျေးရွာအုပ်စု",
+      "en": "Ta Man Chaung Village Tract",
+      "slug": "ta-man-chaung-village-tract-1013236"
+    },
+    "code": {
+      "id": "1013236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကလေး ကျေးရွာအုပ်စု",
+      "en": "Taung Ka Lay Village Tract",
+      "slug": "taung-ka-lay-village-tract-1013231"
+    },
+    "code": {
+      "id": "1013231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-1013002"
+    },
+    "code": {
+      "id": "1013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကြီး ကျေးရွာအုပ်စု",
+      "en": "Taw Gyi Village Tract",
+      "slug": "taw-gyi-village-tract-1013248"
+    },
+    "code": {
+      "id": "1013248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဇင်ကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Zin Kyun Village Tract",
+      "slug": "tha-zin-kyun-village-tract-1013235"
+    },
+    "code": {
+      "id": "1013235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သမ္မာဒေဝ ကျေးရွာအုပ်စု",
+      "en": "Than Mar Day Wa Village Tract",
+      "slug": "than-mar-day-wa-village-tract-1013225"
+    },
+    "code": {
+      "id": "1013225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013281",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲဖြူ ကျေးရွာအုပ်စု",
+      "en": "Thea Hpyu Village Tract",
+      "slug": "thea-hpyu-village-tract-1013281"
+    },
+    "code": {
+      "id": "1013281",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013281"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Thea Kone Gyi Village Tract",
+      "slug": "thea-kone-gyi-village-tract-1013250"
+    },
+    "code": {
+      "id": "1013250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက္ကယ်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Thet Kei Chaung Village Tract",
+      "slug": "thet-kei-chaung-village-tract-1013202"
+    },
+    "code": {
+      "id": "1013202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက္ကာယ်သောင် ကျေးရွာအုပ်စု",
+      "en": "Thet Kei Thaung Village Tract",
+      "slug": "thet-kei-thaung-village-tract-1013262"
+    },
+    "code": {
+      "id": "1013262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သင်္ကန်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thin Gan Kone Village Tract",
+      "slug": "thin-gan-kone-village-tract-1013239"
+    },
+    "code": {
+      "id": "1013239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ပုတ္တိပ် ကျေးရွာအုပ်စု",
+      "en": "Thit Poke Teik Village Tract",
+      "slug": "thit-poke-teik-village-tract-1013247"
+    },
+    "code": {
+      "id": "1013247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013275",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ရောင်း ကျေးရွာအုပ်စု",
+      "en": "Thit Yaung Village Tract",
+      "slug": "thit-yaung-village-tract-1013275"
+    },
+    "code": {
+      "id": "1013275",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013275"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုံးခွ ကျေးရွာအုပ်စု",
+      "en": "Thone Gwa Village Tract",
+      "slug": "thone-gwa-village-tract-1013227"
+    },
+    "code": {
+      "id": "1013227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013272",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တင်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Tin Chaung Village Tract",
+      "slug": "tin-chaung-village-tract-1013272"
+    },
+    "code": {
+      "id": "1013272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013272"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးကုန်း ကျေးရွာအုပ်စု",
+      "en": "War Kone Village Tract",
+      "slug": "war-kone-village-tract-1013260"
+    },
+    "code": {
+      "id": "1013260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ဆူ ကျေးရွာအုပ်စု",
+      "en": "Wet Su Village Tract",
+      "slug": "wet-su-village-tract-1013203"
+    },
+    "code": {
+      "id": "1013203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကျော်အောက် ကျေးရွာအုပ်စု",
+      "en": "Yae Kyaw Auk Village Tract",
+      "slug": "yae-kyaw-auk-village-tract-1013259"
+    },
+    "code": {
+      "id": "1013259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကျော်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Yae Kyaw Gyi Village Tract",
+      "slug": "yae-kyaw-gyi-village-tract-1013224"
+    },
+    "code": {
+      "id": "1013224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013276",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကျော် ကျေးရွာအုပ်စု",
+      "en": "Yae Kyaw Village Tract",
+      "slug": "yae-kyaw-village-tract-1013276"
+    },
+    "code": {
+      "id": "1013276",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013276"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲခေါင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Ye Khaung Gyi Village Tract",
+      "slug": "ye-khaung-gyi-village-tract-1013258"
+    },
+    "code": {
+      "id": "1013258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013265",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးချိုင် ကျေးရွာအုပ်စု",
+      "en": "Zee Chaing Village Tract",
+      "slug": "zee-chaing-village-tract-1013265"
+    },
+    "code": {
+      "id": "1013265",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013265"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1013246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးဖြူဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Zee Hpyu Seik Village Tract",
+      "slug": "zee-hpyu-seik-village-tract-1013246"
+    },
+    "code": {
+      "id": "1013246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004701",
+      "level": 3,
+      "name": {
+        "local": "ငပုတော",
+        "en": "Ngapudaw",
+        "slug": "ngapudaw-MMR017004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004701",
+        "level": 3,
+        "name": {
+          "local": "ငပုတော",
+          "en": "Ngapudaw",
+          "slug": "ngapudaw-MMR017004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1013246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

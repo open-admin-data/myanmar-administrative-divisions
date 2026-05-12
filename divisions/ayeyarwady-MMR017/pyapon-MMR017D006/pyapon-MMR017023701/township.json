@@ -1,0 +1,56 @@
+{
+  "id": "MMR017023701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဖျာပုံ",
+    "en": "Pyapon",
+    "slug": "pyapon-MMR017023701"
+  },
+  "code": {
+    "id": "MMR017023701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D006",
+    "level": 2,
+    "name": {
+      "local": "ဖျာပုံခရိုင်",
+      "en": "Pyapon",
+      "slug": "pyapon-MMR017D006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D006",
+      "level": 2,
+      "name": {
+        "local": "ဖျာပုံခရိုင်",
+        "en": "Pyapon",
+        "slug": "pyapon-MMR017D006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.29161",
+    "lon": "95.68019"
+  },
+  "metadata": {},
+  "source": {}
+}

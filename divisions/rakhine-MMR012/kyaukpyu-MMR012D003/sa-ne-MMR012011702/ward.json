@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0764002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-0764002"
+    },
+    "code": {
+      "id": "0764002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012011702",
+      "level": 3,
+      "name": {
+        "local": "စနဲ",
+        "en": "Sa Ne",
+        "slug": "sa-ne-MMR012011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012011702",
+        "level": 3,
+        "name": {
+          "local": "စနဲ",
+          "en": "Sa Ne",
+          "slug": "sa-ne-MMR012011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0764002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0764005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ဒွေ ရပ်ကွက်",
+      "en": "Htein Dway Quarter",
+      "slug": "htein-dway-quarter-0764005"
+    },
+    "code": {
+      "id": "0764005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012011702",
+      "level": 3,
+      "name": {
+        "local": "စနဲ",
+        "en": "Sa Ne",
+        "slug": "sa-ne-MMR012011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012011702",
+        "level": 3,
+        "name": {
+          "local": "စနဲ",
+          "en": "Sa Ne",
+          "slug": "sa-ne-MMR012011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0764005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0764001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံပြင် ရပ်ကွက်",
+      "en": "Kan Pyin Quarter",
+      "slug": "kan-pyin-quarter-0764001"
+    },
+    "code": {
+      "id": "0764001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012011702",
+      "level": 3,
+      "name": {
+        "local": "စနဲ",
+        "en": "Sa Ne",
+        "slug": "sa-ne-MMR012011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012011702",
+        "level": 3,
+        "name": {
+          "local": "စနဲ",
+          "en": "Sa Ne",
+          "slug": "sa-ne-MMR012011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0764001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0764004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေဟင်္သာ ရပ်ကွက်",
+      "en": "Shwe Hin Thar Quarter",
+      "slug": "shwe-hin-thar-quarter-0764004"
+    },
+    "code": {
+      "id": "0764004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012011702",
+      "level": 3,
+      "name": {
+        "local": "စနဲ",
+        "en": "Sa Ne",
+        "slug": "sa-ne-MMR012011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012011702",
+        "level": 3,
+        "name": {
+          "local": "စနဲ",
+          "en": "Sa Ne",
+          "slug": "sa-ne-MMR012011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0764004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0764003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ငူစု ရပ်ကွက်",
+      "en": "Taung Ngu Su Quarter",
+      "slug": "taung-ngu-su-quarter-0764003"
+    },
+    "code": {
+      "id": "0764003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012011702",
+      "level": 3,
+      "name": {
+        "local": "စနဲ",
+        "en": "Sa Ne",
+        "slug": "sa-ne-MMR012011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012011702",
+        "level": 3,
+        "name": {
+          "local": "စနဲ",
+          "en": "Sa Ne",
+          "slug": "sa-ne-MMR012011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0764003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

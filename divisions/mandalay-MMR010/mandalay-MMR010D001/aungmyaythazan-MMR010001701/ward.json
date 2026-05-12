@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "0501003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနှိပ်တော် ရပ်ကွက်",
+      "en": "Ah Hneik Taw Quarter",
+      "slug": "ah-hneik-taw-quarter-0501003"
+    },
+    "code": {
+      "id": "0501003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမရဌာနီ (အရှေ့) ရပ်ကွက်",
+      "en": "Ah Ma Ra Htar Ni (East) Quarter",
+      "slug": "ah-ma-ra-htar-ni-east-quarter-0501013"
+    },
+    "code": {
+      "id": "0501013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမရဌာနီ (အနောက်) ရပ်ကွက်",
+      "en": "Ah Ma Ra Htar Ni (West) Quarter",
+      "slug": "ah-ma-ra-htar-ni-west-quarter-0501014"
+    },
+    "code": {
+      "id": "0501014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မြေသာစံမြို့ ရပ်ကွက်",
+      "en": "Aung Myay Thar Zan Quarter",
+      "slug": "aung-myay-thar-zan-quarter-0501008"
+    },
+    "code": {
+      "id": "0501008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုန်းတော်တိုး ရပ်ကွက်",
+      "en": "Bone Taw Toe Quarter",
+      "slug": "bone-taw-toe-quarter-0501001"
+    },
+    "code": {
+      "id": "0501001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါနဘွား ရပ်ကွက်",
+      "en": "Daw Na Bwar Quarter",
+      "slug": "daw-na-bwar-quarter-0501002"
+    },
+    "code": {
+      "id": "0501002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဟာဇေယျာဘုံ ရပ်ကွက်",
+      "en": "Ma Har Zay Yar Bon Quarter",
+      "slug": "ma-har-zay-yar-bon-quarter-0501019"
+    },
+    "code": {
+      "id": "0501019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မေဃဂီရိ ရပ်ကွက်",
+      "en": "May Ga Gi Ri Quarter",
+      "slug": "may-ga-gi-ri-quarter-0501007"
+    },
+    "code": {
+      "id": "0501007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းတဲအီကင်း ရပ်ကွက်",
+      "en": "Min Tei Ei Kin Quarter",
+      "slug": "min-tei-ei-kin-quarter-0501009"
+    },
+    "code": {
+      "id": "0501009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကွဲ ရပ်ကွက်",
+      "en": "Nyaung Kwe Quarter",
+      "slug": "nyaung-kwe-quarter-0501010"
+    },
+    "code": {
+      "id": "0501010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုးဘို ရပ်ကွက်",
+      "en": "Oe Bo Quarter",
+      "slug": "oe-bo-quarter-0501016"
+    },
+    "code": {
+      "id": "0501016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုလဲငွေရောင် ရပ်ကွက်",
+      "en": "Pale Ngwe Yaung Quarter",
+      "slug": "pale-ngwe-yaung-quarter-0501006"
+    },
+    "code": {
+      "id": "0501006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးကျက်သရေ (အရှေ့) ရပ်ကွက်",
+      "en": "Pyi Gyi Kyet Tha Yae (East) Quarter",
+      "slug": "pyi-gyi-kyet-tha-yae-east-quarter-0501004"
+    },
+    "code": {
+      "id": "0501004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးကျက်သရေ (အနောက်) ရပ်ကွက်",
+      "en": "Pyi Gyi Kyet Tha Yae (West) Quarter",
+      "slug": "pyi-gyi-kyet-tha-yae-west-quarter-0501005"
+    },
+    "code": {
+      "id": "0501005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးရန်လုံ ရပ်ကွက်",
+      "en": "Pyi Gyi Yan Lon Quarter",
+      "slug": "pyi-gyi-yan-lon-quarter-0501011"
+    },
+    "code": {
+      "id": "0501011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်လုံးချမ်းသာ ရပ်ကွက်",
+      "en": "Pyi Lone Chan Thar Quarter",
+      "slug": "pyi-lone-chan-thar-quarter-0501012"
+    },
+    "code": {
+      "id": "0501012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိမာလာ (အရှေ့) ရပ်ကွက်",
+      "en": "Thi Ri Mar Lar (East) Quarter",
+      "slug": "thi-ri-mar-lar-east-quarter-0501017"
+    },
+    "code": {
+      "id": "0501017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိမာလာ (အနောက်) ရပ်ကွက်",
+      "en": "Thi Ri Mar Lar (West) Quarter",
+      "slug": "thi-ri-mar-lar-west-quarter-0501018"
+    },
+    "code": {
+      "id": "0501018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0501015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥပုသ်တော် ရပ်ကွက်",
+      "en": "U Poke Htaw Quarter",
+      "slug": "u-poke-htaw-quarter-0501015"
+    },
+    "code": {
+      "id": "0501015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010001701",
+      "level": 3,
+      "name": {
+        "local": "အောင်မြေသာဇံ",
+        "en": "Aungmyaythazan",
+        "slug": "aungmyaythazan-MMR010001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D001",
+        "level": 2,
+        "name": {
+          "local": "မန္တလေးခရိုင်",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010D001"
+        }
+      },
+      {
+        "id": "MMR010001701",
+        "level": 3,
+        "name": {
+          "local": "အောင်မြေသာဇံ",
+          "en": "Aungmyaythazan",
+          "slug": "aungmyaythazan-MMR010001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0501015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

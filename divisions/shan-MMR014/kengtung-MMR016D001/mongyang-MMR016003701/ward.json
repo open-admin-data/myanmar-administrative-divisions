@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "1703214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အန်းခေတ် ကျေးရွာအုပ်စု",
+      "en": "Ann Hkit Village Tract",
+      "slug": "ann-hkit-village-tract-1703214"
+    },
+    "code": {
+      "id": "1703214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟော်ဟိုက် ရပ်ကွက်",
+      "en": "Haw Haik Quarter",
+      "slug": "haw-haik-quarter-1703011"
+    },
+    "code": {
+      "id": "1703011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟော်ကဲ ရပ်ကွက်",
+      "en": "Haw Ke Quarter",
+      "slug": "haw-ke-quarter-1703010"
+    },
+    "code": {
+      "id": "1703010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုကပ် ရပ်ကွက်",
+      "en": "Ho Kat Quarter",
+      "slug": "ho-kat-quarter-1703009"
+    },
+    "code": {
+      "id": "1703009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုတောင်း ကျေးရွာအုပ်စု",
+      "en": "Ho Tawng Village Tract",
+      "slug": "ho-tawng-village-tract-1703213"
+    },
+    "code": {
+      "id": "1703213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိန်းဟင် ရပ်ကွက်",
+      "en": "Kyein Hin Quarter",
+      "slug": "kyein-hin-quarter-1703001"
+    },
+    "code": {
+      "id": "1703001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက်မိုင် ရပ်ကွက်",
+      "en": "Mauk Mai Quarter",
+      "slug": "mauk-mai-quarter-1703007"
+    },
+    "code": {
+      "id": "1703007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းဖျန် ကျေးရွာအုပ်စု",
+      "en": "Mong Hpyan Village Tract",
+      "slug": "mong-hpyan-village-tract-1703208"
+    },
+    "code": {
+      "id": "1703208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလွေ ကျေးရွာအုပ်စု",
+      "en": "Mong Lway Village Tract",
+      "slug": "mong-lway-village-tract-1703210"
+    },
+    "code": {
+      "id": "1703210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပေါက် (ကချင်) ကျေးရွာအုပ်စု",
+      "en": "Mong Pauk (Kachin) Village Tract",
+      "slug": "mong-pauk-kachin-village-tract-1703207"
+    },
+    "code": {
+      "id": "1703207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပိန်း ရပ်ကွက်",
+      "en": "Mong Ping Quarter",
+      "slug": "mong-ping-quarter-1703006"
+    },
+    "code": {
+      "id": "1703006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းတွေး ကျေးရွာအုပ်စု",
+      "en": "Mong Tway Village Tract",
+      "slug": "mong-tway-village-tract-1703206"
+    },
+    "code": {
+      "id": "1703206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းယန်း ကျေးရွာအုပ်စု",
+      "en": "Mongyang Village Tract",
+      "slug": "mongyang-village-tract-1703209"
+    },
+    "code": {
+      "id": "1703209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွန်ခမ်းဟိန်း ကျေးရွာအုပ်စု",
+      "en": "Mun Hkam Hing Village Tract",
+      "slug": "mun-hkam-hing-village-tract-1703205"
+    },
+    "code": {
+      "id": "1703205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွန်ကဲ ရပ်ကွက်",
+      "en": "Mun Ke Quarter",
+      "slug": "mun-ke-quarter-1703005"
+    },
+    "code": {
+      "id": "1703005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွတ်ကင်း ကျေးရွာအုပ်စု",
+      "en": "Mut Kin Village Tract",
+      "slug": "mut-kin-village-tract-1703204"
+    },
+    "code": {
+      "id": "1703204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဆီပန်း ကျေးရွာအုပ်စု",
+      "en": "Nam Hsi Pang Village Tract",
+      "slug": "nam-hsi-pang-village-tract-1703200"
+    },
+    "code": {
+      "id": "1703200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်မောင်း ကျေးရွာအုပ်စု",
+      "en": "Nam Mawng Village Tract",
+      "slug": "nam-mawng-village-tract-1703201"
+    },
+    "code": {
+      "id": "1703201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါဆံကျ ကျေးရွာအုပ်စု",
+      "en": "Par Hsan Kya Village Tract",
+      "slug": "par-hsan-kya-village-tract-1703202"
+    },
+    "code": {
+      "id": "1703202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါမိုင် ရပ်ကွက်",
+      "en": "Par Mai Quarter",
+      "slug": "par-mai-quarter-1703004"
+    },
+    "code": {
+      "id": "1703004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါနွမ်း ရပ်ကွက်",
+      "en": "Par Nwan Quarter",
+      "slug": "par-nwan-quarter-1703003"
+    },
+    "code": {
+      "id": "1703003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်နွေး ကျေးရွာအုပ်စု",
+      "en": "Pauk Nway Village Tract",
+      "slug": "pauk-nway-village-tract-1703203"
+    },
+    "code": {
+      "id": "1703203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းလိတ် ရပ်ကွက်",
+      "en": "Wein Leik Quarter",
+      "slug": "wein-leik-quarter-1703008"
+    },
+    "code": {
+      "id": "1703008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယန်းကောင် ကျေးရွာအုပ်စု",
+      "en": "Yang Kawng Village Tract",
+      "slug": "yang-kawng-village-tract-1703211"
+    },
+    "code": {
+      "id": "1703211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယန်းငင်း ကျေးရွာအုပ်စု",
+      "en": "Yang Ngin Village Tract",
+      "slug": "yang-ngin-village-tract-1703212"
+    },
+    "code": {
+      "id": "1703212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးတန်း ရပ်ကွက်",
+      "en": "Zay Tan Quarter",
+      "slug": "zay-tan-quarter-1703002"
+    },
+    "code": {
+      "id": "1703002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016003701",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းယန်း",
+        "en": "Mongyang",
+        "slug": "mongyang-MMR016003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D001",
+        "level": 2,
+        "name": {
+          "local": "ကျိုင်းတုံခရိုင်",
+          "en": "Kengtung",
+          "slug": "kengtung-MMR016D001"
+        }
+      },
+      {
+        "id": "MMR016003701",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းယန်း",
+          "en": "Mongyang",
+          "slug": "mongyang-MMR016003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1703002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

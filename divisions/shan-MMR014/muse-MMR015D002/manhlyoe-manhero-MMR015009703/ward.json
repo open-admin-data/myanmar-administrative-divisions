@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1662001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1662001"
+    },
+    "code": {
+      "id": "1662001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009703",
+      "level": 3,
+      "name": {
+        "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+        "en": "Manhlyoe (Manhero)",
+        "slug": "manhlyoe-manhero-MMR015009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009703",
+        "level": 3,
+        "name": {
+          "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+          "en": "Manhlyoe (Manhero)",
+          "slug": "manhlyoe-manhero-MMR015009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1662001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1662002"
+    },
+    "code": {
+      "id": "1662002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009703",
+      "level": 3,
+      "name": {
+        "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+        "en": "Manhlyoe (Manhero)",
+        "slug": "manhlyoe-manhero-MMR015009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009703",
+        "level": 3,
+        "name": {
+          "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+          "en": "Manhlyoe (Manhero)",
+          "slug": "manhlyoe-manhero-MMR015009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1662002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1662003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1662003"
+    },
+    "code": {
+      "id": "1662003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015009703",
+      "level": 3,
+      "name": {
+        "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+        "en": "Manhlyoe (Manhero)",
+        "slug": "manhlyoe-manhero-MMR015009703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      },
+      {
+        "id": "MMR015009703",
+        "level": 3,
+        "name": {
+          "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+          "en": "Manhlyoe (Manhero)",
+          "slug": "manhlyoe-manhero-MMR015009703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1662003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

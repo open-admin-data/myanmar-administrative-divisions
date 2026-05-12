@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0270001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0270001"
+    },
+    "code": {
+      "id": "0270001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005010702",
+      "level": 3,
+      "name": {
+        "local": "စိုင်ပြင်",
+        "en": "Saing Pyin",
+        "slug": "saing-pyin-MMR005010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005010702",
+        "level": 3,
+        "name": {
+          "local": "စိုင်ပြင်",
+          "en": "Saing Pyin",
+          "slug": "saing-pyin-MMR005010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0270001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0270002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0270002"
+    },
+    "code": {
+      "id": "0270002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005010702",
+      "level": 3,
+      "name": {
+        "local": "စိုင်ပြင်",
+        "en": "Saing Pyin",
+        "slug": "saing-pyin-MMR005010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005010702",
+        "level": 3,
+        "name": {
+          "local": "စိုင်ပြင်",
+          "en": "Saing Pyin",
+          "slug": "saing-pyin-MMR005010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0270002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0270003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0270003"
+    },
+    "code": {
+      "id": "0270003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005010702",
+      "level": 3,
+      "name": {
+        "local": "စိုင်ပြင်",
+        "en": "Saing Pyin",
+        "slug": "saing-pyin-MMR005010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005010702",
+        "level": 3,
+        "name": {
+          "local": "စိုင်ပြင်",
+          "en": "Saing Pyin",
+          "slug": "saing-pyin-MMR005010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0270003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0270004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0270004"
+    },
+    "code": {
+      "id": "0270004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005010702",
+      "level": 3,
+      "name": {
+        "local": "စိုင်ပြင်",
+        "en": "Saing Pyin",
+        "slug": "saing-pyin-MMR005010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005010702",
+        "level": 3,
+        "name": {
+          "local": "စိုင်ပြင်",
+          "en": "Saing Pyin",
+          "slug": "saing-pyin-MMR005010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0270004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0270005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0270005"
+    },
+    "code": {
+      "id": "0270005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005010702",
+      "level": 3,
+      "name": {
+        "local": "စိုင်ပြင်",
+        "en": "Saing Pyin",
+        "slug": "saing-pyin-MMR005010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      },
+      {
+        "id": "MMR005010702",
+        "level": 3,
+        "name": {
+          "local": "စိုင်ပြင်",
+          "en": "Saing Pyin",
+          "slug": "saing-pyin-MMR005010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0270005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

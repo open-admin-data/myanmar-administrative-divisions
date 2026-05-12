@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1073001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1073001"
+    },
+    "code": {
+      "id": "1073001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016702",
+      "level": 3,
+      "name": {
+        "local": "ပြင်စလူ",
+        "en": "Pyinsalu",
+        "slug": "pyinsalu-MMR017016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016702",
+        "level": 3,
+        "name": {
+          "local": "ပြင်စလူ",
+          "en": "Pyinsalu",
+          "slug": "pyinsalu-MMR017016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1073001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1073002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1073002"
+    },
+    "code": {
+      "id": "1073002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016702",
+      "level": 3,
+      "name": {
+        "local": "ပြင်စလူ",
+        "en": "Pyinsalu",
+        "slug": "pyinsalu-MMR017016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016702",
+        "level": 3,
+        "name": {
+          "local": "ပြင်စလူ",
+          "en": "Pyinsalu",
+          "slug": "pyinsalu-MMR017016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1073002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1073003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1073003"
+    },
+    "code": {
+      "id": "1073003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017016702",
+      "level": 3,
+      "name": {
+        "local": "ပြင်စလူ",
+        "en": "Pyinsalu",
+        "slug": "pyinsalu-MMR017016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D004",
+        "level": 2,
+        "name": {
+          "local": "လပွတ္တာခရိုင်",
+          "en": "Labutta",
+          "slug": "labutta-MMR017D004"
+        }
+      },
+      {
+        "id": "MMR017016702",
+        "level": 3,
+        "name": {
+          "local": "ပြင်စလူ",
+          "en": "Pyinsalu",
+          "slug": "pyinsalu-MMR017016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1073003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

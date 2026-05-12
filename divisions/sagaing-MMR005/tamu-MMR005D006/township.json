@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MMR005030703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခါမ်းပါတ်",
+      "en": "Khampat",
+      "slug": "khampat-MMR005030703"
+    },
+    "code": {
+      "id": "MMR005030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D006",
+      "level": 2,
+      "name": {
+        "local": "တမူးခရိုင်",
+        "en": "Tamu",
+        "slug": "tamu-MMR005D006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D006",
+        "level": 2,
+        "name": {
+          "local": "တမူးခရိုင်",
+          "en": "Tamu",
+          "slug": "tamu-MMR005D006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.77977",
+      "lon": "94.14575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005030702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြို့သစ်",
+      "en": "Myothit",
+      "slug": "myothit-MMR005030702"
+    },
+    "code": {
+      "id": "MMR005030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D006",
+      "level": 2,
+      "name": {
+        "local": "တမူးခရိုင်",
+        "en": "Tamu",
+        "slug": "tamu-MMR005D006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D006",
+        "level": 2,
+        "name": {
+          "local": "တမူးခရိုင်",
+          "en": "Tamu",
+          "slug": "tamu-MMR005D006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.51539",
+      "lon": "94.51857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005030701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တမူး",
+      "en": "Tamu",
+      "slug": "tamu-MMR005030701"
+    },
+    "code": {
+      "id": "MMR005030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D006",
+      "level": 2,
+      "name": {
+        "local": "တမူးခရိုင်",
+        "en": "Tamu",
+        "slug": "tamu-MMR005D006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D006",
+        "level": 2,
+        "name": {
+          "local": "တမူးခရိုင်",
+          "en": "Tamu",
+          "slug": "tamu-MMR005D006"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.21149",
+      "lon": "94.31534"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

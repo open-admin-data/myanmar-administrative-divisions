@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR004005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျီခါး",
+      "en": "Cikha",
+      "slug": "cikha-MMR004005702"
+    },
+    "code": {
+      "id": "MMR004005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.88976",
+      "lon": "93.53347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဖလမ်း",
+      "en": "Falam",
+      "slug": "falam-MMR004001701"
+    },
+    "code": {
+      "id": "MMR004001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.91105",
+      "lon": "93.68034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004004702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခိုင်ကမ်း",
+      "en": "Khaikam",
+      "slug": "khaikam-MMR004004702"
+    },
+    "code": {
+      "id": "MMR004004702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.2175",
+      "lon": "93.9551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရိခေါ်ဒါရ်",
+      "en": "Rihkhawdar",
+      "slug": "rihkhawdar-MMR004001702"
+    },
+    "code": {
+      "id": "MMR004001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.36097",
+      "lon": "93.38869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တီးတိန်",
+      "en": "Tedim",
+      "slug": "tedim-MMR004004701"
+    },
+    "code": {
+      "id": "MMR004004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.37058",
+      "lon": "93.65619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တွန်းဇန်",
+      "en": "Tonzang",
+      "slug": "tonzang-MMR004005701"
+    },
+    "code": {
+      "id": "MMR004005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.60306",
+      "lon": "93.69175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004001703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဝေဘူလ",
+      "en": "Webula",
+      "slug": "webula-MMR004001703"
+    },
+    "code": {
+      "id": "MMR004001703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004D001",
+      "level": 2,
+      "name": {
+        "local": "ဖလမ်းခရိုင်",
+        "en": "Falam",
+        "slug": "falam-MMR004D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.0168",
+      "lon": "93.9133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

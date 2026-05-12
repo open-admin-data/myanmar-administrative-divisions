@@ -1,0 +1,56 @@
+{
+  "id": "MMR005027701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကလေး",
+    "en": "Kale",
+    "slug": "kale-MMR005027701"
+  },
+  "code": {
+    "id": "MMR005027701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D005",
+    "level": 2,
+    "name": {
+      "local": "ကလေးခရိုင်",
+      "en": "Kale",
+      "slug": "kale-MMR005D005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D005",
+      "level": 2,
+      "name": {
+        "local": "ကလေးခရိုင်",
+        "en": "Kale",
+        "slug": "kale-MMR005D005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.1933",
+    "lon": "94.02977"
+  },
+  "metadata": {},
+  "source": {}
+}

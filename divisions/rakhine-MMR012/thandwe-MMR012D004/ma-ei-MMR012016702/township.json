@@ -1,0 +1,56 @@
+{
+  "id": "MMR012016702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မအီ",
+    "en": "Ma-Ei",
+    "slug": "ma-ei-MMR012016702"
+  },
+  "code": {
+    "id": "MMR012016702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D004",
+    "level": 2,
+    "name": {
+      "local": "သံတွဲခရိုင်",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.34234",
+    "lon": "94.13845"
+  },
+  "metadata": {},
+  "source": {}
+}

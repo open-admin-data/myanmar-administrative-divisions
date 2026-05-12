@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0866001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၁) ရပ်ကွက်",
+      "en": "Myo Ma No (1) Quarter",
+      "slug": "myo-ma-no-1-quarter-0866001"
+    },
+    "code": {
+      "id": "0866001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005704",
+      "level": 3,
+      "name": {
+        "local": "ပိန်းဇလုပ်",
+        "en": "Peinzalok",
+        "slug": "peinzalok-MMR007005704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005704",
+        "level": 3,
+        "name": {
+          "local": "ပိန်းဇလုပ်",
+          "en": "Peinzalok",
+          "slug": "peinzalok-MMR007005704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0866001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0866002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ(၂) ရပ်ကွက်",
+      "en": "Myo Ma No (2) Quarter",
+      "slug": "myo-ma-no-2-quarter-0866002"
+    },
+    "code": {
+      "id": "0866002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007005704",
+      "level": 3,
+      "name": {
+        "local": "ပိန်းဇလုပ်",
+        "en": "Peinzalok",
+        "slug": "peinzalok-MMR007005704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007005704",
+        "level": 3,
+        "name": {
+          "local": "ပိန်းဇလုပ်",
+          "en": "Peinzalok",
+          "slug": "peinzalok-MMR007005704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0866002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

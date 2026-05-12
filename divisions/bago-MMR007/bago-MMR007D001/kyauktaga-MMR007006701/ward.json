@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "0802209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနန်းဘော် ကျေးရွာအုပ်စု",
+      "en": "Ah Nan Baw Village Tract",
+      "slug": "ah-nan-baw-village-tract-0802209"
+    },
+    "code": {
+      "id": "0802209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မြင် ကျေးရွာအုပ်စု",
+      "en": "Aung Myin Village Tract",
+      "slug": "aung-myin-village-tract-0802200"
+    },
+    "code": {
+      "id": "0802200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗောဓိကွင်း ကျေးရွာအုပ်စု",
+      "en": "Baw Di Kwin Village Tract",
+      "slug": "baw-di-kwin-village-tract-0802208"
+    },
+    "code": {
+      "id": "0802208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွဲ့ချင် ကျေးရွာအုပ်စု",
+      "en": "Bweit Chin Village Tract",
+      "slug": "bweit-chin-village-tract-0802223"
+    },
+    "code": {
+      "id": "0802223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂနက် ကျေးရွာအုပ်စု",
+      "en": "Ga Net Village Tract",
+      "slug": "ga-net-village-tract-0802219"
+    },
+    "code": {
+      "id": "0802219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံမင်းကွင်း ကျေးရွာအုပ်စု",
+      "en": "Gon Min Kwin Village Tract",
+      "slug": "gon-min-kwin-village-tract-0802244"
+    },
+    "code": {
+      "id": "0802244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Gway Kone Village Tract",
+      "slug": "gway-kone-village-tract-0802221"
+    },
+    "code": {
+      "id": "0802221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂျို့ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Gyoet Chaung Village Tract",
+      "slug": "gyoet-chaung-village-tract-0802237"
+    },
+    "code": {
+      "id": "0802237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟာရီး ကျေးရွာအုပ်စု",
+      "en": "Har Ree Village Tract",
+      "slug": "har-ree-village-tract-0802220"
+    },
+    "code": {
+      "id": "0802220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖဒို ကျေးရွာအုပ်စု",
+      "en": "Hpa Do Village Tract",
+      "slug": "hpa-do-village-tract-0802233"
+    },
+    "code": {
+      "id": "0802233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖြူးစု ကျေးရွာအုပ်စု",
+      "en": "Hpyu Su Village Tract",
+      "slug": "hpyu-su-village-tract-0802243"
+    },
+    "code": {
+      "id": "0802243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီးလပ် ကျေးရွာအုပ်စု",
+      "en": "Htee Lat Village Tract",
+      "slug": "htee-lat-village-tract-0802224"
+    },
+    "code": {
+      "id": "0802224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းပတ်လည် ကျေးရွာအုပ်စု",
+      "en": "Inn Pat Lel Village Tract",
+      "slug": "inn-pat-lel-village-tract-0802222"
+    },
+    "code": {
+      "id": "0802222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်ကျိုး ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Kyoe Village Tract",
+      "slug": "ka-nyin-kyoe-village-tract-0802210"
+    },
+    "code": {
+      "id": "0802210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကလေး ကျေးရွာအုပ်စု",
+      "en": "Kan Ka Lay Village Tract",
+      "slug": "kan-ka-lay-village-tract-0802216"
+    },
+    "code": {
+      "id": "0802216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခင်ကြီး (ရှမ်းစု) ကျေးရွာအုပ်စု",
+      "en": "Khin Gyi (Shan Su) Village Tract",
+      "slug": "khin-gyi-shan-su-village-tract-0802232"
+    },
+    "code": {
+      "id": "0802232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခင်အင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Khin Inn Gyi Village Tract",
+      "slug": "khin-inn-gyi-village-tract-0802212"
+    },
+    "code": {
+      "id": "0802212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွက်မ ကျေးရွာအုပ်စု",
+      "en": "Khwet Ma Village Tract",
+      "slug": "khwet-ma-village-tract-0802203"
+    },
+    "code": {
+      "id": "0802203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်မွန်းအင်း ကျေးရွာအုပ်စု",
+      "en": "Kin Mun Inn Village Tract",
+      "slug": "kin-mun-inn-village-tract-0802214"
+    },
+    "code": {
+      "id": "0802214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်း ကျေးရွာအုပ်စု",
+      "en": "Kin Village Tract",
+      "slug": "kin-village-tract-0802225"
+    },
+    "code": {
+      "id": "0802225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းလည်ရိုး ကျေးရွာအုပ်စု",
+      "en": "Kone Lel Yoe Village Tract",
+      "slug": "kone-lel-yoe-village-tract-0802240"
+    },
+    "code": {
+      "id": "0802240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းမြောက် ရပ်ကွက်",
+      "en": "Kwin (North) Quarter",
+      "slug": "kwin-north-quarter-0802005"
+    },
+    "code": {
+      "id": "0802005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းတောင် ရပ်ကွက်",
+      "en": "Kwin (South) Quarter",
+      "slug": "kwin-south-quarter-0802004"
+    },
+    "code": {
+      "id": "0802004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းနောက် ရပ်ကွက်",
+      "en": "Kwin (West) Quarter",
+      "slug": "kwin-west-quarter-0802001"
+    },
+    "code": {
+      "id": "0802001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာအင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Inn Kone Village Tract",
+      "slug": "kyar-inn-kone-village-tract-0802213"
+    },
+    "code": {
+      "id": "0802213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းစိုး ကျေးရွာအုပ်စု",
+      "en": "Kyaung Soe Village Tract",
+      "slug": "kyaung-soe-village-tract-0802206"
+    },
+    "code": {
+      "id": "0802206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျေးရိုး ကျေးရွာအုပ်စု",
+      "en": "Kyay Yoe Village Tract",
+      "slug": "kyay-yoe-village-tract-0802217"
+    },
+    "code": {
+      "id": "0802217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြိမ်ခါးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyein Khar Kone Village Tract",
+      "slug": "kyein-khar-kone-village-tract-0802207"
+    },
+    "code": {
+      "id": "0802207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kyun Chaung Village Tract",
+      "slug": "kyun-chaung-village-tract-0802241"
+    },
+    "code": {
+      "id": "0802241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ခံ ကျေးရွာအုပ်စု",
+      "en": "Let Khan Village Tract",
+      "slug": "let-khan-village-tract-0802227"
+    },
+    "code": {
+      "id": "0802227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးပင် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Pin Village Tract",
+      "slug": "ma-gyi-pin-village-tract-0802229"
+    },
+    "code": {
+      "id": "0802229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မီးတိုင်တော ကျေးရွာအုပ်စု",
+      "en": "Mee Taing Taw Village Tract",
+      "slug": "mee-taing-taw-village-tract-0802218"
+    },
+    "code": {
+      "id": "0802218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Myo Chaung Village Tract",
+      "slug": "myo-chaung-village-tract-0802239"
+    },
+    "code": {
+      "id": "0802239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နံဇ ကျေးရွာအုပ်စု",
+      "en": "Nan Za Village Tract",
+      "slug": "nan-za-village-tract-0802228"
+    },
+    "code": {
+      "id": "0802228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဲနွယ်ကုန်းရွာမ ကျေးရွာအုပ်စု",
+      "en": "Pe Nwe Kone Ywar Ma Village Tract",
+      "slug": "pe-nwe-kone-ywar-ma-village-tract-0802230"
+    },
+    "code": {
+      "id": "0802230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားပြင် ကျေးရွာအုပ်စု",
+      "en": "Sar Pyin Village Tract",
+      "slug": "sar-pyin-village-tract-0802245"
+    },
+    "code": {
+      "id": "0802245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စာတိုက် ရပ်ကွက်",
+      "en": "Sar Taik Quarter",
+      "slug": "sar-taik-quarter-0802002"
+    },
+    "code": {
+      "id": "0802002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆေးရိုးခင် ကျေးရွာအုပ်စု",
+      "en": "Say Yoe Khin Village Tract",
+      "slug": "say-yoe-khin-village-tract-0802202"
+    },
+    "code": {
+      "id": "0802202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆယ့်လေး ကျေးရွာအုပ်စု",
+      "en": "Se Lay Village Tract",
+      "slug": "se-lay-village-tract-0802246"
+    },
+    "code": {
+      "id": "0802246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းဒိုးတန်း ကျေးရွာအုပ်စု",
+      "en": "Shan Doe Tan Village Tract",
+      "slug": "shan-doe-tan-village-tract-0802236"
+    },
+    "code": {
+      "id": "0802236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆီဆုံကုန်း ကျေးရွာအုပ်စု",
+      "en": "Si Son Kone Village Tract",
+      "slug": "si-son-kone-village-tract-0802226"
+    },
+    "code": {
+      "id": "0802226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ဇလုပ် ကျေးရွာအုပ်စု",
+      "en": "Sin Za Loke Village Tract",
+      "slug": "sin-za-loke-village-tract-0802211"
+    },
+    "code": {
+      "id": "0802211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ခင် ကျေးရွာအုပ်စု",
+      "en": "Taung Khin Village Tract",
+      "slug": "taung-khin-village-tract-0802205"
+    },
+    "code": {
+      "id": "0802205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပေါ်စု ကျေးရွာအုပ်စု",
+      "en": "Taung Paw Su Village Tract",
+      "slug": "taung-paw-su-village-tract-0802235"
+    },
+    "code": {
+      "id": "0802235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သမင်အင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Min Inn Kone Village Tract",
+      "slug": "tha-min-inn-kone-village-tract-0802204"
+    },
+    "code": {
+      "id": "0802204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံပုရာခုန် ကျေးရွာအုပ်စု",
+      "en": "Than Pu Yar Khon Village Tract",
+      "slug": "than-pu-yar-khon-village-tract-0802238"
+    },
+    "code": {
+      "id": "0802238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သူဌေးကြီးရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Thu Htay Gyi Ywar Thit Village Tract",
+      "slug": "thu-htay-gyi-ywar-thit-village-tract-0802242"
+    },
+    "code": {
+      "id": "0802242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူမောင် ကျေးရွာအုပ်စု",
+      "en": "Tu Maung Village Tract",
+      "slug": "tu-maung-village-tract-0802215"
+    },
+    "code": {
+      "id": "0802215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိုင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Waing Gyi Village Tract",
+      "slug": "waing-gyi-village-tract-0802234"
+    },
+    "code": {
+      "id": "0802234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရင်းတိုက်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yin Taik Kone Village Tract",
+      "slug": "yin-taik-kone-village-tract-0802201"
+    },
+    "code": {
+      "id": "0802201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇရပ်ခင် ကျေးရွာအုပ်စု",
+      "en": "Za Yat Khin Village Tract",
+      "slug": "za-yat-khin-village-tract-0802231"
+    },
+    "code": {
+      "id": "0802231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0802003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-0802003"
+    },
+    "code": {
+      "id": "0802003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007006701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တံခါး",
+        "en": "Kyauktaga",
+        "slug": "kyauktaga-MMR007006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007006701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တံခါး",
+          "en": "Kyauktaga",
+          "slug": "kyauktaga-MMR007006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0802003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

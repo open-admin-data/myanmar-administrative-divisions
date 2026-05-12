@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0869001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွာမြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Hswar Myauk Paing Quarter",
+      "slug": "hswar-myauk-paing-quarter-0869001"
+    },
+    "code": {
+      "id": "0869001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010702",
+      "level": 3,
+      "name": {
+        "local": "ဆွာ",
+        "en": "Hswar",
+        "slug": "hswar-MMR007010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010702",
+        "level": 3,
+        "name": {
+          "local": "ဆွာ",
+          "en": "Hswar",
+          "slug": "hswar-MMR007010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0869001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0869002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွာတောင်ပိုင်း ရပ်ကွက်",
+      "en": "Hswar Taung Paing Quarter",
+      "slug": "hswar-taung-paing-quarter-0869002"
+    },
+    "code": {
+      "id": "0869002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010702",
+      "level": 3,
+      "name": {
+        "local": "ဆွာ",
+        "en": "Hswar",
+        "slug": "hswar-MMR007010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010702",
+        "level": 3,
+        "name": {
+          "local": "ဆွာ",
+          "en": "Hswar",
+          "slug": "hswar-MMR007010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0869002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

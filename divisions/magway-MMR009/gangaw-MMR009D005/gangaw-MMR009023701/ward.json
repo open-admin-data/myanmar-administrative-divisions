@@ -1,0 +1,4877 @@
+[
+  {
+    "id": "0421268",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ဂန့်ဂေါ ကျေးရွာအုပ်စု",
+      "en": "Ah Nauk Gant Gaw Village Tract",
+      "slug": "ah-nauk-gant-gaw-village-tract-0421268"
+    },
+    "code": {
+      "id": "0421268",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421268"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မြင် ကျေးရွာအုပ်စု",
+      "en": "Aung Myin Village Tract",
+      "slug": "aung-myin-village-tract-0421207"
+    },
+    "code": {
+      "id": "0421207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်ပြင်း ကျေးရွာအုပ်စု",
+      "en": "Baw Pyin Village Tract",
+      "slug": "baw-pyin-village-tract-0421251"
+    },
+    "code": {
+      "id": "0421251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းကောက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Kauk Village Tract",
+      "slug": "chaung-kauk-village-tract-0421240"
+    },
+    "code": {
+      "id": "0421240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းနက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Net Village Tract",
+      "slug": "chaung-net-village-tract-0421218"
+    },
+    "code": {
+      "id": "0421218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိမ်သစ် ကျေးရွာအုပ်စု",
+      "en": "Ein Thit Village Tract",
+      "slug": "ein-thit-village-tract-0421231"
+    },
+    "code": {
+      "id": "0421231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421265",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်းတုံ ကျေးရွာအုပ်စု",
+      "en": "Gaung Ton Village Tract",
+      "slug": "gaung-ton-village-tract-0421265"
+    },
+    "code": {
+      "id": "0421265",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421265"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟံသာဝတီ ကျေးရွာအုပ်စု",
+      "en": "Han Thar Wa Di Village Tract",
+      "slug": "han-thar-wa-di-village-tract-0421232"
+    },
+    "code": {
+      "id": "0421232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွှေ့လယ် ကျေးရွာအုပ်စု",
+      "en": "Hmwayt Lel Village Tract",
+      "slug": "hmwayt-lel-village-tract-0421244"
+    },
+    "code": {
+      "id": "0421244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှမ်းခါး ကျေးရွာအုပ်စု",
+      "en": "Hnan Khar Village Tract",
+      "slug": "hnan-khar-village-tract-0421241"
+    },
+    "code": {
+      "id": "0421241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖက်ဝန်း ကျေးရွာအုပ်စု",
+      "en": "Hpet Wun Village Tract",
+      "slug": "hpet-wun-village-tract-0421219"
+    },
+    "code": {
+      "id": "0421219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထယ်လှော် ကျေးရွာအုပ်စု",
+      "en": "Htei Hlaw Village Tract",
+      "slug": "htei-hlaw-village-tract-0421253"
+    },
+    "code": {
+      "id": "0421253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်သာ ကျေးရွာအုပ်စု",
+      "en": "Kan Thar Village Tract",
+      "slug": "kan-thar-village-tract-0421248"
+    },
+    "code": {
+      "id": "0421248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန် ကျေးရွာအုပ်စု",
+      "en": "Kan Village Tract",
+      "slug": "kan-village-tract-0421250"
+    },
+    "code": {
+      "id": "0421250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန့်သက် ကျေးရွာအုပ်စု",
+      "en": "Kant Thet Village Tract",
+      "slug": "kant-thet-village-tract-0421261"
+    },
+    "code": {
+      "id": "0421261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါက်ခူ ကျေးရွာအုပ်စု",
+      "en": "Khauk Khu Village Tract",
+      "slug": "khauk-khu-village-tract-0421228"
+    },
+    "code": {
+      "id": "0421228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421264",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်းတင် ကျေးရွာအုပ်စု",
+      "en": "Khaung Tin Village Tract",
+      "slug": "khaung-tin-village-tract-0421264"
+    },
+    "code": {
+      "id": "0421264",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421264"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းဇဲ ကျေးရွာအုပ်စု",
+      "en": "Kun Ze Village Tract",
+      "slug": "kun-ze-village-tract-0421213"
+    },
+    "code": {
+      "id": "0421213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောတိုက် ရပ်ကွက်",
+      "en": "Kyaw Taik Quarter",
+      "slug": "kyaw-taik-quarter-0421004"
+    },
+    "code": {
+      "id": "0421004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျော ကျေးရွာအုပ်စု",
+      "en": "Kyaw Village Tract",
+      "slug": "kyaw-village-tract-0421258"
+    },
+    "code": {
+      "id": "0421258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျော်ရွာ ကျေးရွာအုပ်စု",
+      "en": "Kyaw Ywar Village Tract",
+      "slug": "kyaw-ywar-village-tract-0421208"
+    },
+    "code": {
+      "id": "0421208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျဲ ကျေးရွာအုပ်စု",
+      "en": "Kye Village Tract",
+      "slug": "kye-village-tract-0421260"
+    },
+    "code": {
+      "id": "0421260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421270",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်ရိုး ကျေးရွာအုပ်စု",
+      "en": "Kyet Yoe Village Tract",
+      "slug": "kyet-yoe-village-tract-0421270"
+    },
+    "code": {
+      "id": "0421270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421270"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းဒတ် ကျေးရွာအုပ်စု",
+      "en": "Kyun Dat Village Tract",
+      "slug": "kyun-dat-village-tract-0421210"
+    },
+    "code": {
+      "id": "0421210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းခုံသာ ကျေးရွာအုပ်စု",
+      "en": "Kyun Khon Thar Village Tract",
+      "slug": "kyun-khon-thar-village-tract-0421249"
+    },
+    "code": {
+      "id": "0421249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လာပို့ ကျေးရွာအုပ်စု",
+      "en": "Lar Poet Village Tract",
+      "slug": "lar-poet-village-tract-0421215"
+    },
+    "code": {
+      "id": "0421215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Lel Gyi Village Tract",
+      "slug": "lel-gyi-village-tract-0421233"
+    },
+    "code": {
+      "id": "0421233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်မ ကျေးရွာအုပ်စု",
+      "en": "Lel Ma Village Tract",
+      "slug": "lel-ma-village-tract-0421206"
+    },
+    "code": {
+      "id": "0421206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန် ကျေးရွာအုပ်စု",
+      "en": "Let Pan Village Tract",
+      "slug": "let-pan-village-tract-0421254"
+    },
+    "code": {
+      "id": "0421254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံဟော ကျေးရွာအုပ်စု",
+      "en": "Lon Haw Village Tract",
+      "slug": "lon-haw-village-tract-0421204"
+    },
+    "code": {
+      "id": "0421204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျည်းခင် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Khin Village Tract",
+      "slug": "ma-gyi-khin-village-tract-0421200"
+    },
+    "code": {
+      "id": "0421200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက်လင်း ကျေးရွာအုပ်စု",
+      "en": "Mauk Lin Village Tract",
+      "slug": "mauk-lin-village-tract-0421257"
+    },
+    "code": {
+      "id": "0421257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက် ကျေးရွာအုပ်စု",
+      "en": "Mauk Village Tract",
+      "slug": "mauk-village-tract-0421256"
+    },
+    "code": {
+      "id": "0421256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောလယ် ကျေးရွာအုပ်စု",
+      "en": "Maw Lel Village Tract",
+      "slug": "maw-lel-village-tract-0421220"
+    },
+    "code": {
+      "id": "0421220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းရွာ ကျေးရွာအုပ်စု",
+      "en": "Min Ywar Village Tract",
+      "slug": "min-ywar-village-tract-0421217"
+    },
+    "code": {
+      "id": "0421217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးစို ကျေးရွာအုပ်စု",
+      "en": "Moe So Village Tract",
+      "slug": "moe-so-village-tract-0421246"
+    },
+    "code": {
+      "id": "0421246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ခင်ရန်း ကျေးရွာအုပ်စု",
+      "en": "Myauk Khin Yan Village Tract",
+      "slug": "myauk-khin-yan-village-tract-0421234"
+    },
+    "code": {
+      "id": "0421234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ကုန်း ရပ်ကွက်",
+      "en": "Myauk Kone Quarter",
+      "slug": "myauk-kone-quarter-0421001"
+    },
+    "code": {
+      "id": "0421001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်သား ကျေးရွာအုပ်စု",
+      "en": "Myin Thar Village Tract",
+      "slug": "myin-thar-village-tract-0421238"
+    },
+    "code": {
+      "id": "0421238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းဇာ ကျေးရွာအုပ်စု",
+      "en": "Myin Zar Village Tract",
+      "slug": "myin-zar-village-tract-0421209"
+    },
+    "code": {
+      "id": "0421209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0421003"
+    },
+    "code": {
+      "id": "0421003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421267",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်လယ် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Lel Village Tract",
+      "slug": "nyaung-lel-village-tract-0421267"
+    },
+    "code": {
+      "id": "0421267",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421267"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပနန်း ကျေးရွာအုပ်စု",
+      "en": "Pa Nan Village Tract",
+      "slug": "pa-nan-village-tract-0421221"
+    },
+    "code": {
+      "id": "0421221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းထိပ် ကျေးရွာအုပ်စု",
+      "en": "Pan Hteik Village Tract",
+      "slug": "pan-hteik-village-tract-0421227"
+    },
+    "code": {
+      "id": "0421227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိုဦး ကျေးရွာအုပ်စု",
+      "en": "Po U Village Tract",
+      "slug": "po-u-village-tract-0421212"
+    },
+    "code": {
+      "id": "0421212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျား ကျေးရွာအုပ်စု",
+      "en": "Pyar Village Tract",
+      "slug": "pyar-village-tract-0421211"
+    },
+    "code": {
+      "id": "0421211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်သာ ကျေးရွာအုပ်စု",
+      "en": "Pyin Thar Village Tract",
+      "slug": "pyin-thar-village-tract-0421229"
+    },
+    "code": {
+      "id": "0421229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြစ်မ ကျေးရွာအုပ်စု",
+      "en": "Pyit Ma Village Tract",
+      "slug": "pyit-ma-village-tract-0421205"
+    },
+    "code": {
+      "id": "0421205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စပယ် ကျေးရွာအုပ်စု",
+      "en": "Sa Bai Village Tract",
+      "slug": "sa-bai-village-tract-0421223"
+    },
+    "code": {
+      "id": "0421223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စကား ကျေးရွာအုပ်စု",
+      "en": "Sa Kar Village Tract",
+      "slug": "sa-kar-village-tract-0421259"
+    },
+    "code": {
+      "id": "0421259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမိတ် ကျေးရွာအုပ်စု",
+      "en": "Sa Meik Village Tract",
+      "slug": "sa-meik-village-tract-0421225"
+    },
+    "code": {
+      "id": "0421225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိုင်ဒူး ကျေးရွာအုပ်စု",
+      "en": "Saing Du Village Tract",
+      "slug": "saing-du-village-tract-0421214"
+    },
+    "code": {
+      "id": "0421214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421269",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှုံးရှီ ကျေးရွာအုပ်စု",
+      "en": "Shone Shi Village Tract",
+      "slug": "shone-shi-village-tract-0421269"
+    },
+    "code": {
+      "id": "0421269",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421269"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေဘို ကျေးရွာအုပ်စု",
+      "en": "Shwe Bo Village Tract",
+      "slug": "shwe-bo-village-tract-0421235"
+    },
+    "code": {
+      "id": "0421235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စည်ပင်သာယာ ရပ်ကွက်",
+      "en": "Si Pin Thar Yar Quarter",
+      "slug": "si-pin-thar-yar-quarter-0421002"
+    },
+    "code": {
+      "id": "0421002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စင်ပုံ ကျေးရွာအုပ်စု",
+      "en": "Sin Pon Village Tract",
+      "slug": "sin-pon-village-tract-0421222"
+    },
+    "code": {
+      "id": "0421222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421266",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တဇန်း ကျေးရွာအုပ်စု",
+      "en": "Ta Zan Village Tract",
+      "slug": "ta-zan-village-tract-0421266"
+    },
+    "code": {
+      "id": "0421266",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421266"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ခင်ရန်း ကျေးရွာအုပ်စု",
+      "en": "Taung Khin Yan Village Tract",
+      "slug": "taung-khin-yan-village-tract-0421236"
+    },
+    "code": {
+      "id": "0421236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Taung Pyin Village Tract",
+      "slug": "taung-pyin-village-tract-0421201"
+    },
+    "code": {
+      "id": "0421201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ယာပြင် ကျေးရွာအုပ်စု",
+      "en": "Taung Yar Pyin Village Tract",
+      "slug": "taung-yar-pyin-village-tract-0421252"
+    },
+    "code": {
+      "id": "0421252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောဖို့ ကျေးရွာအုပ်စု",
+      "en": "Taw Hpoet Village Tract",
+      "slug": "taw-hpoet-village-tract-0421230"
+    },
+    "code": {
+      "id": "0421230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာကောင်း ကျေးရွာအုပ်စု",
+      "en": "Thar Kaung Village Tract",
+      "slug": "thar-kaung-village-tract-0421255"
+    },
+    "code": {
+      "id": "0421255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာလင်း ကျေးရွာအုပ်စု",
+      "en": "Thar Lin Village Tract",
+      "slug": "thar-lin-village-tract-0421237"
+    },
+    "code": {
+      "id": "0421237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည် ကျေးရွာအုပ်စု",
+      "en": "Thar Si Village Tract",
+      "slug": "thar-si-village-tract-0421245"
+    },
+    "code": {
+      "id": "0421245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421263",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးပင် ကျေးရွာအုပ်စု",
+      "en": "War Pin Village Tract",
+      "slug": "war-pin-village-tract-0421263"
+    },
+    "code": {
+      "id": "0421263",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421263"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ချီပါ ကျေးရွာအုပ်စု",
+      "en": "Wet Chi Par Village Tract",
+      "slug": "wet-chi-par-village-tract-0421226"
+    },
+    "code": {
+      "id": "0421226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေရှင်မ ကျေးရွာအုပ်စု",
+      "en": "Yae Shin Ma Village Tract",
+      "slug": "yae-shin-ma-village-tract-0421247"
+    },
+    "code": {
+      "id": "0421247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေရှင် ကျေးရွာအုပ်စု",
+      "en": "Yae Shin Village Tract",
+      "slug": "yae-shin-village-tract-0421242"
+    },
+    "code": {
+      "id": "0421242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲလှ ကျေးရွာအုပ်စု",
+      "en": "Ye Hla Village Tract",
+      "slug": "ye-hla-village-tract-0421243"
+    },
+    "code": {
+      "id": "0421243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယင်းမာ ကျေးရွာအုပ်စု",
+      "en": "Yin Mar Village Tract",
+      "slug": "yin-mar-village-tract-0421224"
+    },
+    "code": {
+      "id": "0421224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမ ကျေးရွာအုပ်စု",
+      "en": "Ywar Ma Village Tract",
+      "slug": "ywar-ma-village-tract-0421239"
+    },
+    "code": {
+      "id": "0421239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာစည် ကျေးရွာအုပ်စု",
+      "en": "Ywar Si Village Tract",
+      "slug": "ywar-si-village-tract-0421216"
+    },
+    "code": {
+      "id": "0421216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇံမွှေး ကျေးရွာအုပ်စု",
+      "en": "Zan Hmway Village Tract",
+      "slug": "zan-hmway-village-tract-0421262"
+    },
+    "code": {
+      "id": "0421262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇာဟော ကျေးရွာအုပ်စု",
+      "en": "Zar Haw Village Tract",
+      "slug": "zar-haw-village-tract-0421203"
+    },
+    "code": {
+      "id": "0421203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0421202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးပြား ကျေးရွာအုပ်စု",
+      "en": "Zee Pyar Village Tract",
+      "slug": "zee-pyar-village-tract-0421202"
+    },
+    "code": {
+      "id": "0421202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009023701",
+      "level": 3,
+      "name": {
+        "local": "ဂန့်ဂေါ",
+        "en": "Gangaw",
+        "slug": "gangaw-MMR009023701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009023701",
+        "level": 3,
+        "name": {
+          "local": "ဂန့်ဂေါ",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009023701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0421202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

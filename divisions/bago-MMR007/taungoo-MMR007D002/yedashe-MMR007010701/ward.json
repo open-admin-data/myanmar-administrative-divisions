@@ -1,0 +1,3772 @@
+[
+  {
+    "id": "0811232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(စိုင်း) ဘုရားကုန်း ကျေးရွာအုပ်စု",
+      "en": "(Saing) Hpa Yar Kone Village Tract",
+      "slug": "saing-hpa-yar-kone-village-tract-0811232"
+    },
+    "code": {
+      "id": "0811232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်တဲ ရပ်ကွက်",
+      "en": "Bo Te Quarter",
+      "slug": "bo-te-quarter-0811003"
+    },
+    "code": {
+      "id": "0811003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုးတော်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Boe Taw Kone Village Tract",
+      "slug": "boe-taw-kone-village-tract-0811201"
+    },
+    "code": {
+      "id": "0811201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းမကြီး ကျေးရွာအုပ်စု",
+      "en": "Chaung Ma Gyi Village Tract",
+      "slug": "chaung-ma-gyi-village-tract-0811237"
+    },
+    "code": {
+      "id": "0811237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါင်းနန်းကျ ကျေးရွာအုပ်စု",
+      "en": "Daung Nan Kya Village Tract",
+      "slug": "daung-nan-kya-village-tract-0811247"
+    },
+    "code": {
+      "id": "0811247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါင့်အင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Daunt Inn Kone Village Tract",
+      "slug": "daunt-inn-kone-village-tract-0811245"
+    },
+    "code": {
+      "id": "0811245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိုးတန်း ကျေးရွာအုပ်စု",
+      "en": "Doe Tan Village Tract",
+      "slug": "doe-tan-village-tract-0811214"
+    },
+    "code": {
+      "id": "0811214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံမင်းကွင်း ကျေးရွာအုပ်စု",
+      "en": "Gon Min Kwin Village Tract",
+      "slug": "gon-min-kwin-village-tract-0811220"
+    },
+    "code": {
+      "id": "0811220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကုန်း(မြို့လှ) ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Kone (Myo Hla) Village Tract",
+      "slug": "hpa-yar-kone-myo-hla-village-tract-0811251"
+    },
+    "code": {
+      "id": "0811251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဒိုင်း ကျေးရွာအုပ်စု",
+      "en": "In Daing Village Tract",
+      "slug": "in-daing-village-tract-0811213"
+    },
+    "code": {
+      "id": "0811213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဲလင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Ke Lin Seik Village Tract",
+      "slug": "ke-lin-seik-village-tract-0811208"
+    },
+    "code": {
+      "id": "0811208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကက္ကု ကျေးရွာအုပ်စု",
+      "en": "Ket Ku Village Tract",
+      "slug": "ket-ku-village-tract-0811242"
+    },
+    "code": {
+      "id": "0811242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခင်တန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Khin Tan Gyi Village Tract",
+      "slug": "khin-tan-gyi-village-tract-0811200"
+    },
+    "code": {
+      "id": "0811200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kone Gyi Village Tract",
+      "slug": "kone-gyi-village-tract-0811218"
+    },
+    "code": {
+      "id": "0811218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းအုံ ကျေးရွာအုပ်စု",
+      "en": "Kun Ohn Village Tract",
+      "slug": "kun-ohn-village-tract-0811224"
+    },
+    "code": {
+      "id": "0811224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kwin Gyi Village Tract",
+      "slug": "kwin-gyi-village-tract-0811217"
+    },
+    "code": {
+      "id": "0811217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျန်သနွယ် ကျေးရွာအုပ်စု",
+      "en": "Kyan Tha Nwe Village Tract",
+      "slug": "kyan-tha-nwe-village-tract-0811202"
+    },
+    "code": {
+      "id": "0811202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာအင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Inn Kone Village Tract",
+      "slug": "kyar-inn-kone-village-tract-0811241"
+    },
+    "code": {
+      "id": "0811241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိပ်ပတီး ကျေးရွာအုပ်စု",
+      "en": "Kyeik Pa Tee Village Tract",
+      "slug": "kyeik-pa-tee-village-tract-0811226"
+    },
+    "code": {
+      "id": "0811226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲရိုင်းပြင် ကျေးရွာအုပ်စု",
+      "en": "Kywe Yaing Pyin Village Tract",
+      "slug": "kywe-yaing-pyin-village-tract-0811209"
+    },
+    "code": {
+      "id": "0811209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံးရမ်း ကျေးရွာအုပ်စု",
+      "en": "Lone Yan Village Tract",
+      "slug": "lone-yan-village-tract-0811235"
+    },
+    "code": {
+      "id": "0811235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိချောင်းအိုင် ကျေးရွာအုပ်စု",
+      "en": "Mi Chaung Aing Village Tract",
+      "slug": "mi-chaung-aing-village-tract-0811215"
+    },
+    "code": {
+      "id": "0811215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့လှ ကျေးရွာအုပ်စု",
+      "en": "Myo Hla Village Tract",
+      "slug": "myo-hla-village-tract-0811238"
+    },
+    "code": {
+      "id": "0811238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နကျပ် ကျေးရွာအုပ်စု",
+      "en": "Na Kyat Village Tract",
+      "slug": "na-kyat-village-tract-0811229"
+    },
+    "code": {
+      "id": "0811229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်တောင် ကျေးရွာအုပ်စု",
+      "en": "Nat Taung Village Tract",
+      "slug": "nat-taung-village-tract-0811240"
+    },
+    "code": {
+      "id": "0811240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးကြီးကွေ့ ကျေးရွာအုပ်စု",
+      "en": "Ngar Gyi Kwayt Village Tract",
+      "slug": "ngar-gyi-kwayt-village-tract-0811222"
+    },
+    "code": {
+      "id": "0811222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငွေတောင် ကျေးရွာအုပ်စု",
+      "en": "Ngwe Taung Village Tract",
+      "slug": "ngwe-taung-village-tract-0811239"
+    },
+    "code": {
+      "id": "0811239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-0811212"
+    },
+    "code": {
+      "id": "0811212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုတ်ဖို ကျေးရွာအုပ်စု",
+      "en": "Oke Hpo Village Tract",
+      "slug": "oke-hpo-village-tract-0811236"
+    },
+    "code": {
+      "id": "0811236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Pauk Chaung Village Tract",
+      "slug": "pauk-chaung-village-tract-0811203"
+    },
+    "code": {
+      "id": "0811203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေကုန်း ရပ်ကွက်",
+      "en": "Pay Kone Quarter",
+      "slug": "pay-kone-quarter-0811004"
+    },
+    "code": {
+      "id": "0811004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပတောက်ခင် ကျေးရွာအုပ်စု",
+      "en": "Pi Tauk Khin Village Tract",
+      "slug": "pi-tauk-khin-village-tract-0811204"
+    },
+    "code": {
+      "id": "0811204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိတောက်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Pi Tauk Kone Village Tract",
+      "slug": "pi-tauk-kone-village-tract-0811228"
+    },
+    "code": {
+      "id": "0811228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပီတူး ကျေးရွာအုပ်စု",
+      "en": "Pi Tu Village Tract",
+      "slug": "pi-tu-village-tract-0811205"
+    },
+    "code": {
+      "id": "0811205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စကွေး(မရိုးခုံ) ကျေးရွာအုပ်စု",
+      "en": "Sa Kway (Ma Yoe Khon) Village Tract",
+      "slug": "sa-kway-ma-yoe-khon-village-tract-0811230"
+    },
+    "code": {
+      "id": "0811230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆံတော်ပို့ ကျေးရွာအုပ်စု",
+      "en": "San Taw Poet Village Tract",
+      "slug": "san-taw-poet-village-tract-0811234"
+    },
+    "code": {
+      "id": "0811234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆပ်သေ ကျေးရွာအုပ်စု",
+      "en": "Sat Thay Village Tract",
+      "slug": "sat-thay-village-tract-0811246"
+    },
+    "code": {
+      "id": "0811246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကဇောင်း ကျေးရွာအုပ်စု",
+      "en": "Shwe Ka Zaung Village Tract",
+      "slug": "shwe-ka-zaung-village-tract-0811223"
+    },
+    "code": {
+      "id": "0811223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကြက်ယက်မြောက် ရပ်ကွက်",
+      "en": "Shwe Kyet Yet (North) Quarter",
+      "slug": "shwe-kyet-yet-north-quarter-0811006"
+    },
+    "code": {
+      "id": "0811006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကြက်ယက်တောင် ရပ်ကွက်",
+      "en": "Shwe Kyet Yet (South) Quarter",
+      "slug": "shwe-kyet-yet-south-quarter-0811005"
+    },
+    "code": {
+      "id": "0811005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီပိုင်း ကျေးရွာအုပ်စု",
+      "en": "Si Paing Village Tract",
+      "slug": "si-paing-village-tract-0811225"
+    },
+    "code": {
+      "id": "0811225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ဂွေ ကျေးရွာအုပ်စု",
+      "en": "Sin Gway Village Tract",
+      "slug": "sin-gway-village-tract-0811210"
+    },
+    "code": {
+      "id": "0811210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွာမင်းလမ်း ကျေးရွာအုပ်စု",
+      "en": "Swar Min Lan Village Tract",
+      "slug": "swar-min-lan-village-tract-0811221"
+    },
+    "code": {
+      "id": "0811221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွာစက်ရုံ ကျေးရွာအုပ်စု",
+      "en": "Swar Set Yon Village Tract",
+      "slug": "swar-set-yon-village-tract-0811216"
+    },
+    "code": {
+      "id": "0811216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆွာရွာမ ကျေးရွာအုပ်စု",
+      "en": "Swar Ywar Ma Village Tract",
+      "slug": "swar-ywar-ma-village-tract-0811227"
+    },
+    "code": {
+      "id": "0811227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေတန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Tan Village Tract",
+      "slug": "tha-pyay-tan-village-tract-0811207"
+    },
+    "code": {
+      "id": "0811207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိုင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Thaing Wa Village Tract",
+      "slug": "thaing-wa-village-tract-0811219"
+    },
+    "code": {
+      "id": "0811219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာဂရ ကျေးရွာအုပ်စု",
+      "en": "Thar Ga Ya Village Tract",
+      "slug": "thar-ga-ya-village-tract-0811243"
+    },
+    "code": {
+      "id": "0811243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ပုတ်ပင် ကျေးရွာအုပ်စု",
+      "en": "Thit Poke Pin Village Tract",
+      "slug": "thit-poke-pin-village-tract-0811233"
+    },
+    "code": {
+      "id": "0811233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးရုံတော ကျေးရွာအုပ်စု",
+      "en": "War Yon Taw Village Tract",
+      "slug": "war-yon-taw-village-tract-0811206"
+    },
+    "code": {
+      "id": "0811206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝဲဒေါင့် ကျေးရွာအုပ်စု",
+      "en": "Wea Daunt Village Tract",
+      "slug": "wea-daunt-village-tract-0811244"
+    },
+    "code": {
+      "id": "0811244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေငန်း ကျေးရွာအုပ်စု",
+      "en": "Yae Ngan Village Tract",
+      "slug": "yae-ngan-village-tract-0811231"
+    },
+    "code": {
+      "id": "0811231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေနီ ကျေးရွာအုပ်စု",
+      "en": "Yae Ni Village Tract",
+      "slug": "yae-ni-village-tract-0811248"
+    },
+    "code": {
+      "id": "0811248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရဲကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ye Kone Village Tract",
+      "slug": "ye-kone-village-tract-0811250"
+    },
+    "code": {
+      "id": "0811250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမ ရပ်ကွက်",
+      "en": "Ywar Ma Quarter",
+      "slug": "ywar-ma-quarter-0811001"
+    },
+    "code": {
+      "id": "0811001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇလုပ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Za Loke Gyi Village Tract",
+      "slug": "za-loke-gyi-village-tract-0811211"
+    },
+    "code": {
+      "id": "0811211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေး ရပ်ကွက်",
+      "en": "Zay Quarter",
+      "slug": "zay-quarter-0811002"
+    },
+    "code": {
+      "id": "0811002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0811249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇေယျသိမ် ကျေးရွာအုပ်စု",
+      "en": "Zay Ya Thein Village Tract",
+      "slug": "zay-ya-thein-village-tract-0811249"
+    },
+    "code": {
+      "id": "0811249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007010701",
+      "level": 3,
+      "name": {
+        "local": "ရေတာရှည်",
+        "en": "Yedashe",
+        "slug": "yedashe-MMR007010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D002",
+        "level": 2,
+        "name": {
+          "local": "တောင်ငူခရိုင်",
+          "en": "Taungoo",
+          "slug": "taungoo-MMR007D002"
+        }
+      },
+      {
+        "id": "MMR007010701",
+        "level": 3,
+        "name": {
+          "local": "ရေတာရှည်",
+          "en": "Yedashe",
+          "slug": "yedashe-MMR007010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0811249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

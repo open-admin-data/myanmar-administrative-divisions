@@ -1,0 +1,530 @@
+[
+  {
+    "id": "MMR005D008",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ခန္တီးခရိုင်",
+      "en": "Hkamti",
+      "slug": "hkamti-MMR005D008"
+    },
+    "code": {
+      "id": "MMR005D008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.1801",
+      "lon": "95.1126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကလေးခရိုင်",
+      "en": "Kale",
+      "slug": "kale-MMR005D005"
+    },
+    "code": {
+      "id": "MMR005D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 163
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.0903",
+      "lon": "94.2748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D010",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကန့်ဘလူခရိုင်",
+      "en": "Kanbalu",
+      "slug": "kanbalu-MMR005D010"
+    },
+    "code": {
+      "id": "MMR005D010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.1513",
+      "lon": "95.5382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကသာခရိုင်",
+      "en": "Katha",
+      "slug": "katha-MMR005D004"
+    },
+    "code": {
+      "id": "MMR005D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 175
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.2047",
+      "lon": "96.1318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D011",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကောလင်းခရိုင်",
+      "en": "Kawlin",
+      "slug": "kawlin-MMR005D011"
+    },
+    "code": {
+      "id": "MMR005D011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 150
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.9235",
+      "lon": "95.5785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D007",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မော်လိုက်ခရိုင်",
+      "en": "Mawlaik",
+      "slug": "mawlaik-MMR005D007"
+    },
+    "code": {
+      "id": "MMR005D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.9514",
+      "lon": "94.6144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မုံရွာခရိုင်",
+      "en": "Monywa",
+      "slug": "monywa-MMR005D003"
+    },
+    "code": {
+      "id": "MMR005D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 215
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.1883",
+      "lon": "95.2531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "စစ်ကိုင်းခရိုင်",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005D001"
+    },
+    "code": {
+      "id": "MMR005D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 216
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.9506",
+      "lon": "95.6789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    },
+    "code": {
+      "id": "MMR005D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 414
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.6569",
+      "lon": "95.5519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တမူးခရိုင်",
+      "en": "Tamu",
+      "slug": "tamu-MMR005D006"
+    },
+    "code": {
+      "id": "MMR005D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.1689",
+      "lon": "94.3266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D009",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ယင်းမာပင်ခရိုင်",
+      "en": "Yinmarbin",
+      "slug": "yinmarbin-MMR005D009"
+    },
+    "code": {
+      "id": "MMR005D009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 197
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.1046",
+      "lon": "94.9265"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "MMR009D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မင်းဘူးခရိုင်",
+    "en": "Minbu",
+    "slug": "minbu-MMR009D002"
+  },
+  "code": {
+    "id": "MMR009D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009",
+    "level": 1,
+    "name": {
+      "local": "မကွေးတိုင်းဒေသကြီး",
+      "en": "Magway",
+      "slug": "magway-MMR009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 324
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.3606",
+    "lon": "94.6255"
+  },
+  "metadata": {},
+  "source": {}
+}

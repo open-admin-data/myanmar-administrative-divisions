@@ -1,0 +1,56 @@
+{
+  "id": "MMR017022701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဓနုဖြူ",
+    "en": "Danubyu",
+    "slug": "danubyu-MMR017022701"
+  },
+  "code": {
+    "id": "MMR017022701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D005",
+    "level": 2,
+    "name": {
+      "local": "မအူပင်ခရိုင်",
+      "en": "Maubin",
+      "slug": "maubin-MMR017D005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D005",
+      "level": 2,
+      "name": {
+        "local": "မအူပင်ခရိုင်",
+        "en": "Maubin",
+        "slug": "maubin-MMR017D005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.25468",
+    "lon": "95.59583"
+  },
+  "metadata": {},
+  "source": {}
+}

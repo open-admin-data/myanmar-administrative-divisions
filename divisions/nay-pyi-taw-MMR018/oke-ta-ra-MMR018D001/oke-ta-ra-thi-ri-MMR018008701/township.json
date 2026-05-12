@@ -1,0 +1,56 @@
+{
+  "id": "MMR018008701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဥတ္တရသီရိ",
+    "en": "Oke Ta Ra Thi Ri",
+    "slug": "oke-ta-ra-thi-ri-MMR018008701"
+  },
+  "code": {
+    "id": "MMR018008701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR018D001",
+    "level": 2,
+    "name": {
+      "local": "ဥတ္တရခရိုင်",
+      "en": "Oke Ta Ra",
+      "slug": "oke-ta-ra-MMR018D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    {
+      "id": "MMR018D001",
+      "level": 2,
+      "name": {
+        "local": "ဥတ္တရခရိုင်",
+        "en": "Oke Ta Ra",
+        "slug": "oke-ta-ra-MMR018D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.891",
+    "lon": "96.043"
+  },
+  "metadata": {},
+  "source": {}
+}

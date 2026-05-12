@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR001010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဗန်းမော်",
+      "en": "Bhamo",
+      "slug": "bhamo-MMR001010701"
+    },
+    "code": {
+      "id": "MMR001010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.25493",
+      "lon": "97.23441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001012703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဒေါ့ဖုန်းယန်",
+      "en": "Dawthponeyan",
+      "slug": "dawthponeyan-MMR001012703"
+    },
+    "code": {
+      "id": "MMR001012703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.61398",
+      "lon": "97.46127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001012702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လွယ်ဂျယ်",
+      "en": "Lwegel",
+      "slug": "lwegel-MMR001012702"
+    },
+    "code": {
+      "id": "MMR001012702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.19932",
+      "lon": "97.72077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001013701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မံစီ",
+      "en": "Mansi",
+      "slug": "mansi-MMR001013701"
+    },
+    "code": {
+      "id": "MMR001013701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.11962",
+      "lon": "97.29311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001012701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုးမောက်",
+      "en": "Momauk",
+      "slug": "momauk-MMR001012701"
+    },
+    "code": {
+      "id": "MMR001012701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.25095",
+      "lon": "97.34653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001011702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြို့လှ",
+      "en": "Myo Hla",
+      "slug": "myo-hla-MMR001011702"
+    },
+    "code": {
+      "id": "MMR001011702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.47856",
+      "lon": "96.65522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရွှေကူ",
+      "en": "Shwegu",
+      "slug": "shwegu-MMR001011701"
+    },
+    "code": {
+      "id": "MMR001011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.20695",
+      "lon": "96.80606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "MMR001D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မိုးညှင်းခရိုင်",
+    "en": "Mohnyin",
+    "slug": "mohnyin-MMR001D002"
+  },
+  "code": {
+    "id": "MMR001D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001",
+    "level": 1,
+    "name": {
+      "local": "ကချင်ပြည်နယ်",
+      "en": "Kachin",
+      "slug": "kachin-MMR001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 9,
+    "ward": 137
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.173",
+    "lon": "96.5496"
+  },
+  "metadata": {},
+  "source": {}
+}

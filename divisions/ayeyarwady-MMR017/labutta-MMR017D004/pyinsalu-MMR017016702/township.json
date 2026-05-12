@@ -1,0 +1,56 @@
+{
+  "id": "MMR017016702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပြင်စလူ",
+    "en": "Pyinsalu",
+    "slug": "pyinsalu-MMR017016702"
+  },
+  "code": {
+    "id": "MMR017016702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D004",
+    "level": 2,
+    "name": {
+      "local": "လပွတ္တာခရိုင်",
+      "en": "Labutta",
+      "slug": "labutta-MMR017D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D004",
+      "level": 2,
+      "name": {
+        "local": "လပွတ္တာခရိုင်",
+        "en": "Labutta",
+        "slug": "labutta-MMR017D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.82677",
+    "lon": "94.80943"
+  },
+  "metadata": {},
+  "source": {}
+}

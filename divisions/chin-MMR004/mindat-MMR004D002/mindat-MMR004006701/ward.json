@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "0307004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ရပ်ကွက်",
+      "en": "Ah Nauk Quarter",
+      "slug": "ah-nauk-quarter-0307004"
+    },
+    "code": {
+      "id": "0307004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ ပြင် ရပ်ကွက်",
+      "en": "Ah Shey Pyin Quarter",
+      "slug": "ah-shey-pyin-quarter-0307001"
+    },
+    "code": {
+      "id": "0307001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အွယ်ရေး ကျေးရွာအုပ်စု",
+      "en": "Anigai Village Tract",
+      "slug": "anigai-village-tract-0307205"
+    },
+    "code": {
+      "id": "0307205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်ချိုင် ကျေးရွာအုပ်စု",
+      "en": "Auk Chaing Village Tract",
+      "slug": "auk-chaing-village-tract-0307239"
+    },
+    "code": {
+      "id": "0307239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘဝသစ် ရပ်ကွက်",
+      "en": "Ba Wa Thit Quarter",
+      "slug": "ba-wa-thit-quarter-0307002"
+    },
+    "code": {
+      "id": "0307002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းသွယ် ကျေးရွာအုပ်စု",
+      "en": "Banhtwei Village Tract",
+      "slug": "banhtwei-village-tract-0307230"
+    },
+    "code": {
+      "id": "0307230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော ကျေးရွာအုပ်စု",
+      "en": "Baw Village Tract",
+      "slug": "baw-village-tract-0307200"
+    },
+    "code": {
+      "id": "0307200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွေရှိ ကျေးရွာအုပ်စု",
+      "en": "Bawisih Village Tract",
+      "slug": "bawisih-village-tract-0307243"
+    },
+    "code": {
+      "id": "0307243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒုံအိမ် ကျေးရွာအုပ်စု",
+      "en": "Doim Village Tract",
+      "slug": "doim-village-tract-0307216"
+    },
+    "code": {
+      "id": "0307216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒုတ် ကျေးရွာအုပ်စု",
+      "en": "Duk Village Tract",
+      "slug": "duk-village-tract-0307229"
+    },
+    "code": {
+      "id": "0307229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရောင်လောင်း ကျေးရွာအုပ်စု",
+      "en": "Gawnglaung Village Tract",
+      "slug": "gawnglaung-village-tract-0307245"
+    },
+    "code": {
+      "id": "0307245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟုန်းသာ ကျေးရွာအုပ်စု",
+      "en": "Ghunghta Village Tract",
+      "slug": "ghunghta-village-tract-0307209"
+    },
+    "code": {
+      "id": "0307209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟီးလောင်း ကျေးရွာအုပ်စု",
+      "en": "Hilaung Village Tract",
+      "slug": "hilaung-village-tract-0307220"
+    },
+    "code": {
+      "id": "0307220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှေကောင်း ကျေးရွာအုပ်စု",
+      "en": "Hlaykawng Village Tract",
+      "slug": "hlaykawng-village-tract-0307217"
+    },
+    "code": {
+      "id": "0307217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှေ့ချမ်း ကျေးရွာအုပ်စု",
+      "en": "Hleicham Village Tract",
+      "slug": "hleicham-village-tract-0307204"
+    },
+    "code": {
+      "id": "0307204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှိမ်းမလှန်း ကျေးရွာအုပ်စု",
+      "en": "HleiM'hlang Village Tract",
+      "slug": "hleimhlang-village-tract-0307231"
+    },
+    "code": {
+      "id": "0307231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖွီ ကျေးရွာအုပ်စု",
+      "en": "Hpwi Village Tract",
+      "slug": "hpwi-village-tract-0307219"
+    },
+    "code": {
+      "id": "0307219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သွီပန်း ကျေးရွာအုပ်စု",
+      "en": "Htuipan Village Tract",
+      "slug": "htuipan-village-tract-0307201"
+    },
+    "code": {
+      "id": "0307201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကာအိမ် ကျေးရွာအုပ်စု",
+      "en": "Kainn Village Tract",
+      "slug": "kainn-village-tract-0307236"
+    },
+    "code": {
+      "id": "0307236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွဲလုံ ကျေးရွာအုပ်စု",
+      "en": "Khawilung Village Tract",
+      "slug": "khawilung-village-tract-0307211"
+    },
+    "code": {
+      "id": "0307211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခင်ဖောင် ကျေးရွာအုပ်စု",
+      "en": "Khinphawng Village Tract",
+      "slug": "khinphawng-village-tract-0307237"
+    },
+    "code": {
+      "id": "0307237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကီးသာ ကျေးရွာအုပ်စု",
+      "en": "Kihta Village Tract",
+      "slug": "kihta-village-tract-0307214"
+    },
+    "code": {
+      "id": "0307214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်းလှိ ကျေးရွာအုပ်စု",
+      "en": "Kinhli Village Tract",
+      "slug": "kinhli-village-tract-0307226"
+    },
+    "code": {
+      "id": "0307226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာလေလှိုင်း ကျေးရွာအုပ်စု",
+      "en": "Kyangleihlen Village Tract",
+      "slug": "kyangleihlen-village-tract-0307221"
+    },
+    "code": {
+      "id": "0307221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြုတ် ကျေးရွာအုပ်စု",
+      "en": "Kyuk Village Tract",
+      "slug": "kyuk-village-tract-0307241"
+    },
+    "code": {
+      "id": "0307241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်နမ် ကျေးရွာအုပ်စု",
+      "en": "Kyun Nan Village Tract",
+      "slug": "kyun-nan-village-tract-0307242"
+    },
+    "code": {
+      "id": "0307242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လာလောင်းထွီး ကျေးရွာအုပ်စု",
+      "en": "Lailawnghtui Village Tract",
+      "slug": "lailawnghtui-village-tract-0307213"
+    },
+    "code": {
+      "id": "0307213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မချုံ ကျေးရွာအုပ်စု",
+      "en": "M'chum Village Tract",
+      "slug": "mchum-village-tract-0307234"
+    },
+    "code": {
+      "id": "0307234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဒါအိမ်နူး ကျေးရွာအုပ်စု",
+      "en": "M'darimnu Village Tract",
+      "slug": "mdarimnu-village-tract-0307225"
+    },
+    "code": {
+      "id": "0307225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မဒပ် ကျေးရွာအုပ်စု",
+      "en": "M'dat Village Tract",
+      "slug": "mdat-village-tract-0307222"
+    },
+    "code": {
+      "id": "0307222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရှိန်းလှော် (အမ်တာ) ကျေးရွာအုပ်စု",
+      "en": "M'ghinghlaw Village Tract",
+      "slug": "mghinghlaw-village-tract-0307206"
+    },
+    "code": {
+      "id": "0307206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မသူး ကျေးရွာအုပ်စု",
+      "en": "M'htu Village Tract",
+      "slug": "mhtu-village-tract-0307207"
+    },
+    "code": {
+      "id": "0307207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကွီ ကျေးရွာအုပ်စု",
+      "en": "M'kui Village Tract",
+      "slug": "mkui-village-tract-0307215"
+    },
+    "code": {
+      "id": "0307215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကွီအိမ်နူး ကျေးရွာအုပ်စု",
+      "en": "M'kuiimnu Village Tract",
+      "slug": "mkuiimnu-village-tract-0307224"
+    },
+    "code": {
+      "id": "0307224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မနာတာ ကျေးရွာအုပ်စု",
+      "en": "M'maitai Village Tract",
+      "slug": "mmaitai-village-tract-0307203"
+    },
+    "code": {
+      "id": "0307203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရှိယော ကျေးရွာအုပ်စု",
+      "en": "M'sizaw Village Tract",
+      "slug": "msizaw-village-tract-0307223"
+    },
+    "code": {
+      "id": "0307223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွီတွီ ကျေးရွာအုပ်စု",
+      "en": "Muitui Village Tract",
+      "slug": "muitui-village-tract-0307212"
+    },
+    "code": {
+      "id": "0307212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြေ ကျေးရွာအုပ်စု",
+      "en": "Phwi Village Tract",
+      "slug": "phwi-village-tract-0307218"
+    },
+    "code": {
+      "id": "0307218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြုံး ကျေးရွာအုပ်စု",
+      "en": "Pyung Village Tract",
+      "slug": "pyung-village-tract-0307232"
+    },
+    "code": {
+      "id": "0307232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရို ကျေးရွာအုပ်စု",
+      "en": "Ro Village Tract",
+      "slug": "ro-village-tract-0307233"
+    },
+    "code": {
+      "id": "0307233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံပြ ရပ်ကွက်",
+      "en": "San Pya Quarter",
+      "slug": "san-pya-quarter-0307003"
+    },
+    "code": {
+      "id": "0307003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စွန်တောင် ကျေးရွာအုပ်စု",
+      "en": "Sawntaung Village Tract",
+      "slug": "sawntaung-village-tract-0307202"
+    },
+    "code": {
+      "id": "0307202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှစ် ကျေးရွာအုပ်စု",
+      "en": "Shiit Village Tract",
+      "slug": "shiit-village-tract-0307228"
+    },
+    "code": {
+      "id": "0307228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တွီဒိန် ကျေးရွာအုပ်စု",
+      "en": "Tuidim Village Tract",
+      "slug": "tuidim-village-tract-0307235"
+    },
+    "code": {
+      "id": "0307235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုံ ကျေးရွာအုပ်စု",
+      "en": "Ung Village Tract",
+      "slug": "ung-village-tract-0307227"
+    },
+    "code": {
+      "id": "0307227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝကောက် ကျေးရွာအုပ်စု",
+      "en": "Vakauk Village Tract",
+      "slug": "vakauk-village-tract-0307210"
+    },
+    "code": {
+      "id": "0307210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝေးလောင်း ကျေးရွာအုပ်စု",
+      "en": "Vawilaung Village Tract",
+      "slug": "vawilaung-village-tract-0307244"
+    },
+    "code": {
+      "id": "0307244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝမ္မသူး ကျေးရွာအုပ်စု",
+      "en": "Vawmm'tu Village Tract",
+      "slug": "vawmmtu-village-tract-0307208"
+    },
+    "code": {
+      "id": "0307208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရပ်ဒုတ် ကျေးရွာအုပ်စု",
+      "en": "Yatduk Village Tract",
+      "slug": "yatduk-village-tract-0307238"
+    },
+    "code": {
+      "id": "0307238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0307240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရိုးဖောင် ကျေးရွာအုပ်စု",
+      "en": "Yoe Hpaung Village Tract",
+      "slug": "yoe-hpaung-village-tract-0307240"
+    },
+    "code": {
+      "id": "0307240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006701",
+      "level": 3,
+      "name": {
+        "local": "မင်းတပ်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004006701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006701",
+        "level": 3,
+        "name": {
+          "local": "မင်းတပ်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004006701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0307240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

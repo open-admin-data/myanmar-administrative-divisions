@@ -1,0 +1,56 @@
+{
+  "id": "MMR010005701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပြည်ကြီးတံခွန်",
+    "en": "Pyigyitagon",
+    "slug": "pyigyitagon-MMR010005701"
+  },
+  "code": {
+    "id": "MMR010005701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D001",
+    "level": 2,
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D001",
+      "level": 2,
+      "name": {
+        "local": "မန္တလေးခရိုင်",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.90196",
+    "lon": "96.10418"
+  },
+  "metadata": {},
+  "source": {}
+}

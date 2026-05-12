@@ -1,0 +1,56 @@
+{
+  "id": "MMR017024701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဘိုကလေး",
+    "en": "Bogale",
+    "slug": "bogale-MMR017024701"
+  },
+  "code": {
+    "id": "MMR017024701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D006",
+    "level": 2,
+    "name": {
+      "local": "ဖျာပုံခရိုင်",
+      "en": "Pyapon",
+      "slug": "pyapon-MMR017D006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D006",
+      "level": 2,
+      "name": {
+        "local": "ဖျာပုံခရိုင်",
+        "en": "Pyapon",
+        "slug": "pyapon-MMR017D006"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.295",
+    "lon": "95.3968"
+  },
+  "metadata": {},
+  "source": {}
+}

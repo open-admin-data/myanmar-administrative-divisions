@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "0901017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧက (၅၀ဝ) ရပ်ကွက်",
+      "en": "Aye Ka Ngar Yar Quarter",
+      "slug": "aye-ka-ngar-yar-quarter-0901017"
+    },
+    "code": {
+      "id": "0901017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချိကယ် ကျေးရွာအုပ်စု",
+      "en": "Chi Kei Village Tract",
+      "slug": "chi-kei-village-tract-0901207"
+    },
+    "code": {
+      "id": "0901207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါဥခူ ရပ်ကွက်",
+      "en": "Daw Au Khu Quarter",
+      "slug": "daw-au-khu-quarter-0901003"
+    },
+    "code": {
+      "id": "0901003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါနိုးကူး ရပ်ကွက်",
+      "en": "Daw Noe Ku Quarter",
+      "slug": "daw-noe-ku-quarter-0901011"
+    },
+    "code": {
+      "id": "0901011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါပေါ်ကလဲ ကျေးရွာအုပ်စု",
+      "en": "Daw Paw Ka Le Village Tract",
+      "slug": "daw-paw-ka-le-village-tract-0901205"
+    },
+    "code": {
+      "id": "0901205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါတမ ရပ်ကွက်",
+      "en": "Daw Tan Ma Quarter",
+      "slug": "daw-tan-ma-quarter-0901010"
+    },
+    "code": {
+      "id": "0901010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓမ္မာရုံ ရပ်ကွက်",
+      "en": "Dhammar Yon Quarter",
+      "slug": "dhammar-yon-quarter-0901006"
+    },
+    "code": {
+      "id": "0901006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထေးသမ ရပ်ကွက်",
+      "en": "Htay Tha Ma Quarter",
+      "slug": "htay-tha-ma-quarter-0901018"
+    },
+    "code": {
+      "id": "0901018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီးစဲခါး ကျေးရွာအုပ်စု",
+      "en": "Htee Se Khar Village Tract",
+      "slug": "htee-se-khar-village-tract-0901201"
+    },
+    "code": {
+      "id": "0901201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီးတငါး ကျေးရွာအုပ်စု",
+      "en": "Htee Ta Ngar Village Tract",
+      "slug": "htee-ta-ngar-village-tract-0901212"
+    },
+    "code": {
+      "id": "0901212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းသာ ကျေးရွာအုပ်စု",
+      "en": "Kone Thar Village Tract",
+      "slug": "kone-thar-village-tract-0901204"
+    },
+    "code": {
+      "id": "0901204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လောဓမ္မ ရပ်ကွက်",
+      "en": "Law Da Ma Quarter",
+      "slug": "law-da-ma-quarter-0901009"
+    },
+    "code": {
+      "id": "0901009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လောပိတ ကျေးရွာအုပ်စု",
+      "en": "Law Pi Ta Village Tract",
+      "slug": "law-pi-ta-village-tract-0901211"
+    },
+    "code": {
+      "id": "0901211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မထောခူ ကျေးရွာအုပ်စု",
+      "en": "Ma Htaw Khu Village Tract",
+      "slug": "ma-htaw-khu-village-tract-0901208"
+    },
+    "code": {
+      "id": "0901208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလုံး ရပ်ကွက်",
+      "en": "Maing Lone Quarter",
+      "slug": "maing-lone-quarter-0901004"
+    },
+    "code": {
+      "id": "0901004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလာ ရပ်ကွက်",
+      "en": "Min Ga Lar Quarter",
+      "slug": "min-ga-lar-quarter-0901005"
+    },
+    "code": {
+      "id": "0901005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းစု ရပ်ကွက်",
+      "en": "Min Su Quarter",
+      "slug": "min-su-quarter-0901013"
+    },
+    "code": {
+      "id": "0901013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဘော်ဝမ် (က) ရပ်ကွက်",
+      "en": "Nam Baw Wan (Ka) Quarter",
+      "slug": "nam-baw-wan-ka-quarter-0901015"
+    },
+    "code": {
+      "id": "0901015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဘော်ဝမ် (ခ) ရပ်ကွက်",
+      "en": "Nam Baw Wan (Kha) Quarter",
+      "slug": "nam-baw-wan-kha-quarter-0901016"
+    },
+    "code": {
+      "id": "0901016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ကွတ် ရပ်ကွက်",
+      "en": "Nant Kut Quarter",
+      "slug": "nant-kut-quarter-0901019"
+    },
+    "code": {
+      "id": "0901019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နာနတ်တော ရပ်ကွက်",
+      "en": "Nar Nat Taw Quarter",
+      "slug": "nar-nat-taw-quarter-0901014"
+    },
+    "code": {
+      "id": "0901014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ယား(က) ရပ်ကွက်",
+      "en": "Naung Yar (Ka Gyi) Quarter",
+      "slug": "naung-yar-ka-gyi-quarter-0901001"
+    },
+    "code": {
+      "id": "0901001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ယား(ခ) ရပ်ကွက်",
+      "en": "Naung Yar (Kha Gway) Quarter",
+      "slug": "naung-yar-kha-gway-quarter-0901002"
+    },
+    "code": {
+      "id": "0901002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နိုးကိုး ကျေးရွာအုပ်စု",
+      "en": "Noe Koe Village Tract",
+      "slug": "noe-koe-village-tract-0901203"
+    },
+    "code": {
+      "id": "0901203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နွားလဝိုး ကျေးရွာအုပ်စု",
+      "en": "Nwar La Woe Village Tract",
+      "slug": "nwar-la-woe-village-tract-0901206"
+    },
+    "code": {
+      "id": "0901206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ကန်း ကျေးရွာအုပ်စု",
+      "en": "Pan Kan Village Tract",
+      "slug": "pan-kan-village-tract-0901200"
+    },
+    "code": {
+      "id": "0901200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါလောင်း ကျေးရွာအုပ်စု",
+      "en": "Par Laung Village Tract",
+      "slug": "par-laung-village-tract-0901209"
+    },
+    "code": {
+      "id": "0901209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန်းချစ် ကျေးရွာအုပ်စု",
+      "en": "Pein Chit Village Tract",
+      "slug": "pein-chit-village-tract-0901202"
+    },
+    "code": {
+      "id": "0901202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစု ရပ်ကွက်",
+      "en": "Shan Su Quarter",
+      "slug": "shan-su-quarter-0901012"
+    },
+    "code": {
+      "id": "0901012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေတောင် ရပ်ကွက်",
+      "en": "Shwe Taung Quarter",
+      "slug": "shwe-taung-quarter-0901008"
+    },
+    "code": {
+      "id": "0901008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီးလုံ ကျေးရွာအုပ်စု",
+      "en": "Tee Lon Village Tract",
+      "slug": "tee-lon-village-tract-0901210"
+    },
+    "code": {
+      "id": "0901210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0901007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-0901007"
+    },
+    "code": {
+      "id": "0901007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002001701",
+      "level": 3,
+      "name": {
+        "local": "လွိုင်ကော်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002001701",
+        "level": 3,
+        "name": {
+          "local": "လွိုင်ကော်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0901007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

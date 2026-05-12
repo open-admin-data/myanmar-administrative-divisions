@@ -1,0 +1,392 @@
+[
+  {
+    "id": "0768001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) (အထက်ပိုင်း) ရပ်ကွက်",
+      "en": "No (1) (Ah Htet Paing) Quarter",
+      "slug": "no-1-ah-htet-paing-quarter-0768001"
+    },
+    "code": {
+      "id": "0768001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0768002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) (အလယ်ပိုင်း) ရပ်ကွက်",
+      "en": "No (2) (Ah Lel Paing) Quarter",
+      "slug": "no-2-ah-lel-paing-quarter-0768002"
+    },
+    "code": {
+      "id": "0768002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0768003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) (အောက်ပိုင်း) ရပ်ကွက်",
+      "en": "No (3) (Auk Paing) Quarter",
+      "slug": "no-3-auk-paing-quarter-0768003"
+    },
+    "code": {
+      "id": "0768003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0768004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) (ရွာသစ်) ရပ်ကွက်",
+      "en": "No (4) (Ywar Thit) Quarter",
+      "slug": "no-4-ywar-thit-quarter-0768004"
+    },
+    "code": {
+      "id": "0768004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0768005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) (ကူးတို့ဆိပ်) ရပ်ကွက်",
+      "en": "No (5) (Ku Toet Seik) Quarter",
+      "slug": "no-5-ku-toet-seik-quarter-0768005"
+    },
+    "code": {
+      "id": "0768005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0768006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) (မော်လှမော်) ရပ်ကွက်",
+      "en": "No (6) (Maw Hla Maw) Quarter",
+      "slug": "no-6-maw-hla-maw-quarter-0768006"
+    },
+    "code": {
+      "id": "0768006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016703",
+      "level": 3,
+      "name": {
+        "local": "တန်းလွဲရွာမ",
+        "en": "Tan Hlwe Ywar Ma",
+        "slug": "tan-hlwe-ywar-ma-MMR012016703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016703",
+        "level": 3,
+        "name": {
+          "local": "တန်းလွဲရွာမ",
+          "en": "Tan Hlwe Ywar Ma",
+          "slug": "tan-hlwe-ywar-ma-MMR012016703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0768006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

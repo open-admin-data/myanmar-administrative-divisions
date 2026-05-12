@@ -1,0 +1,226 @@
+[
+  {
+    "id": "MMR012007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါက်တော",
+      "en": "Pauktaw",
+      "slug": "pauktaw-MMR012007701"
+    },
+    "code": {
+      "id": "MMR012007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D001",
+      "level": 2,
+      "name": {
+        "local": "စစ်တွေခရိုင်",
+        "en": "Sittwe",
+        "slug": "sittwe-MMR012D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်တွေခရိုင်",
+          "en": "Sittwe",
+          "slug": "sittwe-MMR012D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.18098",
+      "lon": "93.06817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပုဏ္ဏားကျွန်း",
+      "en": "Ponnagyun",
+      "slug": "ponnagyun-MMR012002701"
+    },
+    "code": {
+      "id": "MMR012002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D001",
+      "level": 2,
+      "name": {
+        "local": "စစ်တွေခရိုင်",
+        "en": "Sittwe",
+        "slug": "sittwe-MMR012D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်တွေခရိုင်",
+          "en": "Sittwe",
+          "slug": "sittwe-MMR012D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 96
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.33199",
+      "lon": "93.0043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရသေ့တောင်",
+      "en": "Rathedaung",
+      "slug": "rathedaung-MMR012008701"
+    },
+    "code": {
+      "id": "MMR012008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D001",
+      "level": 2,
+      "name": {
+        "local": "စစ်တွေခရိုင်",
+        "en": "Sittwe",
+        "slug": "sittwe-MMR012D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်တွေခရိုင်",
+          "en": "Sittwe",
+          "slug": "sittwe-MMR012D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 92
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.48215",
+      "lon": "92.75606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "စစ်တွေ",
+      "en": "Sittwe",
+      "slug": "sittwe-MMR012001701"
+    },
+    "code": {
+      "id": "MMR012001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D001",
+      "level": 2,
+      "name": {
+        "local": "စစ်တွေခရိုင်",
+        "en": "Sittwe",
+        "slug": "sittwe-MMR012D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D001",
+        "level": 2,
+        "name": {
+          "local": "စစ်တွေခရိုင်",
+          "en": "Sittwe",
+          "slug": "sittwe-MMR012D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.13727",
+      "lon": "92.88551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

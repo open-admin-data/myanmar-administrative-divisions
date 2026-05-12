@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1364001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1364001"
+    },
+    "code": {
+      "id": "1364001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003002702",
+      "level": 3,
+      "name": {
+        "local": "ပိုင်ကျုံ",
+        "en": "Paingkyon",
+        "slug": "paingkyon-MMR003002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003002702",
+        "level": 3,
+        "name": {
+          "local": "ပိုင်ကျုံ",
+          "en": "Paingkyon",
+          "slug": "paingkyon-MMR003002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1364001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1364002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1364002"
+    },
+    "code": {
+      "id": "1364002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003002702",
+      "level": 3,
+      "name": {
+        "local": "ပိုင်ကျုံ",
+        "en": "Paingkyon",
+        "slug": "paingkyon-MMR003002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003002702",
+        "level": 3,
+        "name": {
+          "local": "ပိုင်ကျုံ",
+          "en": "Paingkyon",
+          "slug": "paingkyon-MMR003002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1364002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1364003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1364003"
+    },
+    "code": {
+      "id": "1364003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003002702",
+      "level": 3,
+      "name": {
+        "local": "ပိုင်ကျုံ",
+        "en": "Paingkyon",
+        "slug": "paingkyon-MMR003002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003002702",
+        "level": 3,
+        "name": {
+          "local": "ပိုင်ကျုံ",
+          "en": "Paingkyon",
+          "slug": "paingkyon-MMR003002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1364003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1364004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1364004"
+    },
+    "code": {
+      "id": "1364004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003002702",
+      "level": 3,
+      "name": {
+        "local": "ပိုင်ကျုံ",
+        "en": "Paingkyon",
+        "slug": "paingkyon-MMR003002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003002702",
+        "level": 3,
+        "name": {
+          "local": "ပိုင်ကျုံ",
+          "en": "Paingkyon",
+          "slug": "paingkyon-MMR003002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1364004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1364005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1364005"
+    },
+    "code": {
+      "id": "1364005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003002702",
+      "level": 3,
+      "name": {
+        "local": "ပိုင်ကျုံ",
+        "en": "Paingkyon",
+        "slug": "paingkyon-MMR003002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003002702",
+        "level": 3,
+        "name": {
+          "local": "ပိုင်ကျုံ",
+          "en": "Paingkyon",
+          "slug": "paingkyon-MMR003002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1364005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

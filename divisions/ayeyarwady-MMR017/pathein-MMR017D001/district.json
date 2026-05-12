@@ -1,0 +1,48 @@
+{
+  "id": "MMR017D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ပုသိမ်ခရိုင်",
+    "en": "Pathein",
+    "slug": "pathein-MMR017D001"
+  },
+  "code": {
+    "id": "MMR017D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017",
+    "level": 1,
+    "name": {
+      "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "en": "Ayeyarwady",
+      "slug": "ayeyarwady-MMR017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 15,
+    "ward": 590
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.9626",
+    "lon": "94.8047"
+  },
+  "metadata": {},
+  "source": {}
+}

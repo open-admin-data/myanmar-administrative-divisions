@@ -1,0 +1,48 @@
+{
+  "id": "MMR004D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မတူပီခရိုင်",
+    "en": "Matupi",
+    "slug": "matupi-MMR004D004"
+  },
+  "code": {
+    "id": "MMR004D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004",
+    "level": 1,
+    "name": {
+      "local": "ချင်းပြည်နယ်",
+      "en": "Chin",
+      "slug": "chin-MMR004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 5,
+    "ward": 177
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.6429",
+    "lon": "93.183"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1261002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက္ကော် ရပ်ကွက်",
+      "en": "Kyeik Kaw Quarter",
+      "slug": "kyeik-kaw-quarter-1261002"
+    },
+    "code": {
+      "id": "1261002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007702",
+      "level": 3,
+      "name": {
+        "local": "သုဝဏ္ဏဝတီ",
+        "en": "Thuwunnawady",
+        "slug": "thuwunnawady-MMR011007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007702",
+        "level": 3,
+        "name": {
+          "local": "သုဝဏ္ဏဝတီ",
+          "en": "Thuwunnawady",
+          "slug": "thuwunnawady-MMR011007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1261002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1261003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကြား ရပ်ကွက်",
+      "en": "Taung Kyar Quarter",
+      "slug": "taung-kyar-quarter-1261003"
+    },
+    "code": {
+      "id": "1261003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007702",
+      "level": 3,
+      "name": {
+        "local": "သုဝဏ္ဏဝတီ",
+        "en": "Thuwunnawady",
+        "slug": "thuwunnawady-MMR011007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007702",
+        "level": 3,
+        "name": {
+          "local": "သုဝဏ္ဏဝတီ",
+          "en": "Thuwunnawady",
+          "slug": "thuwunnawady-MMR011007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1261003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1261001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ဆိပ် ရပ်ကွက်",
+      "en": "Thein Seik Quarter",
+      "slug": "thein-seik-quarter-1261001"
+    },
+    "code": {
+      "id": "1261001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007702",
+      "level": 3,
+      "name": {
+        "local": "သုဝဏ္ဏဝတီ",
+        "en": "Thuwunnawady",
+        "slug": "thuwunnawady-MMR011007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007702",
+        "level": 3,
+        "name": {
+          "local": "သုဝဏ္ဏဝတီ",
+          "en": "Thuwunnawady",
+          "slug": "thuwunnawady-MMR011007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1261001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1370001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1370001"
+    },
+    "code": {
+      "id": "1370001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1370002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1370002"
+    },
+    "code": {
+      "id": "1370002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1370003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1370003"
+    },
+    "code": {
+      "id": "1370003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1370004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1370004"
+    },
+    "code": {
+      "id": "1370004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1370005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1370005"
+    },
+    "code": {
+      "id": "1370005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1370006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1370006"
+    },
+    "code": {
+      "id": "1370006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003007703",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ဒုံ",
+        "en": "Kyaikdon",
+        "slug": "kyaikdon-MMR003007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့ကရိတ်ခရိုင်",
+          "en": "Kawkareik",
+          "slug": "kawkareik-MMR003D003"
+        }
+      },
+      {
+        "id": "MMR003007703",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ဒုံ",
+          "en": "Kyaikdon",
+          "slug": "kyaikdon-MMR003007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1370006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

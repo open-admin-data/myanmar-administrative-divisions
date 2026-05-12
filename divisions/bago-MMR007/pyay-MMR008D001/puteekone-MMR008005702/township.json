@@ -1,0 +1,56 @@
+{
+  "id": "MMR008005702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပုတီးကုန်း",
+    "en": "Puteekone",
+    "slug": "puteekone-MMR008005702"
+  },
+  "code": {
+    "id": "MMR008005702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D001",
+    "level": 2,
+    "name": {
+      "local": "ပြည်ခရိုင်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.57236",
+    "lon": "95.45645"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "MMR017D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မြောင်းမြခရိုင်",
+    "en": "Myaungmya",
+    "slug": "myaungmya-MMR017D003"
+  },
+  "code": {
+    "id": "MMR017D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017",
+    "level": 1,
+    "name": {
+      "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "en": "Ayeyarwady",
+      "slug": "ayeyarwady-MMR017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 364
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.6343",
+    "lon": "95.1056"
+  },
+  "metadata": {},
+  "source": {}
+}

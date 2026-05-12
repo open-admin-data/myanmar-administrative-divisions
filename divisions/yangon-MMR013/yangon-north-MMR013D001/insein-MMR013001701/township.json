@@ -1,0 +1,56 @@
+{
+  "id": "MMR013001701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အင်းစိန်",
+    "en": "Insein",
+    "slug": "insein-MMR013001701"
+  },
+  "code": {
+    "id": "MMR013001701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D001",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+      "en": "Yangon (North)",
+      "slug": "yangon-north-MMR013D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.90177",
+    "lon": "96.09596"
+  },
+  "metadata": {},
+  "source": {}
+}

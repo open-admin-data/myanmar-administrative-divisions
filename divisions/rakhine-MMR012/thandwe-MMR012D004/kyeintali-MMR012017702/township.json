@@ -1,0 +1,56 @@
+{
+  "id": "MMR012017702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျိန္တလီ",
+    "en": "Kyeintali",
+    "slug": "kyeintali-MMR012017702"
+  },
+  "code": {
+    "id": "MMR012017702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D004",
+    "level": 2,
+    "name": {
+      "local": "သံတွဲခရိုင်",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D004",
+      "level": 2,
+      "name": {
+        "local": "သံတွဲခရိုင်",
+        "en": "Thandwe",
+        "slug": "thandwe-MMR012D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.00712",
+    "lon": "94.49141"
+  },
+  "metadata": {},
+  "source": {}
+}

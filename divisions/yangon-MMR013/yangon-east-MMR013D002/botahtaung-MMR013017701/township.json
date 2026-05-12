@@ -1,0 +1,56 @@
+{
+  "id": "MMR013017701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဗိုလ်တထောင်",
+    "en": "Botahtaung",
+    "slug": "botahtaung-MMR013017701"
+  },
+  "code": {
+    "id": "MMR013017701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D002",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D002",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+        "en": "Yangon (East)",
+        "slug": "yangon-east-MMR013D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.77197",
+    "lon": "96.16971"
+  },
+  "metadata": {},
+  "source": {}
+}

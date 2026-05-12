@@ -1,0 +1,56 @@
+{
+  "id": "MMR004009701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပလက်ဝ",
+    "en": "Paletwa",
+    "slug": "paletwa-MMR004009701"
+  },
+  "code": {
+    "id": "MMR004009701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004D004",
+    "level": 2,
+    "name": {
+      "local": "မတူပီခရိုင်",
+      "en": "Matupi",
+      "slug": "matupi-MMR004D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 101
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.30441",
+    "lon": "92.85461"
+  },
+  "metadata": {},
+  "source": {}
+}

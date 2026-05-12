@@ -1,0 +1,392 @@
+[
+  {
+    "id": "0268003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းချမ်းသာ ရပ်ကွက်",
+      "en": "Min Chan Thar Quarter",
+      "slug": "min-chan-thar-quarter-0268003"
+    },
+    "code": {
+      "id": "0268003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0268006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းသီရိ ရပ်ကွက်",
+      "en": "Min Thi Ri Quarter",
+      "slug": "min-thi-ri-quarter-0268006"
+    },
+    "code": {
+      "id": "0268006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0268005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းသစ္စာ ရပ်ကွက်",
+      "en": "Min Thit Sar Quarter",
+      "slug": "min-thit-sar-quarter-0268005"
+    },
+    "code": {
+      "id": "0268005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0268004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းသုခ ရပ်ကွက်",
+      "en": "Min Thu Kha Quarter",
+      "slug": "min-thu-kha-quarter-0268004"
+    },
+    "code": {
+      "id": "0268004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0268001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းရာဇာ ရပ်ကွက်",
+      "en": "Min Yar Zar Quarter",
+      "slug": "min-yar-zar-quarter-0268001"
+    },
+    "code": {
+      "id": "0268001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0268002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဇေယျာ ရပ်ကွက်",
+      "en": "Min Zay Yar Quarter",
+      "slug": "min-zay-yar-quarter-0268002"
+    },
+    "code": {
+      "id": "0268002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005021702",
+      "level": 3,
+      "name": {
+        "local": "မော်လူး",
+        "en": "Maw Lu",
+        "slug": "maw-lu-MMR005021702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      },
+      {
+        "id": "MMR005021702",
+        "level": 3,
+        "name": {
+          "local": "မော်လူး",
+          "en": "Maw Lu",
+          "slug": "maw-lu-MMR005021702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0268002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

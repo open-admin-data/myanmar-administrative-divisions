@@ -1,0 +1,56 @@
+{
+  "id": "MMR017015701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အိမ်မဲ",
+    "en": "Einme",
+    "slug": "einme-MMR017015701"
+  },
+  "code": {
+    "id": "MMR017015701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D003",
+    "level": 2,
+    "name": {
+      "local": "မြောင်းမြခရိုင်",
+      "en": "Myaungmya",
+      "slug": "myaungmya-MMR017D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D003",
+      "level": 2,
+      "name": {
+        "local": "မြောင်းမြခရိုင်",
+        "en": "Myaungmya",
+        "slug": "myaungmya-MMR017D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.8962",
+    "lon": "95.1805"
+  },
+  "metadata": {},
+  "source": {}
+}

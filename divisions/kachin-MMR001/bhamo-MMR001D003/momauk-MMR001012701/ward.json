@@ -1,0 +1,3642 @@
+[
+  {
+    "id": "0115002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလင်းကောင် ရပ်ကွက်",
+      "en": "Ah Lin Kawng Quarter",
+      "slug": "ah-lin-kawng-quarter-0115002"
+    },
+    "code": {
+      "id": "0115002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အူထန်ယန် ကျေးရွာအုပ်စု",
+      "en": "Au Htan Yang Village Tract",
+      "slug": "au-htan-yang-village-tract-0115242"
+    },
+    "code": {
+      "id": "0115242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘလောင်ကောင် ကျေးရွာအုပ်စု",
+      "en": "Ba Lawng Kawng Village Tract",
+      "slug": "ba-lawng-kawng-village-tract-0115229"
+    },
+    "code": {
+      "id": "0115229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွမ်ကထောင် ကျေးရွာအုပ်စု",
+      "en": "Bum Ka Htaung Village Tract",
+      "slug": "bum-ka-htaung-village-tract-0115230"
+    },
+    "code": {
+      "id": "0115230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘွမ်တောန် ကျေးရွာအုပ်စု",
+      "en": "Bum Tawm Village Tract",
+      "slug": "bum-tawm-village-tract-0115234"
+    },
+    "code": {
+      "id": "0115234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိန်ဂါယန် ကျေးရွာအုပ်စု",
+      "en": "Ding Ga Yang Village Tract",
+      "slug": "ding-ga-yang-village-tract-0115240"
+    },
+    "code": {
+      "id": "0115240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွယ်ကထောင် ကျေးရွာအုပ်စု",
+      "en": "Gwei Ka Htaung Village Tract",
+      "slug": "gwei-ka-htaung-village-tract-0115205"
+    },
+    "code": {
+      "id": "0115205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရိန်းမူးဒန် ကျေးရွာအုပ်စု",
+      "en": "Hka Rein Mu Dan Village Tract",
+      "slug": "hka-rein-mu-dan-village-tract-0115236"
+    },
+    "code": {
+      "id": "0115236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှင်းအီ ကျေးရွာအုပ်စု",
+      "en": "Hnin Ei Village Tract",
+      "slug": "hnin-ei-village-tract-0115214"
+    },
+    "code": {
+      "id": "0115214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖကောန် ကျေးရွာအုပ်စု",
+      "en": "Hpa Kawm Village Tract",
+      "slug": "hpa-kawm-village-tract-0115206"
+    },
+    "code": {
+      "id": "0115206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖာကယ် ကျေးရွာအုပ်စု",
+      "en": "Hpar Kei Village Tract",
+      "slug": "hpar-kei-village-tract-0115245"
+    },
+    "code": {
+      "id": "0115245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ဘောမိုင်းကျင်း ကျေးရွာအုပ်စု",
+      "en": "In Baw Mai Kyin Village Tract",
+      "slug": "in-baw-mai-kyin-village-tract-0115241"
+    },
+    "code": {
+      "id": "0115241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျခန်းဒပ် ကျေးရွာအုပ်စု",
+      "en": "Ja Hkan Dat Village Tract",
+      "slug": "ja-hkan-dat-village-tract-0115204"
+    },
+    "code": {
+      "id": "0115204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျရီဒဂေါ် ကျေးရွာအုပ်စု",
+      "en": "Ja Ri Da Gaw Village Tract",
+      "slug": "ja-ri-da-gaw-village-tract-0115202"
+    },
+    "code": {
+      "id": "0115202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကလဲချက် ကျေးရွာအုပ်စု",
+      "en": "Ka Le Chet Village Tract",
+      "slug": "ka-le-chet-village-tract-0115227"
+    },
+    "code": {
+      "id": "0115227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းဆာ ကျေးရွာအုပ်စု",
+      "en": "Kawng Hsa Village Tract",
+      "slug": "kawng-hsa-village-tract-0115232"
+    },
+    "code": {
+      "id": "0115232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခါနန် ရပ်ကွက်",
+      "en": "Khar Nan Quarter",
+      "slug": "khar-nan-quarter-0115001"
+    },
+    "code": {
+      "id": "0115001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခုံဆင့် ကျေးရွာအုပ်စု",
+      "en": "Khon Sint Village Tract",
+      "slug": "khon-sint-village-tract-0115212"
+    },
+    "code": {
+      "id": "0115212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်ပြီ ကျေးရွာအုပ်စု",
+      "en": "Kon Pyi Village Tract",
+      "slug": "kon-pyi-village-tract-0115225"
+    },
+    "code": {
+      "id": "0115225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်ဘန် ကျေးရွာအုပ်စု",
+      "en": "Kun Bang Village Tract",
+      "slug": "kun-bang-village-tract-0115203"
+    },
+    "code": {
+      "id": "0115203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းရှီး (ပွမ်းရှီး) ကျေးရွာအုပ်စု",
+      "en": "Kun Shee (Pun Shee) Village Tract",
+      "slug": "kun-shee-pun-shee-village-tract-0115231"
+    },
+    "code": {
+      "id": "0115231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်စခန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sa Khan Village Tract",
+      "slug": "kyauk-sa-khan-village-tract-0115201"
+    },
+    "code": {
+      "id": "0115201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျေးနန်းဝိုင်း ရပ်ကွက်",
+      "en": "Kyay Nan Waing Quarter",
+      "slug": "kyay-nan-waing-quarter-0115003"
+    },
+    "code": {
+      "id": "0115003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်လွမ်လီဆော ကျေးရွာအုပ်စု",
+      "en": "Lai Lum Li Saw Village Tract",
+      "slug": "lai-lum-li-saw-village-tract-0115252"
+    },
+    "code": {
+      "id": "0115252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လော့ခွမ် ကျေးရွာအုပ်စု",
+      "en": "Lawt Hkum Village Tract",
+      "slug": "lawt-hkum-village-tract-0115235"
+    },
+    "code": {
+      "id": "0115235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မခွယ် ကျေးရွာအုပ်စု",
+      "en": "Ma Khwei Village Tract",
+      "slug": "ma-khwei-village-tract-0115216"
+    },
+    "code": {
+      "id": "0115216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျန် ကျေးရွာအုပ်စု",
+      "en": "Ma Kyang Village Tract",
+      "slug": "ma-kyang-village-tract-0115239"
+    },
+    "code": {
+      "id": "0115239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရူဝါထန် ကျေးရွာအုပ်စု",
+      "en": "Ma Ru War Htang Village Tract",
+      "slug": "ma-ru-war-htang-village-tract-0115208"
+    },
+    "code": {
+      "id": "0115208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းခတ် ကျေးရွာအုပ်စု",
+      "en": "Maing Hkat Village Tract",
+      "slug": "maing-hkat-village-tract-0115219"
+    },
+    "code": {
+      "id": "0115219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံမော်ကောင် ကျေးရွာအုပ်စု",
+      "en": "Man Maw Kawng Village Tract",
+      "slug": "man-maw-kawng-village-tract-0115228"
+    },
+    "code": {
+      "id": "0115228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံမော် ကျေးရွာအုပ်စု",
+      "en": "Man Maw Village Tract",
+      "slug": "man-maw-village-tract-0115250"
+    },
+    "code": {
+      "id": "0115250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်နောင် ကျေးရွာအုပ်စု",
+      "en": "Man Nawng Village Tract",
+      "slug": "man-nawng-village-tract-0115213"
+    },
+    "code": {
+      "id": "0115213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံပိန် (ပိန်) ကျေးရွာအုပ်စု",
+      "en": "Man Ping (Ping) Village Tract",
+      "slug": "man-ping-ping-village-tract-0115251"
+    },
+    "code": {
+      "id": "0115251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံပုံ ကျေးရွာအုပ်စု",
+      "en": "Man Pong Village Tract",
+      "slug": "man-pong-village-tract-0115200"
+    },
+    "code": {
+      "id": "0115200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံသဲ ကျေးရွာအုပ်စု",
+      "en": "Man Thea Village Tract",
+      "slug": "man-thea-village-tract-0115248"
+    },
+    "code": {
+      "id": "0115248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းဂျမ်း ကျေးရွာအုပ်စု",
+      "en": "Min Jang Village Tract",
+      "slug": "min-jang-village-tract-0115210"
+    },
+    "code": {
+      "id": "0115210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ် ကျေးရွာအုပ်စု",
+      "en": "Myo Thit Village Tract",
+      "slug": "myo-thit-village-tract-0115209"
+    },
+    "code": {
+      "id": "0115209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားလုံ ကျေးရွာအုပ်စု",
+      "en": "Nar Lon Village Tract",
+      "slug": "nar-lon-village-tract-0115247"
+    },
+    "code": {
+      "id": "0115247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်းကုန် ကျေးရွာအုပ်စု",
+      "en": "Nawng Kon Village Tract",
+      "slug": "nawng-kon-village-tract-0115218"
+    },
+    "code": {
+      "id": "0115218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကွမ် (နောင်ကောန်) ကျေးရွာအုပ်စု",
+      "en": "Nawng Kun (Nawng Kawn) Village Tract",
+      "slug": "nawng-kun-nawng-kawn-village-tract-0115217"
+    },
+    "code": {
+      "id": "0115217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နွမ်းလန်း ကျေးရွာအုပ်စု",
+      "en": "Num Lang Village Tract",
+      "slug": "num-lang-village-tract-0115221"
+    },
+    "code": {
+      "id": "0115221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ချိုးဟိုင် ကျေးရွာအုပ်စု",
+      "en": "Pan Choe Hai Village Tract",
+      "slug": "pan-choe-hai-village-tract-0115215"
+    },
+    "code": {
+      "id": "0115215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ခတ် ကျေးရွာအုပ်စု",
+      "en": "Pan Hkat Village Tract",
+      "slug": "pan-hkat-village-tract-0115237"
+    },
+    "code": {
+      "id": "0115237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်မူ ကျေးရွာအုပ်စု",
+      "en": "Pan Mu Village Tract",
+      "slug": "pan-mu-village-tract-0115224"
+    },
+    "code": {
+      "id": "0115224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပရန်ဟူဒုံး ကျေးရွာအုပ်စု",
+      "en": "Prang Hu Dong Village Tract",
+      "slug": "prang-hu-dong-village-tract-0115207"
+    },
+    "code": {
+      "id": "0115207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပရန်ငေါန် ကျေးရွာအုပ်စု",
+      "en": "Prang Ngawn Village Tract",
+      "slug": "prang-ngawn-village-tract-0115233"
+    },
+    "code": {
+      "id": "0115233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိန်လုံကဂျီ ကျေးရွာအုပ်စု",
+      "en": "Sein Long Kaji Village Tract",
+      "slug": "sein-long-kaji-village-tract-0115226"
+    },
+    "code": {
+      "id": "0115226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိန်လုံ ကျေးရွာအုပ်စု",
+      "en": "Sein Long Village Tract",
+      "slug": "sein-long-village-tract-0115223"
+    },
+    "code": {
+      "id": "0115223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီကော် ကျေးရွာအုပ်စု",
+      "en": "Si Kaw Village Tract",
+      "slug": "si-kaw-village-tract-0115211"
+    },
+    "code": {
+      "id": "0115211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာလီ ကျေးရွာအုပ်စု",
+      "en": "Tar Li Village Tract",
+      "slug": "tar-li-village-tract-0115220"
+    },
+    "code": {
+      "id": "0115220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Tar Sai Village Tract",
+      "slug": "tar-sai-village-tract-0115246"
+    },
+    "code": {
+      "id": "0115246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိန်ဘုရား ကျေးရွာအုပ်စု",
+      "en": "Tein Hpa Yar Village Tract",
+      "slug": "tein-hpa-yar-village-tract-0115243"
+    },
+    "code": {
+      "id": "0115243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိန်လုံ ကျေးရွာအုပ်စု",
+      "en": "Thein Lon Village Tract",
+      "slug": "thein-lon-village-tract-0115244"
+    },
+    "code": {
+      "id": "0115244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုန်ဟုန်းယန် ကျေးရွာအုပ်စု",
+      "en": "Ton Huong Yang Village Tract",
+      "slug": "ton-huong-yang-village-tract-0115249"
+    },
+    "code": {
+      "id": "0115249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းခမ်း ကျေးရွာအုပ်စု",
+      "en": "Wein Hkam Village Tract",
+      "slug": "wein-hkam-village-tract-0115238"
+    },
+    "code": {
+      "id": "0115238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0115222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးဝုန်းဂေါ့ ကျေးရွာအုပ်စု",
+      "en": "Zee Wone Gawt Village Tract",
+      "slug": "zee-wone-gawt-village-tract-0115222"
+    },
+    "code": {
+      "id": "0115222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012701",
+      "level": 3,
+      "name": {
+        "local": "မိုးမောက်",
+        "en": "Momauk",
+        "slug": "momauk-MMR001012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012701",
+        "level": 3,
+        "name": {
+          "local": "မိုးမောက်",
+          "en": "Momauk",
+          "slug": "momauk-MMR001012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0115222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

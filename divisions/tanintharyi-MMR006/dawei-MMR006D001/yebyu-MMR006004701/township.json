@@ -1,0 +1,56 @@
+{
+  "id": "MMR006004701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရေဖြူ",
+    "en": "Yebyu",
+    "slug": "yebyu-MMR006004701"
+  },
+  "code": {
+    "id": "MMR006004701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR006D001",
+    "level": 2,
+    "name": {
+      "local": "ထားဝယ်ခရိုင်",
+      "en": "Dawei",
+      "slug": "dawei-MMR006D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.24591",
+    "lon": "98.20291"
+  },
+  "metadata": {},
+  "source": {}
+}

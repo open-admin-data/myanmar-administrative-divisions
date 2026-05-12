@@ -1,0 +1,56 @@
+{
+  "id": "MMR007009702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကေတုမတီ",
+    "en": "Kaytumati",
+    "slug": "kaytumati-MMR007009702"
+  },
+  "code": {
+    "id": "MMR007009702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D002",
+    "level": 2,
+    "name": {
+      "local": "တောင်ငူခရိုင်",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.01432",
+    "lon": "96.40357"
+  },
+  "metadata": {},
+  "source": {}
+}

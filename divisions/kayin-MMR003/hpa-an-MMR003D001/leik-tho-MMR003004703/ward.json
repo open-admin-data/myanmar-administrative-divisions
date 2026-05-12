@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1361001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1361001"
+    },
+    "code": {
+      "id": "1361001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1361002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1361002"
+    },
+    "code": {
+      "id": "1361002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1361003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1361003"
+    },
+    "code": {
+      "id": "1361003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1361004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1361004"
+    },
+    "code": {
+      "id": "1361004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1361005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1361005"
+    },
+    "code": {
+      "id": "1361005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1361006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1361006"
+    },
+    "code": {
+      "id": "1361006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003004703",
+      "level": 3,
+      "name": {
+        "local": "လိပ်သို",
+        "en": "Leik Tho",
+        "slug": "leik-tho-MMR003004703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D001",
+        "level": 2,
+        "name": {
+          "local": "ဘားအံခရိုင်",
+          "en": "Hpa-An",
+          "slug": "hpa-an-MMR003D001"
+        }
+      },
+      {
+        "id": "MMR003004703",
+        "level": 3,
+        "name": {
+          "local": "လိပ်သို",
+          "en": "Leik Tho",
+          "slug": "leik-tho-MMR003004703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1361006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR012006702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကမ်းထောင့်ကြီး",
+    "en": "Kanhtauntkyi",
+    "slug": "kanhtauntkyi-MMR012006702"
+  },
+  "code": {
+    "id": "MMR012006702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012D005",
+    "level": 2,
+    "name": {
+      "local": "မြောက်ဦးခရိုင်",
+      "en": "Mrauk-U",
+      "slug": "mrauk-u-MMR012D005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.85695",
+    "lon": "93.75902"
+  },
+  "metadata": {},
+  "source": {}
+}

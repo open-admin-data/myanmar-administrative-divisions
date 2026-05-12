@@ -1,0 +1,56 @@
+{
+  "id": "MMR013018701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+    "en": "Dagon Myothit (South)",
+    "slug": "dagon-myothit-south-MMR013018701"
+  },
+  "code": {
+    "id": "MMR013018701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D002",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D002",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+        "en": "Yangon (East)",
+        "slug": "yangon-east-MMR013D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.84016",
+    "lon": "96.22582"
+  },
+  "metadata": {},
+  "source": {}
+}

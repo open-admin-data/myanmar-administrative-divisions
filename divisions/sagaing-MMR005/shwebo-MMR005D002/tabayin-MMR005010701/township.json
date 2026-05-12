@@ -1,0 +1,56 @@
+{
+  "id": "MMR005010701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဒီပဲယင်း",
+    "en": "Tabayin",
+    "slug": "tabayin-MMR005010701"
+  },
+  "code": {
+    "id": "MMR005010701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D002",
+    "level": 2,
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 58
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.68529",
+    "lon": "95.32121"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1119005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီး ရပ်ကွက်",
+      "en": "Hpa Yar Gyi Quarter",
+      "slug": "hpa-yar-gyi-quarter-1119005"
+    },
+    "code": {
+      "id": "1119005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013043701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံ",
+        "en": "Dagon",
+        "slug": "dagon-MMR013043701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013043701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံ",
+          "en": "Dagon",
+          "slug": "dagon-MMR013043701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1119005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1119003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်လမ်း (အရှေ့) ရပ်ကွက်",
+      "en": "Pyay Lan (East) Quarter",
+      "slug": "pyay-lan-east-quarter-1119003"
+    },
+    "code": {
+      "id": "1119003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013043701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံ",
+        "en": "Dagon",
+        "slug": "dagon-MMR013043701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013043701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံ",
+          "en": "Dagon",
+          "slug": "dagon-MMR013043701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1119003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1119004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်လမ်း (အနောက်) ရပ်ကွက်",
+      "en": "Pyay Lan (West) Quarter",
+      "slug": "pyay-lan-west-quarter-1119004"
+    },
+    "code": {
+      "id": "1119004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013043701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံ",
+        "en": "Dagon",
+        "slug": "dagon-MMR013043701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013043701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံ",
+          "en": "Dagon",
+          "slug": "dagon-MMR013043701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1119004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1119002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဦးဝိစာရ ရပ်ကွက်",
+      "en": "U Wi Sa Ra Quarter",
+      "slug": "u-wi-sa-ra-quarter-1119002"
+    },
+    "code": {
+      "id": "1119002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013043701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံ",
+        "en": "Dagon",
+        "slug": "dagon-MMR013043701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013043701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံ",
+          "en": "Dagon",
+          "slug": "dagon-MMR013043701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1119002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1119001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယောမင်းကြီး ရပ်ကွက်",
+      "en": "Yaw Min Gyi Quarter",
+      "slug": "yaw-min-gyi-quarter-1119001"
+    },
+    "code": {
+      "id": "1119001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013043701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံ",
+        "en": "Dagon",
+        "slug": "dagon-MMR013043701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D004",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+          "en": "Yangon (West)",
+          "slug": "yangon-west-MMR013D004"
+        }
+      },
+      {
+        "id": "MMR013043701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံ",
+          "en": "Dagon",
+          "slug": "dagon-MMR013043701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1119001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

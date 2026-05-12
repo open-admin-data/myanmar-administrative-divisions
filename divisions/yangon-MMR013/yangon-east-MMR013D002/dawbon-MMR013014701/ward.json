@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1124009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-1124009"
+    },
+    "code": {
+      "id": "1124009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗမာအေး ရပ်ကွက်",
+      "en": "Bamar Aye Quarter",
+      "slug": "bamar-aye-quarter-1124002"
+    },
+    "code": {
+      "id": "1124002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်ထွန်းဇံ ရပ်ကွက်",
+      "en": "Bo Htun Zan Quarter",
+      "slug": "bo-htun-zan-quarter-1124003"
+    },
+    "code": {
+      "id": "1124003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြည်စု ရပ်ကွက်",
+      "en": "Kyi Su Quarter",
+      "slug": "kyi-su-quarter-1124004"
+    },
+    "code": {
+      "id": "1124004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမုတန်း ရပ်ကွက်",
+      "en": "La Mu Tan Quarter",
+      "slug": "la-mu-tan-quarter-1124010"
+    },
+    "code": {
+      "id": "1124010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ် ရပ်ကွက်",
+      "en": "Myo Thit Quarter",
+      "slug": "myo-thit-quarter-1124006"
+    },
+    "code": {
+      "id": "1124006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နွယ်အေး ရပ်ကွက်",
+      "en": "Nwe Aye Quarter",
+      "slug": "nwe-aye-quarter-1124001"
+    },
+    "code": {
+      "id": "1124001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုသိမ်မြေ ရပ်ကွက်",
+      "en": "Pa Thein Myay Ward Quarter",
+      "slug": "pa-thein-myay-ward-quarter-1124007"
+    },
+    "code": {
+      "id": "1124007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆေးစက် ရပ်ကွက်",
+      "en": "Say Sat Quarter",
+      "slug": "say-sat-quarter-1124005"
+    },
+    "code": {
+      "id": "1124005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သင်္ဘောကျင်း ရပ်ကွက်",
+      "en": "Thin Baw Kyin Quarter",
+      "slug": "thin-baw-kyin-quarter-1124014"
+    },
+    "code": {
+      "id": "1124014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါဆို ရပ်ကွက်",
+      "en": "War So Quarter",
+      "slug": "war-so-quarter-1124008"
+    },
+    "code": {
+      "id": "1124008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယမုံနာ (၁) ရပ်ကွက်",
+      "en": "Ya Mon Nar (1) Quarter",
+      "slug": "ya-mon-nar-1-quarter-1124012"
+    },
+    "code": {
+      "id": "1124012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယမုံနာ (၂) ရပ်ကွက်",
+      "en": "Ya Mon Nar (2) Quarter",
+      "slug": "ya-mon-nar-2-quarter-1124011"
+    },
+    "code": {
+      "id": "1124011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1124013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇေယျာသီရိ ရပ်ကွက်",
+      "en": "Zay Yar Thi Ri Quarter",
+      "slug": "zay-yar-thi-ri-quarter-1124013"
+    },
+    "code": {
+      "id": "1124013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013014701",
+      "level": 3,
+      "name": {
+        "local": "ဒေါပုံ",
+        "en": "Dawbon",
+        "slug": "dawbon-MMR013014701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013014701",
+        "level": 3,
+        "name": {
+          "local": "ဒေါပုံ",
+          "en": "Dawbon",
+          "slug": "dawbon-MMR013014701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1124013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

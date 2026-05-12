@@ -1,0 +1,56 @@
+{
+  "id": "MMR014015702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိုင်းနောင်",
+    "en": "Mongnawng",
+    "slug": "mongnawng-MMR014015702"
+  },
+  "code": {
+    "id": "MMR014015702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D002",
+    "level": 2,
+    "name": {
+      "local": "လွိုင်လင်ခရိုင်",
+      "en": "Loilen",
+      "slug": "loilen-MMR014D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D002",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်လင်ခရိုင်",
+        "en": "Loilen",
+        "slug": "loilen-MMR014D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.645",
+    "lon": "98.123"
+  },
+  "metadata": {},
+  "source": {}
+}

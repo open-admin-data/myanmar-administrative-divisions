@@ -1,0 +1,2732 @@
+[
+  {
+    "id": "1202200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အဘိုင်း ကျေးရွာအုပ်စု",
+      "en": "Ah Baing Village Tract",
+      "slug": "ah-baing-village-tract-1202200"
+    },
+    "code": {
+      "id": "1202200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုရားကြီး ကျေးရွာအုပ်စု",
+      "en": "Bo Yar Gyi Village Tract",
+      "slug": "bo-yar-gyi-village-tract-1202224"
+    },
+    "code": {
+      "id": "1202224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လှည်းလမ်းကူး ကျေးရွာအုပ်စု",
+      "en": "Hle Lan Ku Village Tract",
+      "slug": "hle-lan-ku-village-tract-1202204"
+    },
+    "code": {
+      "id": "1202204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငှက်ပျောတော ကျေးရွာအုပ်စု",
+      "en": "Hnget Pyaw Taw Village Tract",
+      "slug": "hnget-pyaw-taw-village-tract-1202221"
+    },
+    "code": {
+      "id": "1202221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖက္တလိပ် ကျေးရွာအုပ်စု",
+      "en": "Hpet Ka Leik Village Tract",
+      "slug": "hpet-ka-leik-village-tract-1202226"
+    },
+    "code": {
+      "id": "1202226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်္ဂပို ကျေးရွာအုပ်စု",
+      "en": "In Ga Po Village Tract",
+      "slug": "in-ga-po-village-tract-1202205"
+    },
+    "code": {
+      "id": "1202205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒိုင်ဒွတ် ကျေးရွာအုပ်စု",
+      "en": "Ka Daing Dut Village Tract",
+      "slug": "ka-daing-dut-village-tract-1202206"
+    },
+    "code": {
+      "id": "1202206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမ်းနီ ကျေးရွာအုပ်စု",
+      "en": "Kan Ni Village Tract",
+      "slug": "kan-ni-village-tract-1202207"
+    },
+    "code": {
+      "id": "1202207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံ့ကော် ရပ်ကွက်",
+      "en": "Kant Kaw Quarter",
+      "slug": "kant-kaw-quarter-1202005"
+    },
+    "code": {
+      "id": "1202005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော့ဘိန်း ကျေးရွာအုပ်စု",
+      "en": "Kawt Bein Village Tract",
+      "slug": "kawt-bein-village-tract-1202211"
+    },
+    "code": {
+      "id": "1202211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော့ထင်း ကျေးရွာအုပ်စု",
+      "en": "Kawt Htin Village Tract",
+      "slug": "kawt-htin-village-tract-1202210"
+    },
+    "code": {
+      "id": "1202210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော့စံနိုင် ရပ်ကွက်",
+      "en": "Kawt San Naing Quarter",
+      "slug": "kawt-san-naing-quarter-1202003"
+    },
+    "code": {
+      "id": "1202003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခလွန် ကျေးရွာအုပ်စု",
+      "en": "Kha Lun Village Tract",
+      "slug": "kha-lun-village-tract-1202230"
+    },
+    "code": {
+      "id": "1202230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခရွဲ ကျေးရွာအုပ်စု",
+      "en": "Kha Ywea Village Tract",
+      "slug": "kha-ywea-village-tract-1202208"
+    },
+    "code": {
+      "id": "1202208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကင်မွန်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Kin Mun Chaung Village Tract",
+      "slug": "kin-mun-chaung-village-tract-1202215"
+    },
+    "code": {
+      "id": "1202215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွင်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Kwin Ka Lay Village Tract",
+      "slug": "kwin-ka-lay-village-tract-1202232"
+    },
+    "code": {
+      "id": "1202232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက္ကသာ ကျေးရွာအုပ်စု",
+      "en": "Kyaik Ka Thar Village Tract",
+      "slug": "kyaik-ka-thar-village-tract-1202213"
+    },
+    "code": {
+      "id": "1202213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက်ပိ ကျေးရွာအုပ်စု",
+      "en": "Kyaik Pi Village Tract",
+      "slug": "kyaik-pi-village-tract-1202214"
+    },
+    "code": {
+      "id": "1202214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ကလပ် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ka Lat Village Tract",
+      "slug": "kyauk-ka-lat-village-tract-1202223"
+    },
+    "code": {
+      "id": "1202223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းရွာ ကျေးရွာအုပ်စု",
+      "en": "Kyaung Ywar Village Tract",
+      "slug": "kyaung-ywar-village-tract-1202212"
+    },
+    "code": {
+      "id": "1202212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက်ထီးရိုးရင်ပြင်တော် ကျေးရွာအုပ်စု",
+      "en": "Kyike Htee Yoe Yinpyintaw Village Tract",
+      "slug": "kyike-htee-yoe-yinpyintaw-village-tract-1202235"
+    },
+    "code": {
+      "id": "1202235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျူချောင် ကျေးရွာအုပ်စု",
+      "en": "Kyu Chaung Village Tract",
+      "slug": "kyu-chaung-village-tract-1202201"
+    },
+    "code": {
+      "id": "1202201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းတော ကျေးရွာအုပ်စု",
+      "en": "Kyun Taw Village Tract",
+      "slug": "kyun-taw-village-tract-1202220"
+    },
+    "code": {
+      "id": "1202220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မလော့ချောင် ကျေးရွာအုပ်စု",
+      "en": "Ma Lawt Chaung Village Tract",
+      "slug": "ma-lawt-chaung-village-tract-1202216"
+    },
+    "code": {
+      "id": "1202216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်းချောင်း ကွာရီရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Chaung Kwar Yi Ywar Thit Village Tract",
+      "slug": "ma-yan-chaung-kwar-yi-ywar-thit-village-tract-1202219"
+    },
+    "code": {
+      "id": "1202219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မာလာဖူး ကျေးရွာအုပ်စု",
+      "en": "Mar Lar Hpu Village Tract",
+      "slug": "mar-lar-hpu-village-tract-1202217"
+    },
+    "code": {
+      "id": "1202217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုက္ခမော့ ကျေးရွာအုပ်စု",
+      "en": "Moke Kha Mawt Village Tract",
+      "slug": "moke-kha-mawt-village-tract-1202209"
+    },
+    "code": {
+      "id": "1202209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုက္ခမူ ကျေးရွာအုပ်စု",
+      "en": "Moke Kha Mu Village Tract",
+      "slug": "moke-kha-mu-village-tract-1202218"
+    },
+    "code": {
+      "id": "1202218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုပ္ပလင် ကျေးရွာအုပ်စု",
+      "en": "Moke Pa Lin Village Tract",
+      "slug": "moke-pa-lin-village-tract-1202234"
+    },
+    "code": {
+      "id": "1202234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-1202002"
+    },
+    "code": {
+      "id": "1202002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပီတိ ကျေးရွာအုပ်စု",
+      "en": "Pi Ti Village Tract",
+      "slug": "pi-ti-village-tract-1202227"
+    },
+    "code": {
+      "id": "1202227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းကတိုးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Pyin Ka Toe Kone Village Tract",
+      "slug": "pyin-ka-toe-kone-village-tract-1202225"
+    },
+    "code": {
+      "id": "1202225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်တောင်း ကျေးရွာအုပ်စု",
+      "en": "Sit Taung Village Tract",
+      "slug": "sit-taung-village-tract-1202228"
+    },
+    "code": {
+      "id": "1202228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စွပ္ပနူး ကျေးရွာအုပ်စု",
+      "en": "Sut Pa Nu Village Tract",
+      "slug": "sut-pa-nu-village-tract-1202229"
+    },
+    "code": {
+      "id": "1202229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-1202004"
+    },
+    "code": {
+      "id": "1202004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်သူစု ရပ်ကွက်",
+      "en": "Taung Thu Su Quarter",
+      "slug": "taung-thu-su-quarter-1202006"
+    },
+    "code": {
+      "id": "1202006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ဇရပ် ကျေးရွာအုပ်စု",
+      "en": "Thein Za Yat Village Tract",
+      "slug": "thein-za-yat-village-tract-1202222"
+    },
+    "code": {
+      "id": "1202222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုံးခွ ကျေးရွာအုပ်စု",
+      "en": "Thone Gwa Village Tract",
+      "slug": "thone-gwa-village-tract-1202202"
+    },
+    "code": {
+      "id": "1202202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါးဘိုးချောင်း ကျေးရွာအုပ်စု",
+      "en": "War Boe Chaung Village Tract",
+      "slug": "war-boe-chaung-village-tract-1202231"
+    },
+    "code": {
+      "id": "1202231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းကံ ကျေးရွာအုပ်စု",
+      "en": "Win Kan Village Tract",
+      "slug": "win-kan-village-tract-1202203"
+    },
+    "code": {
+      "id": "1202203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇေယျာမွန် ရပ်ကွက်",
+      "en": "Zay Yar Mun Quarter",
+      "slug": "zay-yar-mun-quarter-1202001"
+    },
+    "code": {
+      "id": "1202001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးပြောင်း ကျေးရွာအုပ်စု",
+      "en": "Zee Pyaung Village Tract",
+      "slug": "zee-pyaung-village-tract-1202233"
+    },
+    "code": {
+      "id": "1202233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011009701",
+      "level": 3,
+      "name": {
+        "local": "ကျိုက်ထို",
+        "en": "Kyaikto",
+        "slug": "kyaikto-MMR011009701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011009701",
+        "level": 3,
+        "name": {
+          "local": "ကျိုက်ထို",
+          "en": "Kyaikto",
+          "slug": "kyaikto-MMR011009701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1202233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

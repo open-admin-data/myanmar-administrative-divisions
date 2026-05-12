@@ -1,0 +1,56 @@
+{
+  "id": "MMR007003702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "သက္ကလ",
+    "en": "Thetkala",
+    "slug": "thetkala-MMR007003702"
+  },
+  "code": {
+    "id": "MMR007003702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D001",
+    "level": 2,
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D001",
+      "level": 2,
+      "name": {
+        "local": "ပဲခူးခရိုင်",
+        "en": "Bago",
+        "slug": "bago-MMR007D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.02939",
+    "lon": "96.59657"
+  },
+  "metadata": {},
+  "source": {}
+}

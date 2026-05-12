@@ -1,0 +1,392 @@
+[
+  {
+    "id": "0269004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သိဒ္ဓိ ရပ်ကွက်",
+      "en": "Aung Theik Di Quarter",
+      "slug": "aung-theik-di-quarter-0269004"
+    },
+    "code": {
+      "id": "0269004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0269001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းအေးသာယာ ရပ်ကွက်",
+      "en": "Chan Aye Thar Yar Quarter",
+      "slug": "chan-aye-thar-yar-quarter-0269001"
+    },
+    "code": {
+      "id": "0269001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0269005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ဆည် ရပ်ကွက်",
+      "en": "Let Se Quarter",
+      "slug": "let-se-quarter-0269005"
+    },
+    "code": {
+      "id": "0269005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0269006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နဂါးပေါ် ရပ်ကွက်",
+      "en": "Nagar Paw Quarter",
+      "slug": "nagar-paw-quarter-0269006"
+    },
+    "code": {
+      "id": "0269006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0269002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်ကြီးအောင် ရပ်ကွက်",
+      "en": "Yan Gyi Aung Quarter",
+      "slug": "yan-gyi-aung-quarter-0269002"
+    },
+    "code": {
+      "id": "0269002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0269003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်နိုင်အေး ရပ်ကွက်",
+      "en": "Yan Naing Aye Quarter",
+      "slug": "yan-naing-aye-quarter-0269003"
+    },
+    "code": {
+      "id": "0269003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005007702",
+      "level": 3,
+      "name": {
+        "local": "ဇီးကုန်း",
+        "en": "Zee Kone",
+        "slug": "zee-kone-MMR005007702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      },
+      {
+        "id": "MMR005007702",
+        "level": 3,
+        "name": {
+          "local": "ဇီးကုန်း",
+          "en": "Zee Kone",
+          "slug": "zee-kone-MMR005007702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0269003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

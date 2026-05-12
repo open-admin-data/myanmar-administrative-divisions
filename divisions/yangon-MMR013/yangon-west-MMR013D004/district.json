@@ -1,0 +1,48 @@
+{
+  "id": "MMR013D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+    "en": "Yangon (West)",
+    "slug": "yangon-west-MMR013D004"
+  },
+  "code": {
+    "id": "MMR013D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013",
+    "level": 1,
+    "name": {
+      "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+      "en": "Yangon",
+      "slug": "yangon-MMR013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 12,
+    "ward": 157
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.8051",
+    "lon": "96.1417"
+  },
+  "metadata": {},
+  "source": {}
+}

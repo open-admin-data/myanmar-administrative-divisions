@@ -1,0 +1,48 @@
+{
+  "id": "MMR014D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "လွိုင်လင်ခရိုင်",
+    "en": "Loilen",
+    "slug": "loilen-MMR014D002"
+  },
+  "code": {
+    "id": "MMR014D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014",
+    "level": 1,
+    "name": {
+      "local": "ရှမ်းပြည်နယ်",
+      "en": "Shan",
+      "slug": "shan-MMR014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 12,
+    "ward": 202
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.3759",
+    "lon": "97.978"
+  },
+  "metadata": {},
+  "source": {}
+}

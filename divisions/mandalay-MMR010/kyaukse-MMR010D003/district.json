@@ -1,0 +1,48 @@
+{
+  "id": "MMR010D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ကျောက်ဆည်ခရိုင်",
+    "en": "Kyaukse",
+    "slug": "kyaukse-MMR010D003"
+  },
+  "code": {
+    "id": "MMR010D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010",
+    "level": 1,
+    "name": {
+      "local": "မန္တလေးတိုင်းဒေသကြီး",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 5,
+    "ward": 307
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.5884",
+    "lon": "96.0997"
+  },
+  "metadata": {},
+  "source": {}
+}

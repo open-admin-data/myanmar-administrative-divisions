@@ -1,0 +1,56 @@
+{
+  "id": "MMR005008701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျွန်းလှ",
+    "en": "Kyunhla",
+    "slug": "kyunhla-MMR005008701"
+  },
+  "code": {
+    "id": "MMR005008701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D010",
+    "level": 2,
+    "name": {
+      "local": "ကန့်ဘလူခရိုင်",
+      "en": "Kanbalu",
+      "slug": "kanbalu-MMR005D010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D010",
+      "level": 2,
+      "name": {
+        "local": "ကန့်ဘလူခရိုင်",
+        "en": "Kanbalu",
+        "slug": "kanbalu-MMR005D010"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.31964",
+    "lon": "95.5321"
+  },
+  "metadata": {},
+  "source": {}
+}

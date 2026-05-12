@@ -1,0 +1,56 @@
+{
+  "id": "MMR010015701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မြစ်သား",
+    "en": "Myittha",
+    "slug": "myittha-MMR010015701"
+  },
+  "code": {
+    "id": "MMR010015701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်ဆည်ခရိုင်",
+      "en": "Kyaukse",
+      "slug": "kyaukse-MMR010D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်ဆည်ခရိုင်",
+        "en": "Kyaukse",
+        "slug": "kyaukse-MMR010D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.42427",
+    "lon": "96.13086"
+  },
+  "metadata": {},
+  "source": {}
+}

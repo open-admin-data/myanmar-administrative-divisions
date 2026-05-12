@@ -1,0 +1,56 @@
+{
+  "id": "MMR002002702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "နန်းမယ်ခုံ",
+    "en": "Nan Mei Khon",
+    "slug": "nan-mei-khon-MMR002002702"
+  },
+  "code": {
+    "id": "MMR002002702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR002D001",
+    "level": 2,
+    "name": {
+      "local": "လွိုင်ကော်ခရိုင်",
+      "en": "Loikaw",
+      "slug": "loikaw-MMR002D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.6696",
+    "lon": "97.1091"
+  },
+  "metadata": {},
+  "source": {}
+}

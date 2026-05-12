@@ -1,0 +1,3577 @@
+[
+  {
+    "id": "1204247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနန်းပင် ကျေးရွာအုပ်စု",
+      "en": "Ah Nan Pin Village Tract",
+      "slug": "ah-nan-pin-village-tract-1204247"
+    },
+    "code": {
+      "id": "1204247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်ကျင်း ရပ်ကွက်",
+      "en": "Auk Kyin Quarter",
+      "slug": "auk-kyin-quarter-1204003"
+    },
+    "code": {
+      "id": "1204003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်းစိုင် ကျေးရွာအုပ်စု",
+      "en": "Aung Saing Village Tract",
+      "slug": "aung-saing-village-tract-1204233"
+    },
+    "code": {
+      "id": "1204233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘင်လှိုင် ရပ်ကွက်",
+      "en": "Bin Hlaing Quarter",
+      "slug": "bin-hlaing-quarter-1204005"
+    },
+    "code": {
+      "id": "1204005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘူဒင်းချောင် ကျေးရွာအုပ်စု",
+      "en": "Bu Din Chaung Village Tract",
+      "slug": "bu-din-chaung-village-tract-1204226"
+    },
+    "code": {
+      "id": "1204226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဇောက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Zauk Village Tract",
+      "slug": "chaung-zauk-village-tract-1204203"
+    },
+    "code": {
+      "id": "1204203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓနုကတိုက် ကျေးရွာအုပ်စု",
+      "en": "Da Nu Ka Taik Village Tract",
+      "slug": "da-nu-ka-taik-village-tract-1204217"
+    },
+    "code": {
+      "id": "1204217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓနု ကျေးရွာအုပ်စု",
+      "en": "Da Nu Village Tract",
+      "slug": "da-nu-village-tract-1204206"
+    },
+    "code": {
+      "id": "1204206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေးဗရိမ်း ကျေးရွာအုပ်စု",
+      "en": "Day Ba Yein Village Tract",
+      "slug": "day-ba-yein-village-tract-1204231"
+    },
+    "code": {
+      "id": "1204231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒုံဝန်း ကျေးရွာအုပ်စု",
+      "en": "Don Wun Village Tract",
+      "slug": "don-wun-village-tract-1204214"
+    },
+    "code": {
+      "id": "1204214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒူးရင်းဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Du Yin Seik Village Tract",
+      "slug": "du-yin-seik-village-tract-1204241"
+    },
+    "code": {
+      "id": "1204241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂေါ့ ကျေးရွာအုပ်စု",
+      "en": "Gawt Village Tract",
+      "slug": "gawt-village-tract-1204238"
+    },
+    "code": {
+      "id": "1204238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောင်မှူး ကျေးရွာအုပ်စု",
+      "en": "Htaung Hmu Village Tract",
+      "slug": "htaung-hmu-village-tract-1204242"
+    },
+    "code": {
+      "id": "1204242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ပင် ကျေးရွာအုပ်စု",
+      "en": "Htein Pin Village Tract",
+      "slug": "htein-pin-village-tract-1204229"
+    },
+    "code": {
+      "id": "1204229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကတိုက်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Ka Taik Gyi Village Tract",
+      "slug": "ka-taik-gyi-village-tract-1204216"
+    },
+    "code": {
+      "id": "1204216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကတိုက်ကလေး ကျေးရွာအုပ်စု",
+      "en": "Ka Taik Ka Lay Village Tract",
+      "slug": "ka-taik-ka-lay-village-tract-1204215"
+    },
+    "code": {
+      "id": "1204215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော့လှိုင်း ကျေးရွာအုပ်စု",
+      "en": "Kawt Hlaing Village Tract",
+      "slug": "kawt-hlaing-village-tract-1204202"
+    },
+    "code": {
+      "id": "1204202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက္ကော် ကျေးရွာအုပ်စု",
+      "en": "Kyaik Kaw Village Tract",
+      "slug": "kyaik-kaw-village-tract-1204211"
+    },
+    "code": {
+      "id": "1204211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Village Tract",
+      "slug": "kyauk-tan-village-tract-1204236"
+    },
+    "code": {
+      "id": "1204236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်တူရွေးသောင် ကျေးရွာအုပ်စု",
+      "en": "Kyet Tu Yway Thaung Village Tract",
+      "slug": "kyet-tu-yway-thaung-village-tract-1204248"
+    },
+    "code": {
+      "id": "1204248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံပါ ကျေးရွာအုပ်စု",
+      "en": "Kyon Par Village Tract",
+      "slug": "kyon-par-village-tract-1204237"
+    },
+    "code": {
+      "id": "1204237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိပ်အင်း ရပ်ကွက်",
+      "en": "Leik Inn Quarter",
+      "slug": "leik-inn-quarter-1204001"
+    },
+    "code": {
+      "id": "1204001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Kone Village Tract",
+      "slug": "ma-yan-kone-village-tract-1204227"
+    },
+    "code": {
+      "id": "1204227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မတ်ချ ကျေးရွာအုပ်စု",
+      "en": "Mat Cha Village Tract",
+      "slug": "mat-cha-village-tract-1204208"
+    },
+    "code": {
+      "id": "1204208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးကောင်း ကျေးရွာအုပ်စု",
+      "en": "Moe Kaung Village Tract",
+      "slug": "moe-kaung-village-tract-1204213"
+    },
+    "code": {
+      "id": "1204213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေနီကုန်း ကျေးရွာအုပ်စု",
+      "en": "Myay Ni Kone Village Tract",
+      "slug": "myay-ni-kone-village-tract-1204222"
+    },
+    "code": {
+      "id": "1204222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းခဲ ရပ်ကွက်",
+      "en": "Nan Khe Quarter",
+      "slug": "nan-khe-quarter-1204002"
+    },
+    "code": {
+      "id": "1204002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဘို ကျေးရွာအုပ်စု",
+      "en": "Naung Bo Village Tract",
+      "slug": "naung-bo-village-tract-1204224"
+    },
+    "code": {
+      "id": "1204224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကတုတ် ကျေးရွာအုပ်စု",
+      "en": "Naung Ka Toke Village Tract",
+      "slug": "naung-ka-toke-village-tract-1204209"
+    },
+    "code": {
+      "id": "1204209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကုလား ကျေးရွာအုပ်စု",
+      "en": "Naung Ku Lar Village Tract",
+      "slug": "naung-ku-lar-village-tract-1204230"
+    },
+    "code": {
+      "id": "1204230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုပ္ဖိုချောင် ကျေးရွာအုပ်စု",
+      "en": "Oke Hpo Chaung Village Tract",
+      "slug": "oke-hpo-chaung-village-tract-1204235"
+    },
+    "code": {
+      "id": "1204235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါ်တော်မူ ကျေးရွာအုပ်စု",
+      "en": "Paw Taw Mu Village Tract",
+      "slug": "paw-taw-mu-village-tract-1204225"
+    },
+    "code": {
+      "id": "1204225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိန္နဲတော ကျေးရွာအုပ်စု",
+      "en": "Pein Hne Taw Village Tract",
+      "slug": "pein-hne-taw-village-tract-1204205"
+    },
+    "code": {
+      "id": "1204205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Khan Gyi Village Tract",
+      "slug": "sa-khan-gyi-village-tract-1204246"
+    },
+    "code": {
+      "id": "1204246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိပ်ကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Seik Kyun Village Tract",
+      "slug": "seik-kyun-village-tract-1204218"
+    },
+    "code": {
+      "id": "1204218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ဖြူကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Sin Hpyu Kyun Village Tract",
+      "slug": "sin-hpyu-kyun-village-tract-1204223"
+    },
+    "code": {
+      "id": "1204223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ကျုံး ကျေးရွာအုပ်စု",
+      "en": "Sin Kyone Village Tract",
+      "slug": "sin-kyone-village-tract-1204243"
+    },
+    "code": {
+      "id": "1204243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တံတားဦး ကျေးရွာအုပ်စု",
+      "en": "Ta Dar U Village Tract",
+      "slug": "ta-dar-u-village-tract-1204212"
+    },
+    "code": {
+      "id": "1204212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကြား ကျေးရွာအုပ်စု",
+      "en": "Taung Kyar Village Tract",
+      "slug": "taung-kyar-village-tract-1204200"
+    },
+    "code": {
+      "id": "1204200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်စွန်း ကျေးရွာအုပ်စု",
+      "en": "Taung Sun Village Tract",
+      "slug": "taung-sun-village-tract-1204234"
+    },
+    "code": {
+      "id": "1204234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကြီး ကျေးရွာအုပ်စု",
+      "en": "Taw Gyi Village Tract",
+      "slug": "taw-gyi-village-tract-1204219"
+    },
+    "code": {
+      "id": "1204219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်တော ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Taw Village Tract",
+      "slug": "tha-yet-taw-village-tract-1204232"
+    },
+    "code": {
+      "id": "1204232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သောင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Thaung Gyi Village Tract",
+      "slug": "thaung-gyi-village-tract-1204220"
+    },
+    "code": {
+      "id": "1204220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ကုန်း ရပ်ကွက်",
+      "en": "Thein Kone Quarter",
+      "slug": "thein-kone-quarter-1204004"
+    },
+    "code": {
+      "id": "1204004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Thein Seik Village Tract",
+      "slug": "thein-seik-village-tract-1204210"
+    },
+    "code": {
+      "id": "1204210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုဓမ္မဝတီ ကျေးရွာအုပ်စု",
+      "en": "Thu Damah Wady Village Tract",
+      "slug": "thu-damah-wady-village-tract-1204249"
+    },
+    "code": {
+      "id": "1204249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝီယော် ကျေးရွာအုပ်စု",
+      "en": "Wi Yaw Village Tract",
+      "slug": "wi-yaw-village-tract-1204204"
+    },
+    "code": {
+      "id": "1204204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းဖုန်း ကျေးရွာအုပ်စု",
+      "en": "Win Hpone Village Tract",
+      "slug": "win-hpone-village-tract-1204207"
+    },
+    "code": {
+      "id": "1204207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းပ ကျေးရွာအုပ်စု",
+      "en": "Win Pa Village Tract",
+      "slug": "win-pa-village-tract-1204201"
+    },
+    "code": {
+      "id": "1204201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းစိန်အလယ် ကျေးရွာအုပ်စု",
+      "en": "Win Sein Ah Lel Village Tract",
+      "slug": "win-sein-ah-lel-village-tract-1204240"
+    },
+    "code": {
+      "id": "1204240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းစိန်ရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Win Sein Ywar Thit Village Tract",
+      "slug": "win-sein-ywar-thit-village-tract-1204239"
+    },
+    "code": {
+      "id": "1204239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇရစ်ချောင် ကျေးရွာအုပ်စု",
+      "en": "Za Yit Chaung Village Tract",
+      "slug": "za-yit-chaung-village-tract-1204221"
+    },
+    "code": {
+      "id": "1204221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇိုက္ကရဲ ကျေးရွာအုပ်စု",
+      "en": "Zaik Ka Ye Village Tract",
+      "slug": "zaik-ka-ye-village-tract-1204228"
+    },
+    "code": {
+      "id": "1204228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးမသွယ် (အထက်) ကျေးရွာအုပ်စု",
+      "en": "Zay Ma Thwei (Lower) Village Tract",
+      "slug": "zay-ma-thwei-lower-village-tract-1204244"
+    },
+    "code": {
+      "id": "1204244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးမသွယ် (အောက်) ကျေးရွာအုပ်စု",
+      "en": "Zay Ma Thwei (Upper) Village Tract",
+      "slug": "zay-ma-thwei-upper-village-tract-1204245"
+    },
+    "code": {
+      "id": "1204245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011007701",
+      "level": 3,
+      "name": {
+        "local": "သထုံ",
+        "en": "Thaton",
+        "slug": "thaton-MMR011007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011007701",
+        "level": 3,
+        "name": {
+          "local": "သထုံ",
+          "en": "Thaton",
+          "slug": "thaton-MMR011007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1204245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

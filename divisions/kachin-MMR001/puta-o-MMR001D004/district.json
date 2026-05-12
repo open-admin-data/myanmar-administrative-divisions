@@ -1,0 +1,48 @@
+{
+  "id": "MMR001D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ပူတာအိုခရိုင်",
+    "en": "Puta-O",
+    "slug": "puta-o-MMR001D004"
+  },
+  "code": {
+    "id": "MMR001D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001",
+    "level": 1,
+    "name": {
+      "local": "ကချင်ပြည်နယ်",
+      "en": "Kachin",
+      "slug": "kachin-MMR001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 6,
+    "ward": 147
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.2368",
+    "lon": "97.7713"
+  },
+  "metadata": {},
+  "source": {}
+}

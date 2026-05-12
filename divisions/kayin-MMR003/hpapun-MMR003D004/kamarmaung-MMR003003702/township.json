@@ -1,0 +1,56 @@
+{
+  "id": "MMR003003702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကမမောင်း",
+    "en": "Kamarmaung",
+    "slug": "kamarmaung-MMR003003702"
+  },
+  "code": {
+    "id": "MMR003003702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003D004",
+    "level": 2,
+    "name": {
+      "local": "ဖာပွန်ခရိုင်",
+      "en": "Hpapun",
+      "slug": "hpapun-MMR003D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    {
+      "id": "MMR003D004",
+      "level": 2,
+      "name": {
+        "local": "ဖာပွန်ခရိုင်",
+        "en": "Hpapun",
+        "slug": "hpapun-MMR003D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.34688",
+    "lon": "97.6529"
+  },
+  "metadata": {},
+  "source": {}
+}

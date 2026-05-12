@@ -1,0 +1,56 @@
+{
+  "id": "MMR010031701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဝမ်းတွင်း",
+    "en": "Wundwin",
+    "slug": "wundwin-MMR010031701"
+  },
+  "code": {
+    "id": "MMR010031701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D007",
+    "level": 2,
+    "name": {
+      "local": "မိတ္ထီလာခရိုင်",
+      "en": "Meiktila",
+      "slug": "meiktila-MMR010D007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D007",
+      "level": 2,
+      "name": {
+        "local": "မိတ္ထီလာခရိုင်",
+        "en": "Meiktila",
+        "slug": "meiktila-MMR010D007"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.09691",
+    "lon": "96.03001"
+  },
+  "metadata": {},
+  "source": {}
+}

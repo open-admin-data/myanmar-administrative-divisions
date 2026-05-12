@@ -1,0 +1,48 @@
+{
+  "id": "MMR008D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ပြည်ခရိုင်",
+    "en": "Pyay",
+    "slug": "pyay-MMR008D001"
+  },
+  "code": {
+    "id": "MMR008D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007",
+    "level": 1,
+    "name": {
+      "local": "ပဲခူးတိုင်းဒေသကြီး",
+      "en": "Bago",
+      "slug": "bago-MMR007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 11,
+    "ward": 350
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.696",
+    "lon": "95.3295"
+  },
+  "metadata": {},
+  "source": {}
+}

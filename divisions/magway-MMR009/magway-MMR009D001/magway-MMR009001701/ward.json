@@ -1,0 +1,5072 @@
+[
+  {
+    "id": "0401201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ဘို ကျေးရွာအုပ်စု",
+      "en": "Ah Lel Bo Village Tract",
+      "slug": "ah-lel-bo-village-tract-0401201"
+    },
+    "code": {
+      "id": "0401201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုင်ကြီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Aing Gyi Kone Village Tract",
+      "slug": "aing-gyi-kone-village-tract-0401200"
+    },
+    "code": {
+      "id": "0401200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0401013"
+    },
+    "code": {
+      "id": "0401013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0401014"
+    },
+    "code": {
+      "id": "0401014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မေတ္တာ ရပ်ကွက်",
+      "en": "Aung Myit Tar Quarter",
+      "slug": "aung-myit-tar-quarter-0401015"
+    },
+    "code": {
+      "id": "0401015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်စေတနာ ရပ်ကွက်",
+      "en": "Aung Say Ta Nar Quarter",
+      "slug": "aung-say-ta-nar-quarter-0401016"
+    },
+    "code": {
+      "id": "0401016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ရတနာ ရပ်ကွက်",
+      "en": "Aung Ya Da Nar Quarter",
+      "slug": "aung-ya-da-nar-quarter-0401012"
+    },
+    "code": {
+      "id": "0401012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒဟတ်ကန် ကျေးရွာအုပ်စု",
+      "en": "Da Hat Kan Village Tract",
+      "slug": "da-hat-kan-village-tract-0401203"
+    },
+    "code": {
+      "id": "0401203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂျိုးကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Gyoe Gyar Kan Village Tract",
+      "slug": "gyoe-gyar-kan-village-tract-0401260"
+    },
+    "code": {
+      "id": "0401260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂျုတ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Gyoke Kone Village Tract",
+      "slug": "gyoke-kone-village-tract-0401204"
+    },
+    "code": {
+      "id": "0401204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကုန်း ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Kone Village Tract",
+      "slug": "hpa-yar-kone-village-tract-0401235"
+    },
+    "code": {
+      "id": "0401235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားပြို ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Pyo Village Tract",
+      "slug": "hpa-yar-pyo-village-tract-0401234"
+    },
+    "code": {
+      "id": "0401234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖိုးလေးလုံး ကျေးရွာအုပ်စု",
+      "en": "Hpoe Lay Lone Village Tract",
+      "slug": "hpoe-lay-lone-village-tract-0401238"
+    },
+    "code": {
+      "id": "0401238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖုတ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Hpoke Kone Village Tract",
+      "slug": "hpoke-kone-village-tract-0401237"
+    },
+    "code": {
+      "id": "0401237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆုံ ရပ်ကွက်",
+      "en": "Hson Quarter",
+      "slug": "hson-quarter-0401002"
+    },
+    "code": {
+      "id": "0401002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်တိုင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "In Taing Gyi Village Tract",
+      "slug": "in-taing-gyi-village-tract-0401205"
+    },
+    "code": {
+      "id": "0401205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ပြား ကျေးရွာအုပ်စု",
+      "en": "Kan Pyar Village Tract",
+      "slug": "kan-pyar-village-tract-0401206"
+    },
+    "code": {
+      "id": "0401206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော် ကျေးရွာအုပ်စု",
+      "en": "Kan Taw Village Tract",
+      "slug": "kan-taw-village-tract-0401207"
+    },
+    "code": {
+      "id": "0401207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံသာကြီး ကျေးရွာအုပ်စု",
+      "en": "Kan Thar Gyi Village Tract",
+      "slug": "kan-thar-gyi-village-tract-0401208"
+    },
+    "code": {
+      "id": "0401208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်သာ ရပ်ကွက်",
+      "en": "Kan Thar Quarter",
+      "slug": "kan-thar-quarter-0401010"
+    },
+    "code": {
+      "id": "0401010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင် ကျေးရွာအုပ်စု",
+      "en": "Kayin Village Tract",
+      "slug": "kayin-village-tract-0401209"
+    },
+    "code": {
+      "id": "0401209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွမ်းအုံ ကျေးရွာအုပ်စု",
+      "en": "Kun Ohn Village Tract",
+      "slug": "kun-ohn-village-tract-0401210"
+    },
+    "code": {
+      "id": "0401210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyar Kan Village Tract",
+      "slug": "kyar-kan-village-tract-0401259"
+    },
+    "code": {
+      "id": "0401259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျစ်စုံပွေး ကျေးရွာအုပ်စု",
+      "en": "Kyit Son Pway Village Tract",
+      "slug": "kyit-son-pway-village-tract-0401211"
+    },
+    "code": {
+      "id": "0401211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းပြတ် ကျေးရွာအုပ်စု",
+      "en": "Kyun Pyat Village Tract",
+      "slug": "kyun-pyat-village-tract-0401212"
+    },
+    "code": {
+      "id": "0401212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လပ်ပတော ကျေးရွာအုပ်စု",
+      "en": "Lat Pa Taw Village Tract",
+      "slug": "lat-pa-taw-village-tract-0401214"
+    },
+    "code": {
+      "id": "0401214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ယား ကျေးရွာအုပ်စု",
+      "en": "Lel Yar Village Tract",
+      "slug": "lel-yar-village-tract-0401217"
+    },
+    "code": {
+      "id": "0401217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပုတို ကျေးရွာအုပ်စု",
+      "en": "Let Pu To Village Tract",
+      "slug": "let-pu-to-village-tract-0401213"
+    },
+    "code": {
+      "id": "0401213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင့်မြင့် ကျေးရွာအုပ်စု",
+      "en": "Lint Myint Village Tract",
+      "slug": "lint-myint-village-tract-0401215"
+    },
+    "code": {
+      "id": "0401215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကြီးခြေတောက် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Chay Htauk Village Tract",
+      "slug": "ma-gyi-chay-htauk-village-tract-0401216"
+    },
+    "code": {
+      "id": "0401216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကြီးကန် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kan Village Tract",
+      "slug": "ma-gyi-kan-village-tract-0401220"
+    },
+    "code": {
+      "id": "0401220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မယ်လှတောင် ကျေးရွာအုပ်စု",
+      "en": "Mei Hla Taung Village Tract",
+      "slug": "mei-hla-taung-village-tract-0401219"
+    },
+    "code": {
+      "id": "0401219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိကျောင်းရဲ ကျေးရွာအုပ်စု",
+      "en": "Mi Kyaung Ye Village Tract",
+      "slug": "mi-kyaung-ye-village-tract-0401218"
+    },
+    "code": {
+      "id": "0401218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းကံကြီး ရပ်ကွက်",
+      "en": "Min Kan Gyi Quarter",
+      "slug": "min-kan-gyi-quarter-0401009"
+    },
+    "code": {
+      "id": "0401009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်း ကျေးရွာအုပ်စု",
+      "en": "Min Village Tract",
+      "slug": "min-village-tract-0401248"
+    },
+    "code": {
+      "id": "0401248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေနု ကျေးရွာအုပ်စု",
+      "en": "Myay Nu Village Tract",
+      "slug": "myay-nu-village-tract-0401222"
+    },
+    "code": {
+      "id": "0401222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်ကွန်း ကျေးရွာအုပ်စု",
+      "en": "Myin Kun Village Tract",
+      "slug": "myin-kun-village-tract-0401223"
+    },
+    "code": {
+      "id": "0401223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းစိုင်း ကျေးရွာအုပ်စု",
+      "en": "Myin Saing Village Tract",
+      "slug": "myin-saing-village-tract-0401224"
+    },
+    "code": {
+      "id": "0401224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်သာ ရပ်ကွက်",
+      "en": "Myin Thar Quarter",
+      "slug": "myin-thar-quarter-0401011"
+    },
+    "code": {
+      "id": "0401011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြစ်နားသာစည် ကျေးရွာအုပ်စု",
+      "en": "Myit Nar Thar Si Village Tract",
+      "slug": "myit-nar-thar-si-village-tract-0401252"
+    },
+    "code": {
+      "id": "0401252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်း ရပ်ကွက်",
+      "en": "Myo Haung Quarter",
+      "slug": "myo-haung-quarter-0401001"
+    },
+    "code": {
+      "id": "0401001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မအိုးဘို ရပ်ကွက်",
+      "en": "Myo Ma Oe Bo Quarter",
+      "slug": "myo-ma-oe-bo-quarter-0401004"
+    },
+    "code": {
+      "id": "0401004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နံကပ်ကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Nan Kat Kyun Village Tract",
+      "slug": "nan-kat-kyun-village-tract-0401225"
+    },
+    "code": {
+      "id": "0401225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကန် ကျေးရွာအုပ်စု",
+      "en": "Nat Kan Village Tract",
+      "slug": "nat-kan-village-tract-0401226"
+    },
+    "code": {
+      "id": "0401226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးဆောင် ကျေးရွာအုပ်စု",
+      "en": "Ngar Saung Village Tract",
+      "slug": "ngar-saung-village-tract-0401227"
+    },
+    "code": {
+      "id": "0401227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကံ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Kan Village Tract",
+      "slug": "nyaung-kan-village-tract-0401229"
+    },
+    "code": {
+      "id": "0401229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကြပ်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Kyat San Village Tract",
+      "slug": "nyaung-kyat-san-village-tract-0401230"
+    },
+    "code": {
+      "id": "0401230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Village Tract",
+      "slug": "nyaung-pin-village-tract-0401228"
+    },
+    "code": {
+      "id": "0401228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်းတွဲ ကျေးရွာအုပ်စု",
+      "en": "Ohn Twe Village Tract",
+      "slug": "ohn-twe-village-tract-0401231"
+    },
+    "code": {
+      "id": "0401231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဌနဂို ကျေးရွာအုပ်စု",
+      "en": "Pat Hta Na Go Village Tract",
+      "slug": "pat-hta-na-go-village-tract-0401232"
+    },
+    "code": {
+      "id": "0401232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေပင်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Pay Pin San Village Tract",
+      "slug": "pay-pin-san-village-tract-0401236"
+    },
+    "code": {
+      "id": "0401236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုထိုး ကျေးရွာအုပ်စု",
+      "en": "Pu Htoe Village Tract",
+      "slug": "pu-htoe-village-tract-0401233"
+    },
+    "code": {
+      "id": "0401233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်တော်သာ ရပ်ကွက်",
+      "en": "Pyi Taw Thar Quarter",
+      "slug": "pyi-taw-thar-quarter-0401008"
+    },
+    "code": {
+      "id": "0401008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမ်းမကြီး ကျေးရွာအုပ်စု",
+      "en": "San Ma Gyi Village Tract",
+      "slug": "san-ma-gyi-village-tract-0401240"
+    },
+    "code": {
+      "id": "0401240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားရွှေကင်း ရပ်ကွက်",
+      "en": "Sar Shwe Kin Quarter",
+      "slug": "sar-shwe-kin-quarter-0401005"
+    },
+    "code": {
+      "id": "0401005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားတိုင်ကံ ကျေးရွာအုပ်စု",
+      "en": "Sar Taing Kan Village Tract",
+      "slug": "sar-taing-kan-village-tract-0401239"
+    },
+    "code": {
+      "id": "0401239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားပင်လှ ကျေးရွာအုပ်စု",
+      "en": "Shar Pin Hla Village Tract",
+      "slug": "shar-pin-hla-village-tract-0401241"
+    },
+    "code": {
+      "id": "0401241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှားစောင်းကံ ကျေးရွာအုပ်စု",
+      "en": "Shar Saung Kan Village Tract",
+      "slug": "shar-saung-kan-village-tract-0401242"
+    },
+    "code": {
+      "id": "0401242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိုးကောမင်း ရပ်ကွက်",
+      "en": "Soe Kaw Min Quarter",
+      "slug": "soe-kaw-min-quarter-0401017"
+    },
+    "code": {
+      "id": "0401017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးကောက်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Su Kauk San Village Tract",
+      "slug": "su-kauk-san-village-tract-0401244"
+    },
+    "code": {
+      "id": "0401244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးပြစ်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Su Pyit San Village Tract",
+      "slug": "su-pyit-san-village-tract-0401243"
+    },
+    "code": {
+      "id": "0401243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပေါက်တော ကျေးရွာအုပ်စု",
+      "en": "Ta Pauk Taw Village Tract",
+      "slug": "ta-pauk-taw-village-tract-0401245"
+    },
+    "code": {
+      "id": "0401245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တပ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Tat Kone Village Tract",
+      "slug": "tat-kone-village-tract-0401246"
+    },
+    "code": {
+      "id": "0401246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ခွင် ကျေးရွာအုပ်စု",
+      "en": "Taung Khwin Village Tract",
+      "slug": "taung-khwin-village-tract-0401247"
+    },
+    "code": {
+      "id": "0401247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တယ်ပင်ကံပေါက် ကျေးရွာအုပ်စု",
+      "en": "Tei Pin Kan Pauk Village Tract",
+      "slug": "tei-pin-kan-pauk-village-tract-0401249"
+    },
+    "code": {
+      "id": "0401249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သမန်းတော ကျေးရွာအုပ်စု",
+      "en": "Tha Man Taw Village Tract",
+      "slug": "tha-man-taw-village-tract-0401250"
+    },
+    "code": {
+      "id": "0401250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေစမ်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay San Village Tract",
+      "slug": "tha-pyay-san-village-tract-0401221"
+    },
+    "code": {
+      "id": "0401221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်လေးပင် ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Lay Pin Village Tract",
+      "slug": "tha-yet-lay-pin-village-tract-0401251"
+    },
+    "code": {
+      "id": "0401251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိင်္ဂါဂီရိ ရပ်ကွက်",
+      "en": "Thein Gar Gi Ri Quarter",
+      "slug": "thein-gar-gi-ri-quarter-0401007"
+    },
+    "code": {
+      "id": "0401007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက်ရင်းတော ကျေးရွာအုပ်စု",
+      "en": "Thet Yin Taw Village Tract",
+      "slug": "thet-yin-taw-village-tract-0401258"
+    },
+    "code": {
+      "id": "0401258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ရာကောက် ကျေးရွာအုပ်စု",
+      "en": "Thit Yar Kauk Village Tract",
+      "slug": "thit-yar-kauk-village-tract-0401202"
+    },
+    "code": {
+      "id": "0401202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယင်းနားဂွေးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Yin Nar Gway Chaung Village Tract",
+      "slug": "yin-nar-gway-chaung-village-tract-0401253"
+    },
+    "code": {
+      "id": "0401253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ယင်းနားသာစည် (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Yin Nar Thar Si (East) Village Tract",
+      "slug": "yin-nar-thar-si-east-village-tract-0401254"
+    },
+    "code": {
+      "id": "0401254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာဟောင်းကန် ကျေးရွာအုပ်စု",
+      "en": "Ywar Haung Kan Village Tract",
+      "slug": "ywar-haung-kan-village-tract-0401255"
+    },
+    "code": {
+      "id": "0401255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသာ ကျေးရွာအုပ်စု",
+      "en": "Ywar Thar Village Tract",
+      "slug": "ywar-thar-village-tract-0401256"
+    },
+    "code": {
+      "id": "0401256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ်ပွဲကြို ရပ်ကွက်",
+      "en": "Ywar Thit Pwe Kyo Quarter",
+      "slug": "ywar-thit-pwe-kyo-quarter-0401006"
+    },
+    "code": {
+      "id": "0401006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးလယ်စိုး ရပ်ကွက်",
+      "en": "Zay Lel Soe Quarter",
+      "slug": "zay-lel-soe-quarter-0401003"
+    },
+    "code": {
+      "id": "0401003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0401257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Zee Kyun Village Tract",
+      "slug": "zee-kyun-village-tract-0401257"
+    },
+    "code": {
+      "id": "0401257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009001701",
+      "level": 3,
+      "name": {
+        "local": "မကွေး",
+        "en": "Magway",
+        "slug": "magway-MMR009001701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009001701",
+        "level": 3,
+        "name": {
+          "local": "မကွေး",
+          "en": "Magway",
+          "slug": "magway-MMR009001701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0401257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

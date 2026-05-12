@@ -1,0 +1,2537 @@
+[
+  {
+    "id": "1144203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒလဘမ်း ကျေးရွာအုပ်စု",
+      "en": "Da La Ban Village Tract",
+      "slug": "da-la-ban-village-tract-1144203"
+    },
+    "code": {
+      "id": "1144203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီစု (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Kyi Su (East) Village Tract",
+      "slug": "kyi-su-east-village-tract-1144200"
+    },
+    "code": {
+      "id": "1144200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144031",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၄၈) ရပ်ကွက်",
+      "en": "No (148) Quarter",
+      "slug": "no-148-quarter-1144031"
+    },
+    "code": {
+      "id": "1144031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144031"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144032",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၄၉) ရပ်ကွက်",
+      "en": "No (149) Quarter",
+      "slug": "no-149-quarter-1144032"
+    },
+    "code": {
+      "id": "1144032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144032"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144033",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၅၀) ရပ်ကွက်",
+      "en": "No (150) Quarter",
+      "slug": "no-150-quarter-1144033"
+    },
+    "code": {
+      "id": "1144033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144033"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144034",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၅၁) ရပ်ကွက်",
+      "en": "No (151) Quarter",
+      "slug": "no-151-quarter-1144034"
+    },
+    "code": {
+      "id": "1144034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144034"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144035",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၆၈) ရပ်ကွက်",
+      "en": "No (168) Quarter",
+      "slug": "no-168-quarter-1144035"
+    },
+    "code": {
+      "id": "1144035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144035"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅၈) ရပ်ကွက်",
+      "en": "No (58) Quarter",
+      "slug": "no-58-quarter-1144001"
+    },
+    "code": {
+      "id": "1144001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅၉) ရပ်ကွက်",
+      "en": "No (59) Quarter",
+      "slug": "no-59-quarter-1144002"
+    },
+    "code": {
+      "id": "1144002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆၀) ရပ်ကွက်",
+      "en": "No (60) Quarter",
+      "slug": "no-60-quarter-1144003"
+    },
+    "code": {
+      "id": "1144003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆၁) ရပ်ကွက်",
+      "en": "No (61) Quarter",
+      "slug": "no-61-quarter-1144004"
+    },
+    "code": {
+      "id": "1144004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆၇) ရပ်ကွက်",
+      "en": "No (67) Quarter",
+      "slug": "no-67-quarter-1144005"
+    },
+    "code": {
+      "id": "1144005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆၈) ရပ်ကွက်",
+      "en": "No (68) Quarter",
+      "slug": "no-68-quarter-1144006"
+    },
+    "code": {
+      "id": "1144006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆၉) ရပ်ကွက်",
+      "en": "No (69) Quarter",
+      "slug": "no-69-quarter-1144007"
+    },
+    "code": {
+      "id": "1144007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၃) ရပ်ကွက်",
+      "en": "No (73) Quarter",
+      "slug": "no-73-quarter-1144008"
+    },
+    "code": {
+      "id": "1144008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၄) ရပ်ကွက်",
+      "en": "No (74) Quarter",
+      "slug": "no-74-quarter-1144009"
+    },
+    "code": {
+      "id": "1144009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၅) ရပ်ကွက်",
+      "en": "No (75) Quarter",
+      "slug": "no-75-quarter-1144010"
+    },
+    "code": {
+      "id": "1144010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၆) ရပ်ကွက်",
+      "en": "No (76) Quarter",
+      "slug": "no-76-quarter-1144011"
+    },
+    "code": {
+      "id": "1144011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၇) ရပ်ကွက်",
+      "en": "No (77) Quarter",
+      "slug": "no-77-quarter-1144012"
+    },
+    "code": {
+      "id": "1144012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၈) ရပ်ကွက်",
+      "en": "No (78) Quarter",
+      "slug": "no-78-quarter-1144013"
+    },
+    "code": {
+      "id": "1144013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇၉) ရပ်ကွက်",
+      "en": "No (79) Quarter",
+      "slug": "no-79-quarter-1144014"
+    },
+    "code": {
+      "id": "1144014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၀) ရပ်ကွက်",
+      "en": "No (80) Quarter",
+      "slug": "no-80-quarter-1144015"
+    },
+    "code": {
+      "id": "1144015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၁) ရပ်ကွက်",
+      "en": "No (81) Quarter",
+      "slug": "no-81-quarter-1144016"
+    },
+    "code": {
+      "id": "1144016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၂) ရပ်ကွက်",
+      "en": "No (82) Quarter",
+      "slug": "no-82-quarter-1144017"
+    },
+    "code": {
+      "id": "1144017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၃) ရပ်ကွက်",
+      "en": "No (83) Quarter",
+      "slug": "no-83-quarter-1144018"
+    },
+    "code": {
+      "id": "1144018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၄) ရပ်ကွက်",
+      "en": "No (84) Quarter",
+      "slug": "no-84-quarter-1144019"
+    },
+    "code": {
+      "id": "1144019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၅) ရပ်ကွက်",
+      "en": "No (85) Quarter",
+      "slug": "no-85-quarter-1144020"
+    },
+    "code": {
+      "id": "1144020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144021",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၆) ရပ်ကွက်",
+      "en": "No (86) Quarter",
+      "slug": "no-86-quarter-1144021"
+    },
+    "code": {
+      "id": "1144021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144021"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144022",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၇) ရပ်ကွက်",
+      "en": "No (87) Quarter",
+      "slug": "no-87-quarter-1144022"
+    },
+    "code": {
+      "id": "1144022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144022"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144023",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၈) ရပ်ကွက်",
+      "en": "No (88) Quarter",
+      "slug": "no-88-quarter-1144023"
+    },
+    "code": {
+      "id": "1144023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144023"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144024",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈၉) ရပ်ကွက်",
+      "en": "No (89) Quarter",
+      "slug": "no-89-quarter-1144024"
+    },
+    "code": {
+      "id": "1144024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144024"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144025",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၀) ရပ်ကွက်",
+      "en": "No (90) Quarter",
+      "slug": "no-90-quarter-1144025"
+    },
+    "code": {
+      "id": "1144025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144025"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144026",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၁) ရပ်ကွက်",
+      "en": "No (91) Quarter",
+      "slug": "no-91-quarter-1144026"
+    },
+    "code": {
+      "id": "1144026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144026"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144027",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၂) ရပ်ကွက်",
+      "en": "No (92) Quarter",
+      "slug": "no-92-quarter-1144027"
+    },
+    "code": {
+      "id": "1144027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144027"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144028",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၃) ရပ်ကွက်",
+      "en": "No (93) Quarter",
+      "slug": "no-93-quarter-1144028"
+    },
+    "code": {
+      "id": "1144028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144028"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144029",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၄) ရပ်ကွက်",
+      "en": "No (94) Quarter",
+      "slug": "no-94-quarter-1144029"
+    },
+    "code": {
+      "id": "1144029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144029"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144030",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉၈) ရပ်ကွက်",
+      "en": "No (98) Quarter",
+      "slug": "no-98-quarter-1144030"
+    },
+    "code": {
+      "id": "1144030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144030"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Village Tract",
+      "slug": "nyaung-pin-village-tract-1144201"
+    },
+    "code": {
+      "id": "1144201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1144202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ပင်ချောင် ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Pin Chaung Village Tract",
+      "slug": "tha-yet-pin-chaung-village-tract-1144202"
+    },
+    "code": {
+      "id": "1144202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013021701",
+      "level": 3,
+      "name": {
+        "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+        "en": "Dagon Myothit (Seikkan)",
+        "slug": "dagon-myothit-seikkan-MMR013021701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013021701",
+        "level": 3,
+        "name": {
+          "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+          "en": "Dagon Myothit (Seikkan)",
+          "slug": "dagon-myothit-seikkan-MMR013021701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1144202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

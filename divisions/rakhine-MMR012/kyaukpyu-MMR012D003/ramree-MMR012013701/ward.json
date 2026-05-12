@@ -1,0 +1,3707 @@
+[
+  {
+    "id": "0713203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အချွိန်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Ah Chwain Pyin Village Tract",
+      "slug": "ah-chwain-pyin-village-tract-0713203"
+    },
+    "code": {
+      "id": "0713203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Ah Lel Chaung Village Tract",
+      "slug": "ah-lel-chaung-village-tract-0713214"
+    },
+    "code": {
+      "id": "0713214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ကျေးရွာအုပ်စု",
+      "en": "Ah Nauk Village Tract",
+      "slug": "ah-nauk-village-tract-0713232"
+    },
+    "code": {
+      "id": "0713232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အတွင်းပြင် ကျေးရွာအုပ်စု",
+      "en": "Ah Twin Pyin Village Tract",
+      "slug": "ah-twin-pyin-village-tract-0713206"
+    },
+    "code": {
+      "id": "0713206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်လှပြင် ကျေးရွာအုပ်စု",
+      "en": "Aung Hla Pyin Village Tract",
+      "slug": "aung-hla-pyin-village-tract-0713231"
+    },
+    "code": {
+      "id": "0713231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဖျား (ရမ်းပေါက်) ကျေးရွာအုပ်စု",
+      "en": "Chaung Hpyar (Yan Pauk) Village Tract",
+      "slug": "chaung-hpyar-yan-pauk-village-tract-0713208"
+    },
+    "code": {
+      "id": "0713208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Chaung Wa Village Tract",
+      "slug": "chaung-wa-village-tract-0713246"
+    },
+    "code": {
+      "id": "0713246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါင်းကွဲတောင် ကျေးရွာအုပ်စု",
+      "en": "Gaung Kwe Taung Village Tract",
+      "slug": "gaung-kwe-taung-village-tract-0713223"
+    },
+    "code": {
+      "id": "0713223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွဆုံ ကျေးရွာအုပ်စု",
+      "en": "Gwa Son Village Tract",
+      "slug": "gwa-son-village-tract-0713209"
+    },
+    "code": {
+      "id": "0713209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟုံးဝ ကျေးရွာအုပ်စု",
+      "en": "Hone Wa Village Tract",
+      "slug": "hone-wa-village-tract-0713241"
+    },
+    "code": {
+      "id": "0713241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန့်ကော် ကျေးရွာအုပ်စု",
+      "en": "Kant Kaw Village Tract",
+      "slug": "kant-kaw-village-tract-0713202"
+    },
+    "code": {
+      "id": "0713202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခမောင်းခြေတိုင် ကျေးရွာအုပ်စု",
+      "en": "Kha Maung Chay Taing Village Tract",
+      "slug": "kha-maung-chay-taing-village-tract-0713219"
+    },
+    "code": {
+      "id": "0713219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းဘောင် ကျေးရွာအုပ်စု",
+      "en": "Kon Baung Village Tract",
+      "slug": "kon-baung-village-tract-0713212"
+    },
+    "code": {
+      "id": "0713212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားဘုန်း ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Bone Village Tract",
+      "slug": "ku-lar-bone-village-tract-0713215"
+    },
+    "code": {
+      "id": "0713215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်နဂါး ကျေးရွာအုပ်စု",
+      "en": "Kyauk Na Gar Village Tract",
+      "slug": "kyauk-na-gar-village-tract-0713230"
+    },
+    "code": {
+      "id": "0713230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်နီမော် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ni Maw Village Tract",
+      "slug": "kyauk-ni-maw-village-tract-0713247"
+    },
+    "code": {
+      "id": "0713247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဆောက် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sauk Village Tract",
+      "slug": "kyauk-sauk-village-tract-0713213"
+    },
+    "code": {
+      "id": "0713213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းပြိန် ကျေးရွာအုပ်စု",
+      "en": "Kyaung Pyein Village Tract",
+      "slug": "kyaung-pyein-village-tract-0713225"
+    },
+    "code": {
+      "id": "0713225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမူးချေ ကျေးရွာအုပ်စု",
+      "en": "La Mu Chay Village Tract",
+      "slug": "la-mu-chay-village-tract-0713240"
+    },
+    "code": {
+      "id": "0713240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေးတောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Lay Taung Chaung Village Tract",
+      "slug": "lay-taung-chaung-village-tract-0713226"
+    },
+    "code": {
+      "id": "0713226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Let Pan Pyin Village Tract",
+      "slug": "let-pan-pyin-village-tract-0713233"
+    },
+    "code": {
+      "id": "0713233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန် ကျေးရွာအုပ်စု",
+      "en": "Let Pan Village Tract",
+      "slug": "let-pan-village-tract-0713218"
+    },
+    "code": {
+      "id": "0713218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျေး ကျေးရွာအုပ်စု",
+      "en": "Ma Kyay Village Tract",
+      "slug": "ma-kyay-village-tract-0713250"
+    },
+    "code": {
+      "id": "0713250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရွတ်ချိန် ကျေးရွာအုပ်စု",
+      "en": "Ma Yut Chein Village Tract",
+      "slug": "ma-yut-chein-village-tract-0713220"
+    },
+    "code": {
+      "id": "0713220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မီးကျောင်းတက် ကျေးရွာအုပ်စု",
+      "en": "Mee Kyaung Tet Village Tract",
+      "slug": "mee-kyaung-tet-village-tract-0713207"
+    },
+    "code": {
+      "id": "0713207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေပုံ ကျေးရွာအုပ်စု",
+      "en": "Myay Pon Village Tract",
+      "slug": "myay-pon-village-tract-0713238"
+    },
+    "code": {
+      "id": "0713238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငရန့်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nga Yant Chaung Village Tract",
+      "slug": "nga-yant-chaung-village-tract-0713239"
+    },
+    "code": {
+      "id": "0713239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "င/စမိ ကျေးရွာအုပ်စု",
+      "en": "Nga/Sa Mi Village Tract",
+      "slug": "ngasa-mi-village-tract-0713210"
+    },
+    "code": {
+      "id": "0713210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "င/သမုတ် ကျေးရွာအုပ်စု",
+      "en": "Nga/Tha Moke Village Tract",
+      "slug": "ngatha-moke-village-tract-0713248"
+    },
+    "code": {
+      "id": "0713248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0713001"
+    },
+    "code": {
+      "id": "0713001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0713002"
+    },
+    "code": {
+      "id": "0713002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0713003"
+    },
+    "code": {
+      "id": "0713003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0713004"
+    },
+    "code": {
+      "id": "0713004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0713005"
+    },
+    "code": {
+      "id": "0713005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-0713006"
+    },
+    "code": {
+      "id": "0713006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုန်းဆိုးပြင် ကျေးရွာအုပ်စု",
+      "en": "Pone Soe Pyin Village Tract",
+      "slug": "pone-soe-pyin-village-tract-0713200"
+    },
+    "code": {
+      "id": "0713200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်ချောင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Pyin Chaung Gyi Village Tract",
+      "slug": "pyin-chaung-gyi-village-tract-0713237"
+    },
+    "code": {
+      "id": "0713237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စပါးတုံ ကျေးရွာအုပ်စု",
+      "en": "Sa Par Ton Village Tract",
+      "slug": "sa-par-ton-village-tract-0713229"
+    },
+    "code": {
+      "id": "0713229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စေရင်း ကျေးရွာအုပ်စု",
+      "en": "Say Yin Village Tract",
+      "slug": "say-yin-village-tract-0713204"
+    },
+    "code": {
+      "id": "0713204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆည်ခုံ ကျေးရွာအုပ်စု",
+      "en": "Se Khon Village Tract",
+      "slug": "se-khon-village-tract-0713201"
+    },
+    "code": {
+      "id": "0713201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်သေပြင် (ဆင်ဆီ) ကျေးရွာအုပ်စု",
+      "en": "Sin Thay Pyin (Sin Si) Village Tract",
+      "slug": "sin-thay-pyin-sin-si-village-tract-0713234"
+    },
+    "code": {
+      "id": "0713234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကြား ကျေးရွာအုပ်စု",
+      "en": "Taw Kyar Village Tract",
+      "slug": "taw-kyar-village-tract-0713235"
+    },
+    "code": {
+      "id": "0713235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်ချို ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Cho Village Tract",
+      "slug": "tha-yet-cho-village-tract-0713228"
+    },
+    "code": {
+      "id": "0713228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံချောင်း ကျေးရွာအုပ်စု",
+      "en": "Than Chaung Village Tract",
+      "slug": "than-chaung-village-tract-0713236"
+    },
+    "code": {
+      "id": "0713236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Thar Si Pyin Village Tract",
+      "slug": "thar-si-pyin-village-tract-0713224"
+    },
+    "code": {
+      "id": "0713224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သင်းဘောင်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Thin Baung Chaung Village Tract",
+      "slug": "thin-baung-chaung-village-tract-0713244"
+    },
+    "code": {
+      "id": "0713244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သင်္ဘောဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Thin Baw Seik Village Tract",
+      "slug": "thin-baw-seik-village-tract-0713221"
+    },
+    "code": {
+      "id": "0713221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ပုတ်ချိန် ကျေးရွာအုပ်စု",
+      "en": "Thit Poke Chein Village Tract",
+      "slug": "thit-poke-chein-village-tract-0713242"
+    },
+    "code": {
+      "id": "0713242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဦးဂ ကျေးရွာအုပ်စု",
+      "en": "U Ga Village Tract",
+      "slug": "u-ga-village-tract-0713243"
+    },
+    "code": {
+      "id": "0713243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ကိုက်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Wet Kaik Chaung Village Tract",
+      "slug": "wet-kaik-chaung-village-tract-0713222"
+    },
+    "code": {
+      "id": "0713222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကောင်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Yae Kaung Chaung Village Tract",
+      "slug": "yae-kaung-chaung-village-tract-0713249"
+    },
+    "code": {
+      "id": "0713249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်းဗြဲငယ်ချောင်းဖျား ကျေးရွာအုပ်စု",
+      "en": "Yan Bye Nge Chaung Hpyar Village Tract",
+      "slug": "yan-bye-nge-chaung-hpyar-village-tract-0713245"
+    },
+    "code": {
+      "id": "0713245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်းသစ်ချေ ကျေးရွာအုပ်စု",
+      "en": "Yan Thit Chay Village Tract",
+      "slug": "yan-thit-chay-village-tract-0713217"
+    },
+    "code": {
+      "id": "0713217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်းသစ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Yan Thit Gyi Village Tract",
+      "slug": "yan-thit-gyi-village-tract-0713216"
+    },
+    "code": {
+      "id": "0713216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာကြီး ကျေးရွာအုပ်စု",
+      "en": "Ywar Gyi Village Tract",
+      "slug": "ywar-gyi-village-tract-0713211"
+    },
+    "code": {
+      "id": "0713211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာပလဲ ကျေးရွာအုပ်စု",
+      "en": "Ywar Pale Village Tract",
+      "slug": "ywar-pale-village-tract-0713205"
+    },
+    "code": {
+      "id": "0713205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0713227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇရပ်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Za Yat Pyin Village Tract",
+      "slug": "za-yat-pyin-village-tract-0713227"
+    },
+    "code": {
+      "id": "0713227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012013701",
+      "level": 3,
+      "name": {
+        "local": "ရမ်းဗြဲ",
+        "en": "Ramree",
+        "slug": "ramree-MMR012013701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D003",
+        "level": 2,
+        "name": {
+          "local": "ကျောက်ဖြူခရိုင်",
+          "en": "Kyaukpyu",
+          "slug": "kyaukpyu-MMR012D003"
+        }
+      },
+      {
+        "id": "MMR012013701",
+        "level": 3,
+        "name": {
+          "local": "ရမ်းဗြဲ",
+          "en": "Ramree",
+          "slug": "ramree-MMR012013701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0713227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

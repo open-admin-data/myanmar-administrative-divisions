@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1465002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေညှာ (အရှေ့) ရပ်ကွက်",
+      "en": "Lay Hnar (East) Quarter",
+      "slug": "lay-hnar-east-quarter-1465002"
+    },
+    "code": {
+      "id": "1465002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010702",
+      "level": 3,
+      "name": {
+        "local": "ပြည်ကြီးမဏ္ဍိုင်",
+        "en": "Pyigyimandaing",
+        "slug": "pyigyimandaing-MMR006010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010702",
+        "level": 3,
+        "name": {
+          "local": "ပြည်ကြီးမဏ္ဍိုင်",
+          "en": "Pyigyimandaing",
+          "slug": "pyigyimandaing-MMR006010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1465002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1465003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေညှာ (အနောက်) ရပ်ကွက်",
+      "en": "Lay Hnar (West) Quarter",
+      "slug": "lay-hnar-west-quarter-1465003"
+    },
+    "code": {
+      "id": "1465003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010702",
+      "level": 3,
+      "name": {
+        "local": "ပြည်ကြီးမဏ္ဍိုင်",
+        "en": "Pyigyimandaing",
+        "slug": "pyigyimandaing-MMR006010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010702",
+        "level": 3,
+        "name": {
+          "local": "ပြည်ကြီးမဏ္ဍိုင်",
+          "en": "Pyigyimandaing",
+          "slug": "pyigyimandaing-MMR006010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1465003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1465001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်ကြီးမဏ္ဍိုင် ရပ်ကွက်",
+      "en": "Pyi Gyi Mandaing Quarter",
+      "slug": "pyi-gyi-mandaing-quarter-1465001"
+    },
+    "code": {
+      "id": "1465001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006010702",
+      "level": 3,
+      "name": {
+        "local": "ပြည်ကြီးမဏ္ဍိုင်",
+        "en": "Pyigyimandaing",
+        "slug": "pyigyimandaing-MMR006010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D003",
+        "level": 2,
+        "name": {
+          "local": "ကော့သောင်းခရိုင်",
+          "en": "Kawthoung",
+          "slug": "kawthoung-MMR006D003"
+        }
+      },
+      {
+        "id": "MMR006010702",
+        "level": 3,
+        "name": {
+          "local": "ပြည်ကြီးမဏ္ဍိုင်",
+          "en": "Pyigyimandaing",
+          "slug": "pyigyimandaing-MMR006010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1465001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

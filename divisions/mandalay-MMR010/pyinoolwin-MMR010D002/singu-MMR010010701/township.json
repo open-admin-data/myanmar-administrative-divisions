@@ -1,0 +1,56 @@
+{
+  "id": "MMR010010701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "စဉ့်ကူး",
+    "en": "Singu",
+    "slug": "singu-MMR010010701"
+  },
+  "code": {
+    "id": "MMR010010701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D002",
+    "level": 2,
+    "name": {
+      "local": "ပြင်ဦးလွင်ခရိုင်",
+      "en": "Pyinoolwin",
+      "slug": "pyinoolwin-MMR010D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D002",
+      "level": 2,
+      "name": {
+        "local": "ပြင်ဦးလွင်ခရိုင်",
+        "en": "Pyinoolwin",
+        "slug": "pyinoolwin-MMR010D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.54838",
+    "lon": "95.99655"
+  },
+  "metadata": {},
+  "source": {}
+}

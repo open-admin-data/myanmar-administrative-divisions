@@ -1,0 +1,457 @@
+[
+  {
+    "id": "0172003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0172003"
+    },
+    "code": {
+      "id": "0172003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0172001"
+    },
+    "code": {
+      "id": "0172001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သီရိ ရပ်ကွက်",
+      "en": "Aung Thi Ri Quarter",
+      "slug": "aung-thi-ri-quarter-0172002"
+    },
+    "code": {
+      "id": "0172002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သစ္စာ ရပ်ကွက်",
+      "en": "Aung Thit Sar Quarter",
+      "slug": "aung-thit-sar-quarter-0172004"
+    },
+    "code": {
+      "id": "0172004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ဇေယျာ ရပ်ကွက်",
+      "en": "Aung Zay Yar Quarter",
+      "slug": "aung-zay-yar-quarter-0172005"
+    },
+    "code": {
+      "id": "0172005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်နန် ရပ်ကွက်",
+      "en": "Kawng Nan Quarter",
+      "slug": "kawng-nan-quarter-0172007"
+    },
+    "code": {
+      "id": "0172007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0172006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်ဂျာ ရပ်ကွက်",
+      "en": "Saing Gyar Quarter",
+      "slug": "saing-gyar-quarter-0172006"
+    },
+    "code": {
+      "id": "0172006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001012702",
+      "level": 3,
+      "name": {
+        "local": "လွယ်ဂျယ်",
+        "en": "Lwegel",
+        "slug": "lwegel-MMR001012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001012702",
+        "level": 3,
+        "name": {
+          "local": "လွယ်ဂျယ်",
+          "en": "Lwegel",
+          "slug": "lwegel-MMR001012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0172006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

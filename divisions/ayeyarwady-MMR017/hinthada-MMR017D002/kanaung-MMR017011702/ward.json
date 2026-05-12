@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1064002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-1064002"
+    },
+    "code": {
+      "id": "1064002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017011702",
+      "level": 3,
+      "name": {
+        "local": "ကနောင်",
+        "en": "Kanaung",
+        "slug": "kanaung-MMR017011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017011702",
+        "level": 3,
+        "name": {
+          "local": "ကနောင်",
+          "en": "Kanaung",
+          "slug": "kanaung-MMR017011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1064002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1064001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-1064001"
+    },
+    "code": {
+      "id": "1064001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017011702",
+      "level": 3,
+      "name": {
+        "local": "ကနောင်",
+        "en": "Kanaung",
+        "slug": "kanaung-MMR017011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017011702",
+        "level": 3,
+        "name": {
+          "local": "ကနောင်",
+          "en": "Kanaung",
+          "slug": "kanaung-MMR017011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1064001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1064004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-1064004"
+    },
+    "code": {
+      "id": "1064004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017011702",
+      "level": 3,
+      "name": {
+        "local": "ကနောင်",
+        "en": "Kanaung",
+        "slug": "kanaung-MMR017011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017011702",
+        "level": 3,
+        "name": {
+          "local": "ကနောင်",
+          "en": "Kanaung",
+          "slug": "kanaung-MMR017011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1064004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1064005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရိုက်စု ရပ်ကွက်",
+      "en": "Yaik Su Quarter",
+      "slug": "yaik-su-quarter-1064005"
+    },
+    "code": {
+      "id": "1064005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017011702",
+      "level": 3,
+      "name": {
+        "local": "ကနောင်",
+        "en": "Kanaung",
+        "slug": "kanaung-MMR017011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017011702",
+        "level": 3,
+        "name": {
+          "local": "ကနောင်",
+          "en": "Kanaung",
+          "slug": "kanaung-MMR017011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1064005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1064003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-1064003"
+    },
+    "code": {
+      "id": "1064003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017011702",
+      "level": 3,
+      "name": {
+        "local": "ကနောင်",
+        "en": "Kanaung",
+        "slug": "kanaung-MMR017011702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017011702",
+        "level": 3,
+        "name": {
+          "local": "ကနောင်",
+          "en": "Kanaung",
+          "slug": "kanaung-MMR017011702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1064003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

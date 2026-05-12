@@ -1,0 +1,5527 @@
+[
+  {
+    "id": "0230011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ် ရပ်ကွက်",
+      "en": "Ah Lel Quarter",
+      "slug": "ah-lel-quarter-0230011"
+    },
+    "code": {
+      "id": "0230011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလုံ ရပ်ကွက်",
+      "en": "Ah Lone Quarter",
+      "slug": "ah-lone-quarter-0230020"
+    },
+    "code": {
+      "id": "0230020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0230002"
+    },
+    "code": {
+      "id": "0230002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0230013"
+    },
+    "code": {
+      "id": "0230013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သာ ကျေးရွာအုပ်စု",
+      "en": "Aung Thar Village Tract",
+      "slug": "aung-thar-village-tract-0230227"
+    },
+    "code": {
+      "id": "0230227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အေးသာယာ ရပ်ကွက်",
+      "en": "Aye Thar Yar Quarter",
+      "slug": "aye-thar-yar-quarter-0230008"
+    },
+    "code": {
+      "id": "0230008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230030",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗန္ဓုလ ရပ်ကွက်",
+      "en": "Ban Du La Quarter",
+      "slug": "ban-du-la-quarter-0230030"
+    },
+    "code": {
+      "id": "0230030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230030"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုမ္မနိုး ကျေးရွာအုပ်စု",
+      "en": "Bon Ma Noe Village Tract",
+      "slug": "bon-ma-noe-village-tract-0230206"
+    },
+    "code": {
+      "id": "0230206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုဘ ကျေးရွာအုပ်စု",
+      "en": "Bu Ba Village Tract",
+      "slug": "bu-ba-village-tract-0230221"
+    },
+    "code": {
+      "id": "0230221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘူးတောင်းကန် ကျေးရွာအုပ်စု",
+      "en": "Bu Taung Kan Village Tract",
+      "slug": "bu-taung-kan-village-tract-0230205"
+    },
+    "code": {
+      "id": "0230205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းမြသာစည် ရပ်ကွက်",
+      "en": "Chan Mya Thar Zi Quarter",
+      "slug": "chan-mya-thar-zi-quarter-0230007"
+    },
+    "code": {
+      "id": "0230007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230027",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းမြဝတီ ရပ်ကွက်",
+      "en": "Chan Mya Wa Di Quarter",
+      "slug": "chan-mya-wa-di-quarter-0230027"
+    },
+    "code": {
+      "id": "0230027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230027"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒါန်းပင်တဲ ကျေးရွာအုပ်စု",
+      "en": "Dan Pin Te Village Tract",
+      "slug": "dan-pin-te-village-tract-0230243"
+    },
+    "code": {
+      "id": "0230243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒေါနခြံ ရပ်ကွက်",
+      "en": "Daw Na Chan Quarter",
+      "slug": "daw-na-chan-quarter-0230003"
+    },
+    "code": {
+      "id": "0230003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီး ရပ်ကွက်",
+      "en": "Hpa Yar Gyi Quarter",
+      "slug": "hpa-yar-gyi-quarter-0230016"
+    },
+    "code": {
+      "id": "0230016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖန်းခါးကျင်း ကျေးရွာအုပ်စု",
+      "en": "Hpan Khar Kyin Village Tract",
+      "slug": "hpan-khar-kyin-village-tract-0230242"
+    },
+    "code": {
+      "id": "0230242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖုန်းစိုး ရပ်ကွက်",
+      "en": "Hpone Soe Quarter",
+      "slug": "hpone-soe-quarter-0230005"
+    },
+    "code": {
+      "id": "0230005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထနောင်းတော ကျေးရွာအုပ်စု",
+      "en": "Hta Naung Taw Village Tract",
+      "slug": "hta-naung-taw-village-tract-0230231"
+    },
+    "code": {
+      "id": "0230231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထနောင်းဝင်း ကျေးရွာအုပ်စု",
+      "en": "Hta Naung Win Village Tract",
+      "slug": "hta-naung-win-village-tract-0230219"
+    },
+    "code": {
+      "id": "0230219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်တိုင်း ကျေးရွာအုပ်စု",
+      "en": "In Taing Village Tract",
+      "slug": "in-taing-village-tract-0230225"
+    },
+    "code": {
+      "id": "0230225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံပြား ကျေးရွာအုပ်စု",
+      "en": "Kan Pyar Village Tract",
+      "slug": "kan-pyar-village-tract-0230234"
+    },
+    "code": {
+      "id": "0230234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230026",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်သာဦး ရပ်ကွက်",
+      "en": "Kan Thar Oo Quarter",
+      "slug": "kan-thar-oo-quarter-0230026"
+    },
+    "code": {
+      "id": "0230026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230026"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကော်လပြ ကျေးရွာအုပ်စု",
+      "en": "Kaw La Pya Village Tract",
+      "slug": "kaw-la-pya-village-tract-0230239"
+    },
+    "code": {
+      "id": "0230239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခတက္ကန် (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Kha Tet Kan (North) Village Tract",
+      "slug": "kha-tet-kan-north-village-tract-0230214"
+    },
+    "code": {
+      "id": "0230214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခတက္ကန် (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Kha Tet Kan (South) Village Tract",
+      "slug": "kha-tet-kan-south-village-tract-0230215"
+    },
+    "code": {
+      "id": "0230215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခိုးသန်း ကျေးရွာအုပ်စု",
+      "en": "Khoe Than Village Tract",
+      "slug": "khoe-than-village-tract-0230233"
+    },
+    "code": {
+      "id": "0230233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကိုးရှင်းကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Koe Shin Kyun Village Tract",
+      "slug": "koe-shin-kyun-village-tract-0230200"
+    },
+    "code": {
+      "id": "0230200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွေ့ကြီး ရပ်ကွက်",
+      "en": "Kwayt Gyi Quarter",
+      "slug": "kwayt-gyi-quarter-0230001"
+    },
+    "code": {
+      "id": "0230001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျပိုင် ကျေးရွာအုပ်စု",
+      "en": "Kya Paing Village Tract",
+      "slug": "kya-paing-village-tract-0230209"
+    },
+    "code": {
+      "id": "0230209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက္ကာ (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Kyauk Kar (North) Village Tract",
+      "slug": "kyauk-kar-north-village-tract-0230235"
+    },
+    "code": {
+      "id": "0230235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက္ကာ (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Kyauk Kar (South) Village Tract",
+      "slug": "kyauk-kar-south-village-tract-0230236"
+    },
+    "code": {
+      "id": "0230236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်စစ်ပုံ (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sit Pon (North) Village Tract",
+      "slug": "kyauk-sit-pon-north-village-tract-0230248"
+    },
+    "code": {
+      "id": "0230248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်စစ်ပုံ (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sit Pon (South) Village Tract",
+      "slug": "kyauk-sit-pon-south-village-tract-0230249"
+    },
+    "code": {
+      "id": "0230249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyaung Kone Village Tract",
+      "slug": "kyaung-kone-village-tract-0230223"
+    },
+    "code": {
+      "id": "0230223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြေးမုံ ကျေးရွာအုပ်စု",
+      "en": "Kyay Mon Village Tract",
+      "slug": "kyay-mon-village-tract-0230212"
+    },
+    "code": {
+      "id": "0230212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီးအုပ် ကျေးရွာအုပ်စု",
+      "en": "Kyee Oke Village Tract",
+      "slug": "kyee-oke-village-tract-0230213"
+    },
+    "code": {
+      "id": "0230213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြိုးကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyoe Kyar Kan Village Tract",
+      "slug": "kyoe-kyar-kan-village-tract-0230237"
+    },
+    "code": {
+      "id": "0230237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyun Gyi Village Tract",
+      "slug": "kyun-gyi-village-tract-0230241"
+    },
+    "code": {
+      "id": "0230241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Kyun Ywar Thit Village Tract",
+      "slug": "kyun-ywar-thit-village-tract-0230208"
+    },
+    "code": {
+      "id": "0230208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲရဲ ကျေးရွာအုပ်စု",
+      "en": "Kywe Ye Village Tract",
+      "slug": "kywe-ye-village-tract-0230238"
+    },
+    "code": {
+      "id": "0230238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်တီ ရပ်ကွက်",
+      "en": "Lel Di Quarter",
+      "slug": "lel-di-quarter-0230004"
+    },
+    "code": {
+      "id": "0230004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လယ်ဇင် ကျေးရွာအုပ်စု",
+      "en": "Lel Zin Village Tract",
+      "slug": "lel-zin-village-tract-0230203"
+    },
+    "code": {
+      "id": "0230203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မအူ ကျေးရွာအုပ်စု",
+      "en": "Ma Au Village Tract",
+      "slug": "ma-au-village-tract-0230202"
+    },
+    "code": {
+      "id": "0230202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရိုးတော ကျေးရွာအုပ်စု",
+      "en": "Ma Yoe Taw Village Tract",
+      "slug": "ma-yoe-taw-village-tract-0230228"
+    },
+    "code": {
+      "id": "0230228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်း ကျေးရွာအုပ်စု",
+      "en": "Min Village Tract",
+      "slug": "min-village-tract-0230246"
+    },
+    "code": {
+      "id": "0230246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုံရွေး ကျေးရွာအုပ်စု",
+      "en": "Mon Yway Village Tract",
+      "slug": "mon-yway-village-tract-0230211"
+    },
+    "code": {
+      "id": "0230211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုံရွာတောင် ရပ်ကွက်",
+      "en": "Monywa (South) Quarter",
+      "slug": "monywa-south-quarter-0230014"
+    },
+    "code": {
+      "id": "0230014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြဝတီ ရပ်ကွက်",
+      "en": "Mya Wa Di Quarter",
+      "slug": "mya-wa-di-quarter-0230015"
+    },
+    "code": {
+      "id": "0230015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေနဲ ကျေးရွာအုပ်စု",
+      "en": "Myay Ne Village Tract",
+      "slug": "myay-ne-village-tract-0230247"
+    },
+    "code": {
+      "id": "0230247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြင်းမီးလောင် ကျေးရွာအုပ်စု",
+      "en": "Myin Mee Laung Village Tract",
+      "slug": "myin-mee-laung-village-tract-0230229"
+    },
+    "code": {
+      "id": "0230229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230022",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ် ရပ်ကွက်",
+      "en": "Myo Thit Quarter",
+      "slug": "myo-thit-quarter-0230022"
+    },
+    "code": {
+      "id": "0230022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230022"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230023",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန္ဒဝန် ရပ်ကွက်",
+      "en": "Nan Da Wun Quarter",
+      "slug": "nan-da-wun-quarter-0230023"
+    },
+    "code": {
+      "id": "0230023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230023"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကြီးကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Nat Gyi Kyun Village Tract",
+      "slug": "nat-gyi-kyun-village-tract-0230224"
+    },
+    "code": {
+      "id": "0230224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230024",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်လူထိပ်ပန် ရပ်ကွက်",
+      "en": "Nat Lu Hteik Pan Quarter",
+      "slug": "nat-lu-hteik-pan-quarter-0230024"
+    },
+    "code": {
+      "id": "0230024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230024"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဖြူပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Hpyu Pin Village Tract",
+      "slug": "nyaung-hpyu-pin-village-tract-0230204"
+    },
+    "code": {
+      "id": "0230204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Village Tract",
+      "slug": "nyaung-pin-village-tract-0230253"
+    },
+    "code": {
+      "id": "0230253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230021",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုးဘိုတောင် ရပ်ကွက်",
+      "en": "Oe Bo (South) Quarter",
+      "slug": "oe-bo-south-quarter-0230021"
+    },
+    "code": {
+      "id": "0230021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230021"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပလ္လင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Pa Lin Kone Village Tract",
+      "slug": "pa-lin-kone-village-tract-0230232"
+    },
+    "code": {
+      "id": "0230232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်ပင် ကျေးရွာအုပ်စု",
+      "en": "Pauk Pin Village Tract",
+      "slug": "pauk-pin-village-tract-0230220"
+    },
+    "code": {
+      "id": "0230220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုဏ္ဏားမော် ကျေးရွာအုပ်စု",
+      "en": "Pon Nar Maw Village Tract",
+      "slug": "pon-nar-maw-village-tract-0230207"
+    },
+    "code": {
+      "id": "0230207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုရစ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Pu Yit Kone Village Tract",
+      "slug": "pu-yit-kone-village-tract-0230245"
+    },
+    "code": {
+      "id": "0230245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230029",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်တော်သာ ရပ်ကွက်",
+      "en": "Pyi Taw Thar Quarter",
+      "slug": "pyi-taw-thar-quarter-0230029"
+    },
+    "code": {
+      "id": "0230029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230029"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆည်ကြီးတော ကျေးရွာအုပ်စု",
+      "en": "Se Gyi Taw Village Tract",
+      "slug": "se-gyi-taw-village-tract-0230244"
+    },
+    "code": {
+      "id": "0230244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230025",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စက်မှုဇုန် ရပ်ကွက်",
+      "en": "Set Hmu Zon Quarter",
+      "slug": "set-hmu-zon-quarter-0230025"
+    },
+    "code": {
+      "id": "0230025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230025"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230031",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်အေး ရပ်ကွက်",
+      "en": "Shwe Pyi Aye Quarter",
+      "slug": "shwe-pyi-aye-quarter-0230031"
+    },
+    "code": {
+      "id": "0230031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230031"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230028",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေဇလုပ် ရပ်ကွက်",
+      "en": "Shwe Za Loke Quarter",
+      "slug": "shwe-za-loke-quarter-0230028"
+    },
+    "code": {
+      "id": "0230028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230028"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ပင် ရပ်ကွက်",
+      "en": "Sit Pin Quarter",
+      "slug": "sit-pin-quarter-0230019"
+    },
+    "code": {
+      "id": "0230019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးလေကုန်း ရပ်ကွက်",
+      "en": "Su Lay Kone Quarter",
+      "slug": "su-lay-kone-quarter-0230018"
+    },
+    "code": {
+      "id": "0230018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးလေကုန်း ကျေးရွာအုပ်စု",
+      "en": "SuLayKone Village Tract",
+      "slug": "sulaykone-village-tract-0230201"
+    },
+    "code": {
+      "id": "0230201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ကြား ကျေးရွာအုပ်စု",
+      "en": "Taung Kyar Village Tract",
+      "slug": "taung-kyar-village-tract-0230252"
+    },
+    "code": {
+      "id": "0230252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်မာတော ကျေးရွာအုပ်စု",
+      "en": "Taung Mar Taw Village Tract",
+      "slug": "taung-mar-taw-village-tract-0230251"
+    },
+    "code": {
+      "id": "0230251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောပု ကျေးရွာအုပ်စု",
+      "en": "Taw Pu Village Tract",
+      "slug": "taw-pu-village-tract-0230210"
+    },
+    "code": {
+      "id": "0230210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တဲကြီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Te Gyi Kone Village Tract",
+      "slug": "te-gyi-kone-village-tract-0230240"
+    },
+    "code": {
+      "id": "0230240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သန်းတော ရပ်ကွက်",
+      "en": "Than Taw Quarter",
+      "slug": "than-taw-quarter-0230012"
+    },
+    "code": {
+      "id": "0230012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သလ္လာ ရပ်ကွက်",
+      "en": "Thar Lar Quarter",
+      "slug": "thar-lar-quarter-0230010"
+    },
+    "code": {
+      "id": "0230010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည် ကျေးရွာအုပ်စု",
+      "en": "Thar Si Village Tract",
+      "slug": "thar-si-village-tract-0230222"
+    },
+    "code": {
+      "id": "0230222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သက္ကယ်ကျင်း ကျေးရွာအုပ်စု",
+      "en": "Thet Kei Kyin Village Tract",
+      "slug": "thet-kei-kyin-village-tract-0230216"
+    },
+    "code": {
+      "id": "0230216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်ဆိမ့် ကျေးရွာအုပ်စု",
+      "en": "Thit Seint Village Tract",
+      "slug": "thit-seint-village-tract-0230230"
+    },
+    "code": {
+      "id": "0230230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရတနာပုံ ရပ်ကွက်",
+      "en": "Ya Da Nar Bon Quarter",
+      "slug": "ya-da-nar-bon-quarter-0230006"
+    },
+    "code": {
+      "id": "0230006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကန်စု ကျေးရွာအုပ်စု",
+      "en": "Yae Kan Su Village Tract",
+      "slug": "yae-kan-su-village-tract-0230250"
+    },
+    "code": {
+      "id": "0230250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရန်ကင်း ရပ်ကွက်",
+      "en": "Yan Kin Quarter",
+      "slug": "yan-kin-quarter-0230009"
+    },
+    "code": {
+      "id": "0230009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရောင်တော်တုံး ကျေးရွာအုပ်စု",
+      "en": "Yaung Taw Tone Village Tract",
+      "slug": "yaung-taw-tone-village-tract-0230226"
+    },
+    "code": {
+      "id": "0230226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးကြီး ရပ်ကွက်",
+      "en": "Yone Gyi Quarter",
+      "slug": "yone-gyi-quarter-0230017"
+    },
+    "code": {
+      "id": "0230017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာတုံ ကျေးရွာအုပ်စု",
+      "en": "Ywar Ton Village Tract",
+      "slug": "ywar-ton-village-tract-0230218"
+    },
+    "code": {
+      "id": "0230218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0230217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Zee Kyun Village Tract",
+      "slug": "zee-kyun-village-tract-0230217"
+    },
+    "code": {
+      "id": "0230217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005012701",
+      "level": 3,
+      "name": {
+        "local": "မုံရွာ",
+        "en": "Monywa",
+        "slug": "monywa-MMR005012701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D003",
+        "level": 2,
+        "name": {
+          "local": "မုံရွာခရိုင်",
+          "en": "Monywa",
+          "slug": "monywa-MMR005D003"
+        }
+      },
+      {
+        "id": "MMR005012701",
+        "level": 3,
+        "name": {
+          "local": "မုံရွာ",
+          "en": "Monywa",
+          "slug": "monywa-MMR005012701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0230217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

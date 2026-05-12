@@ -1,0 +1,56 @@
+{
+  "id": "MMR001012701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိုးမောက်",
+    "en": "Momauk",
+    "slug": "momauk-MMR001012701"
+  },
+  "code": {
+    "id": "MMR001012701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D003",
+    "level": 2,
+    "name": {
+      "local": "ဗန်းမော်ခရိုင်",
+      "en": "Bhamo",
+      "slug": "bhamo-MMR001D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D003",
+      "level": 2,
+      "name": {
+        "local": "ဗန်းမော်ခရိုင်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.25095",
+    "lon": "97.34653"
+  },
+  "metadata": {},
+  "source": {}
+}

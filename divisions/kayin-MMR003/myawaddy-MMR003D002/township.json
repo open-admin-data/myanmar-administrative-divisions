@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MMR003005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြဝတီ",
+      "en": "Myawaddy",
+      "slug": "myawaddy-MMR003005701"
+    },
+    "code": {
+      "id": "MMR003005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003D002",
+      "level": 2,
+      "name": {
+        "local": "မြဝတီခရိုင်",
+        "en": "Myawaddy",
+        "slug": "myawaddy-MMR003D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.68868",
+      "lon": "98.51304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "စုကလိ",
+      "en": "Su Ka Li",
+      "slug": "su-ka-li-MMR003005702"
+    },
+    "code": {
+      "id": "MMR003005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003D002",
+      "level": 2,
+      "name": {
+        "local": "မြဝတီခရိုင်",
+        "en": "Myawaddy",
+        "slug": "myawaddy-MMR003D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.15439",
+      "lon": "98.59621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003005703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "Waw Lay Myaing (Waw Lay)",
+      "en": "Waw Lay Myaing (Waw Lay)",
+      "slug": "waw-lay-myaing-waw-lay-MMR003005703"
+    },
+    "code": {
+      "id": "MMR003005703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003D002",
+      "level": 2,
+      "name": {
+        "local": "မြဝတီခရိုင်",
+        "en": "Myawaddy",
+        "slug": "myawaddy-MMR003D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.29392",
+      "lon": "98.71324"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

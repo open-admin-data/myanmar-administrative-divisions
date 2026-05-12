@@ -1,0 +1,48 @@
+{
+  "id": "MMR008D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "သာယာဝတီခရိုင်",
+    "en": "Thayarwady",
+    "slug": "thayarwady-MMR008D002"
+  },
+  "code": {
+    "id": "MMR008D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007",
+    "level": 1,
+    "name": {
+      "local": "ပဲခူးတိုင်းဒေသကြီး",
+      "en": "Bago",
+      "slug": "bago-MMR007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 12,
+    "ward": 542
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.0407",
+    "lon": "95.6591"
+  },
+  "metadata": {},
+  "source": {}
+}

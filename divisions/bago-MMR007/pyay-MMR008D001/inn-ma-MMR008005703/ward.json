@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1863001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိရတနာ ရပ်ကွက်",
+      "en": "Thi Ri Ya Da Nar Quarter",
+      "slug": "thi-ri-ya-da-nar-quarter-1863001"
+    },
+    "code": {
+      "id": "1863001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005703",
+      "level": 3,
+      "name": {
+        "local": "အင်းမ",
+        "en": "Inn Ma",
+        "slug": "inn-ma-MMR008005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005703",
+        "level": 3,
+        "name": {
+          "local": "အင်းမ",
+          "en": "Inn Ma",
+          "slug": "inn-ma-MMR008005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1863001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1863005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိကန်သာ ရပ်ကွက်",
+      "en": "Thiri Kan Thar Quarter",
+      "slug": "thiri-kan-thar-quarter-1863005"
+    },
+    "code": {
+      "id": "1863005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005703",
+      "level": 3,
+      "name": {
+        "local": "အင်းမ",
+        "en": "Inn Ma",
+        "slug": "inn-ma-MMR008005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005703",
+        "level": 3,
+        "name": {
+          "local": "အင်းမ",
+          "en": "Inn Ma",
+          "slug": "inn-ma-MMR008005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1863005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1863004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိမင်္ဂလာ ရပ်ကွက်",
+      "en": "Thiri Mingalar Quarter",
+      "slug": "thiri-mingalar-quarter-1863004"
+    },
+    "code": {
+      "id": "1863004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005703",
+      "level": 3,
+      "name": {
+        "local": "အင်းမ",
+        "en": "Inn Ma",
+        "slug": "inn-ma-MMR008005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005703",
+        "level": 3,
+        "name": {
+          "local": "အင်းမ",
+          "en": "Inn Ma",
+          "slug": "inn-ma-MMR008005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1863004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1863003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိသုခ ရပ်ကွက်",
+      "en": "Thiri Thu Kha Quarter",
+      "slug": "thiri-thu-kha-quarter-1863003"
+    },
+    "code": {
+      "id": "1863003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005703",
+      "level": 3,
+      "name": {
+        "local": "အင်းမ",
+        "en": "Inn Ma",
+        "slug": "inn-ma-MMR008005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005703",
+        "level": 3,
+        "name": {
+          "local": "အင်းမ",
+          "en": "Inn Ma",
+          "slug": "inn-ma-MMR008005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1863003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1863002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိဝေဖြာ ရပ်ကွက်",
+      "en": "Thiri Wai Phyar Quarter",
+      "slug": "thiri-wai-phyar-quarter-1863002"
+    },
+    "code": {
+      "id": "1863002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005703",
+      "level": 3,
+      "name": {
+        "local": "အင်းမ",
+        "en": "Inn Ma",
+        "slug": "inn-ma-MMR008005703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005703",
+        "level": 3,
+        "name": {
+          "local": "အင်းမ",
+          "en": "Inn Ma",
+          "slug": "inn-ma-MMR008005703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1863002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

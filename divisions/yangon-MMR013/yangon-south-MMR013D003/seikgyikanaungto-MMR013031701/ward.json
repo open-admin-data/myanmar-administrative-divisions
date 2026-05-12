@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1127008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဝိုင်းလေး ရပ်ကွက်",
+      "en": "Chaung Waing Lay Quarter",
+      "slug": "chaung-waing-lay-quarter-1127008"
+    },
+    "code": {
+      "id": "1127008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခနောင်တို (အရှေ့) ရပ်ကွက်",
+      "en": "Kha Naung To (East) Quarter",
+      "slug": "kha-naung-to-east-quarter-1127003"
+    },
+    "code": {
+      "id": "1127003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခနောင်တို (အနောက်) ရပ်ကွက်",
+      "en": "Kha Naung To (West) Quarter",
+      "slug": "kha-naung-to-west-quarter-1127004"
+    },
+    "code": {
+      "id": "1127004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅/၆/၇) ရပ်ကွက်",
+      "en": "No (5/6/7) Quarter",
+      "slug": "no-567-quarter-1127007"
+    },
+    "code": {
+      "id": "1127007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းပင်ချောင် ရပ်ကွက်",
+      "en": "Pan Pin Chaung Quarter",
+      "slug": "pan-pin-chaung-quarter-1127006"
+    },
+    "code": {
+      "id": "1127006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိပ်ကြီး (အရှေ့) ရပ်ကွက်",
+      "en": "Seik Gyi (East) Quarter",
+      "slug": "seik-gyi-east-quarter-1127001"
+    },
+    "code": {
+      "id": "1127001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိပ်ကြီး (အနောက်) ရပ်ကွက်",
+      "en": "Seik Gyi (West) Quarter",
+      "slug": "seik-gyi-west-quarter-1127002"
+    },
+    "code": {
+      "id": "1127002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သခင်ဘသောင်း ရပ်ကွက်",
+      "en": "Tha Khin Ba Thaung Quarter",
+      "slug": "tha-khin-ba-thaung-quarter-1127009"
+    },
+    "code": {
+      "id": "1127009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1127005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဦးထွန်းအို ရပ်ကွက်",
+      "en": "U Htun Oh Quarter",
+      "slug": "u-htun-oh-quarter-1127005"
+    },
+    "code": {
+      "id": "1127005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013031701",
+      "level": 3,
+      "name": {
+        "local": "ဆိပ်ကြီး/ခနောင်တို",
+        "en": "Seikgyikanaungto",
+        "slug": "seikgyikanaungto-MMR013031701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013031701",
+        "level": 3,
+        "name": {
+          "local": "ဆိပ်ကြီး/ခနောင်တို",
+          "en": "Seikgyikanaungto",
+          "slug": "seikgyikanaungto-MMR013031701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1127005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

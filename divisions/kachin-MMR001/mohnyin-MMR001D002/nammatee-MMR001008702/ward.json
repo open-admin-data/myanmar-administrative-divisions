@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0166003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့လှ ရပ်ကွက်",
+      "en": "Myo Hla Quarter",
+      "slug": "myo-hla-quarter-0166003"
+    },
+    "code": {
+      "id": "0166003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008702",
+      "level": 3,
+      "name": {
+        "local": "နမ္မတီး",
+        "en": "Nammatee",
+        "slug": "nammatee-MMR001008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008702",
+        "level": 3,
+        "name": {
+          "local": "နမ္မတီး",
+          "en": "Nammatee",
+          "slug": "nammatee-MMR001008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0166003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0166001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0166001"
+    },
+    "code": {
+      "id": "0166001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008702",
+      "level": 3,
+      "name": {
+        "local": "နမ္မတီး",
+        "en": "Nammatee",
+        "slug": "nammatee-MMR001008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008702",
+        "level": 3,
+        "name": {
+          "local": "နမ္မတီး",
+          "en": "Nammatee",
+          "slug": "nammatee-MMR001008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0166001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0166004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သာယာ ရပ်ကွက်",
+      "en": "Myo Thar Yar Quarter",
+      "slug": "myo-thar-yar-quarter-0166004"
+    },
+    "code": {
+      "id": "0166004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008702",
+      "level": 3,
+      "name": {
+        "local": "နမ္မတီး",
+        "en": "Nammatee",
+        "slug": "nammatee-MMR001008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008702",
+        "level": 3,
+        "name": {
+          "local": "နမ္မတီး",
+          "en": "Nammatee",
+          "slug": "nammatee-MMR001008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0166004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0166002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဦး ရပ်ကွက်",
+      "en": "Myo U Quarter",
+      "slug": "myo-u-quarter-0166002"
+    },
+    "code": {
+      "id": "0166002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008702",
+      "level": 3,
+      "name": {
+        "local": "နမ္မတီး",
+        "en": "Nammatee",
+        "slug": "nammatee-MMR001008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008702",
+        "level": 3,
+        "name": {
+          "local": "နမ္မတီး",
+          "en": "Nammatee",
+          "slug": "nammatee-MMR001008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0166002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

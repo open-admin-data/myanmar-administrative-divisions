@@ -1,0 +1,56 @@
+{
+  "id": "MMR003007703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျိုက်ဒုံ",
+    "en": "Kyaikdon",
+    "slug": "kyaikdon-MMR003007703"
+  },
+  "code": {
+    "id": "MMR003007703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003D003",
+    "level": 2,
+    "name": {
+      "local": "ကော့ကရိတ်ခရိုင်",
+      "en": "Kawkareik",
+      "slug": "kawkareik-MMR003D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    {
+      "id": "MMR003D003",
+      "level": 2,
+      "name": {
+        "local": "ကော့ကရိတ်ခရိုင်",
+        "en": "Kawkareik",
+        "slug": "kawkareik-MMR003D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.00253",
+    "lon": "98.39268"
+  },
+  "metadata": {},
+  "source": {}
+}

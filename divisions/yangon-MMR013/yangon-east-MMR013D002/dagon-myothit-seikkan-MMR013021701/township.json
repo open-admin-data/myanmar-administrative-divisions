@@ -1,0 +1,56 @@
+{
+  "id": "MMR013021701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း)",
+    "en": "Dagon Myothit (Seikkan)",
+    "slug": "dagon-myothit-seikkan-MMR013021701"
+  },
+  "code": {
+    "id": "MMR013021701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D002",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D002",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+        "en": "Yangon (East)",
+        "slug": "yangon-east-MMR013D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.84049",
+    "lon": "96.27256"
+  },
+  "metadata": {},
+  "source": {}
+}

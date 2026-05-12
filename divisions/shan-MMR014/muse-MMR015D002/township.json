@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR015011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကွတ်ခိုင်",
+      "en": "Kutkai",
+      "slug": "kutkai-MMR015011701"
+    },
+    "code": {
+      "id": "MMR015011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.45921",
+      "lon": "97.94341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015009703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "(မန်ဟျိုး) မန်ဟီးရိုး",
+      "en": "Manhlyoe (Manhero)",
+      "slug": "manhlyoe-manhero-MMR015009703"
+    },
+    "code": {
+      "id": "MMR015009703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.95176",
+      "lon": "97.80064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မုန်းကိုး",
+      "en": "Monekoe",
+      "slug": "monekoe-MMR015009702"
+    },
+    "code": {
+      "id": "MMR015009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.0998",
+      "lon": "98.3031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မူဆယ်",
+      "en": "Muse",
+      "slug": "muse-MMR015009701"
+    },
+    "code": {
+      "id": "MMR015009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.98989",
+      "lon": "97.90165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နမ့်ခမ်း",
+      "en": "Namhkan",
+      "slug": "namhkan-MMR015010701"
+    },
+    "code": {
+      "id": "MMR015010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.837",
+      "lon": "97.6818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015009704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပန်ဆိုင်း (ကြူကုတ်)",
+      "en": "Pang Hseng (Kyu Koke)",
+      "slug": "pang-hseng-kyu-koke-MMR015009704"
+    },
+    "code": {
+      "id": "MMR015009704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.07548",
+      "lon": "98.06229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015011702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တာမိုးညဲ",
+      "en": "Tarmoenye",
+      "slug": "tarmoenye-MMR015011702"
+    },
+    "code": {
+      "id": "MMR015011702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D002",
+      "level": 2,
+      "name": {
+        "local": "မူဆယ်ခရိုင်",
+        "en": "Muse",
+        "slug": "muse-MMR015D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D002",
+        "level": 2,
+        "name": {
+          "local": "မူဆယ်ခရိုင်",
+          "en": "Muse",
+          "slug": "muse-MMR015D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.57597",
+      "lon": "98.09862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

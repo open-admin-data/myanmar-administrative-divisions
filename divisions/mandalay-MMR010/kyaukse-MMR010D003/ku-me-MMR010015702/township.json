@@ -1,0 +1,56 @@
+{
+  "id": "MMR010015702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကူမဲ",
+    "en": "Ku Me",
+    "slug": "ku-me-MMR010015702"
+  },
+  "code": {
+    "id": "MMR010015702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်ဆည်ခရိုင်",
+      "en": "Kyaukse",
+      "slug": "kyaukse-MMR010D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်ဆည်ခရိုင်",
+        "en": "Kyaukse",
+        "slug": "kyaukse-MMR010D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.3583",
+    "lon": "96.1603"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "MMR010022702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပုဂံ",
+      "en": "Bagan",
+      "slug": "bagan-MMR010022702"
+    },
+    "code": {
+      "id": "MMR010022702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D005",
+      "level": 2,
+      "name": {
+        "local": "ညောင်ဦးခရိုင်",
+        "en": "Nyaung-U",
+        "slug": "nyaung-u-MMR010D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.13197",
+      "lon": "94.86257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010020701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျောက်ပန်းတောင်း",
+      "en": "Kyaukpadaung",
+      "slug": "kyaukpadaung-MMR010020701"
+    },
+    "code": {
+      "id": "MMR010020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D005",
+      "level": 2,
+      "name": {
+        "local": "ညောင်ဦးခရိုင်",
+        "en": "Nyaung-U",
+        "slug": "nyaung-u-MMR010D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.84248",
+      "lon": "95.13218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010022703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငါ့သရောက်",
+      "en": "Ngathayauk",
+      "slug": "ngathayauk-MMR010022703"
+    },
+    "code": {
+      "id": "MMR010022703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D005",
+      "level": 2,
+      "name": {
+        "local": "ညောင်ဦးခရိုင်",
+        "en": "Nyaung-U",
+        "slug": "nyaung-u-MMR010D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.15058",
+      "lon": "95.13772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010022701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ညောင်ဦး",
+      "en": "Nyaung-U",
+      "slug": "nyaung-u-MMR010022701"
+    },
+    "code": {
+      "id": "MMR010022701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D005",
+      "level": 2,
+      "name": {
+        "local": "ညောင်ဦးခရိုင်",
+        "en": "Nyaung-U",
+        "slug": "nyaung-u-MMR010D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.19543",
+      "lon": "94.91011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "MMR001007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဟိုပင်",
+      "en": "Hopin",
+      "slug": "hopin-MMR001007702"
+    },
+    "code": {
+      "id": "MMR001007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.99183",
+      "lon": "96.53019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဖားကန့်",
+      "en": "Hpakant",
+      "slug": "hpakant-MMR001009701"
+    },
+    "code": {
+      "id": "MMR001009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.6128",
+      "lon": "96.31212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001007703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်းတော်ကြီး",
+      "en": "Inn Taw Gyi",
+      "slug": "inn-taw-gyi-MMR001007703"
+    },
+    "code": {
+      "id": "MMR001007703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.0929",
+      "lon": "96.2876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကာမိုင်း",
+      "en": "Kamaing",
+      "slug": "kamaing-MMR001009702"
+    },
+    "code": {
+      "id": "MMR001009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.5226",
+      "lon": "96.71153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုးကောင်း",
+      "en": "Mogaung",
+      "slug": "mogaung-MMR001008701"
+    },
+    "code": {
+      "id": "MMR001008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.30274",
+      "lon": "96.94038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မိုးညှင်း",
+      "en": "Mohnyin",
+      "slug": "mohnyin-MMR001007701"
+    },
+    "code": {
+      "id": "MMR001007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.77711",
+      "lon": "96.36493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001007705",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နန်းမား",
+      "en": "Nam Mar",
+      "slug": "nam-mar-MMR001007705"
+    },
+    "code": {
+      "id": "MMR001007705",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.87399",
+      "lon": "96.43625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001007704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နန့်မွန်း",
+      "en": "Nam Mun",
+      "slug": "nam-mun-MMR001007704"
+    },
+    "code": {
+      "id": "MMR001007704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.0047",
+      "lon": "96.3548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001008702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နမ္မတီး",
+      "en": "Nammatee",
+      "slug": "nammatee-MMR001008702"
+    },
+    "code": {
+      "id": "MMR001008702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.37835",
+      "lon": "97.00896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

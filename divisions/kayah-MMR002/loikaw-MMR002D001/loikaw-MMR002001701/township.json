@@ -1,0 +1,56 @@
+{
+  "id": "MMR002001701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "လွိုင်ကော်",
+    "en": "Loikaw",
+    "slug": "loikaw-MMR002001701"
+  },
+  "code": {
+    "id": "MMR002001701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR002D001",
+    "level": 2,
+    "name": {
+      "local": "လွိုင်ကော်ခရိုင်",
+      "en": "Loikaw",
+      "slug": "loikaw-MMR002D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    {
+      "id": "MMR002D001",
+      "level": 2,
+      "name": {
+        "local": "လွိုင်ကော်ခရိုင်",
+        "en": "Loikaw",
+        "slug": "loikaw-MMR002D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.67424",
+    "lon": "97.20993"
+  },
+  "metadata": {},
+  "source": {}
+}

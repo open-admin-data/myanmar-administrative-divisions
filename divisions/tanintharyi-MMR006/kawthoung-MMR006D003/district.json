@@ -1,0 +1,48 @@
+{
+  "id": "MMR006D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ကော့သောင်းခရိုင်",
+    "en": "Kawthoung",
+    "slug": "kawthoung-MMR006D003"
+  },
+  "code": {
+    "id": "MMR006D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR006",
+    "level": 1,
+    "name": {
+      "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+      "en": "Tanintharyi",
+      "slug": "tanintharyi-MMR006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 5,
+    "ward": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.8005",
+    "lon": "98.7391"
+  },
+  "metadata": {},
+  "source": {}
+}

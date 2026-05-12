@@ -1,0 +1,450 @@
+[
+  {
+    "id": "MMR005005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခင်ဦး",
+      "en": "Khin-U",
+      "slug": "khin-u-MMR005005701"
+    },
+    "code": {
+      "id": "MMR005005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.77016",
+      "lon": "95.62149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005004702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "Kyauk Myaung",
+      "en": "Kyauk Myaung",
+      "slug": "kyauk-myaung-MMR005004702"
+    },
+    "code": {
+      "id": "MMR005004702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.59329",
+      "lon": "95.94495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005010702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "စိုင်ပြင်",
+      "en": "Saing Pyin",
+      "slug": "saing-pyin-MMR005010702"
+    },
+    "code": {
+      "id": "MMR005010702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.5561",
+      "lon": "95.2366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရွှေဘို",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005004701"
+    },
+    "code": {
+      "id": "MMR005004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.56996",
+      "lon": "95.69849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဒီပဲယင်း",
+      "en": "Tabayin",
+      "slug": "tabayin-MMR005010701"
+    },
+    "code": {
+      "id": "MMR005010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.68529",
+      "lon": "95.32121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005011701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တန့်ဆည်",
+      "en": "Taze",
+      "slug": "taze-MMR005011701"
+    },
+    "code": {
+      "id": "MMR005011701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.94407",
+      "lon": "95.37361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဝက်လက်",
+      "en": "Wetlet",
+      "slug": "wetlet-MMR005006701"
+    },
+    "code": {
+      "id": "MMR005006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.36715",
+      "lon": "95.78812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေဦး",
+      "en": "Ye-U",
+      "slug": "ye-u-MMR005009701"
+    },
+    "code": {
+      "id": "MMR005009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D002",
+        "level": 2,
+        "name": {
+          "local": "ရွှေဘိုခရိုင်",
+          "en": "Shwebo",
+          "slug": "shwebo-MMR005D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.76914",
+      "lon": "95.43049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "0609004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက် ရပ်ကွက်",
+      "en": "Ah Nauk Quarter",
+      "slug": "ah-nauk-quarter-0609004"
+    },
+    "code": {
+      "id": "0609004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ ရပ်ကွက်",
+      "en": "Ah Shey Quarter",
+      "slug": "ah-shey-quarter-0609003"
+    },
+    "code": {
+      "id": "0609003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Baw Kone Village Tract",
+      "slug": "baw-kone-village-tract-0609207"
+    },
+    "code": {
+      "id": "0609207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖက်ရမ်း ကျေးရွာအုပ်စု",
+      "en": "Hpet Yang Village Tract",
+      "slug": "hpet-yang-village-tract-0609212"
+    },
+    "code": {
+      "id": "0609212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆနင်း ကျေးရွာအုပ်စု",
+      "en": "Hsa Nin Village Tract",
+      "slug": "hsa-nin-village-tract-0609218"
+    },
+    "code": {
+      "id": "0609218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းကျိုင်း ကျေးရွာအုပ်စု",
+      "en": "Kone Keng Village Tract",
+      "slug": "kone-keng-village-tract-0609201"
+    },
+    "code": {
+      "id": "0609201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Village Tract",
+      "slug": "kyauk-tan-village-tract-0609206"
+    },
+    "code": {
+      "id": "0609206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လဲသက် ကျေးရွာအုပ်စု",
+      "en": "Le Thet Village Tract",
+      "slug": "le-thet-village-tract-0609210"
+    },
+    "code": {
+      "id": "0609210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်အွန့် ကျေးရွာအုပ်စု",
+      "en": "Loi Aun Village Tract",
+      "slug": "loi-aun-village-tract-0609209"
+    },
+    "code": {
+      "id": "0609209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံဟေး ကျေးရွာအုပ်စု",
+      "en": "Long Hay Village Tract",
+      "slug": "long-hay-village-tract-0609202"
+    },
+    "code": {
+      "id": "0609202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံခုတ် ကျေးရွာအုပ်စု",
+      "en": "Long Hkoke Village Tract",
+      "slug": "long-hkoke-village-tract-0609211"
+    },
+    "code": {
+      "id": "0609211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောက်မွန်း ကျေးရွာအုပ်စု",
+      "en": "Mauk Mun Village Tract",
+      "slug": "mauk-mun-village-tract-0609214"
+    },
+    "code": {
+      "id": "0609214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းလင်း ကျေးရွာအုပ်စု",
+      "en": "Mong Lin Village Tract",
+      "slug": "mong-lin-village-tract-0609220"
+    },
+    "code": {
+      "id": "0609220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပျဉ်း ကျေးရွာအုပ်စု",
+      "en": "Mong Ping Village Tract",
+      "slug": "mong-ping-village-tract-0609215"
+    },
+    "code": {
+      "id": "0609215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဦးကွက်သစ် ရပ်ကွက်",
+      "en": "Myo U Kwet Thit Quarter",
+      "slug": "myo-u-kwet-thit-quarter-0609002"
+    },
+    "code": {
+      "id": "0609002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဦး ရပ်ကွက်",
+      "en": "Myo U Quarter",
+      "slug": "myo-u-quarter-0609001"
+    },
+    "code": {
+      "id": "0609001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ခုတ် ကျေးရွာအုပ်စု",
+      "en": "Nam Hkoke Village Tract",
+      "slug": "nam-hkoke-village-tract-0609200"
+    },
+    "code": {
+      "id": "0609200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ပါချီး ကျေးရွာအုပ်စု",
+      "en": "Nam Par Chee Village Tract",
+      "slug": "nam-par-chee-village-tract-0609216"
+    },
+    "code": {
+      "id": "0609216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားပုံ ကျေးရွာအုပ်စု",
+      "en": "Nar Pong Village Tract",
+      "slug": "nar-pong-village-tract-0609217"
+    },
+    "code": {
+      "id": "0609217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားတစ် ကျေးရွာအုပ်စု",
+      "en": "Nar Tit Village Tract",
+      "slug": "nar-tit-village-tract-0609219"
+    },
+    "code": {
+      "id": "0609219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဒေး ကျေးရွာအုပ်စု",
+      "en": "Nawng Day Village Tract",
+      "slug": "nawng-day-village-tract-0609213"
+    },
+    "code": {
+      "id": "0609213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်လိုင်မူဖိတ် ကျေးရွာအုပ်စု",
+      "en": "Nawng Lai Mu Hpeik Village Tract",
+      "slug": "nawng-lai-mu-hpeik-village-tract-0609221"
+    },
+    "code": {
+      "id": "0609221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါင်လင်း ကျေးရွာအုပ်စု",
+      "en": "Pawng Lin Village Tract",
+      "slug": "pawng-lin-village-tract-0609203"
+    },
+    "code": {
+      "id": "0609203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စငေါ ကျေးရွာအုပ်စု",
+      "en": "Sa Ngaw Village Tract",
+      "slug": "sa-ngaw-village-tract-0609205"
+    },
+    "code": {
+      "id": "0609205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံဖူး (မဲနယ်တောင်) ကျေးရွာအုပ်စု",
+      "en": "Sam Hpu (Me Nei Taung) Village Tract",
+      "slug": "sam-hpu-me-nei-taung-village-tract-0609204"
+    },
+    "code": {
+      "id": "0609204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင် ရပ်ကွက်",
+      "en": "Taung Quarter",
+      "slug": "taung-quarter-0609005"
+    },
+    "code": {
+      "id": "0609005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိလုံ ကျေးရွာအုပ်စု",
+      "en": "Ti Long Village Tract",
+      "slug": "ti-long-village-tract-0609208"
+    },
+    "code": {
+      "id": "0609208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0609006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တုံခမ်း ရပ်ကွက်",
+      "en": "Tong Hkam Quarter",
+      "slug": "tong-hkam-quarter-0609006"
+    },
+    "code": {
+      "id": "0609006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014003701",
+      "level": 3,
+      "name": {
+        "local": "ဟိုပုံး",
+        "en": "Hopong",
+        "slug": "hopong-MMR014003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D001",
+        "level": 2,
+        "name": {
+          "local": "တောင်ကြီးခရိုင်",
+          "en": "Taunggyi",
+          "slug": "taunggyi-MMR014D001"
+        }
+      },
+      {
+        "id": "MMR014003701",
+        "level": 3,
+        "name": {
+          "local": "ဟိုပုံး",
+          "en": "Hopong",
+          "slug": "hopong-MMR014003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0609006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

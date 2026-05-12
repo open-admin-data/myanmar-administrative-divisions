@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR005023701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဗန်းမောက်",
+      "en": "Banmauk",
+      "slug": "banmauk-MMR005023701"
+    },
+    "code": {
+      "id": "MMR005023701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.39986",
+      "lon": "95.85767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005021701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်းတော်",
+      "en": "Indaw",
+      "slug": "indaw-MMR005021701"
+    },
+    "code": {
+      "id": "MMR005021701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.22252",
+      "lon": "96.14167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005020701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကသာ",
+      "en": "Katha",
+      "slug": "katha-MMR005020701"
+    },
+    "code": {
+      "id": "MMR005020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.18163",
+      "lon": "96.33167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005021702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မော်လူး",
+      "en": "Maw Lu",
+      "slug": "maw-lu-MMR005021702"
+    },
+    "code": {
+      "id": "MMR005021702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.4649",
+      "lon": "96.1796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005022701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ထီးချိုင့်",
+      "en": "Tigyaing",
+      "slug": "tigyaing-MMR005022701"
+    },
+    "code": {
+      "id": "MMR005022701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D004",
+        "level": 2,
+        "name": {
+          "local": "ကသာခရိုင်",
+          "en": "Katha",
+          "slug": "katha-MMR005D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.75452",
+      "lon": "96.14833"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

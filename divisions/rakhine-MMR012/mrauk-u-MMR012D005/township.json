@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR012006702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကမ်းထောင့်ကြီး",
+      "en": "Kanhtauntkyi",
+      "slug": "kanhtauntkyi-MMR012006702"
+    },
+    "code": {
+      "id": "MMR012006702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.85695",
+      "lon": "93.75902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျောက်တော်",
+      "en": "Kyauktaw",
+      "slug": "kyauktaw-MMR012004701"
+    },
+    "code": {
+      "id": "MMR012004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 84
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.84396",
+      "lon": "92.97282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မင်းပြား",
+      "en": "Minbya",
+      "slug": "minbya-MMR012005701"
+    },
+    "code": {
+      "id": "MMR012005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.36452",
+      "lon": "93.27269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြောက်ဦး",
+      "en": "Mrauk-U",
+      "slug": "mrauk-u-MMR012003701"
+    },
+    "code": {
+      "id": "MMR012003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.59185",
+      "lon": "93.18844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြေပုံ",
+      "en": "Myebon",
+      "slug": "myebon-MMR012006701"
+    },
+    "code": {
+      "id": "MMR012006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012D005",
+      "level": 2,
+      "name": {
+        "local": "မြောက်ဦးခရိုင်",
+        "en": "Mrauk-U",
+        "slug": "mrauk-u-MMR012D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.04676",
+      "lon": "93.37376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

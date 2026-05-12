@@ -1,0 +1,56 @@
+{
+  "id": "MMR004002701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဟားခါး",
+    "en": "Hakha",
+    "slug": "hakha-MMR004002701"
+  },
+  "code": {
+    "id": "MMR004002701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004D003",
+    "level": 2,
+    "name": {
+      "local": "ဟားခါးခရိုင်",
+      "en": "Hakha",
+      "slug": "hakha-MMR004D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    {
+      "id": "MMR004D003",
+      "level": 2,
+      "name": {
+        "local": "ဟားခါးခရိုင်",
+        "en": "Hakha",
+        "slug": "hakha-MMR004D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.64011",
+    "lon": "93.60483"
+  },
+  "metadata": {},
+  "source": {}
+}

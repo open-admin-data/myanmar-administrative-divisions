@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0961003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်ခုကယား ရပ်ကွက်",
+      "en": "Khaw Khu Kayah Quarter",
+      "slug": "khaw-khu-kayah-quarter-0961003"
+    },
+    "code": {
+      "id": "0961003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002002702",
+      "level": 3,
+      "name": {
+        "local": "နန်းမယ်ခုံ",
+        "en": "Nan Mei Khon",
+        "slug": "nan-mei-khon-MMR002002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002002702",
+        "level": 3,
+        "name": {
+          "local": "နန်းမယ်ခုံ",
+          "en": "Nan Mei Khon",
+          "slug": "nan-mei-khon-MMR002002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0961003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0961004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခေါ်ခုရှမ်း ရပ်ကွက်",
+      "en": "Khaw Khu Shan Quarter",
+      "slug": "khaw-khu-shan-quarter-0961004"
+    },
+    "code": {
+      "id": "0961004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002002702",
+      "level": 3,
+      "name": {
+        "local": "နန်းမယ်ခုံ",
+        "en": "Nan Mei Khon",
+        "slug": "nan-mei-khon-MMR002002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002002702",
+        "level": 3,
+        "name": {
+          "local": "နန်းမယ်ခုံ",
+          "en": "Nan Mei Khon",
+          "slug": "nan-mei-khon-MMR002002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0961004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0961001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မကယန်း ရပ်ကွက်",
+      "en": "Myo Ma Kayan Quarter",
+      "slug": "myo-ma-kayan-quarter-0961001"
+    },
+    "code": {
+      "id": "0961001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002002702",
+      "level": 3,
+      "name": {
+        "local": "နန်းမယ်ခုံ",
+        "en": "Nan Mei Khon",
+        "slug": "nan-mei-khon-MMR002002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002002702",
+        "level": 3,
+        "name": {
+          "local": "နန်းမယ်ခုံ",
+          "en": "Nan Mei Khon",
+          "slug": "nan-mei-khon-MMR002002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0961001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0961002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မရှမ်း ရပ်ကွက်",
+      "en": "Myo Ma Shan Quarter",
+      "slug": "myo-ma-shan-quarter-0961002"
+    },
+    "code": {
+      "id": "0961002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002002702",
+      "level": 3,
+      "name": {
+        "local": "နန်းမယ်ခုံ",
+        "en": "Nan Mei Khon",
+        "slug": "nan-mei-khon-MMR002002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      },
+      {
+        "id": "MMR002D001",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်ကော်ခရိုင်",
+          "en": "Loikaw",
+          "slug": "loikaw-MMR002D001"
+        }
+      },
+      {
+        "id": "MMR002002702",
+        "level": 3,
+        "name": {
+          "local": "နန်းမယ်ခုံ",
+          "en": "Nan Mei Khon",
+          "slug": "nan-mei-khon-MMR002002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0961002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

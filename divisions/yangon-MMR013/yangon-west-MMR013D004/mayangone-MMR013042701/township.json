@@ -1,0 +1,56 @@
+{
+  "id": "MMR013042701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မရမ်းကုန်း",
+    "en": "Mayangone",
+    "slug": "mayangone-MMR013042701"
+  },
+  "code": {
+    "id": "MMR013042701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D004",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+      "en": "Yangon (West)",
+      "slug": "yangon-west-MMR013D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D004",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+        "en": "Yangon (West)",
+        "slug": "yangon-west-MMR013D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.86619",
+    "lon": "96.14261"
+  },
+  "metadata": {},
+  "source": {}
+}

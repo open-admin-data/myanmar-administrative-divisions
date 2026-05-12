@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MMR005007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကန့်ဘလူ",
+      "en": "Kanbalu",
+      "slug": "kanbalu-MMR005007701"
+    },
+    "code": {
+      "id": "MMR005007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D010",
+      "level": 2,
+      "name": {
+        "local": "ကန့်ဘလူခရိုင်",
+        "en": "Kanbalu",
+        "slug": "kanbalu-MMR005D010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.20305",
+      "lon": "95.51886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျွန်းလှ",
+      "en": "Kyunhla",
+      "slug": "kyunhla-MMR005008701"
+    },
+    "code": {
+      "id": "MMR005008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D010",
+      "level": 2,
+      "name": {
+        "local": "ကန့်ဘလူခရိုင်",
+        "en": "Kanbalu",
+        "slug": "kanbalu-MMR005D010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.31964",
+      "lon": "95.5321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဇီးကုန်း",
+      "en": "Zee Kone",
+      "slug": "zee-kone-MMR005007702"
+    },
+    "code": {
+      "id": "MMR005007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005D010",
+      "level": 2,
+      "name": {
+        "local": "ကန့်ဘလူခရိုင်",
+        "en": "Kanbalu",
+        "slug": "kanbalu-MMR005D010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      },
+      {
+        "id": "MMR005D010",
+        "level": 2,
+        "name": {
+          "local": "ကန့်ဘလူခရိုင်",
+          "en": "Kanbalu",
+          "slug": "kanbalu-MMR005D010"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.9311",
+      "lon": "95.5636"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

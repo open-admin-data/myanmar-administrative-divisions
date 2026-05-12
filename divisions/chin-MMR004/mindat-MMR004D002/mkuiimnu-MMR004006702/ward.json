@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0368003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ပြုံး ရပ်ကွက်",
+      "en": "Htein Pyone Quarter",
+      "slug": "htein-pyone-quarter-0368003"
+    },
+    "code": {
+      "id": "0368003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006702",
+      "level": 3,
+      "name": {
+        "local": "မကွီအိမ်နူး",
+        "en": "M'kuiimnu",
+        "slug": "mkuiimnu-MMR004006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006702",
+        "level": 3,
+        "name": {
+          "local": "မကွီအိမ်နူး",
+          "en": "M'kuiimnu",
+          "slug": "mkuiimnu-MMR004006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0368003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0368002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြုံလောင်း ရပ်ကွက်",
+      "en": "Kyon Laung Quarter",
+      "slug": "kyon-laung-quarter-0368002"
+    },
+    "code": {
+      "id": "0368002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006702",
+      "level": 3,
+      "name": {
+        "local": "မကွီအိမ်နူး",
+        "en": "M'kuiimnu",
+        "slug": "mkuiimnu-MMR004006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006702",
+        "level": 3,
+        "name": {
+          "local": "မကွီအိမ်နူး",
+          "en": "M'kuiimnu",
+          "slug": "mkuiimnu-MMR004006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0368002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0368001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကွီအိမ်နူး ရပ်ကွက်",
+      "en": "M'kuiimnu Quarter",
+      "slug": "mkuiimnu-quarter-0368001"
+    },
+    "code": {
+      "id": "0368001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006702",
+      "level": 3,
+      "name": {
+        "local": "မကွီအိမ်နူး",
+        "en": "M'kuiimnu",
+        "slug": "mkuiimnu-MMR004006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006702",
+        "level": 3,
+        "name": {
+          "local": "မကွီအိမ်နူး",
+          "en": "M'kuiimnu",
+          "slug": "mkuiimnu-MMR004006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0368001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0368004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗွီနူး ရပ်ကွက်",
+      "en": "Vi Nu Quarter",
+      "slug": "vi-nu-quarter-0368004"
+    },
+    "code": {
+      "id": "0368004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004006702",
+      "level": 3,
+      "name": {
+        "local": "မကွီအိမ်နူး",
+        "en": "M'kuiimnu",
+        "slug": "mkuiimnu-MMR004006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D002",
+        "level": 2,
+        "name": {
+          "local": "မင်းတပ်ခရိုင်",
+          "en": "Mindat",
+          "slug": "mindat-MMR004D002"
+        }
+      },
+      {
+        "id": "MMR004006702",
+        "level": 3,
+        "name": {
+          "local": "မကွီအိမ်နူး",
+          "en": "M'kuiimnu",
+          "slug": "mkuiimnu-MMR004006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0368004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "MMR005011701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "တန့်ဆည်",
+    "en": "Taze",
+    "slug": "taze-MMR005011701"
+  },
+  "code": {
+    "id": "MMR005011701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D002",
+    "level": 2,
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D002",
+      "level": 2,
+      "name": {
+        "local": "ရွှေဘိုခရိုင်",
+        "en": "Shwebo",
+        "slug": "shwebo-MMR005D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.94407",
+    "lon": "95.37361"
+  },
+  "metadata": {},
+  "source": {}
+}

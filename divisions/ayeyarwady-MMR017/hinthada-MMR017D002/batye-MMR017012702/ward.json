@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1063001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1063001"
+    },
+    "code": {
+      "id": "1063001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017012702",
+      "level": 3,
+      "name": {
+        "local": "ဘက်ရဲ",
+        "en": "Batye",
+        "slug": "batye-MMR017012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017012702",
+        "level": 3,
+        "name": {
+          "local": "ဘက်ရဲ",
+          "en": "Batye",
+          "slug": "batye-MMR017012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1063001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1063002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1063002"
+    },
+    "code": {
+      "id": "1063002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017012702",
+      "level": 3,
+      "name": {
+        "local": "ဘက်ရဲ",
+        "en": "Batye",
+        "slug": "batye-MMR017012702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D002",
+        "level": 2,
+        "name": {
+          "local": "ဟင်္သာတခရိုင်",
+          "en": "Hinthada",
+          "slug": "hinthada-MMR017D002"
+        }
+      },
+      {
+        "id": "MMR017012702",
+        "level": 3,
+        "name": {
+          "local": "ဘက်ရဲ",
+          "en": "Batye",
+          "slug": "batye-MMR017012702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1063002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

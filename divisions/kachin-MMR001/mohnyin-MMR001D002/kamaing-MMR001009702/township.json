@@ -1,0 +1,56 @@
+{
+  "id": "MMR001009702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကာမိုင်း",
+    "en": "Kamaing",
+    "slug": "kamaing-MMR001009702"
+  },
+  "code": {
+    "id": "MMR001009702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D002",
+    "level": 2,
+    "name": {
+      "local": "မိုးညှင်းခရိုင်",
+      "en": "Mohnyin",
+      "slug": "mohnyin-MMR001D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.5226",
+    "lon": "96.71153"
+  },
+  "metadata": {},
+  "source": {}
+}

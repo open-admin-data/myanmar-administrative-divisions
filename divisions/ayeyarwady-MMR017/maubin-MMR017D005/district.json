@@ -1,0 +1,48 @@
+{
+  "id": "MMR017D005",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မအူပင်ခရိုင်",
+    "en": "Maubin",
+    "slug": "maubin-MMR017D005"
+  },
+  "code": {
+    "id": "MMR017D005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017",
+    "level": 1,
+    "name": {
+      "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+      "en": "Ayeyarwady",
+      "slug": "ayeyarwady-MMR017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 279
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.004",
+    "lon": "95.5862"
+  },
+  "metadata": {},
+  "source": {}
+}

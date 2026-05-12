@@ -1,0 +1,56 @@
+{
+  "id": "MMR017012701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကြံခင်း",
+    "en": "Kyangin",
+    "slug": "kyangin-MMR017012701"
+  },
+  "code": {
+    "id": "MMR017012701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D002",
+    "level": 2,
+    "name": {
+      "local": "ဟင်္သာတခရိုင်",
+      "en": "Hinthada",
+      "slug": "hinthada-MMR017D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.34035",
+    "lon": "95.23914"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "MMR007D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "တောင်ငူခရိုင်",
+    "en": "Taungoo",
+    "slug": "taungoo-MMR007D002"
+  },
+  "code": {
+    "id": "MMR007D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007",
+    "level": 1,
+    "name": {
+      "local": "ပဲခူးတိုင်းဒေသကြီး",
+      "en": "Bago",
+      "slug": "bago-MMR007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 12,
+    "ward": 321
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.8734",
+    "lon": "96.4129"
+  },
+  "metadata": {},
+  "source": {}
+}

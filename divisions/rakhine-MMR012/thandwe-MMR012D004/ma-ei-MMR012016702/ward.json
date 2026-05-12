@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0767001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0767001"
+    },
+    "code": {
+      "id": "0767001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016702",
+      "level": 3,
+      "name": {
+        "local": "မအီ",
+        "en": "Ma-Ei",
+        "slug": "ma-ei-MMR012016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016702",
+        "level": 3,
+        "name": {
+          "local": "မအီ",
+          "en": "Ma-Ei",
+          "slug": "ma-ei-MMR012016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0767001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0767002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0767002"
+    },
+    "code": {
+      "id": "0767002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016702",
+      "level": 3,
+      "name": {
+        "local": "မအီ",
+        "en": "Ma-Ei",
+        "slug": "ma-ei-MMR012016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016702",
+        "level": 3,
+        "name": {
+          "local": "မအီ",
+          "en": "Ma-Ei",
+          "slug": "ma-ei-MMR012016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0767002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0767003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0767003"
+    },
+    "code": {
+      "id": "0767003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016702",
+      "level": 3,
+      "name": {
+        "local": "မအီ",
+        "en": "Ma-Ei",
+        "slug": "ma-ei-MMR012016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016702",
+        "level": 3,
+        "name": {
+          "local": "မအီ",
+          "en": "Ma-Ei",
+          "slug": "ma-ei-MMR012016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0767003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0767004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0767004"
+    },
+    "code": {
+      "id": "0767004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012016702",
+      "level": 3,
+      "name": {
+        "local": "မအီ",
+        "en": "Ma-Ei",
+        "slug": "ma-ei-MMR012016702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D004",
+        "level": 2,
+        "name": {
+          "local": "သံတွဲခရိုင်",
+          "en": "Thandwe",
+          "slug": "thandwe-MMR012D004"
+        }
+      },
+      {
+        "id": "MMR012016702",
+        "level": 3,
+        "name": {
+          "local": "မအီ",
+          "en": "Ma-Ei",
+          "slug": "ma-ei-MMR012016702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0767004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

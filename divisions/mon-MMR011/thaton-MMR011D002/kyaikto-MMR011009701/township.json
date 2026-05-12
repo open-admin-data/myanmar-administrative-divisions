@@ -1,0 +1,56 @@
+{
+  "id": "MMR011009701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျိုက်ထို",
+    "en": "Kyaikto",
+    "slug": "kyaikto-MMR011009701"
+  },
+  "code": {
+    "id": "MMR011009701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011D002",
+    "level": 2,
+    "name": {
+      "local": "သထုံခရိုင်",
+      "en": "Thaton",
+      "slug": "thaton-MMR011D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.31156",
+    "lon": "97.01989"
+  },
+  "metadata": {},
+  "source": {}
+}

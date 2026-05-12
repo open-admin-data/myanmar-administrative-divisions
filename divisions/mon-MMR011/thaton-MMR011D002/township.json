@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR011010701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဘီးလင်း",
+      "en": "Bilin",
+      "slug": "bilin-MMR011010701"
+    },
+    "code": {
+      "id": "MMR011010701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.21987",
+      "lon": "97.23931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011009701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျိုက်ထို",
+      "en": "Kyaikto",
+      "slug": "kyaikto-MMR011009701"
+    },
+    "code": {
+      "id": "MMR011009701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.31156",
+      "lon": "97.01989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါင်",
+      "en": "Paung",
+      "slug": "paung-MMR011008701"
+    },
+    "code": {
+      "id": "MMR011008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.61679",
+      "lon": "97.45672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သထုံ",
+      "en": "Thaton",
+      "slug": "thaton-MMR011007701"
+    },
+    "code": {
+      "id": "MMR011007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.9197",
+      "lon": "97.3678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011009702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သိမ်ဇရပ်",
+      "en": "Thein Za Yat",
+      "slug": "thein-za-yat-MMR011009702"
+    },
+    "code": {
+      "id": "MMR011009702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.5137",
+      "lon": "96.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သုဝဏ္ဏဝတီ",
+      "en": "Thuwunnawady",
+      "slug": "thuwunnawady-MMR011007702"
+    },
+    "code": {
+      "id": "MMR011007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.06022",
+      "lon": "97.30482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011008702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဇင်းကျိုက်",
+      "en": "Zinkyaik",
+      "slug": "zinkyaik-MMR011008702"
+    },
+    "code": {
+      "id": "MMR011008702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.69655",
+      "lon": "97.42371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

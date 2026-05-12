@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1862001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချမ်းမြေ့သာယာ ရပ်ကွက်",
+      "en": "Chan Myayt Thar Yar Quarter",
+      "slug": "chan-myayt-thar-yar-quarter-1862001"
+    },
+    "code": {
+      "id": "1862001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005702",
+      "level": 3,
+      "name": {
+        "local": "ပုတီးကုန်း",
+        "en": "Puteekone",
+        "slug": "puteekone-MMR008005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005702",
+        "level": 3,
+        "name": {
+          "local": "ပုတီးကုန်း",
+          "en": "Puteekone",
+          "slug": "puteekone-MMR008005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1862001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1862002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုခဝေဖြာ ရပ်ကွက်",
+      "en": "Thu Kha Wai Hpyar Quarter",
+      "slug": "thu-kha-wai-hpyar-quarter-1862002"
+    },
+    "code": {
+      "id": "1862002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008005702",
+      "level": 3,
+      "name": {
+        "local": "ပုတီးကုန်း",
+        "en": "Puteekone",
+        "slug": "puteekone-MMR008005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008005702",
+        "level": 3,
+        "name": {
+          "local": "ပုတီးကုန်း",
+          "en": "Puteekone",
+          "slug": "puteekone-MMR008005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1862002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

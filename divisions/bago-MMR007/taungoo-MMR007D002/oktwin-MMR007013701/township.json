@@ -1,0 +1,56 @@
+{
+  "id": "MMR007013701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အုတ်တွင်း",
+    "en": "Oktwin",
+    "slug": "oktwin-MMR007013701"
+  },
+  "code": {
+    "id": "MMR007013701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D002",
+    "level": 2,
+    "name": {
+      "local": "တောင်ငူခရိုင်",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D002",
+      "level": 2,
+      "name": {
+        "local": "တောင်ငူခရိုင်",
+        "en": "Taungoo",
+        "slug": "taungoo-MMR007D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.83293",
+    "lon": "96.41363"
+  },
+  "metadata": {},
+  "source": {}
+}

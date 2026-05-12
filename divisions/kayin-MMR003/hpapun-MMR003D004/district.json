@@ -1,0 +1,48 @@
+{
+  "id": "MMR003D004",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ဖာပွန်ခရိုင်",
+    "en": "Hpapun",
+    "slug": "hpapun-MMR003D004"
+  },
+  "code": {
+    "id": "MMR003D004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003",
+    "level": 1,
+    "name": {
+      "local": "ကရင်ပြည်နယ်",
+      "en": "Kayin",
+      "slug": "kayin-MMR003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 2,
+    "ward": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.705",
+    "lon": "97.5481"
+  },
+  "metadata": {},
+  "source": {}
+}

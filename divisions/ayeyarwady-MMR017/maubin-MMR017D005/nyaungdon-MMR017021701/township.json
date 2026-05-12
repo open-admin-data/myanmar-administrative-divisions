@@ -1,0 +1,56 @@
+{
+  "id": "MMR017021701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ညောင်တုန်း",
+    "en": "Nyaungdon",
+    "slug": "nyaungdon-MMR017021701"
+  },
+  "code": {
+    "id": "MMR017021701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D005",
+    "level": 2,
+    "name": {
+      "local": "မအူပင်ခရိုင်",
+      "en": "Maubin",
+      "slug": "maubin-MMR017D005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D005",
+      "level": 2,
+      "name": {
+        "local": "မအူပင်ခရိုင်",
+        "en": "Maubin",
+        "slug": "maubin-MMR017D005"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.04903",
+    "lon": "95.63359"
+  },
+  "metadata": {},
+  "source": {}
+}

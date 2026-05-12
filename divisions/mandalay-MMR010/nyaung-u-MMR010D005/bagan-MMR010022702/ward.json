@@ -1,0 +1,392 @@
+[
+  {
+    "id": "0563002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနော်ရထာ ရပ်ကွက်",
+      "en": "Ah Naw Ra Htar Quarter",
+      "slug": "ah-naw-ra-htar-quarter-0563002"
+    },
+    "code": {
+      "id": "0563002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0563005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ရွာနောင် ရပ်ကွက်",
+      "en": "Ah Shey Ywar Naung Quarter",
+      "slug": "ah-shey-ywar-naung-quarter-0563005"
+    },
+    "code": {
+      "id": "0563005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0563006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂန့်ဂါ (ဟော်တယ်ဇုံ ၄) ရပ်ကွက်",
+      "en": "Gang Ga (Hotel Zone 4) Quarter",
+      "slug": "gang-ga-hotel-zone-4-quarter-0563006"
+    },
+    "code": {
+      "id": "0563006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0563001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျန်စစ်သား ရပ်ကွက်",
+      "en": "Kyan Sit Thar Quarter",
+      "slug": "kyan-sit-thar-quarter-0563001"
+    },
+    "code": {
+      "id": "0563001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0563004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေတွင်း ရပ်ကွက်",
+      "en": "Shwe Twin Quarter",
+      "slug": "shwe-twin-quarter-0563004"
+    },
+    "code": {
+      "id": "0563004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0563003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိပစ္စယာ ရပ်ကွက်",
+      "en": "Thi Ri Pyit Sa Yar Quarter",
+      "slug": "thi-ri-pyit-sa-yar-quarter-0563003"
+    },
+    "code": {
+      "id": "0563003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010022702",
+      "level": 3,
+      "name": {
+        "local": "ပုဂံ",
+        "en": "Bagan",
+        "slug": "bagan-MMR010022702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D005",
+        "level": 2,
+        "name": {
+          "local": "ညောင်ဦးခရိုင်",
+          "en": "Nyaung-U",
+          "slug": "nyaung-u-MMR010D005"
+        }
+      },
+      {
+        "id": "MMR010022702",
+        "level": 3,
+        "name": {
+          "local": "ပုဂံ",
+          "en": "Bagan",
+          "slug": "bagan-MMR010022702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0563003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

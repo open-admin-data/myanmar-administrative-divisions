@@ -1,0 +1,56 @@
+{
+  "id": "MMR001017701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "နောင်မွန်း",
+    "en": "Nawngmun",
+    "slug": "nawngmun-MMR001017701"
+  },
+  "code": {
+    "id": "MMR001017701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D004",
+    "level": 2,
+    "name": {
+      "local": "ပူတာအိုခရိုင်",
+      "en": "Puta-O",
+      "slug": "puta-o-MMR001D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "27.50532",
+    "lon": "97.81785"
+  },
+  "metadata": {},
+  "source": {}
+}

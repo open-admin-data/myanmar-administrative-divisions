@@ -1,0 +1,56 @@
+{
+  "id": "MMR017013702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ထူးကြီး",
+    "en": "Htoogyi",
+    "slug": "htoogyi-MMR017013702"
+  },
+  "code": {
+    "id": "MMR017013702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D002",
+    "level": 2,
+    "name": {
+      "local": "ဟင်္သာတခရိုင်",
+      "en": "Hinthada",
+      "slug": "hinthada-MMR017D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.97132",
+    "lon": "95.26073"
+  },
+  "metadata": {},
+  "source": {}
+}

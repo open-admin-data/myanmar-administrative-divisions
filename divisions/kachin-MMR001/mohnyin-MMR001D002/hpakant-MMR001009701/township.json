@@ -1,0 +1,56 @@
+{
+  "id": "MMR001009701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဖားကန့်",
+    "en": "Hpakant",
+    "slug": "hpakant-MMR001009701"
+  },
+  "code": {
+    "id": "MMR001009701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR001D002",
+    "level": 2,
+    "name": {
+      "local": "မိုးညှင်းခရိုင်",
+      "en": "Mohnyin",
+      "slug": "mohnyin-MMR001D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    {
+      "id": "MMR001D002",
+      "level": 2,
+      "name": {
+        "local": "မိုးညှင်းခရိုင်",
+        "en": "Mohnyin",
+        "slug": "mohnyin-MMR001D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.6128",
+    "lon": "96.31212"
+  },
+  "metadata": {},
+  "source": {}
+}

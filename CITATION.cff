@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Myanmar Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-12"
+url: "https://github.com/open-admin-data/myanmar-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/myanmar-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - myanmar
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Myanmar's administrative hierarchy:
+  15 state/regions, 77 districts, 491 townships, 17,043 ward/village tracts.
+  Bilingual with coordinates and postal codes where available.

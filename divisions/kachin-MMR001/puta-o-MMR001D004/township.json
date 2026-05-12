@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR001018701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ခေါင်လန်ဖူး",
+      "en": "Khaunglanhpu",
+      "slug": "khaunglanhpu-MMR001018701"
+    },
+    "code": {
+      "id": "MMR001018701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.06043",
+      "lon": "98.36034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001016701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မချမ်းဘော",
+      "en": "Machanbaw",
+      "slug": "machanbaw-MMR001016701"
+    },
+    "code": {
+      "id": "MMR001016701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.28395",
+      "lon": "97.58937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001017701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နောင်မွန်း",
+      "en": "Nawngmun",
+      "slug": "nawngmun-MMR001017701"
+    },
+    "code": {
+      "id": "MMR001017701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.50532",
+      "lon": "97.81785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001017702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပန်နန်းဒင်",
+      "en": "Pannandin",
+      "slug": "pannandin-MMR001017702"
+    },
+    "code": {
+      "id": "MMR001017702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.7281",
+      "lon": "97.87662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001014701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပူတာအို",
+      "en": "Puta-O",
+      "slug": "puta-o-MMR001014701"
+    },
+    "code": {
+      "id": "MMR001014701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.29934",
+      "lon": "97.4159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001015701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆွမ်ပရာဘွမ်",
+      "en": "Sumprabum",
+      "slug": "sumprabum-MMR001015701"
+    },
+    "code": {
+      "id": "MMR001015701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001D004",
+      "level": 2,
+      "name": {
+        "local": "ပူတာအိုခရိုင်",
+        "en": "Puta-O",
+        "slug": "puta-o-MMR001D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D004",
+        "level": 2,
+        "name": {
+          "local": "ပူတာအိုခရိုင်",
+          "en": "Puta-O",
+          "slug": "puta-o-MMR001D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "26.54373",
+      "lon": "97.5677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,3967 @@
+[
+  {
+    "id": "0113003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလည်ရပ် ရပ်ကွက်",
+      "en": "Ah Lel Yat Quarter",
+      "slug": "ah-lel-yat-quarter-0113003"
+    },
+    "code": {
+      "id": "0113003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သာ ရပ်ကွက်",
+      "en": "Aung Thar Quarter",
+      "slug": "aung-thar-quarter-0113016"
+    },
+    "code": {
+      "id": "0113016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သာ ကျေးရွာအုပ်စု",
+      "en": "Aung Thar Village Tract",
+      "slug": "aung-thar-village-tract-0113244"
+    },
+    "code": {
+      "id": "0113244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Chaung Wa Village Tract",
+      "slug": "chaung-wa-village-tract-0113201"
+    },
+    "code": {
+      "id": "0113201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟန်းတဲ ရပ်ကွက်",
+      "en": "Han Te Quarter",
+      "slug": "han-te-quarter-0113015"
+    },
+    "code": {
+      "id": "0113015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟန်းတဲ ကျေးရွာအုပ်စု",
+      "en": "Han Te Village Tract",
+      "slug": "han-te-village-tract-0113220"
+    },
+    "code": {
+      "id": "0113220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟဲလုံဟောင်း ကျေးရွာအုပ်စု",
+      "en": "He Lon Haung Village Tract",
+      "slug": "he-lon-haung-village-tract-0113211"
+    },
+    "code": {
+      "id": "0113211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟဲလုံသစ် ကျေးရွာအုပ်စု",
+      "en": "He Lon Thit Village Tract",
+      "slug": "he-lon-thit-village-tract-0113210"
+    },
+    "code": {
+      "id": "0113210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခူးလီ ကျေးရွာအုပ်စု",
+      "en": "Hku Li Village Tract",
+      "slug": "hku-li-village-tract-0113215"
+    },
+    "code": {
+      "id": "0113215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငှက်ပျောတော ကျေးရွာအုပ်စု",
+      "en": "Hnget Pyaw Taw Village Tract",
+      "slug": "hnget-pyaw-taw-village-tract-0113233"
+    },
+    "code": {
+      "id": "0113233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမ္ဘနီ ကျေးရွာအုပ်စု",
+      "en": "Kan Ba Ni Village Tract",
+      "slug": "kan-ba-ni-village-tract-0113223"
+    },
+    "code": {
+      "id": "0113223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံသာ ကျေးရွာအုပ်စု",
+      "en": "Kan Thar Village Tract",
+      "slug": "kan-thar-village-tract-0113238"
+    },
+    "code": {
+      "id": "0113238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းစင့် ကျေးရွာအုပ်စု",
+      "en": "Kawng Sint Village Tract",
+      "slug": "kawng-sint-village-tract-0113236"
+    },
+    "code": {
+      "id": "0113236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းတုံ ကျေးရွာအုပ်စု",
+      "en": "Kawng Ton Village Tract",
+      "slug": "kawng-ton-village-tract-0113242"
+    },
+    "code": {
+      "id": "0113242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခိုကျင် ကျေးရွာအုပ်စု",
+      "en": "Kho Kyin Village Tract",
+      "slug": "kho-kyin-village-tract-0113205"
+    },
+    "code": {
+      "id": "0113205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွန်သာ ရပ်ကွက်",
+      "en": "Khun Thar Quarter",
+      "slug": "khun-thar-quarter-0113001"
+    },
+    "code": {
+      "id": "0113001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းခါး ကျေးရွာအုပ်စု",
+      "en": "Kone Hkar Village Tract",
+      "slug": "kone-hkar-village-tract-0113228"
+    },
+    "code": {
+      "id": "0113228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းမဟတ် ကျေးရွာအုပ်စု",
+      "en": "Kone Ma Hat Village Tract",
+      "slug": "kone-ma-hat-village-tract-0113221"
+    },
+    "code": {
+      "id": "0113221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kyun Gyi Village Tract",
+      "slug": "kyun-gyi-village-tract-0113230"
+    },
+    "code": {
+      "id": "0113230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲဂျိုကမ္ဘဏိ ကျေးရွာအုပ်စု",
+      "en": "Kywe Gyo Kan Ba Ni Village Tract",
+      "slug": "kywe-gyo-kan-ba-ni-village-tract-0113200"
+    },
+    "code": {
+      "id": "0113200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန်တန်း ကျေးရွာအုပ်စု",
+      "en": "Let Pan Tan Village Tract",
+      "slug": "let-pan-tan-village-tract-0113239"
+    },
+    "code": {
+      "id": "0113239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မအူပင် ကျေးရွာအုပ်စု",
+      "en": "Ma Au Pin Village Tract",
+      "slug": "ma-au-pin-village-tract-0113216"
+    },
+    "code": {
+      "id": "0113216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မလူလာ ကျေးရွာအုပ်စု",
+      "en": "Ma Lu La Village Tract",
+      "slug": "ma-lu-la-village-tract-0113213"
+    },
+    "code": {
+      "id": "0113213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းကာ ကျေးရွာအုပ်စု",
+      "en": "Maing Kar Village Tract",
+      "slug": "maing-kar-village-tract-0113231"
+    },
+    "code": {
+      "id": "0113231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံဖာ ကျေးရွာအုပ်စု",
+      "en": "Man Hpar Village Tract",
+      "slug": "man-hpar-village-tract-0113206"
+    },
+    "code": {
+      "id": "0113206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံခွန် ကျေးရွာအုပ်စု",
+      "en": "Man Khun Village Tract",
+      "slug": "man-khun-village-tract-0113203"
+    },
+    "code": {
+      "id": "0113203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံမလင်း ကျေးရွာအုပ်စု",
+      "en": "Man Ma Lin Village Tract",
+      "slug": "man-ma-lin-village-tract-0113227"
+    },
+    "code": {
+      "id": "0113227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံပင် ကျေးရွာအုပ်စု",
+      "en": "Man Pin Village Tract",
+      "slug": "man-pin-village-tract-0113229"
+    },
+    "code": {
+      "id": "0113229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံရေး ကျေးရွာအုပ်စု",
+      "en": "Man Yay Village Tract",
+      "slug": "man-yay-village-tract-0113217"
+    },
+    "code": {
+      "id": "0113217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မံရွတ် ကျေးရွာအုပ်စု",
+      "en": "Man Yut Village Tract",
+      "slug": "man-yut-village-tract-0113226"
+    },
+    "code": {
+      "id": "0113226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းကုန်း ရပ်ကွက်",
+      "en": "Min Kone Quarter",
+      "slug": "min-kone-quarter-0113004"
+    },
+    "code": {
+      "id": "0113004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းကျောင်းကုန်း ရပ်ကွက်",
+      "en": "Min Kyaung Kone Quarter",
+      "slug": "min-kyaung-kone-quarter-0113007"
+    },
+    "code": {
+      "id": "0113007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုးဖိန်း ကျေးရွာအုပ်စု",
+      "en": "Moe Hping Village Tract",
+      "slug": "moe-hping-village-tract-0113208"
+    },
+    "code": {
+      "id": "0113208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြစေတီ ကျေးရွာအုပ်စု",
+      "en": "Mya Zay Di Village Tract",
+      "slug": "mya-zay-di-village-tract-0113234"
+    },
+    "code": {
+      "id": "0113234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0113002"
+    },
+    "code": {
+      "id": "0113002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်လှိုင် ကျေးရွာအုပ်စု",
+      "en": "Nam Hlaing Village Tract",
+      "slug": "nam-hlaing-village-tract-0113214"
+    },
+    "code": {
+      "id": "0113214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဖား ရပ်ကွက်",
+      "en": "Nam Hpar Quarter",
+      "slug": "nam-hpar-quarter-0113011"
+    },
+    "code": {
+      "id": "0113011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ခို ရပ်ကွက်",
+      "en": "Nawng Kho Quarter",
+      "slug": "nawng-kho-quarter-0113012"
+    },
+    "code": {
+      "id": "0113012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်လိုက် ကျေးရွာအုပ်စု",
+      "en": "Nawng Laik Village Tract",
+      "slug": "nawng-laik-village-tract-0113202"
+    },
+    "code": {
+      "id": "0113202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်မို ကျေးရွာအုပ်စု",
+      "en": "Nawng Mo Village Tract",
+      "slug": "nawng-mo-village-tract-0113243"
+    },
+    "code": {
+      "id": "0113243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင် ရပ်ကွက်",
+      "en": "Nyaung Pin Quarter",
+      "slug": "nyaung-pin-quarter-0113008"
+    },
+    "code": {
+      "id": "0113008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Nyaung Pin Thar Village Tract",
+      "slug": "nyaung-pin-thar-village-tract-0113224"
+    },
+    "code": {
+      "id": "0113224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါပေါင်း ကျေးရွာအုပ်စု",
+      "en": "Par Pawng Village Tract",
+      "slug": "par-pawng-village-tract-0113235"
+    },
+    "code": {
+      "id": "0113235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်ကုန်း ရပ်ကွက်",
+      "en": "Pauk Kone Quarter",
+      "slug": "pauk-kone-quarter-0113006"
+    },
+    "code": {
+      "id": "0113006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆိုင်ကင် ကျေးရွာအုပ်စု",
+      "en": "Sai Kin Village Tract",
+      "slug": "sai-kin-village-tract-0113212"
+    },
+    "code": {
+      "id": "0113212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စာဝတီး ကျေးရွာအုပ်စု",
+      "en": "Sar Wa Tee Village Tract",
+      "slug": "sar-wa-tee-village-tract-0113225"
+    },
+    "code": {
+      "id": "0113225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကျီးနား ရပ်ကွက်",
+      "en": "Shwe Kyee Nar Quarter",
+      "slug": "shwe-kyee-nar-quarter-0113013"
+    },
+    "code": {
+      "id": "0113013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာ ရပ်ကွက်",
+      "en": "Shwe Pyi Thar Ward Quarter",
+      "slug": "shwe-pyi-thar-ward-quarter-0113014"
+    },
+    "code": {
+      "id": "0113014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီဟဲ ကျေးရွာအုပ်စု",
+      "en": "Si He Village Tract",
+      "slug": "si-he-village-tract-0113222"
+    },
+    "code": {
+      "id": "0113222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စီအင် ကျေးရွာအုပ်စု",
+      "en": "Si In Village Tract",
+      "slug": "si-in-village-tract-0113207"
+    },
+    "code": {
+      "id": "0113207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စင်းခန်း ကျေးရွာအုပ်စု",
+      "en": "Sin Hkan Village Tract",
+      "slug": "sin-hkan-village-tract-0113241"
+    },
+    "code": {
+      "id": "0113241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ကုန်း ရပ်ကွက်",
+      "en": "Sin Kone Quarter",
+      "slug": "sin-kone-quarter-0113010"
+    },
+    "code": {
+      "id": "0113010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စင့်ကင် ကျေးရွာအုပ်စု",
+      "en": "Sint Kin Village Tract",
+      "slug": "sint-kin-village-tract-0113218"
+    },
+    "code": {
+      "id": "0113218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာမိုင်းလုံ ကျေးရွာအုပ်စု",
+      "en": "Tar Maing Lon Village Tract",
+      "slug": "tar-maing-lon-village-tract-0113209"
+    },
+    "code": {
+      "id": "0113209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိန်းသော် ကျေးရွာအုပ်စု",
+      "en": "Tein Thaw Village Tract",
+      "slug": "tein-thaw-village-tract-0113240"
+    },
+    "code": {
+      "id": "0113240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဖန်းပင် ကျေးရွာအုပ်စု",
+      "en": "Tha Hpan Pin Village Tract",
+      "slug": "tha-hpan-pin-village-tract-0113232"
+    },
+    "code": {
+      "id": "0113232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာစည် ရပ်ကွက်",
+      "en": "Thar Si Quarter",
+      "slug": "thar-si-quarter-0113005"
+    },
+    "code": {
+      "id": "0113005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီရိ ရပ်ကွက်",
+      "en": "Thi Ri Quarter",
+      "slug": "thi-ri-quarter-0113009"
+    },
+    "code": {
+      "id": "0113009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိန်လင် ကျေးရွာအုပ်စု",
+      "en": "Thing Ling Village Tract",
+      "slug": "thing-ling-village-tract-0113219"
+    },
+    "code": {
+      "id": "0113219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝက်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Wet Kone Village Tract",
+      "slug": "wet-kone-village-tract-0113204"
+    },
+    "code": {
+      "id": "0113204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0113237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေနီ ကျေးရွာအုပ်စု",
+      "en": "Yae Ni Village Tract",
+      "slug": "yae-ni-village-tract-0113237"
+    },
+    "code": {
+      "id": "0113237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001010701",
+      "level": 3,
+      "name": {
+        "local": "ဗန်းမော်",
+        "en": "Bhamo",
+        "slug": "bhamo-MMR001010701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D003",
+        "level": 2,
+        "name": {
+          "local": "ဗန်းမော်ခရိုင်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001D003"
+        }
+      },
+      {
+        "id": "MMR001010701",
+        "level": 3,
+        "name": {
+          "local": "ဗန်းမော်",
+          "en": "Bhamo",
+          "slug": "bhamo-MMR001010701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0113237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0760001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0760001"
+    },
+    "code": {
+      "id": "0760001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009702",
+      "level": 3,
+      "name": {
+        "local": "တောင်ပြိုလက်ဝဲ",
+        "en": "Taungpyoletwea",
+        "slug": "taungpyoletwea-MMR012009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009702",
+        "level": 3,
+        "name": {
+          "local": "တောင်ပြိုလက်ဝဲ",
+          "en": "Taungpyoletwea",
+          "slug": "taungpyoletwea-MMR012009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0760001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0760002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0760002"
+    },
+    "code": {
+      "id": "0760002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009702",
+      "level": 3,
+      "name": {
+        "local": "တောင်ပြိုလက်ဝဲ",
+        "en": "Taungpyoletwea",
+        "slug": "taungpyoletwea-MMR012009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009702",
+        "level": 3,
+        "name": {
+          "local": "တောင်ပြိုလက်ဝဲ",
+          "en": "Taungpyoletwea",
+          "slug": "taungpyoletwea-MMR012009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0760002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0760003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0760003"
+    },
+    "code": {
+      "id": "0760003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009702",
+      "level": 3,
+      "name": {
+        "local": "တောင်ပြိုလက်ဝဲ",
+        "en": "Taungpyoletwea",
+        "slug": "taungpyoletwea-MMR012009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009702",
+        "level": 3,
+        "name": {
+          "local": "တောင်ပြိုလက်ဝဲ",
+          "en": "Taungpyoletwea",
+          "slug": "taungpyoletwea-MMR012009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0760003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0760004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0760004"
+    },
+    "code": {
+      "id": "0760004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009702",
+      "level": 3,
+      "name": {
+        "local": "တောင်ပြိုလက်ဝဲ",
+        "en": "Taungpyoletwea",
+        "slug": "taungpyoletwea-MMR012009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009702",
+        "level": 3,
+        "name": {
+          "local": "တောင်ပြိုလက်ဝဲ",
+          "en": "Taungpyoletwea",
+          "slug": "taungpyoletwea-MMR012009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0760004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0760005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0760005"
+    },
+    "code": {
+      "id": "0760005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012009702",
+      "level": 3,
+      "name": {
+        "local": "တောင်ပြိုလက်ဝဲ",
+        "en": "Taungpyoletwea",
+        "slug": "taungpyoletwea-MMR012009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D002",
+        "level": 2,
+        "name": {
+          "local": "မောင်တောခရိုင်",
+          "en": "Maungdaw",
+          "slug": "maungdaw-MMR012D002"
+        }
+      },
+      {
+        "id": "MMR012009702",
+        "level": 3,
+        "name": {
+          "local": "တောင်ပြိုလက်ဝဲ",
+          "en": "Taungpyoletwea",
+          "slug": "taungpyoletwea-MMR012009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0760005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

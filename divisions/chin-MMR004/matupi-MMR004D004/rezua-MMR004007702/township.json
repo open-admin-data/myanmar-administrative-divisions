@@ -1,0 +1,56 @@
+{
+  "id": "MMR004007702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရေဇွာ",
+    "en": "Rezua",
+    "slug": "rezua-MMR004007702"
+  },
+  "code": {
+    "id": "MMR004007702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004D004",
+    "level": 2,
+    "name": {
+      "local": "မတူပီခရိုင်",
+      "en": "Matupi",
+      "slug": "matupi-MMR004D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    {
+      "id": "MMR004D004",
+      "level": 2,
+      "name": {
+        "local": "မတူပီခရိုင်",
+        "en": "Matupi",
+        "slug": "matupi-MMR004D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "22.05289",
+    "lon": "93.40857"
+  },
+  "metadata": {},
+  "source": {}
+}

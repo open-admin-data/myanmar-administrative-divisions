@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1867003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမ်းမတော် ရပ်ကွက်",
+      "en": "Lan Ma Taw Quarter",
+      "slug": "lan-ma-taw-quarter-1867003"
+    },
+    "code": {
+      "id": "1867003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008010702",
+      "level": 3,
+      "name": {
+        "local": "အိုးသည်ကုန်း",
+        "en": "Oe Thei Kone",
+        "slug": "oe-thei-kone-MMR008010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008010702",
+        "level": 3,
+        "name": {
+          "local": "အိုးသည်ကုန်း",
+          "en": "Oe Thei Kone",
+          "slug": "oe-thei-kone-MMR008010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1867003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1867001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-1867001"
+    },
+    "code": {
+      "id": "1867001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008010702",
+      "level": 3,
+      "name": {
+        "local": "အိုးသည်ကုန်း",
+        "en": "Oe Thei Kone",
+        "slug": "oe-thei-kone-MMR008010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008010702",
+        "level": 3,
+        "name": {
+          "local": "အိုးသည်ကုန်း",
+          "en": "Oe Thei Kone",
+          "slug": "oe-thei-kone-MMR008010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1867001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1867004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြည်တော်သာ ရပ်ကွက်",
+      "en": "Pyi Taw Thar Quarter",
+      "slug": "pyi-taw-thar-quarter-1867004"
+    },
+    "code": {
+      "id": "1867004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008010702",
+      "level": 3,
+      "name": {
+        "local": "အိုးသည်ကုန်း",
+        "en": "Oe Thei Kone",
+        "slug": "oe-thei-kone-MMR008010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008010702",
+        "level": 3,
+        "name": {
+          "local": "အိုးသည်ကုန်း",
+          "en": "Oe Thei Kone",
+          "slug": "oe-thei-kone-MMR008010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1867004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1867002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-1867002"
+    },
+    "code": {
+      "id": "1867002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008010702",
+      "level": 3,
+      "name": {
+        "local": "အိုးသည်ကုန်း",
+        "en": "Oe Thei Kone",
+        "slug": "oe-thei-kone-MMR008010702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D002",
+        "level": 2,
+        "name": {
+          "local": "သာယာဝတီခရိုင်",
+          "en": "Thayarwady",
+          "slug": "thayarwady-MMR008D002"
+        }
+      },
+      {
+        "id": "MMR008010702",
+        "level": 3,
+        "name": {
+          "local": "အိုးသည်ကုန်း",
+          "en": "Oe Thei Kone",
+          "slug": "oe-thei-kone-MMR008010702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1867002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

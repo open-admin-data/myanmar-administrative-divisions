@@ -1,0 +1,3447 @@
+[
+  {
+    "id": "0806241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုဂံကွဲ ကျေးရွာအုပ်စု",
+      "en": "Bagan Kwe Village Tract",
+      "slug": "bagan-kwe-village-tract-0806241"
+    },
+    "code": {
+      "id": "0806241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘောနီ ကျေးရွာအုပ်စု",
+      "en": "Baw Ni Village Tract",
+      "slug": "baw-ni-village-tract-0806236"
+    },
+    "code": {
+      "id": "0806236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗျိုင်းချယ် ကျေးရွာအုပ်စု",
+      "en": "Byaing Chei Village Tract",
+      "slug": "byaing-chei-village-tract-0806217"
+    },
+    "code": {
+      "id": "0806217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗျက်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Byet Gyi Village Tract",
+      "slug": "byet-gyi-village-tract-0806226"
+    },
+    "code": {
+      "id": "0806226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒရယ်မီး ရပ်ကွက်",
+      "en": "Da Yei Mee Quarter",
+      "slug": "da-yei-mee-quarter-0806008"
+    },
+    "code": {
+      "id": "0806008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိုးတန်း ကျေးရွာအုပ်စု",
+      "en": "Doe Tan Village Tract",
+      "slug": "doe-tan-village-tract-0806222"
+    },
+    "code": {
+      "id": "0806222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိမ်ခြေလေးဆယ် ကျေးရွာအုပ်စု",
+      "en": "Ein Chay Lay Se Village Tract",
+      "slug": "ein-chay-lay-se-village-tract-0806201"
+    },
+    "code": {
+      "id": "0806201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မှော်အင်း ကျေးရွာအုပ်စု",
+      "en": "Hmaw Inn Village Tract",
+      "slug": "hmaw-inn-village-tract-0806242"
+    },
+    "code": {
+      "id": "0806242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖအောင်းစု ကျေးရွာအုပ်စု",
+      "en": "Hpa Aung Su Village Tract",
+      "slug": "hpa-aung-su-village-tract-0806232"
+    },
+    "code": {
+      "id": "0806232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖအောင်ဝဲ ရပ်ကွက်",
+      "en": "Hpa Aung Wea Quarter",
+      "slug": "hpa-aung-wea-quarter-0806009"
+    },
+    "code": {
+      "id": "0806009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရားကြီးကွင်း ကျေးရွာအုပ်စု",
+      "en": "Hpa Yar Gyi Kwin Village Tract",
+      "slug": "hpa-yar-gyi-kwin-village-tract-0806238"
+    },
+    "code": {
+      "id": "0806238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖောင်တော်သီ ကျေးရွာအုပ်စု",
+      "en": "Hpaung Taw Thi Village Tract",
+      "slug": "hpaung-taw-thi-village-tract-0806203"
+    },
+    "code": {
+      "id": "0806203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းတဇင် ကျေးရွာအုပ်စု",
+      "en": "Inn Ta Zin Village Tract",
+      "slug": "inn-ta-zin-village-tract-0806212"
+    },
+    "code": {
+      "id": "0806212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကလီ ကျေးရွာအုပ်စု",
+      "en": "Ka Li Village Tract",
+      "slug": "ka-li-village-tract-0806230"
+    },
+    "code": {
+      "id": "0806230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမာဖရုံ ကျေးရွာအုပ်စု",
+      "en": "Ka Mar Hpa Yon Village Tract",
+      "slug": "ka-mar-hpa-yon-village-tract-0806243"
+    },
+    "code": {
+      "id": "0806243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကတုတ်ဘုရားကြီး ကျေးရွာအုပ်စု",
+      "en": "Ka Toke Hpa Yar Gyi Village Tract",
+      "slug": "ka-toke-hpa-yar-gyi-village-tract-0806218"
+    },
+    "code": {
+      "id": "0806218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကတုတ်ရွာမ ကျေးရွာအုပ်စု",
+      "en": "Ka Toke Ywar Ma Village Tract",
+      "slug": "ka-toke-ywar-ma-village-tract-0806215"
+    },
+    "code": {
+      "id": "0806215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံကလေး ကျေးရွာအုပ်စု",
+      "en": "Kan Ka Lay Village Tract",
+      "slug": "kan-ka-lay-village-tract-0806207"
+    },
+    "code": {
+      "id": "0806207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုက္ကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Koke Kaing Village Tract",
+      "slug": "koke-kaing-village-tract-0806235"
+    },
+    "code": {
+      "id": "0806235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်သည် ရပ်ကွက်",
+      "en": "Kon Thei Quarter",
+      "slug": "kon-thei-quarter-0806002"
+    },
+    "code": {
+      "id": "0806002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက်စကော (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Kyaik Sa Kaw (East) Village Tract",
+      "slug": "kyaik-sa-kaw-east-village-tract-0806239"
+    },
+    "code": {
+      "id": "0806239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျိုက်စကော (အနောက်) ကျေးရွာအုပ်စု",
+      "en": "Kyaik Sa Kaw (West) Village Tract",
+      "slug": "kyaik-sa-kaw-west-village-tract-0806240"
+    },
+    "code": {
+      "id": "0806240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းစု ရပ်ကွက်",
+      "en": "Kyaung Su Quarter",
+      "slug": "kyaung-su-quarter-0806004"
+    },
+    "code": {
+      "id": "0806004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyun Kone Village Tract",
+      "slug": "kyun-kone-village-tract-0806200"
+    },
+    "code": {
+      "id": "0806200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မအူကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Au Kone Village Tract",
+      "slug": "ma-au-kone-village-tract-0806237"
+    },
+    "code": {
+      "id": "0806237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလွန်း ကျေးရွာအုပ်စု",
+      "en": "Min Ga Lun Village Tract",
+      "slug": "min-ga-lun-village-tract-0806233"
+    },
+    "code": {
+      "id": "0806233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းတဲ ရပ်ကွက်",
+      "en": "Min Te Quarter",
+      "slug": "min-te-quarter-0806006"
+    },
+    "code": {
+      "id": "0806006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကင်း ကျေးရွာအုပ်စု",
+      "en": "Nat Kin Village Tract",
+      "slug": "nat-kin-village-tract-0806234"
+    },
+    "code": {
+      "id": "0806234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုတ်ရှစ်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Oke Shit Kone Village Tract",
+      "slug": "oke-shit-kone-village-tract-0806228"
+    },
+    "code": {
+      "id": "0806228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပနွတ် ကျေးရွာအုပ်စု",
+      "en": "Pa Nut Village Tract",
+      "slug": "pa-nut-village-tract-0806231"
+    },
+    "code": {
+      "id": "0806231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပသွယ် ကျေးရွာအုပ်စု",
+      "en": "Pa Thwei Village Tract",
+      "slug": "pa-thwei-village-tract-0806209"
+    },
+    "code": {
+      "id": "0806209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပေါက်တပင် ကျေးရွာအုပ်စု",
+      "en": "Pauk Ta Pin Village Tract",
+      "slug": "pauk-ta-pin-village-tract-0806206"
+    },
+    "code": {
+      "id": "0806206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုကိုင် ကျေးရွာအုပ်စု",
+      "en": "Pu Kaing Village Tract",
+      "slug": "pu-kaing-village-tract-0806205"
+    },
+    "code": {
+      "id": "0806205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပွဲတမော့ ကျေးရွာအုပ်စု",
+      "en": "Pwe Ta Mawt Village Tract",
+      "slug": "pwe-ta-mawt-village-tract-0806213"
+    },
+    "code": {
+      "id": "0806213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်းမလွင် ကျေးရွာအုပ်စု",
+      "en": "Pyin Ma Lwin Village Tract",
+      "slug": "pyin-ma-lwin-village-tract-0806214"
+    },
+    "code": {
+      "id": "0806214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပျဉ်ပုံလေး ကျေးရွာအုပ်စု",
+      "en": "Pyin Pon Lay Village Tract",
+      "slug": "pyin-pon-lay-village-tract-0806210"
+    },
+    "code": {
+      "id": "0806210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆာပါခြုံ ကျေးရွာအုပ်စု",
+      "en": "Sar Par Chon Village Tract",
+      "slug": "sar-par-chon-village-tract-0806223"
+    },
+    "code": {
+      "id": "0806223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စက်ကွင်း ရပ်ကွက်",
+      "en": "Set Kwin Quarter",
+      "slug": "set-kwin-quarter-0806007"
+    },
+    "code": {
+      "id": "0806007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစု ကျေးရွာအုပ်စု",
+      "en": "Shan Su Village Tract",
+      "slug": "shan-su-village-tract-0806204"
+    },
+    "code": {
+      "id": "0806204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေအင်ဒုံရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Shwe In Don Ywar Thit Village Tract",
+      "slug": "shwe-in-don-ywar-thit-village-tract-0806221"
+    },
+    "code": {
+      "id": "0806221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်စခန်း ကျေးရွာအုပ်စု",
+      "en": "Sin Sa Khan Village Tract",
+      "slug": "sin-sa-khan-village-tract-0806219"
+    },
+    "code": {
+      "id": "0806219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ဇလုပ် ကျေးရွာအုပ်စု",
+      "en": "Sin Za Loke Village Tract",
+      "slug": "sin-za-loke-village-tract-0806227"
+    },
+    "code": {
+      "id": "0806227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ဘိုကြီး ကျေးရွာအုပ်စု",
+      "en": "Sit Bo Gyi Village Tract",
+      "slug": "sit-bo-gyi-village-tract-0806225"
+    },
+    "code": {
+      "id": "0806225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တကောင်း ကျေးရွာအုပ်စု",
+      "en": "Ta Kaung Village Tract",
+      "slug": "ta-kaung-village-tract-0806220"
+    },
+    "code": {
+      "id": "0806220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမံကြီး ကျေးရွာအုပ်စု",
+      "en": "Ta Man Gyi Village Tract",
+      "slug": "ta-man-gyi-village-tract-0806216"
+    },
+    "code": {
+      "id": "0806216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်သလဲမြောင် ကျေးရွာအုပ်စု",
+      "en": "Taung Tha Le Myaung Village Tract",
+      "slug": "taung-tha-le-myaung-village-tract-0806224"
+    },
+    "code": {
+      "id": "0806224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေတန်း ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Tan Village Tract",
+      "slug": "tha-pyay-tan-village-tract-0806211"
+    },
+    "code": {
+      "id": "0806211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သရက်တော ကျေးရွာအုပ်စု",
+      "en": "Tha Yet Taw Village Tract",
+      "slug": "tha-yet-taw-village-tract-0806208"
+    },
+    "code": {
+      "id": "0806208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံတံတား ရပ်ကွက်",
+      "en": "Than Ta Dar Quarter",
+      "slug": "than-ta-dar-quarter-0806005"
+    },
+    "code": {
+      "id": "0806005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲကော ကျေးရွာအုပ်စု",
+      "en": "Thea Kaw Village Tract",
+      "slug": "thea-kaw-village-tract-0806202"
+    },
+    "code": {
+      "id": "0806202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သုံးခွ ကျေးရွာအုပ်စု",
+      "en": "Thone Gwa Village Tract",
+      "slug": "thone-gwa-village-tract-0806229"
+    },
+    "code": {
+      "id": "0806229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝါဆို ရပ်ကွက်",
+      "en": "War So Quarter",
+      "slug": "war-so-quarter-0806003"
+    },
+    "code": {
+      "id": "0806003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0806001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးပိုင်း ရပ်ကွက်",
+      "en": "Zay Paing Quarter",
+      "slug": "zay-paing-quarter-0806001"
+    },
+    "code": {
+      "id": "0806001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007007701",
+      "level": 3,
+      "name": {
+        "local": "ဒိုက်ဦး",
+        "en": "Daik-U",
+        "slug": "daik-u-MMR007007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR007D001",
+        "level": 2,
+        "name": {
+          "local": "ပဲခူးခရိုင်",
+          "en": "Bago",
+          "slug": "bago-MMR007D001"
+        }
+      },
+      {
+        "id": "MMR007007701",
+        "level": 3,
+        "name": {
+          "local": "ဒိုက်ဦး",
+          "en": "Daik-U",
+          "slug": "daik-u-MMR007007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0806001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

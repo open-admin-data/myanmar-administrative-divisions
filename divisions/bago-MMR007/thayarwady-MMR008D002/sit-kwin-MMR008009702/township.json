@@ -1,0 +1,56 @@
+{
+  "id": "MMR008009702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "စစ်ကွင်း",
+    "en": "Sit Kwin",
+    "slug": "sit-kwin-MMR008009702"
+  },
+  "code": {
+    "id": "MMR008009702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D002",
+    "level": 2,
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.8941",
+    "lon": "95.7232"
+  },
+  "metadata": {},
+  "source": {}
+}

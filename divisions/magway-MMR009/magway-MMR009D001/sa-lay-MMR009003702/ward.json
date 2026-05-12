@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0462001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0462001"
+    },
+    "code": {
+      "id": "0462001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003702",
+      "level": 3,
+      "name": {
+        "local": "စလေ",
+        "en": "Sa Lay",
+        "slug": "sa-lay-MMR009003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003702",
+        "level": 3,
+        "name": {
+          "local": "စလေ",
+          "en": "Sa Lay",
+          "slug": "sa-lay-MMR009003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0462001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0462002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0462002"
+    },
+    "code": {
+      "id": "0462002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003702",
+      "level": 3,
+      "name": {
+        "local": "စလေ",
+        "en": "Sa Lay",
+        "slug": "sa-lay-MMR009003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003702",
+        "level": 3,
+        "name": {
+          "local": "စလေ",
+          "en": "Sa Lay",
+          "slug": "sa-lay-MMR009003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0462002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0462003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0462003"
+    },
+    "code": {
+      "id": "0462003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003702",
+      "level": 3,
+      "name": {
+        "local": "စလေ",
+        "en": "Sa Lay",
+        "slug": "sa-lay-MMR009003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003702",
+        "level": 3,
+        "name": {
+          "local": "စလေ",
+          "en": "Sa Lay",
+          "slug": "sa-lay-MMR009003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0462003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0462004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0462004"
+    },
+    "code": {
+      "id": "0462004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003702",
+      "level": 3,
+      "name": {
+        "local": "စလေ",
+        "en": "Sa Lay",
+        "slug": "sa-lay-MMR009003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003702",
+        "level": 3,
+        "name": {
+          "local": "စလေ",
+          "en": "Sa Lay",
+          "slug": "sa-lay-MMR009003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0462004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0462005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0462005"
+    },
+    "code": {
+      "id": "0462005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003702",
+      "level": 3,
+      "name": {
+        "local": "စလေ",
+        "en": "Sa Lay",
+        "slug": "sa-lay-MMR009003702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003702",
+        "level": 3,
+        "name": {
+          "local": "စလေ",
+          "en": "Sa Lay",
+          "slug": "sa-lay-MMR009003702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0462005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

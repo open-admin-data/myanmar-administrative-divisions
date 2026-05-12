@@ -1,0 +1,48 @@
+{
+  "id": "MMR012D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "မောင်တောခရိုင်",
+    "en": "Maungdaw",
+    "slug": "maungdaw-MMR012D002"
+  },
+  "code": {
+    "id": "MMR012D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR012",
+    "level": 1,
+    "name": {
+      "local": "ရခိုင်ပြည်နယ်",
+      "en": "Rakhine",
+      "slug": "rakhine-MMR012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 5,
+    "ward": 211
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.9575",
+    "lon": "92.3734"
+  },
+  "metadata": {},
+  "source": {}
+}

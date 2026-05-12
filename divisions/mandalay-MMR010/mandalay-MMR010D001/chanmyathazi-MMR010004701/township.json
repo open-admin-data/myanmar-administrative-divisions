@@ -1,0 +1,56 @@
+{
+  "id": "MMR010004701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ချမ်းမြသာစည်",
+    "en": "Chanmyathazi",
+    "slug": "chanmyathazi-MMR010004701"
+  },
+  "code": {
+    "id": "MMR010004701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D001",
+    "level": 2,
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D001",
+      "level": 2,
+      "name": {
+        "local": "မန္တလေးခရိုင်",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.9394",
+    "lon": "96.09584"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR009008701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ပွင့်ဖြူ",
+    "en": "Pwintbyu",
+    "slug": "pwintbyu-MMR009008701"
+  },
+  "code": {
+    "id": "MMR009008701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009D002",
+    "level": 2,
+    "name": {
+      "local": "မင်းဘူးခရိုင်",
+      "en": "Minbu",
+      "slug": "minbu-MMR009D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    {
+      "id": "MMR009D002",
+      "level": 2,
+      "name": {
+        "local": "မင်းဘူးခရိုင်",
+        "en": "Minbu",
+        "slug": "minbu-MMR009D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.36334",
+    "lon": "94.66933"
+  },
+  "metadata": {},
+  "source": {}
+}

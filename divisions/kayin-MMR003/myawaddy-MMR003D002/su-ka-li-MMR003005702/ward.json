@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1366001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1366001"
+    },
+    "code": {
+      "id": "1366001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003005702",
+      "level": 3,
+      "name": {
+        "local": "စုကလိ",
+        "en": "Su Ka Li",
+        "slug": "su-ka-li-MMR003005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      },
+      {
+        "id": "MMR003D002",
+        "level": 2,
+        "name": {
+          "local": "မြဝတီခရိုင်",
+          "en": "Myawaddy",
+          "slug": "myawaddy-MMR003D002"
+        }
+      },
+      {
+        "id": "MMR003005702",
+        "level": 3,
+        "name": {
+          "local": "စုကလိ",
+          "en": "Su Ka Li",
+          "slug": "su-ka-li-MMR003005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1366001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

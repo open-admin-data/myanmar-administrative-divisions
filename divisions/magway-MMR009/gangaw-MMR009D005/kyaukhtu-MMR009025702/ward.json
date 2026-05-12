@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0466001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂုံဘို ရပ်ကွက်",
+      "en": "Gon Bo Quarter",
+      "slug": "gon-bo-quarter-0466001"
+    },
+    "code": {
+      "id": "0466001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009025702",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်ထု",
+        "en": "Kyaukhtu",
+        "slug": "kyaukhtu-MMR009025702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009025702",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်ထု",
+          "en": "Kyaukhtu",
+          "slug": "kyaukhtu-MMR009025702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0466001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0466002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့မ ရပ်ကွက်",
+      "en": "Myo Ma Quarter",
+      "slug": "myo-ma-quarter-0466002"
+    },
+    "code": {
+      "id": "0466002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009025702",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်ထု",
+        "en": "Kyaukhtu",
+        "slug": "kyaukhtu-MMR009025702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009025702",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်ထု",
+          "en": "Kyaukhtu",
+          "slug": "kyaukhtu-MMR009025702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0466002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0466003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ရဲ ရပ်ကွက်",
+      "en": "Nat Ye Quarter",
+      "slug": "nat-ye-quarter-0466003"
+    },
+    "code": {
+      "id": "0466003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009025702",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်ထု",
+        "en": "Kyaukhtu",
+        "slug": "kyaukhtu-MMR009025702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D005",
+        "level": 2,
+        "name": {
+          "local": "ဂန့်ဂေါခရိုင်",
+          "en": "Gangaw",
+          "slug": "gangaw-MMR009D005"
+        }
+      },
+      {
+        "id": "MMR009025702",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်ထု",
+          "en": "Kyaukhtu",
+          "slug": "kyaukhtu-MMR009025702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0466003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

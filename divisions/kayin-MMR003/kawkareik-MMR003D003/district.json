@@ -1,0 +1,48 @@
+{
+  "id": "MMR003D003",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ကော့ကရိတ်ခရိုင်",
+    "en": "Kawkareik",
+    "slug": "kawkareik-MMR003D003"
+  },
+  "code": {
+    "id": "MMR003D003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003",
+    "level": 1,
+    "name": {
+      "local": "ကရင်ပြည်နယ်",
+      "en": "Kayin",
+      "slug": "kayin-MMR003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 5,
+    "ward": 131
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.0996",
+    "lon": "98.2355"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0163001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0163001"
+    },
+    "code": {
+      "id": "0163001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001002702",
+      "level": 3,
+      "name": {
+        "local": "ဆဒုံး",
+        "en": "Sadung",
+        "slug": "sadung-MMR001002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001002702",
+        "level": 3,
+        "name": {
+          "local": "ဆဒုံး",
+          "en": "Sadung",
+          "slug": "sadung-MMR001002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0163001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0163002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0163002"
+    },
+    "code": {
+      "id": "0163002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001002702",
+      "level": 3,
+      "name": {
+        "local": "ဆဒုံး",
+        "en": "Sadung",
+        "slug": "sadung-MMR001002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001002702",
+        "level": 3,
+        "name": {
+          "local": "ဆဒုံး",
+          "en": "Sadung",
+          "slug": "sadung-MMR001002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0163002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0163003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0163003"
+    },
+    "code": {
+      "id": "0163003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001002702",
+      "level": 3,
+      "name": {
+        "local": "ဆဒုံး",
+        "en": "Sadung",
+        "slug": "sadung-MMR001002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001002702",
+        "level": 3,
+        "name": {
+          "local": "ဆဒုံး",
+          "en": "Sadung",
+          "slug": "sadung-MMR001002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0163003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0163004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0163004"
+    },
+    "code": {
+      "id": "0163004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001002702",
+      "level": 3,
+      "name": {
+        "local": "ဆဒုံး",
+        "en": "Sadung",
+        "slug": "sadung-MMR001002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001002702",
+        "level": 3,
+        "name": {
+          "local": "ဆဒုံး",
+          "en": "Sadung",
+          "slug": "sadung-MMR001002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0163004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0163005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0163005"
+    },
+    "code": {
+      "id": "0163005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001002702",
+      "level": 3,
+      "name": {
+        "local": "ဆဒုံး",
+        "en": "Sadung",
+        "slug": "sadung-MMR001002702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001002702",
+        "level": 3,
+        "name": {
+          "local": "ဆဒုံး",
+          "en": "Sadung",
+          "slug": "sadung-MMR001002702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0163005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

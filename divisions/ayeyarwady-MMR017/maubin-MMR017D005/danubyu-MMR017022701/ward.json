@@ -1,0 +1,5267 @@
+[
+  {
+    "id": "1015200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အကျော် ကျေးရွာအုပ်စု",
+      "en": "Ah Kyaw Village Tract",
+      "slug": "ah-kyaw-village-tract-1015200"
+    },
+    "code": {
+      "id": "1015200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလမျိုး ကျေးရွာအုပ်စု",
+      "en": "Ah La Myo Village Tract",
+      "slug": "ah-la-myo-village-tract-1015201"
+    },
+    "code": {
+      "id": "1015201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗျင်းဘွဲ ကျေးရွာအုပ်စု",
+      "en": "Byin Bwe Village Tract",
+      "slug": "byin-bwe-village-tract-1015202"
+    },
+    "code": {
+      "id": "1015202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗျင်းညား (အလယ်) ကျေးရွာအုပ်စု",
+      "en": "Byin Nyar (Middle) Village Tract",
+      "slug": "byin-nyar-middle-village-tract-1015203"
+    },
+    "code": {
+      "id": "1015203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗျင်းညား (အနောက်) ကျေးရွာအုပ်စု",
+      "en": "Byin Nyar (West) Village Tract",
+      "slug": "byin-nyar-west-village-tract-1015204"
+    },
+    "code": {
+      "id": "1015204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းစောက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Zauk Village Tract",
+      "slug": "chaung-zauk-village-tract-1015207"
+    },
+    "code": {
+      "id": "1015207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှဲကြိုး ကျေးရွာအုပ်စု",
+      "en": "Hne Kyoe Village Tract",
+      "slug": "hne-kyoe-village-tract-1015208"
+    },
+    "code": {
+      "id": "1015208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖန်ခါးကွင်း ကျေးရွာအုပ်စု",
+      "en": "Hpan Khar Kwin Village Tract",
+      "slug": "hpan-khar-kwin-village-tract-1015231"
+    },
+    "code": {
+      "id": "1015231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖုန်းဆိုး (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Hpone Soe (South) Village Tract",
+      "slug": "hpone-soe-south-village-tract-1015235"
+    },
+    "code": {
+      "id": "1015235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထီကွေ့ ကျေးရွာအုပ်စု",
+      "en": "Hti Kwayt Village Tract",
+      "slug": "hti-kwayt-village-tract-1015250"
+    },
+    "code": {
+      "id": "1015250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထုံးပုံ ကျေးရွာအုပ်စု",
+      "en": "Htone Pon Village Tract",
+      "slug": "htone-pon-village-tract-1015251"
+    },
+    "code": {
+      "id": "1015251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းဂလာ ကျေးရွာအုပ်စု",
+      "en": "Inn Ga Lar Village Tract",
+      "slug": "inn-ga-lar-village-tract-1015262"
+    },
+    "code": {
+      "id": "1015262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းရပ် ကျေးရွာအုပ်စု",
+      "en": "Inn Yat Village Tract",
+      "slug": "inn-yat-village-tract-1015209"
+    },
+    "code": {
+      "id": "1015209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကနုကြီး ကျေးရွာအုပ်စု",
+      "en": "Ka Nu Gyi Village Tract",
+      "slug": "ka-nu-gyi-village-tract-1015212"
+    },
+    "code": {
+      "id": "1015212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကနူကလေး ကျေးရွာအုပ်စု",
+      "en": "Ka Nu Ka Lay Village Tract",
+      "slug": "ka-nu-ka-lay-village-tract-1015211"
+    },
+    "code": {
+      "id": "1015211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဇွန်းကွင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Zun Kwin Village Tract",
+      "slug": "ka-zun-kwin-village-tract-1015210"
+    },
+    "code": {
+      "id": "1015210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကပ်ခို ကျေးရွာအုပ်စု",
+      "en": "Kat Kho Village Tract",
+      "slug": "kat-kho-village-tract-1015213"
+    },
+    "code": {
+      "id": "1015213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းတန်း (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Kone Tan (North) Village Tract",
+      "slug": "kone-tan-north-village-tract-1015216"
+    },
+    "code": {
+      "id": "1015216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းတန်း (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Kone Tan (South) Village Tract",
+      "slug": "kone-tan-south-village-tract-1015215"
+    },
+    "code": {
+      "id": "1015215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တိုင် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Taing Village Tract",
+      "slug": "kyauk-taing-village-tract-1015217"
+    },
+    "code": {
+      "id": "1015217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Kyaung Kone Village Tract",
+      "slug": "kyaung-kone-village-tract-1015218"
+    },
+    "code": {
+      "id": "1015218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောင်းစု ကျေးရွာအုပ်စု",
+      "en": "Kyaung Su Village Tract",
+      "slug": "kyaung-su-village-tract-1015205"
+    },
+    "code": {
+      "id": "1015205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတနော် (အရှေ့) ကျေးရွာအုပ်စု",
+      "en": "Kyon Ta Naw (East) Village Tract",
+      "slug": "kyon-ta-naw-east-village-tract-1015219"
+    },
+    "code": {
+      "id": "1015219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတနော် (အနောက်) ကျေးရွာအုပ်စု",
+      "en": "Kyon Ta Naw (West) Village Tract",
+      "slug": "kyon-ta-naw-west-village-tract-1015220"
+    },
+    "code": {
+      "id": "1015220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံတနီး ကျေးရွာအုပ်စု",
+      "en": "Kyon Ta Nee Village Tract",
+      "slug": "kyon-ta-nee-village-tract-1015221"
+    },
+    "code": {
+      "id": "1015221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမန်း ကျေးရွာအုပ်စု",
+      "en": "La Man Village Tract",
+      "slug": "la-man-village-tract-1015222"
+    },
+    "code": {
+      "id": "1015222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပန်ဇင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Let Pan Zin Kone Village Tract",
+      "slug": "let-pan-zin-kone-village-tract-1015223"
+    },
+    "code": {
+      "id": "1015223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ဆွဲချောင်း ကျေးရွာအုပ်စု",
+      "en": "Let Swea Chaung Village Tract",
+      "slug": "let-swea-chaung-village-tract-1015224"
+    },
+    "code": {
+      "id": "1015224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင်းလွန်းပင် ကျေးရွာအုပ်စု",
+      "en": "Lin Lun Pin Village Tract",
+      "slug": "lin-lun-pin-village-tract-1015225"
+    },
+    "code": {
+      "id": "1015225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန်းတော်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Nan Taw Kone Village Tract",
+      "slug": "nan-taw-kone-village-tract-1015226"
+    },
+    "code": {
+      "id": "1015226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငါးဘတ်အိုင် ကျေးရွာအုပ်စု",
+      "en": "Nga Bat Aing Village Tract",
+      "slug": "nga-bat-aing-village-tract-1015214"
+    },
+    "code": {
+      "id": "1015214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငနီ (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Nga Ni (South) Village Tract",
+      "slug": "nga-ni-south-village-tract-1015227"
+    },
+    "code": {
+      "id": "1015227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငပျင်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nga Pyin Chaung Village Tract",
+      "slug": "nga-pyin-chaung-village-tract-1015228"
+    },
+    "code": {
+      "id": "1015228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1015001"
+    },
+    "code": {
+      "id": "1015001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) ရပ်ကွက်",
+      "en": "No (10) Quarter",
+      "slug": "no-10-quarter-1015010"
+    },
+    "code": {
+      "id": "1015010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၁) ရပ်ကွက်",
+      "en": "No (11) Quarter",
+      "slug": "no-11-quarter-1015011"
+    },
+    "code": {
+      "id": "1015011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၂) ရပ်ကွက်",
+      "en": "No (12) Quarter",
+      "slug": "no-12-quarter-1015012"
+    },
+    "code": {
+      "id": "1015012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၃) ရပ်ကွက်",
+      "en": "No (13) Quarter",
+      "slug": "no-13-quarter-1015013"
+    },
+    "code": {
+      "id": "1015013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၄) ရပ်ကွက်",
+      "en": "No (14) Quarter",
+      "slug": "no-14-quarter-1015014"
+    },
+    "code": {
+      "id": "1015014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၅) ရပ်ကွက်",
+      "en": "No (15) Quarter",
+      "slug": "no-15-quarter-1015015"
+    },
+    "code": {
+      "id": "1015015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၆) ရပ်ကွက်",
+      "en": "No (16) Quarter",
+      "slug": "no-16-quarter-1015016"
+    },
+    "code": {
+      "id": "1015016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၇) ရပ်ကွက်",
+      "en": "No (17) Quarter",
+      "slug": "no-17-quarter-1015017"
+    },
+    "code": {
+      "id": "1015017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၈) ရပ်ကွက်",
+      "en": "No (18) Quarter",
+      "slug": "no-18-quarter-1015018"
+    },
+    "code": {
+      "id": "1015018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1015002"
+    },
+    "code": {
+      "id": "1015002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1015003"
+    },
+    "code": {
+      "id": "1015003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1015004"
+    },
+    "code": {
+      "id": "1015004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1015005"
+    },
+    "code": {
+      "id": "1015005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1015006"
+    },
+    "code": {
+      "id": "1015006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-1015007"
+    },
+    "code": {
+      "id": "1015007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-1015008"
+    },
+    "code": {
+      "id": "1015008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) ရပ်ကွက်",
+      "en": "No (9) Quarter",
+      "slug": "no-9-quarter-1015009"
+    },
+    "code": {
+      "id": "1015009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Chaung Village Tract",
+      "slug": "nyaung-chaung-village-tract-1015229"
+    },
+    "code": {
+      "id": "1015229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်းပင်ကွင်း ကျေးရွာအုပ်စု",
+      "en": "Ohn Pin Kwin Village Tract",
+      "slug": "ohn-pin-kwin-village-tract-1015230"
+    },
+    "code": {
+      "id": "1015230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပကွန် ကျေးရွာအုပ်စု",
+      "en": "Pa Kun Village Tract",
+      "slug": "pa-kun-village-tract-1015234"
+    },
+    "code": {
+      "id": "1015234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပိုင်စွန်နန် ကျေးရွာအုပ်စု",
+      "en": "Paing Sun Nan Village Tract",
+      "slug": "paing-sun-nan-village-tract-1015232"
+    },
+    "code": {
+      "id": "1015232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပက်တန်း (ထိုက္ကလေး) ကျေးရွာအုပ်စု",
+      "en": "Pet Tan (Htaik Ka Lay) Village Tract",
+      "slug": "pet-tan-htaik-ka-lay-village-tract-1015233"
+    },
+    "code": {
+      "id": "1015233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်ကသာ ကျေးရွာအုပ်စု",
+      "en": "Pyin Ka Thar Village Tract",
+      "slug": "pyin-ka-thar-village-tract-1015236"
+    },
+    "code": {
+      "id": "1015236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆကာကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Kar Gyi Village Tract",
+      "slug": "sa-kar-gyi-village-tract-1015239"
+    },
+    "code": {
+      "id": "1015239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Khan Gyi Village Tract",
+      "slug": "sa-khan-gyi-village-tract-1015237"
+    },
+    "code": {
+      "id": "1015237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံကင်း ကျေးရွာအုပ်စု",
+      "en": "San Kin Village Tract",
+      "slug": "san-kin-village-tract-1015243"
+    },
+    "code": {
+      "id": "1015243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စက်တုချောင်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Set Tu Chaung Ka Lay Village Tract",
+      "slug": "set-tu-chaung-ka-lay-village-tract-1015206"
+    },
+    "code": {
+      "id": "1015206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းစု ကျေးရွာအုပ်စု",
+      "en": "Shan Su Village Tract",
+      "slug": "shan-su-village-tract-1015238"
+    },
+    "code": {
+      "id": "1015238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်လမ်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sin Lan Gyi Village Tract",
+      "slug": "sin-lan-gyi-village-tract-1015241"
+    },
+    "code": {
+      "id": "1015241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်လမ်းကလေး ကျေးရွာအုပ်စု",
+      "en": "Sin Lan Ka Lay Village Tract",
+      "slug": "sin-lan-ka-lay-village-tract-1015242"
+    },
+    "code": {
+      "id": "1015242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ကွင်း (တောင်) ကျေးရွာအုပ်စု",
+      "en": "Sit Kwin (South) Village Tract",
+      "slug": "sit-kwin-south-village-tract-1015240"
+    },
+    "code": {
+      "id": "1015240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမြာ ကျေးရွာအုပ်စု",
+      "en": "Ta Myar Village Tract",
+      "slug": "ta-myar-village-tract-1015249"
+    },
+    "code": {
+      "id": "1015249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကြီး (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Taw Gyi (North) Village Tract",
+      "slug": "taw-gyi-north-village-tract-1015254"
+    },
+    "code": {
+      "id": "1015254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တော်ကြီး (ဇီးဖြူကုန်း) ကျေးရွာအုပ်စု",
+      "en": "Taw Gyi (Zee Hpyu Kone) Village Tract",
+      "slug": "taw-gyi-zee-hpyu-kone-village-tract-1015248"
+    },
+    "code": {
+      "id": "1015248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တော်ကွဲ ကျေးရွာအုပ်စု",
+      "en": "Taw Kwe Village Tract",
+      "slug": "taw-kwe-village-tract-1015245"
+    },
+    "code": {
+      "id": "1015245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဘောသပြု ကျေးရွာအုပ်စု",
+      "en": "Tha Baw Tha Byu Village Tract",
+      "slug": "tha-baw-tha-byu-village-tract-1015261"
+    },
+    "code": {
+      "id": "1015261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြုပင် ကျေးရွာအုပ်စု",
+      "en": "Tha Byu Pin Village Tract",
+      "slug": "tha-byu-pin-village-tract-1015246"
+    },
+    "code": {
+      "id": "1015246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြု ကျေးရွာအုပ်စု",
+      "en": "Tha Byu Village Tract",
+      "slug": "tha-byu-village-tract-1015253"
+    },
+    "code": {
+      "id": "1015253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေရိုး ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Yoe Village Tract",
+      "slug": "tha-pyay-yoe-village-tract-1015244"
+    },
+    "code": {
+      "id": "1015244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာအေးဒေါင့် ကျေးရွာအုပ်စု",
+      "en": "Thar Aye Daunt Village Tract",
+      "slug": "thar-aye-daunt-village-tract-1015247"
+    },
+    "code": {
+      "id": "1015247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဲဖြူ (မြောက်) ကျေးရွာအုပ်စု",
+      "en": "Thea Hpyu (North) Village Tract",
+      "slug": "thea-hpyu-north-village-tract-1015252"
+    },
+    "code": {
+      "id": "1015252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကြည် ကျေးရွာအုပ်စု",
+      "en": "Yae Kyi Village Tract",
+      "slug": "yae-kyi-village-tract-1015257"
+    },
+    "code": {
+      "id": "1015257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေလဲ ကျေးရွာအုပ်စု",
+      "en": "Yae Le Village Tract",
+      "slug": "yae-le-village-tract-1015258"
+    },
+    "code": {
+      "id": "1015258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေပေါက် ကျေးရွာအုပ်စု",
+      "en": "Yae Pauk Village Tract",
+      "slug": "yae-pauk-village-tract-1015259"
+    },
+    "code": {
+      "id": "1015259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Kone Village Tract",
+      "slug": "yae-twin-kone-village-tract-1015255"
+    },
+    "code": {
+      "id": "1015255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုံးချောင်း ကျေးရွာအုပ်စု",
+      "en": "Yone Chaung Village Tract",
+      "slug": "yone-chaung-village-tract-1015256"
+    },
+    "code": {
+      "id": "1015256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1015260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇလုပ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Za Loke Gyi Village Tract",
+      "slug": "za-loke-gyi-village-tract-1015260"
+    },
+    "code": {
+      "id": "1015260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017022701",
+      "level": 3,
+      "name": {
+        "local": "ဓနုဖြူ",
+        "en": "Danubyu",
+        "slug": "danubyu-MMR017022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D005",
+        "level": 2,
+        "name": {
+          "local": "မအူပင်ခရိုင်",
+          "en": "Maubin",
+          "slug": "maubin-MMR017D005"
+        }
+      },
+      {
+        "id": "MMR017022701",
+        "level": 3,
+        "name": {
+          "local": "ဓနုဖြူ",
+          "en": "Danubyu",
+          "slug": "danubyu-MMR017022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1015260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

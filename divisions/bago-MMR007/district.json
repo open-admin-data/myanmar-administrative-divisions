@@ -1,0 +1,194 @@
+[
+  {
+    "id": "MMR007D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    },
+    "code": {
+      "id": "MMR007D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 16,
+      "ward": 591
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.6768",
+      "lon": "96.6216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပြည်ခရိုင်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008D001"
+    },
+    "code": {
+      "id": "MMR008D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 11,
+      "ward": 350
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.696",
+      "lon": "95.3295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တောင်ငူခရိုင်",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007D002"
+    },
+    "code": {
+      "id": "MMR007D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 321
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.8734",
+      "lon": "96.4129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    },
+    "code": {
+      "id": "MMR008D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 542
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0407",
+      "lon": "95.6591"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

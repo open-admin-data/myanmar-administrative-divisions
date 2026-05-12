@@ -1,0 +1,4292 @@
+[
+  {
+    "id": "0417248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သြဇာတော ကျေးရွာအုပ်စု",
+      "en": "Aw Zar Taw Village Tract",
+      "slug": "aw-zar-taw-village-tract-0417248"
+    },
+    "code": {
+      "id": "0417248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗြိပင် ကျေးရွာအုပ်စု",
+      "en": "Byi Pin Village Tract",
+      "slug": "byi-pin-village-tract-0417239"
+    },
+    "code": {
+      "id": "0417239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းတက် ကျေးရွာအုပ်စု",
+      "en": "Chaung Tet Village Tract",
+      "slug": "chaung-tet-village-tract-0417208"
+    },
+    "code": {
+      "id": "0417208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဓာတ်မြေသြဇာ ကျေးရွာအုပ်စု",
+      "en": "Dat Myay Aw Zar Village Tract",
+      "slug": "dat-myay-aw-zar-village-tract-0417201"
+    },
+    "code": {
+      "id": "0417201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးချို ကျေးရွာအုပ်စု",
+      "en": "Gway Cho Village Tract",
+      "slug": "gway-cho-village-tract-0417244"
+    },
+    "code": {
+      "id": "0417244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးပင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Gway Pin Gyi Village Tract",
+      "slug": "gway-pin-gyi-village-tract-0417233"
+    },
+    "code": {
+      "id": "0417233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဂွေးပင် ကျေးရွာအုပ်စု",
+      "en": "Gway Pin Village Tract",
+      "slug": "gway-pin-village-tract-0417224"
+    },
+    "code": {
+      "id": "0417224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်ကန် ကျေးရွာအုပ်စု",
+      "en": "Htein Kan Village Tract",
+      "slug": "htein-kan-village-tract-0417238"
+    },
+    "code": {
+      "id": "0417238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိန်စမ်း ကျေးရွာအုပ်စု",
+      "en": "Htein San Village Tract",
+      "slug": "htein-san-village-tract-0417234"
+    },
+    "code": {
+      "id": "0417234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တန်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Tan Village Tract",
+      "slug": "kyauk-tan-village-tract-0417242"
+    },
+    "code": {
+      "id": "0417242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ရဲ ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ye Village Tract",
+      "slug": "kyauk-ye-village-tract-0417219"
+    },
+    "code": {
+      "id": "0417219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြောင်ယာတော ကျေးရွာအုပ်စု",
+      "en": "Kyaung Yar Taw Village Tract",
+      "slug": "kyaung-yar-taw-village-tract-0417222"
+    },
+    "code": {
+      "id": "0417222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြို့ပင် ကျေးရွာအုပ်စု",
+      "en": "Kyoet Pin Village Tract",
+      "slug": "kyoet-pin-village-tract-0417237"
+    },
+    "code": {
+      "id": "0417237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွဲတပ် ကျေးရွာအုပ်စု",
+      "en": "Kywe Tat Village Tract",
+      "slug": "kywe-tat-village-tract-0417247"
+    },
+    "code": {
+      "id": "0417247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေးပင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Lay Pin Kone Village Tract",
+      "slug": "lay-pin-kone-village-tract-0417216"
+    },
+    "code": {
+      "id": "0417216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လက်ပံကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Let Pan Kyun Village Tract",
+      "slug": "let-pan-kyun-village-tract-0417203"
+    },
+    "code": {
+      "id": "0417203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လင်းတကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Lin Ta Kaing Village Tract",
+      "slug": "lin-ta-kaing-village-tract-0417232"
+    },
+    "code": {
+      "id": "0417232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးကန် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kan Village Tract",
+      "slug": "ma-gyi-kan-village-tract-0417202"
+    },
+    "code": {
+      "id": "0417202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးကန် ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kan Village Tract",
+      "slug": "ma-gyi-kan-village-tract-0417250"
+    },
+    "code": {
+      "id": "0417250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မကျီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ma Gyi Kone Village Tract",
+      "slug": "ma-gyi-kone-village-tract-0417209"
+    },
+    "code": {
+      "id": "0417209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေပဒုံ ကျေးရွာအုပ်စု",
+      "en": "Myay Pa Don Village Tract",
+      "slug": "myay-pa-don-village-tract-0417215"
+    },
+    "code": {
+      "id": "0417215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြေစွန်း ကျေးရွာအုပ်စု",
+      "en": "Myay Sun Village Tract",
+      "slug": "myay-sun-village-tract-0417221"
+    },
+    "code": {
+      "id": "0417221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နရွဲတော ကျေးရွာအုပ်စု",
+      "en": "Na Ywe Taw Village Tract",
+      "slug": "na-ywe-taw-village-tract-0417230"
+    },
+    "code": {
+      "id": "0417230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0417001"
+    },
+    "code": {
+      "id": "0417001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၀) ရပ်ကွက်",
+      "en": "No (10) Quarter",
+      "slug": "no-10-quarter-0417010"
+    },
+    "code": {
+      "id": "0417010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၁) ရပ်ကွက်",
+      "en": "No (11) Quarter",
+      "slug": "no-11-quarter-0417011"
+    },
+    "code": {
+      "id": "0417011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၂) ရပ်ကွက်",
+      "en": "No (12) Quarter",
+      "slug": "no-12-quarter-0417012"
+    },
+    "code": {
+      "id": "0417012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၃) ရပ်ကွက်",
+      "en": "No (13) Quarter",
+      "slug": "no-13-quarter-0417013"
+    },
+    "code": {
+      "id": "0417013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၄) ရပ်ကွက်",
+      "en": "No (14) Quarter",
+      "slug": "no-14-quarter-0417014"
+    },
+    "code": {
+      "id": "0417014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၅) ရပ်ကွက်",
+      "en": "No (15) Quarter",
+      "slug": "no-15-quarter-0417015"
+    },
+    "code": {
+      "id": "0417015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0417002"
+    },
+    "code": {
+      "id": "0417002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0417003"
+    },
+    "code": {
+      "id": "0417003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0417004"
+    },
+    "code": {
+      "id": "0417004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0417005"
+    },
+    "code": {
+      "id": "0417005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-0417006"
+    },
+    "code": {
+      "id": "0417006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-0417007"
+    },
+    "code": {
+      "id": "0417007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-0417008"
+    },
+    "code": {
+      "id": "0417008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၉) ရပ်ကွက်",
+      "en": "No (9) Quarter",
+      "slug": "no-9-quarter-0417009"
+    },
+    "code": {
+      "id": "0417009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ချောင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Chaung Village Tract",
+      "slug": "nyaung-chaung-village-tract-0417217"
+    },
+    "code": {
+      "id": "0417217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဇင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Zin Village Tract",
+      "slug": "nyaung-zin-village-tract-0417229"
+    },
+    "code": {
+      "id": "0417229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညီးစု ကျေးရွာအုပ်စု",
+      "en": "Nyee Su Village Tract",
+      "slug": "nyee-su-village-tract-0417205"
+    },
+    "code": {
+      "id": "0417205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုံမြှားကြီး ကျေးရွာအုပ်စု",
+      "en": "Ohn Hmyar Gyi Village Tract",
+      "slug": "ohn-hmyar-gyi-village-tract-0417241"
+    },
+    "code": {
+      "id": "0417241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပဒေသာ ကျေးရွာအုပ်စု",
+      "en": "Pa Day Thar Village Tract",
+      "slug": "pa-day-thar-village-tract-0417200"
+    },
+    "code": {
+      "id": "0417200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပခန်းငယ် ကျေးရွာအုပ်စု",
+      "en": "Pa Khan Nge Village Tract",
+      "slug": "pa-khan-nge-village-tract-0417212"
+    },
+    "code": {
+      "id": "0417212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းဘဲ ကျေးရွာအုပ်စု",
+      "en": "Pan Be Village Tract",
+      "slug": "pan-be-village-tract-0417243"
+    },
+    "code": {
+      "id": "0417243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုပ္ပကန် ကျေးရွာအုပ်စု",
+      "en": "Poke Pa Kan Village Tract",
+      "slug": "poke-pa-kan-village-tract-0417227"
+    },
+    "code": {
+      "id": "0417227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စလင်းတောင် ကျေးရွာအုပ်စု",
+      "en": "Sa Lin Taung Village Tract",
+      "slug": "sa-lin-taung-village-tract-0417213"
+    },
+    "code": {
+      "id": "0417213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားလယ် ကျေးရွာအုပ်စု",
+      "en": "Sar Lel Village Tract",
+      "slug": "sar-lel-village-tract-0417220"
+    },
+    "code": {
+      "id": "0417220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားတောင် ကျေးရွာအုပ်စု",
+      "en": "Sar Taung Village Tract",
+      "slug": "sar-taung-village-tract-0417249"
+    },
+    "code": {
+      "id": "0417249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆယ်ကန် ကျေးရွာအုပ်စု",
+      "en": "Se Kan Village Tract",
+      "slug": "se-kan-village-tract-0417231"
+    },
+    "code": {
+      "id": "0417231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆူးရစ်ကန် ကျေးရွာအုပ်စု",
+      "en": "Su Yit Kan Village Tract",
+      "slug": "su-yit-kan-village-tract-0417214"
+    },
+    "code": {
+      "id": "0417214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စွယ်ပေါက္ကံ ကျေးရွာအုပ်စု",
+      "en": "Swei Pauk Kan Village Tract",
+      "slug": "swei-pauk-kan-village-tract-0417225"
+    },
+    "code": {
+      "id": "0417225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ဘလူ ကျေးရွာအုပ်စု",
+      "en": "Taung Ba Lu Village Tract",
+      "slug": "taung-ba-lu-village-tract-0417218"
+    },
+    "code": {
+      "id": "0417218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်သာ ကျေးရွာအုပ်စု",
+      "en": "Taung Thar Village Tract",
+      "slug": "taung-thar-village-tract-0417210"
+    },
+    "code": {
+      "id": "0417210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သလုံးသွေး ကျေးရွာအုပ်စု",
+      "en": "Tha Lone Thway Village Tract",
+      "slug": "tha-lone-thway-village-tract-0417235"
+    },
+    "code": {
+      "id": "0417235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သံဘို ကျေးရွာအုပ်စု",
+      "en": "Than Bo Village Tract",
+      "slug": "than-bo-village-tract-0417223"
+    },
+    "code": {
+      "id": "0417223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သစ်တိုကန် ကျေးရွာအုပ်စု",
+      "en": "Thit To Kan Village Tract",
+      "slug": "thit-to-kan-village-tract-0417246"
+    },
+    "code": {
+      "id": "0417246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သွေးနက် ကျေးရွာအုပ်စု",
+      "en": "Thway Net Village Tract",
+      "slug": "thway-net-village-tract-0417240"
+    },
+    "code": {
+      "id": "0417240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တွင်းလပ် ကျေးရွာအုပ်စု",
+      "en": "Twin Lat Village Tract",
+      "slug": "twin-lat-village-tract-0417236"
+    },
+    "code": {
+      "id": "0417236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ် ကျေးရွာအုပ်စု",
+      "en": "U Yin Village Tract",
+      "slug": "u-yin-village-tract-0417204"
+    },
+    "code": {
+      "id": "0417204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝသဲစမ်း ကျေးရွာအုပ်စု",
+      "en": "Wa Thea San Village Tract",
+      "slug": "wa-thea-san-village-tract-0417226"
+    },
+    "code": {
+      "id": "0417226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရသစ် ကျေးရွာအုပ်စု",
+      "en": "Ya Thit Village Tract",
+      "slug": "ya-thit-village-tract-0417206"
+    },
+    "code": {
+      "id": "0417206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်း ကျေးရွာအုပ်စု",
+      "en": "Yae Twin Village Tract",
+      "slug": "yae-twin-village-tract-0417207"
+    },
+    "code": {
+      "id": "0417207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာမ ကျေးရွာအုပ်စု",
+      "en": "Ywar Ma Village Tract",
+      "slug": "ywar-ma-village-tract-0417228"
+    },
+    "code": {
+      "id": "0417228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇောင်းတောကန် ကျေးရွာအုပ်စု",
+      "en": "Zaung Taw Kan Village Tract",
+      "slug": "zaung-taw-kan-village-tract-0417211"
+    },
+    "code": {
+      "id": "0417211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0417245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးပွါး ကျေးရွာအုပ်စု",
+      "en": "Zee Pwar Village Tract",
+      "slug": "zee-pwar-village-tract-0417245"
+    },
+    "code": {
+      "id": "0417245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009003701",
+      "level": 3,
+      "name": {
+        "local": "ချောက်",
+        "en": "Chauk",
+        "slug": "chauk-MMR009003701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      },
+      {
+        "id": "MMR009D001",
+        "level": 2,
+        "name": {
+          "local": "မကွေးခရိုင်",
+          "en": "Magway",
+          "slug": "magway-MMR009D001"
+        }
+      },
+      {
+        "id": "MMR009003701",
+        "level": 3,
+        "name": {
+          "local": "ချောက်",
+          "en": "Chauk",
+          "slug": "chauk-MMR009003701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0417245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

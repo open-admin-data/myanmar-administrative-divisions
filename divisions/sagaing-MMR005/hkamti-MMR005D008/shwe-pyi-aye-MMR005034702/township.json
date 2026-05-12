@@ -1,0 +1,56 @@
+{
+  "id": "MMR005034702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ရွှေပြည်အေး",
+    "en": "Shwe Pyi Aye",
+    "slug": "shwe-pyi-aye-MMR005034702"
+  },
+  "code": {
+    "id": "MMR005034702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D008",
+    "level": 2,
+    "name": {
+      "local": "ခန္တီးခရိုင်",
+      "en": "Hkamti",
+      "slug": "hkamti-MMR005D008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D008",
+      "level": 2,
+      "name": {
+        "local": "ခန္တီးခရိုင်",
+        "en": "Hkamti",
+        "slug": "hkamti-MMR005D008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.68344",
+    "lon": "94.73147"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR009003701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ချောက်",
+    "en": "Chauk",
+    "slug": "chauk-MMR009003701"
+  },
+  "code": {
+    "id": "MMR009003701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR009D001",
+    "level": 2,
+    "name": {
+      "local": "မကွေးခရိုင်",
+      "en": "Magway",
+      "slug": "magway-MMR009D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    {
+      "id": "MMR009D001",
+      "level": 2,
+      "name": {
+        "local": "မကွေးခရိုင်",
+        "en": "Magway",
+        "slug": "magway-MMR009D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 66
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.89098",
+    "lon": "94.81829"
+  },
+  "metadata": {},
+  "source": {}
+}

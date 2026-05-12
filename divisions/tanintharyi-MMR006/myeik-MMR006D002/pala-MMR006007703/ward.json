@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1463001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1463001"
+    },
+    "code": {
+      "id": "1463001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006007703",
+      "level": 3,
+      "name": {
+        "local": "ပလ",
+        "en": "Pala",
+        "slug": "pala-MMR006007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006007703",
+        "level": 3,
+        "name": {
+          "local": "ပလ",
+          "en": "Pala",
+          "slug": "pala-MMR006007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1463001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1463002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1463002"
+    },
+    "code": {
+      "id": "1463002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006007703",
+      "level": 3,
+      "name": {
+        "local": "ပလ",
+        "en": "Pala",
+        "slug": "pala-MMR006007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006007703",
+        "level": 3,
+        "name": {
+          "local": "ပလ",
+          "en": "Pala",
+          "slug": "pala-MMR006007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1463002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1463003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1463003"
+    },
+    "code": {
+      "id": "1463003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006007703",
+      "level": 3,
+      "name": {
+        "local": "ပလ",
+        "en": "Pala",
+        "slug": "pala-MMR006007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006007703",
+        "level": 3,
+        "name": {
+          "local": "ပလ",
+          "en": "Pala",
+          "slug": "pala-MMR006007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1463003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1463004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1463004"
+    },
+    "code": {
+      "id": "1463004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006007703",
+      "level": 3,
+      "name": {
+        "local": "ပလ",
+        "en": "Pala",
+        "slug": "pala-MMR006007703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      },
+      {
+        "id": "MMR006007703",
+        "level": 3,
+        "name": {
+          "local": "ပလ",
+          "en": "Pala",
+          "slug": "pala-MMR006007703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1463004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

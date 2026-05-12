@@ -1,0 +1,842 @@
+[
+  {
+    "id": "MMR017005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အထောင်",
+      "en": "Ahtaung",
+      "slug": "ahtaung-MMR017005702"
+    },
+    "code": {
+      "id": "MMR017005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.34855",
+      "lon": "95.33365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017006703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အသုတ်",
+      "en": "Ahthoke",
+      "slug": "ahthoke-MMR017006703"
+    },
+    "code": {
+      "id": "MMR017006703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.19974",
+      "lon": "95.08331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017001704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ချောင်းသာ",
+      "en": "Chaung Thar",
+      "slug": "chaung-thar-MMR017001704"
+    },
+    "code": {
+      "id": "MMR017001704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.9597",
+      "lon": "94.4447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017004703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဟိုင်းကြီးကျွန်း",
+      "en": "Hainggyikyun",
+      "slug": "hainggyikyun-MMR017004703"
+    },
+    "code": {
+      "id": "MMR017004703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.01602",
+      "lon": "94.34411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကန်ကြီးထောင့်",
+      "en": "Kangyidaunt",
+      "slug": "kangyidaunt-MMR017002701"
+    },
+    "code": {
+      "id": "MMR017002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.9329",
+      "lon": "94.89476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျောင်းကုန်း",
+      "en": "Kyaunggon",
+      "slug": "kyaunggon-MMR017007701"
+    },
+    "code": {
+      "id": "MMR017007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.10768",
+      "lon": "95.1904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျုံပျော်",
+      "en": "Kyonpyaw",
+      "slug": "kyonpyaw-MMR017005701"
+    },
+    "code": {
+      "id": "MMR017005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "95.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငပုတော",
+      "en": "Ngapudaw",
+      "slug": "ngapudaw-MMR017004701"
+    },
+    "code": {
+      "id": "MMR017004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.5431",
+      "lon": "94.69224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017006702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငသိုင်းချောင်း",
+      "en": "Ngathaingchaung",
+      "slug": "ngathaingchaung-MMR017006702"
+    },
+    "code": {
+      "id": "MMR017006702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.39927",
+      "lon": "95.07731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017004702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငရုတ်ကောင်း",
+      "en": "Ngayokekaung",
+      "slug": "ngayokekaung-MMR017004702"
+    },
+    "code": {
+      "id": "MMR017004702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.52089",
+      "lon": "94.3019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017001703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငွေဆောင်",
+      "en": "Ngwesaung",
+      "slug": "ngwesaung-MMR017001703"
+    },
+    "code": {
+      "id": "MMR017001703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.86379",
+      "lon": "94.38711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပုသိမ်",
+      "en": "Pathein",
+      "slug": "pathein-MMR017001701"
+    },
+    "code": {
+      "id": "MMR017001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.77924",
+      "lon": "94.73303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရွှေသောင်ယံ",
+      "en": "Shwethaungyan",
+      "slug": "shwethaungyan-MMR017001702"
+    },
+    "code": {
+      "id": "MMR017001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.07674",
+      "lon": "94.46133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သာပေါင်း",
+      "en": "Thabaung",
+      "slug": "thabaung-MMR017003701"
+    },
+    "code": {
+      "id": "MMR017003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.04734",
+      "lon": "94.80589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရေကြည်",
+      "en": "Yegyi",
+      "slug": "yegyi-MMR017006701"
+    },
+    "code": {
+      "id": "MMR017006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017D001",
+      "level": 2,
+      "name": {
+        "local": "ပုသိမ်ခရိုင်",
+        "en": "Pathein",
+        "slug": "pathein-MMR017D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.34456",
+      "lon": "95.12067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

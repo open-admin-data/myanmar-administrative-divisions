@@ -1,0 +1,132 @@
+[
+  {
+    "id": "0365001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0365001"
+    },
+    "code": {
+      "id": "0365001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004005702",
+      "level": 3,
+      "name": {
+        "local": "ကျီခါး",
+        "en": "Cikha",
+        "slug": "cikha-MMR004005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004005702",
+        "level": 3,
+        "name": {
+          "local": "ကျီခါး",
+          "en": "Cikha",
+          "slug": "cikha-MMR004005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0365001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0365002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0365002"
+    },
+    "code": {
+      "id": "0365002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004005702",
+      "level": 3,
+      "name": {
+        "local": "ကျီခါး",
+        "en": "Cikha",
+        "slug": "cikha-MMR004005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D001",
+        "level": 2,
+        "name": {
+          "local": "ဖလမ်းခရိုင်",
+          "en": "Falam",
+          "slug": "falam-MMR004D001"
+        }
+      },
+      {
+        "id": "MMR004005702",
+        "level": 3,
+        "name": {
+          "local": "ကျီခါး",
+          "en": "Cikha",
+          "slug": "cikha-MMR004005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0365002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

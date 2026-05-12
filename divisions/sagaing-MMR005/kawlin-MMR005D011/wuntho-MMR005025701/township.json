@@ -1,0 +1,56 @@
+{
+  "id": "MMR005025701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဝန်းသို",
+    "en": "Wuntho",
+    "slug": "wuntho-MMR005025701"
+  },
+  "code": {
+    "id": "MMR005025701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D011",
+    "level": 2,
+    "name": {
+      "local": "ကောလင်းခရိုင်",
+      "en": "Kawlin",
+      "slug": "kawlin-MMR005D011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D011",
+      "level": 2,
+      "name": {
+        "local": "ကောလင်းခရိုင်",
+        "en": "Kawlin",
+        "slug": "kawlin-MMR005D011"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.89924",
+    "lon": "95.68193"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "MMR005D008",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ခန္တီးခရိုင်",
+    "en": "Hkamti",
+    "slug": "hkamti-MMR005D008"
+  },
+  "code": {
+    "id": "MMR005D008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005",
+    "level": 1,
+    "name": {
+      "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 3,
+    "ward": 122
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "25.1801",
+    "lon": "95.1126"
+  },
+  "metadata": {},
+  "source": {}
+}

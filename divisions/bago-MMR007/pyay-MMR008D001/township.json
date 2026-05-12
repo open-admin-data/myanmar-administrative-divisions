@@ -1,0 +1,618 @@
+[
+  {
+    "id": "MMR008005703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "အင်းမ",
+      "en": "Inn Ma",
+      "slug": "inn-ma-MMR008005703"
+    },
+    "code": {
+      "id": "MMR008005703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.52806",
+      "lon": "95.34904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008003702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဥရှစ်ပင်",
+      "en": "Oakshitpin",
+      "slug": "oakshitpin-MMR008003702"
+    },
+    "code": {
+      "id": "MMR008003702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.68519",
+      "lon": "95.01383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008003701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပန်းတောင်း",
+      "en": "Padaung",
+      "slug": "padaung-MMR008003701"
+    },
+    "code": {
+      "id": "MMR008003701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.71797",
+      "lon": "95.15353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008002701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါက်ခေါင်း",
+      "en": "Paukkhaung",
+      "slug": "paukkhaung-MMR008002701"
+    },
+    "code": {
+      "id": "MMR008002701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.9028",
+      "lon": "95.54819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008001702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါင်းတလည်",
+      "en": "Paungdale",
+      "slug": "paungdale-MMR008001702"
+    },
+    "code": {
+      "id": "MMR008001702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.84968",
+      "lon": "95.38459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008004701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပေါင်းတည်",
+      "en": "Paungde",
+      "slug": "paungde-MMR008004701"
+    },
+    "code": {
+      "id": "MMR008004701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.48947",
+      "lon": "95.50721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008005702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပုတီးကုန်း",
+      "en": "Puteekone",
+      "slug": "puteekone-MMR008005702"
+    },
+    "code": {
+      "id": "MMR008005702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.57236",
+      "lon": "95.45645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008001701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပြည်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008001701"
+    },
+    "code": {
+      "id": "MMR008001701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 66
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.82151",
+      "lon": "95.22103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ရွှေတောင်",
+      "en": "Shwedaung",
+      "slug": "shwedaung-MMR008006701"
+    },
+    "code": {
+      "id": "MMR008006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.7051",
+      "lon": "95.21404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008005704",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆင်မြီးဆွဲ",
+      "en": "Sin Mee Swea",
+      "slug": "sin-mee-swea-MMR008005704"
+    },
+    "code": {
+      "id": "MMR008005704",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.7369",
+      "lon": "95.3594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "သဲကုန်း",
+      "en": "Thegon",
+      "slug": "thegon-MMR008005701"
+    },
+    "code": {
+      "id": "MMR008005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.64698",
+      "lon": "95.41721"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

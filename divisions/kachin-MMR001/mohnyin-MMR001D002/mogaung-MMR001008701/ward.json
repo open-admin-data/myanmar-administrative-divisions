@@ -1,0 +1,3317 @@
+[
+  {
+    "id": "0110003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ် ရပ်ကွက်",
+      "en": "Ah Le Quarter",
+      "slug": "ah-le-quarter-0110003"
+    },
+    "code": {
+      "id": "0110003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ ရပ်ကွက်",
+      "en": "Ah Shey Quarter",
+      "slug": "ah-shey-quarter-0110004"
+    },
+    "code": {
+      "id": "0110004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်သာ ကျေးရွာအုပ်စု",
+      "en": "Aung Thar Village Tract",
+      "slug": "aung-thar-village-tract-0110213"
+    },
+    "code": {
+      "id": "0110213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထိုပူး ကျေးရွာအုပ်စု",
+      "en": "Hto Pu Village Tract",
+      "slug": "hto-pu-village-tract-0110215"
+    },
+    "code": {
+      "id": "0110215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထုံးရေပေါက် ကျေးရွာအုပ်စု",
+      "en": "Htone Yae Pauk Village Tract",
+      "slug": "htone-yae-pauk-village-tract-0110227"
+    },
+    "code": {
+      "id": "0110227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်ကြင်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "In Gyin Kone Village Tract",
+      "slug": "in-gyin-kone-village-tract-0110224"
+    },
+    "code": {
+      "id": "0110224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းဘောင်း ကျေးရွာအုပ်စု",
+      "en": "Inn Baung Village Tract",
+      "slug": "inn-baung-village-tract-0110216"
+    },
+    "code": {
+      "id": "0110216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညင်မြိုင် ကျေးရွာအုပ်စု",
+      "en": "Ka Nyin Myine Village Tract",
+      "slug": "ka-nyin-myine-village-tract-0110240"
+    },
+    "code": {
+      "id": "0110240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဝါးယံ ကျေးရွာအုပ်စု",
+      "en": "Ka War Yang Village Tract",
+      "slug": "ka-war-yang-village-tract-0110218"
+    },
+    "code": {
+      "id": "0110218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကံလှ ကျေးရွာအုပ်စု",
+      "en": "Kan Hla Village Tract",
+      "slug": "kan-hla-village-tract-0110232"
+    },
+    "code": {
+      "id": "0110232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းတန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Kone Tan Gyi Village Tract",
+      "slug": "kone-tan-gyi-village-tract-0110226"
+    },
+    "code": {
+      "id": "0110226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာအင်း ကျေးရွာအုပ်စု",
+      "en": "Kyar Inn Village Tract",
+      "slug": "kyar-inn-village-tract-0110203"
+    },
+    "code": {
+      "id": "0110203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းပင်သာ ကျေးရွာအုပ်စု",
+      "en": "Kyun Pin Thar Village Tract",
+      "slug": "kyun-pin-thar-village-tract-0110204"
+    },
+    "code": {
+      "id": "0110204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျွန်းတော ရပ်ကွက်",
+      "en": "Kyun Taw Quarter",
+      "slug": "kyun-taw-quarter-0110010"
+    },
+    "code": {
+      "id": "0110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လမ်းခွ ကျေးရွာအုပ်စု",
+      "en": "Lan Gwa Village Tract",
+      "slug": "lan-gwa-village-tract-0110235"
+    },
+    "code": {
+      "id": "0110235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်လီယံ ကျေးရွာအုပ်စု",
+      "en": "Loi Li Yang Village Tract",
+      "slug": "loi-li-yang-village-tract-0110206"
+    },
+    "code": {
+      "id": "0110206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွဲလော ကျေးရွာအုပ်စု",
+      "en": "Lwe Law Village Tract",
+      "slug": "lwe-law-village-tract-0110211"
+    },
+    "code": {
+      "id": "0110211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်း ကျေးရွာအုပ်စု",
+      "en": "Ma Ram Village Tract",
+      "slug": "ma-ram-village-tract-0110238"
+    },
+    "code": {
+      "id": "0110238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ရွက် ကျေးရွာအုပ်စု",
+      "en": "Man Ywet Village Tract",
+      "slug": "man-ywet-village-tract-0110207"
+    },
+    "code": {
+      "id": "0110207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မုတ်နောင် ကျေးရွာအုပ်စု",
+      "en": "Moke Nawng Village Tract",
+      "slug": "moke-nawng-village-tract-0110212"
+    },
+    "code": {
+      "id": "0110212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြဒေါင် ကျေးရွာအုပ်စု",
+      "en": "Mya Daung Village Tract",
+      "slug": "mya-daung-village-tract-0110231"
+    },
+    "code": {
+      "id": "0110231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့သစ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Myo Thit Gyi Village Tract",
+      "slug": "myo-thit-gyi-village-tract-0110234"
+    },
+    "code": {
+      "id": "0110234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဦး ရပ်ကွက်",
+      "en": "Myo U Quarter",
+      "slug": "myo-u-quarter-0110009"
+    },
+    "code": {
+      "id": "0110009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်ဟိုင် ကျေးရွာအုပ်စု",
+      "en": "Nam Hai Village Tract",
+      "slug": "nam-hai-village-tract-0110210"
+    },
+    "code": {
+      "id": "0110210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ်းခမ်း ကျေးရွာအုပ်စု",
+      "en": "Nam Hkam Village Tract",
+      "slug": "nam-hkam-village-tract-0110237"
+    },
+    "code": {
+      "id": "0110237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်ခွင် ကျေးရွာအုပ်စု",
+      "en": "Nam Khwin Village Tract",
+      "slug": "nam-khwin-village-tract-0110228"
+    },
+    "code": {
+      "id": "0110228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ္မန ကျေးရွာအုပ်စု",
+      "en": "Nam Ma Na Village Tract",
+      "slug": "nam-ma-na-village-tract-0110220"
+    },
+    "code": {
+      "id": "0110220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ္မတီး ကျေးရွာအုပ်စု",
+      "en": "Nam Ma Tee Village Tract",
+      "slug": "nam-ma-tee-village-tract-0110229"
+    },
+    "code": {
+      "id": "0110229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နန့်ရင်း ရပ်ကွက်",
+      "en": "Nam Yin Ward Quarter",
+      "slug": "nam-yin-ward-quarter-0110001"
+    },
+    "code": {
+      "id": "0110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နတ်ကြီးကုန်း ရပ်ကွက်",
+      "en": "Nat Gyi Kone Quarter",
+      "slug": "nat-gyi-kone-quarter-0110006"
+    },
+    "code": {
+      "id": "0110006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကိုင်ထော် ကျေးရွာအုပ်စု",
+      "en": "Nawng Kaing Htaw Village Tract",
+      "slug": "nawng-kaing-htaw-village-tract-0110201"
+    },
+    "code": {
+      "id": "0110201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ကိုင်တော် ရပ်ကွက်",
+      "en": "Nawng Kaing Taw Quarter",
+      "slug": "nawng-kaing-taw-quarter-0110008"
+    },
+    "code": {
+      "id": "0110008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ကုန်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Kone Village Tract",
+      "slug": "nyaung-kone-village-tract-0110208"
+    },
+    "code": {
+      "id": "0110208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်တော ကျေးရွာအုပ်စု",
+      "en": "Nyaung Taw Village Tract",
+      "slug": "nyaung-taw-village-tract-0110236"
+    },
+    "code": {
+      "id": "0110236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုတ်ကျင်း ကျေးရွာအုပ်စု",
+      "en": "Oak Kyin Village Tract",
+      "slug": "oak-kyin-village-tract-0110239"
+    },
+    "code": {
+      "id": "0110239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုးတန်း ရပ်ကွက်",
+      "en": "Oe Tan Quarter",
+      "slug": "oe-tan-quarter-0110002"
+    },
+    "code": {
+      "id": "0110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အုန်းဘောင် ကျေးရွာအုပ်စု",
+      "en": "Ohn Baung Village Tract",
+      "slug": "ohn-baung-village-tract-0110222"
+    },
+    "code": {
+      "id": "0110222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်းဘော ကျေးရွာအုပ်စု",
+      "en": "Pin Baw Village Tract",
+      "slug": "pin-baw-village-tract-0110225"
+    },
+    "code": {
+      "id": "0110225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင်းခါး ကျေးရွာအုပ်စု",
+      "en": "Pin Hkar Village Tract",
+      "slug": "pin-hkar-village-tract-0110202"
+    },
+    "code": {
+      "id": "0110202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပင့်သာ ကျေးရွာအုပ်စု",
+      "en": "Pint Thar Village Tract",
+      "slug": "pint-thar-village-tract-0110221"
+    },
+    "code": {
+      "id": "0110221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားမှော် ကျေးရွာအုပ်စု",
+      "en": "Sar Hmaw Village Tract",
+      "slug": "sar-hmaw-village-tract-0110217"
+    },
+    "code": {
+      "id": "0110217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆောင်းခါ ကျေးရွာအုပ်စု",
+      "en": "Saung Hkar Village Tract",
+      "slug": "saung-hkar-village-tract-0110209"
+    },
+    "code": {
+      "id": "0110209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆီးဒင်ယံ ကျေးရွာအုပ်စု",
+      "en": "See Din Yang Village Tract",
+      "slug": "see-din-yang-village-tract-0110233"
+    },
+    "code": {
+      "id": "0110233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေအင်း ကျေးရွာအုပ်စု",
+      "en": "Shwe Inn Village Tract",
+      "slug": "shwe-inn-village-tract-0110214"
+    },
+    "code": {
+      "id": "0110214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်နီ ကျေးရွာအုပ်စု",
+      "en": "Taung Ni Village Tract",
+      "slug": "taung-ni-village-tract-0110219"
+    },
+    "code": {
+      "id": "0110219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိုက်ဝါးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thaik War Kone Village Tract",
+      "slug": "thaik-war-kone-village-tract-0110223"
+    },
+    "code": {
+      "id": "0110223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သူဌေးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thu Htay Kone Village Tract",
+      "slug": "thu-htay-kone-village-tract-0110230"
+    },
+    "code": {
+      "id": "0110230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေရှင် ကျေးရွာအုပ်စု",
+      "en": "Yae Shin Village Tract",
+      "slug": "yae-shin-village-tract-0110205"
+    },
+    "code": {
+      "id": "0110205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-0110007"
+    },
+    "code": {
+      "id": "0110007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ကျေးရွာအုပ်စု",
+      "en": "Ywar Thit Village Tract",
+      "slug": "ywar-thit-village-tract-0110200"
+    },
+    "code": {
+      "id": "0110200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0110005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးကုန်း ရပ်ကွက်",
+      "en": "Zay Kone Quarter",
+      "slug": "zay-kone-quarter-0110005"
+    },
+    "code": {
+      "id": "0110005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001008701",
+      "level": 3,
+      "name": {
+        "local": "မိုးကောင်း",
+        "en": "Mogaung",
+        "slug": "mogaung-MMR001008701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001008701",
+        "level": 3,
+        "name": {
+          "local": "မိုးကောင်း",
+          "en": "Mogaung",
+          "slug": "mogaung-MMR001008701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0110005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

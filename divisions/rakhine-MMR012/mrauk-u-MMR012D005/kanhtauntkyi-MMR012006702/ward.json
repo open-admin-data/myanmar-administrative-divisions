@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0763001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-0763001"
+    },
+    "code": {
+      "id": "0763001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012006702",
+      "level": 3,
+      "name": {
+        "local": "ကမ်းထောင့်ကြီး",
+        "en": "Kanhtauntkyi",
+        "slug": "kanhtauntkyi-MMR012006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      },
+      {
+        "id": "MMR012006702",
+        "level": 3,
+        "name": {
+          "local": "ကမ်းထောင့်ကြီး",
+          "en": "Kanhtauntkyi",
+          "slug": "kanhtauntkyi-MMR012006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0763001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0763003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-0763003"
+    },
+    "code": {
+      "id": "0763003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012006702",
+      "level": 3,
+      "name": {
+        "local": "ကမ်းထောင့်ကြီး",
+        "en": "Kanhtauntkyi",
+        "slug": "kanhtauntkyi-MMR012006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      },
+      {
+        "id": "MMR012006702",
+        "level": 3,
+        "name": {
+          "local": "ကမ်းထောင့်ကြီး",
+          "en": "Kanhtauntkyi",
+          "slug": "kanhtauntkyi-MMR012006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0763003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0763002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-0763002"
+    },
+    "code": {
+      "id": "0763002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012006702",
+      "level": 3,
+      "name": {
+        "local": "ကမ်းထောင့်ကြီး",
+        "en": "Kanhtauntkyi",
+        "slug": "kanhtauntkyi-MMR012006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      },
+      {
+        "id": "MMR012006702",
+        "level": 3,
+        "name": {
+          "local": "ကမ်းထောင့်ကြီး",
+          "en": "Kanhtauntkyi",
+          "slug": "kanhtauntkyi-MMR012006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0763002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0763004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသာယာ ရပ်ကွက်",
+      "en": "Ywar Thar Yar Quarter",
+      "slug": "ywar-thar-yar-quarter-0763004"
+    },
+    "code": {
+      "id": "0763004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012006702",
+      "level": 3,
+      "name": {
+        "local": "ကမ်းထောင့်ကြီး",
+        "en": "Kanhtauntkyi",
+        "slug": "kanhtauntkyi-MMR012006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      },
+      {
+        "id": "MMR012006702",
+        "level": 3,
+        "name": {
+          "local": "ကမ်းထောင့်ကြီး",
+          "en": "Kanhtauntkyi",
+          "slug": "kanhtauntkyi-MMR012006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0763004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0763005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ် ရပ်ကွက်",
+      "en": "Ywar Thit Quarter",
+      "slug": "ywar-thit-quarter-0763005"
+    },
+    "code": {
+      "id": "0763005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012006702",
+      "level": 3,
+      "name": {
+        "local": "ကမ်းထောင့်ကြီး",
+        "en": "Kanhtauntkyi",
+        "slug": "kanhtauntkyi-MMR012006702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      },
+      {
+        "id": "MMR012D005",
+        "level": 2,
+        "name": {
+          "local": "မြောက်ဦးခရိုင်",
+          "en": "Mrauk-U",
+          "slug": "mrauk-u-MMR012D005"
+        }
+      },
+      {
+        "id": "MMR012006702",
+        "level": 3,
+        "name": {
+          "local": "ကမ်းထောင့်ကြီး",
+          "en": "Kanhtauntkyi",
+          "slug": "kanhtauntkyi-MMR012006702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0763005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

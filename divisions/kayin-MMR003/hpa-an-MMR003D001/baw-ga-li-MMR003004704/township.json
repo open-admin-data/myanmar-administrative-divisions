@@ -1,0 +1,56 @@
+{
+  "id": "MMR003004704",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဘောဂလိ",
+    "en": "Baw Ga Li",
+    "slug": "baw-ga-li-MMR003004704"
+  },
+  "code": {
+    "id": "MMR003004704",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR003D001",
+    "level": 2,
+    "name": {
+      "local": "ဘားအံခရိုင်",
+      "en": "Hpa-An",
+      "slug": "hpa-an-MMR003D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    {
+      "id": "MMR003D001",
+      "level": 2,
+      "name": {
+        "local": "ဘားအံခရိုင်",
+        "en": "Hpa-An",
+        "slug": "hpa-an-MMR003D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.91451",
+    "lon": "96.78565"
+  },
+  "metadata": {},
+  "source": {}
+}

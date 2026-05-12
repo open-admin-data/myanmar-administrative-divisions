@@ -1,0 +1,226 @@
+[
+  {
+    "id": "MMR015022702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ချင်းရွှေဟော်",
+      "en": "Chinshwehaw",
+      "slug": "chinshwehaw-MMR015022702"
+    },
+    "code": {
+      "id": "MMR015022702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D005",
+      "level": 2,
+      "name": {
+        "local": "လောက်ကိုင်ခရိုင်",
+        "en": "Laukkaing",
+        "slug": "laukkaing-MMR015D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D005",
+        "level": 2,
+        "name": {
+          "local": "လောက်ကိုင်ခရိုင်",
+          "en": "Laukkaing",
+          "slug": "laukkaing-MMR015D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.47557",
+      "lon": "98.82419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015023701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကုန်းကြမ်း",
+      "en": "Konkyan",
+      "slug": "konkyan-MMR015023701"
+    },
+    "code": {
+      "id": "MMR015023701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D005",
+      "level": 2,
+      "name": {
+        "local": "လောက်ကိုင်ခရိုင်",
+        "en": "Laukkaing",
+        "slug": "laukkaing-MMR015D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D005",
+        "level": 2,
+        "name": {
+          "local": "လောက်ကိုင်ခရိုင်",
+          "en": "Laukkaing",
+          "slug": "laukkaing-MMR015D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.82946",
+      "lon": "98.53934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015022701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "လောက်ကိုင်",
+      "en": "Laukkaing",
+      "slug": "laukkaing-MMR015022701"
+    },
+    "code": {
+      "id": "MMR015022701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D005",
+      "level": 2,
+      "name": {
+        "local": "လောက်ကိုင်ခရိုင်",
+        "en": "Laukkaing",
+        "slug": "laukkaing-MMR015D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D005",
+        "level": 2,
+        "name": {
+          "local": "လောက်ကိုင်ခရိုင်",
+          "en": "Laukkaing",
+          "slug": "laukkaing-MMR015D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.69163",
+      "lon": "98.76408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015023702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "Maw Hteik",
+      "en": "Maw Hteik",
+      "slug": "maw-hteik-MMR015023702"
+    },
+    "code": {
+      "id": "MMR015023702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015D005",
+      "level": 2,
+      "name": {
+        "local": "လောက်ကိုင်ခရိုင်",
+        "en": "Laukkaing",
+        "slug": "laukkaing-MMR015D005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D005",
+        "level": 2,
+        "name": {
+          "local": "လောက်ကိုင်ခရိုင်",
+          "en": "Laukkaing",
+          "slug": "laukkaing-MMR015D005"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.09412",
+      "lon": "98.79679"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

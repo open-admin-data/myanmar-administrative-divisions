@@ -1,0 +1,56 @@
+{
+  "id": "MMR010013701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျောက်ဆည်",
+    "en": "Kyaukse",
+    "slug": "kyaukse-MMR010013701"
+  },
+  "code": {
+    "id": "MMR010013701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR010D003",
+    "level": 2,
+    "name": {
+      "local": "ကျောက်ဆည်ခရိုင်",
+      "en": "Kyaukse",
+      "slug": "kyaukse-MMR010D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    {
+      "id": "MMR010D003",
+      "level": 2,
+      "name": {
+        "local": "ကျောက်ဆည်ခရိုင်",
+        "en": "Kyaukse",
+        "slug": "kyaukse-MMR010D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 97
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "21.61325",
+    "lon": "96.13033"
+  },
+  "metadata": {},
+  "source": {}
+}

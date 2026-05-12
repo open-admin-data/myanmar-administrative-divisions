@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1072001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1072001"
+    },
+    "code": {
+      "id": "1072001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017005702",
+      "level": 3,
+      "name": {
+        "local": "အထောင်",
+        "en": "Ahtaung",
+        "slug": "ahtaung-MMR017005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017005702",
+        "level": 3,
+        "name": {
+          "local": "အထောင်",
+          "en": "Ahtaung",
+          "slug": "ahtaung-MMR017005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1072001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1072002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1072002"
+    },
+    "code": {
+      "id": "1072002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017005702",
+      "level": 3,
+      "name": {
+        "local": "အထောင်",
+        "en": "Ahtaung",
+        "slug": "ahtaung-MMR017005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017005702",
+        "level": 3,
+        "name": {
+          "local": "အထောင်",
+          "en": "Ahtaung",
+          "slug": "ahtaung-MMR017005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1072002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1072003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1072003"
+    },
+    "code": {
+      "id": "1072003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017005702",
+      "level": 3,
+      "name": {
+        "local": "အထောင်",
+        "en": "Ahtaung",
+        "slug": "ahtaung-MMR017005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017005702",
+        "level": 3,
+        "name": {
+          "local": "အထောင်",
+          "en": "Ahtaung",
+          "slug": "ahtaung-MMR017005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1072003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1072004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1072004"
+    },
+    "code": {
+      "id": "1072004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017005702",
+      "level": 3,
+      "name": {
+        "local": "အထောင်",
+        "en": "Ahtaung",
+        "slug": "ahtaung-MMR017005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017005702",
+        "level": 3,
+        "name": {
+          "local": "အထောင်",
+          "en": "Ahtaung",
+          "slug": "ahtaung-MMR017005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1072004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

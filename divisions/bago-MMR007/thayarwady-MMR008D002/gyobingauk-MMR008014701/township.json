@@ -1,0 +1,56 @@
+{
+  "id": "MMR008014701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကြို့ပင်ကောက်",
+    "en": "Gyobingauk",
+    "slug": "gyobingauk-MMR008014701"
+  },
+  "code": {
+    "id": "MMR008014701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D002",
+    "level": 2,
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.22989",
+    "lon": "95.65259"
+  },
+  "metadata": {},
+  "source": {}
+}

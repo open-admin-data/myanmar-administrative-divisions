@@ -1,0 +1,4357 @@
+[
+  {
+    "id": "0306256",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အိုက်တား ကျေးရွာအုပ်စု",
+      "en": "Aiktar Village Tract",
+      "slug": "aiktar-village-tract-0306256"
+    },
+    "code": {
+      "id": "0306256",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306256"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အွမ်ဆွေး ကျေးရွာအုပ်စု",
+      "en": "Amsoi Village Tract",
+      "slug": "amsoi-village-tract-0306218"
+    },
+    "code": {
+      "id": "0306218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အန်ထော ကျေးရွာအုပ်စု",
+      "en": "Angthaw Village Tract",
+      "slug": "angthaw-village-tract-0306206"
+    },
+    "code": {
+      "id": "0306206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်လား ကျေးရွာအုပ်စု",
+      "en": "Awkla Village Tract",
+      "slug": "awkla-village-tract-0306211"
+    },
+    "code": {
+      "id": "0306211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘလေး ကျေးရွာအုပ်စု",
+      "en": "Balei Village Tract",
+      "slug": "balei-village-tract-0306242"
+    },
+    "code": {
+      "id": "0306242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306253",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စာလ်ထောင် ကျေးရွာအုပ်စု",
+      "en": "Calthawng Village Tract",
+      "slug": "calthawng-village-tract-0306253"
+    },
+    "code": {
+      "id": "0306253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306253"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စိန်ဘောင် ရပ်ကွက်",
+      "en": "Cangbong Quarter",
+      "slug": "cangbong-quarter-0306001"
+    },
+    "code": {
+      "id": "0306001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စန်းစက် ကျေးရွာအုပ်စု",
+      "en": "Cangceh Village Tract",
+      "slug": "cangceh-village-tract-0306247"
+    },
+    "code": {
+      "id": "0306247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စန်တပ် ကျေးရွာအုပ်စု",
+      "en": "Cangtak Village Tract",
+      "slug": "cangtak-village-tract-0306221"
+    },
+    "code": {
+      "id": "0306221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စောင်ထီယား ကျေးရွာအုပ်စု",
+      "en": "Congthia Village Tract",
+      "slug": "congthia-village-tract-0306205"
+    },
+    "code": {
+      "id": "0306205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိုင်နှမ်း ကျေးရွာအုပ်စု",
+      "en": "Dai Hnan Village Tract",
+      "slug": "dai-hnan-village-tract-0306208"
+    },
+    "code": {
+      "id": "0306208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒိုင်ဒင်း ကျေးရွာအုပ်စု",
+      "en": "Daidin Village Tract",
+      "slug": "daidin-village-tract-0306248"
+    },
+    "code": {
+      "id": "0306248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဒါရ်လင်း ကျေးရွာအုပ်စု",
+      "en": "Darling Village Tract",
+      "slug": "darling-village-tract-0306230"
+    },
+    "code": {
+      "id": "0306230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306259",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧတန်း ကျေးရွာအုပ်စု",
+      "en": "E-tang Village Tract",
+      "slug": "e-tang-village-tract-0306259"
+    },
+    "code": {
+      "id": "0306259",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306259"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟာတူး ကျေးရွာအုပ်စု",
+      "en": "Haltu Village Tract",
+      "slug": "haltu-village-tract-0306216"
+    },
+    "code": {
+      "id": "0306216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306258",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟရင်းထန်း ကျေးရွာအုပ်စု",
+      "en": "Hinthang Village Tract",
+      "slug": "hinthang-village-tract-0306258"
+    },
+    "code": {
+      "id": "0306258",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306258"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306249",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟရင်းပီ ကျေးရွာအုပ်စု",
+      "en": "Hriangpi Village Tract",
+      "slug": "hriangpi-village-tract-0306249"
+    },
+    "code": {
+      "id": "0306249",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306249"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306261",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟုန်းလေး ကျေးရွာအုပ်စု",
+      "en": "Hunglei Village Tract",
+      "slug": "hunglei-village-tract-0306261"
+    },
+    "code": {
+      "id": "0306261",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306261"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကစဲ ကျေးရွာအုပ်စု",
+      "en": "Kace Village Tract",
+      "slug": "kace-village-tract-0306204"
+    },
+    "code": {
+      "id": "0306204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခွာဘွေး ရပ်ကွက်",
+      "en": "Khoboi Quarter",
+      "slug": "khoboi-quarter-0306002"
+    },
+    "code": {
+      "id": "0306002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်လင်းတယ် ကျေးရွာအုပ်စု",
+      "en": "Lailengte Village Tract",
+      "slug": "lailengte-village-tract-0306236"
+    },
+    "code": {
+      "id": "0306236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုင်လင်းပီ ကျေးရွာအုပ်စု",
+      "en": "Lalengpi Village Tract",
+      "slug": "lalengpi-village-tract-0306234"
+    },
+    "code": {
+      "id": "0306234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လာလွီး ကျေးရွာအုပ်စု",
+      "en": "Lalui Village Tract",
+      "slug": "lalui-village-tract-0306207"
+    },
+    "code": {
+      "id": "0306207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306251",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေကန်း ကျေးရွာအုပ်စု",
+      "en": "Leikan Village Tract",
+      "slug": "leikan-village-tract-0306251"
+    },
+    "code": {
+      "id": "0306251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306251"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေရိန်း ကျေးရွာအုပ်စု",
+      "en": "Leiring Village Tract",
+      "slug": "leiring-village-tract-0306210"
+    },
+    "code": {
+      "id": "0306210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေဆင်း ကျေးရွာအုပ်စု",
+      "en": "Leising Village Tract",
+      "slug": "leising-village-tract-0306209"
+    },
+    "code": {
+      "id": "0306209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိန်တွီ ကျေးရွာအုပ်စု",
+      "en": "Lingtui Village Tract",
+      "slug": "lingtui-village-tract-0306223"
+    },
+    "code": {
+      "id": "0306223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လိုတော ကျေးရွာအုပ်စု",
+      "en": "Lotaw Village Tract",
+      "slug": "lotaw-village-tract-0306239"
+    },
+    "code": {
+      "id": "0306239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွီဗန်း ကျေးရွာအုပ်စု",
+      "en": "Luivang Village Tract",
+      "slug": "luivang-village-tract-0306200"
+    },
+    "code": {
+      "id": "0306200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံဒေါ ကျေးရွာအုပ်စု",
+      "en": "Lungdua Village Tract",
+      "slug": "lungdua-village-tract-0306245"
+    },
+    "code": {
+      "id": "0306245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံငိုး ကျေးရွာအုပ်စု",
+      "en": "Lungngo Village Tract",
+      "slug": "lungngo-village-tract-0306243"
+    },
+    "code": {
+      "id": "0306243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံပန်း ကျေးရွာအုပ်စု",
+      "en": "Lungpang Village Tract",
+      "slug": "lungpang-village-tract-0306222"
+    },
+    "code": {
+      "id": "0306222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လောင်ဗန်း ရပ်ကွက်",
+      "en": "Lungvan Quarter",
+      "slug": "lungvan-quarter-0306003"
+    },
+    "code": {
+      "id": "0306003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မားဒူး ကျေးရွာအုပ်စု",
+      "en": "Madu Village Tract",
+      "slug": "madu-village-tract-0306227"
+    },
+    "code": {
+      "id": "0306227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နာဘုန်း ကျေးရွာအုပ်စု",
+      "en": "Nabung Village Tract",
+      "slug": "nabung-village-tract-0306246"
+    },
+    "code": {
+      "id": "0306246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငလား ရပ်ကွက်",
+      "en": "Ngalar Quarter",
+      "slug": "ngalar-quarter-0306004"
+    },
+    "code": {
+      "id": "0306004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ငလိုင် ကျေးရွာအုပ်စု",
+      "en": "Ngaleng Village Tract",
+      "slug": "ngaleng-village-tract-0306203"
+    },
+    "code": {
+      "id": "0306203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နှော်ထယ် ကျေးရွာအုပ်စု",
+      "en": "Nhawte Village Tract",
+      "slug": "nhawte-village-tract-0306212"
+    },
+    "code": {
+      "id": "0306212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်တွီ ကျေးရွာအုပ်စု",
+      "en": "Pangtui Village Tract",
+      "slug": "pangtui-village-tract-0306226"
+    },
+    "code": {
+      "id": "0306226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖနိုင် ကျေးရွာအုပ်စု",
+      "en": "Phaneng Village Tract",
+      "slug": "phaneng-village-tract-0306213"
+    },
+    "code": {
+      "id": "0306213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရာဒွီး ကျေးရွာအုပ်စု",
+      "en": "Radui Village Tract",
+      "slug": "radui-village-tract-0306202"
+    },
+    "code": {
+      "id": "0306202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရမ်တိန်း ကျေးရွာအုပ်စု",
+      "en": "Ramting Village Tract",
+      "slug": "ramting-village-tract-0306215"
+    },
+    "code": {
+      "id": "0306215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရောက်ထန်း ကျေးရွာအုပ်စု",
+      "en": "Raukthang Village Tract",
+      "slug": "raukthang-village-tract-0306224"
+    },
+    "code": {
+      "id": "0306224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေဆော ကျေးရွာအုပ်စု",
+      "en": "Resaw Village Tract",
+      "slug": "resaw-village-tract-0306244"
+    },
+    "code": {
+      "id": "0306244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306252",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွားဗား ကျေးရွာအုပ်စု",
+      "en": "Ruava Village Tract",
+      "slug": "ruava-village-tract-0306252"
+    },
+    "code": {
+      "id": "0306252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306252"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရုန်း ကျေးရွာအုပ်စု",
+      "en": "Rung Village Tract",
+      "slug": "rung-village-tract-0306225"
+    },
+    "code": {
+      "id": "0306225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆဘောင်းထယ် ကျေးရွာအုပ်စု",
+      "en": "Sabaungte Village Tract",
+      "slug": "sabaungte-village-tract-0306229"
+    },
+    "code": {
+      "id": "0306229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆဘောင်းပီ ကျေးရွာအုပ်စု",
+      "en": "Sabongpi Village Tract",
+      "slug": "sabongpi-village-tract-0306231"
+    },
+    "code": {
+      "id": "0306231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခိုင်း ကျေးရွာအုပ်စု",
+      "en": "Sakhai Village Tract",
+      "slug": "sakhai-village-tract-0306237"
+    },
+    "code": {
+      "id": "0306237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စပေါ် ကျေးရွာအုပ်စု",
+      "en": "Sapaw Village Tract",
+      "slug": "sapaw-village-tract-0306232"
+    },
+    "code": {
+      "id": "0306232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306250",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆာတဲ ကျေးရွာအုပ်စု",
+      "en": "Sate Village Tract",
+      "slug": "sate-village-tract-0306250"
+    },
+    "code": {
+      "id": "0306250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306250"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆတူး ကျေးရွာအုပ်စု",
+      "en": "Satu Village Tract",
+      "slug": "satu-village-tract-0306238"
+    },
+    "code": {
+      "id": "0306238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306257",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆော်တီး ကျေးရွာအုပ်စု",
+      "en": "Sawtui Village Tract",
+      "slug": "sawtui-village-tract-0306257"
+    },
+    "code": {
+      "id": "0306257",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306257"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306254",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှာရှိ ကျေးရွာအုပ်စု",
+      "en": "Shar Shi Village Tract",
+      "slug": "shar-shi-village-tract-0306254"
+    },
+    "code": {
+      "id": "0306254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306254"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306255",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှာတလိုင်း ကျေးရွာအုပ်စု",
+      "en": "Shar Ta Lai Village Tract",
+      "slug": "shar-ta-lai-village-tract-0306255"
+    },
+    "code": {
+      "id": "0306255",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306255"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆုံဆင်း ကျေးရွာအုပ်စု",
+      "en": "Sungseng Village Tract",
+      "slug": "sungseng-village-tract-0306235"
+    },
+    "code": {
+      "id": "0306235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တန်ကူ ကျေးရွာအုပ်စု",
+      "en": "Tangku Village Tract",
+      "slug": "tangku-village-tract-0306201"
+    },
+    "code": {
+      "id": "0306201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306262",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ထောင်လန်း ကျေးရွာအုပ်စု",
+      "en": "Thawang Village Tract",
+      "slug": "thawang-village-tract-0306262"
+    },
+    "code": {
+      "id": "0306262",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306262"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခြန်းပြန်း ကျေးရွာအုပ်စု",
+      "en": "Thlangpang Village Tract",
+      "slug": "thlangpang-village-tract-0306217"
+    },
+    "code": {
+      "id": "0306217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306260",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီဘိန်း ကျေးရွာအုပ်စု",
+      "en": "Tibing Village Tract",
+      "slug": "tibing-village-tract-0306260"
+    },
+    "code": {
+      "id": "0306260",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306260"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တိန်ဆီး ကျေးရွာအုပ်စု",
+      "en": "Tingsi Village Tract",
+      "slug": "tingsi-village-tract-0306240"
+    },
+    "code": {
+      "id": "0306240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီဆီး ကျေးရွာအုပ်စု",
+      "en": "Tisi Village Tract",
+      "slug": "tisi-village-tract-0306233"
+    },
+    "code": {
+      "id": "0306233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝလံပီ ကျေးရွာအုပ်စု",
+      "en": "Valangpi Village Tract",
+      "slug": "valangpi-village-tract-0306219"
+    },
+    "code": {
+      "id": "0306219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝလန်တယ် ကျေးရွာအုပ်စု",
+      "en": "Valangte Village Tract",
+      "slug": "valangte-village-tract-0306220"
+    },
+    "code": {
+      "id": "0306220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝေါ်တီး ကျေးရွာအုပ်စု",
+      "en": "Vawti Village Tract",
+      "slug": "vawti-village-tract-0306241"
+    },
+    "code": {
+      "id": "0306241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝီးလူ ကျေးရွာအုပ်စု",
+      "en": "Vuilu Village Tract",
+      "slug": "vuilu-village-tract-0306228"
+    },
+    "code": {
+      "id": "0306228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0306214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝေတူ ကျေးရွာအုပ်စု",
+      "en": "Vuitu Village Tract",
+      "slug": "vuitu-village-tract-0306214"
+    },
+    "code": {
+      "id": "0306214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004007701",
+      "level": 3,
+      "name": {
+        "local": "မတူပီ",
+        "en": "Matupi",
+        "slug": "matupi-MMR004007701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      },
+      {
+        "id": "MMR004D004",
+        "level": 2,
+        "name": {
+          "local": "မတူပီခရိုင်",
+          "en": "Matupi",
+          "slug": "matupi-MMR004D004"
+        }
+      },
+      {
+        "id": "MMR004007701",
+        "level": 3,
+        "name": {
+          "local": "မတူပီ",
+          "en": "Matupi",
+          "slug": "matupi-MMR004007701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0306214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

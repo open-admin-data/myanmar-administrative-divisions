@@ -1,0 +1,3698 @@
+[
+  {
+    "id": "MMR001D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြစ်ကြီးနားခရိုင်",
+      "en": "Myitkyina",
+      "slug": "myitkyina-MMR001D001"
+    },
+    "code": {
+      "id": "MMR001D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 11,
+      "ward": 284
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.7127",
+      "lon": "97.5747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိုးညှင်းခရိုင်",
+      "en": "Mohnyin",
+      "slug": "mohnyin-MMR001D002"
+    },
+    "code": {
+      "id": "MMR001D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 9,
+      "ward": 137
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.173",
+      "lon": "96.5496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဗန်းမော်ခရိုင်",
+      "en": "Bhamo",
+      "slug": "bhamo-MMR001D003"
+    },
+    "code": {
+      "id": "MMR001D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 212
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.3035",
+      "lon": "97.2168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR001D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပူတာအိုခရိုင်",
+      "en": "Puta-O",
+      "slug": "puta-o-MMR001D004"
+    },
+    "code": {
+      "id": "MMR001D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001",
+      "level": 1,
+      "name": {
+        "local": "ကချင်ပြည်နယ်",
+        "en": "Kachin",
+        "slug": "kachin-MMR001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 147
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "27.2368",
+      "lon": "97.7713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လွိုင်ကော်ခရိုင်",
+      "en": "Loikaw",
+      "slug": "loikaw-MMR002D001"
+    },
+    "code": {
+      "id": "MMR002D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.6342",
+      "lon": "97.2264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR002D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဘောလခဲခရိုင်",
+      "en": "Bawlake",
+      "slug": "bawlake-MMR002D002"
+    },
+    "code": {
+      "id": "MMR002D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR002",
+      "level": 1,
+      "name": {
+        "local": "ကယားပြည်နယ်",
+        "en": "Kayah",
+        "slug": "kayah-MMR002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR002",
+        "level": 1,
+        "name": {
+          "local": "ကယားပြည်နယ်",
+          "en": "Kayah",
+          "slug": "kayah-MMR002"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.9706",
+      "lon": "97.4553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဘားအံခရိုင်",
+      "en": "Hpa-An",
+      "slug": "hpa-an-MMR003D001"
+    },
+    "code": {
+      "id": "MMR003D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 264
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0856",
+      "lon": "97.2443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြဝတီခရိုင်",
+      "en": "Myawaddy",
+      "slug": "myawaddy-MMR003D002"
+    },
+    "code": {
+      "id": "MMR003D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.379",
+      "lon": "98.6075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကော့ကရိတ်ခရိုင်",
+      "en": "Kawkareik",
+      "slug": "kawkareik-MMR003D003"
+    },
+    "code": {
+      "id": "MMR003D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 131
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.0996",
+      "lon": "98.2355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဖာပွန်ခရိုင်",
+      "en": "Hpapun",
+      "slug": "hpapun-MMR003D004"
+    },
+    "code": {
+      "id": "MMR003D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.705",
+      "lon": "97.5481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဖလမ်းခရိုင်",
+      "en": "Falam",
+      "slug": "falam-MMR004D001"
+    },
+    "code": {
+      "id": "MMR004D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 198
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.3385",
+      "lon": "93.6884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မင်းတပ်ခရိုင်",
+      "en": "Mindat",
+      "slug": "mindat-MMR004D002"
+    },
+    "code": {
+      "id": "MMR004D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.1777",
+      "lon": "93.8658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဟားခါးခရိုင်",
+      "en": "Hakha",
+      "slug": "hakha-MMR004D003"
+    },
+    "code": {
+      "id": "MMR004D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.446",
+      "lon": "93.5257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR004D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မတူပီခရိုင်",
+      "en": "Matupi",
+      "slug": "matupi-MMR004D004"
+    },
+    "code": {
+      "id": "MMR004D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR004",
+        "level": 1,
+        "name": {
+          "local": "ချင်းပြည်နယ်",
+          "en": "Chin",
+          "slug": "chin-MMR004"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 177
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.6429",
+      "lon": "93.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "စစ်ကိုင်းခရိုင်",
+      "en": "Sagaing",
+      "slug": "sagaing-MMR005D001"
+    },
+    "code": {
+      "id": "MMR005D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 216
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.9506",
+      "lon": "95.6789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရွှေဘိုခရိုင်",
+      "en": "Shwebo",
+      "slug": "shwebo-MMR005D002"
+    },
+    "code": {
+      "id": "MMR005D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 414
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.6569",
+      "lon": "95.5519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မုံရွာခရိုင်",
+      "en": "Monywa",
+      "slug": "monywa-MMR005D003"
+    },
+    "code": {
+      "id": "MMR005D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 215
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.1883",
+      "lon": "95.2531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကသာခရိုင်",
+      "en": "Katha",
+      "slug": "katha-MMR005D004"
+    },
+    "code": {
+      "id": "MMR005D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 175
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.2047",
+      "lon": "96.1318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကလေးခရိုင်",
+      "en": "Kale",
+      "slug": "kale-MMR005D005"
+    },
+    "code": {
+      "id": "MMR005D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 163
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.0903",
+      "lon": "94.2748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တမူးခရိုင်",
+      "en": "Tamu",
+      "slug": "tamu-MMR005D006"
+    },
+    "code": {
+      "id": "MMR005D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "24.1689",
+      "lon": "94.3266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D007",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မော်လိုက်ခရိုင်",
+      "en": "Mawlaik",
+      "slug": "mawlaik-MMR005D007"
+    },
+    "code": {
+      "id": "MMR005D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.9514",
+      "lon": "94.6144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D008",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ခန္တီးခရိုင်",
+      "en": "Hkamti",
+      "slug": "hkamti-MMR005D008"
+    },
+    "code": {
+      "id": "MMR005D008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 122
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "25.1801",
+      "lon": "95.1126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D009",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ယင်းမာပင်ခရိုင်",
+      "en": "Yinmarbin",
+      "slug": "yinmarbin-MMR005D009"
+    },
+    "code": {
+      "id": "MMR005D009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 197
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.1046",
+      "lon": "94.9265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D010",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကန့်ဘလူခရိုင်",
+      "en": "Kanbalu",
+      "slug": "kanbalu-MMR005D010"
+    },
+    "code": {
+      "id": "MMR005D010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.1513",
+      "lon": "95.5382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR005D011",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကောလင်းခရိုင်",
+      "en": "Kawlin",
+      "slug": "kawlin-MMR005D011"
+    },
+    "code": {
+      "id": "MMR005D011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR005",
+        "level": 1,
+        "name": {
+          "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+          "en": "Sagaing",
+          "slug": "sagaing-MMR005"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 150
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.9235",
+      "lon": "95.5785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ထားဝယ်ခရိုင်",
+      "en": "Dawei",
+      "slug": "dawei-MMR006D001"
+    },
+    "code": {
+      "id": "MMR006D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 175
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.1591",
+      "lon": "98.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြိတ်ခရိုင်",
+      "en": "Myeik",
+      "slug": "myeik-MMR006D002"
+    },
+    "code": {
+      "id": "MMR006D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5566",
+      "lon": "98.8049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကော့သောင်းခရိုင်",
+      "en": "Kawthoung",
+      "slug": "kawthoung-MMR006D003"
+    },
+    "code": {
+      "id": "MMR006D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.8005",
+      "lon": "98.7391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    },
+    "code": {
+      "id": "MMR007D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 16,
+      "ward": 591
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.6768",
+      "lon": "96.6216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR007D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တောင်ငူခရိုင်",
+      "en": "Taungoo",
+      "slug": "taungoo-MMR007D002"
+    },
+    "code": {
+      "id": "MMR007D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 321
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.8734",
+      "lon": "96.4129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပြည်ခရိုင်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008D001"
+    },
+    "code": {
+      "id": "MMR008D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 11,
+      "ward": 350
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.696",
+      "lon": "95.3295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR008D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    },
+    "code": {
+      "id": "MMR008D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 542
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0407",
+      "lon": "95.6591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မကွေးခရိုင်",
+      "en": "Magway",
+      "slug": "magway-MMR009D001"
+    },
+    "code": {
+      "id": "MMR009D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 406
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.4111",
+      "lon": "95.1076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မင်းဘူးခရိုင်",
+      "en": "Minbu",
+      "slug": "minbu-MMR009D002"
+    },
+    "code": {
+      "id": "MMR009D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 324
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3606",
+      "lon": "94.6255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သရက်ခရိုင်",
+      "en": "Thayet",
+      "slug": "thayet-MMR009D003"
+    },
+    "code": {
+      "id": "MMR009D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 343
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.4581",
+      "lon": "95.0701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပခုက္ကူခရိုင်",
+      "en": "Pakokku",
+      "slug": "pakokku-MMR009D004"
+    },
+    "code": {
+      "id": "MMR009D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 385
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.367",
+      "lon": "94.8735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR009D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဂန့်ဂေါခရိုင်",
+      "en": "Gangaw",
+      "slug": "gangaw-MMR009D005"
+    },
+    "code": {
+      "id": "MMR009D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR009",
+      "level": 1,
+      "name": {
+        "local": "မကွေးတိုင်းဒေသကြီး",
+        "en": "Magway",
+        "slug": "magway-MMR009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR009",
+        "level": 1,
+        "name": {
+          "local": "မကွေးတိုင်းဒေသကြီး",
+          "en": "Magway",
+          "slug": "magway-MMR009"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 219
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.6712",
+      "lon": "94.1754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    },
+    "code": {
+      "id": "MMR010D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.9433",
+      "lon": "96.0961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပြင်ဦးလွင်ခရိုင်",
+      "en": "Pyinoolwin",
+      "slug": "pyinoolwin-MMR010D002"
+    },
+    "code": {
+      "id": "MMR010D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 248
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.6803",
+      "lon": "96.1756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျောက်ဆည်ခရိုင်",
+      "en": "Kyaukse",
+      "slug": "kyaukse-MMR010D003"
+    },
+    "code": {
+      "id": "MMR010D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 307
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.5884",
+      "lon": "96.0997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြင်းခြံခရိုင်",
+      "en": "Myingyan",
+      "slug": "myingyan-MMR010D004"
+    },
+    "code": {
+      "id": "MMR010D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 293
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.5581",
+      "lon": "95.5202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ညောင်ဦးခရိုင်",
+      "en": "Nyaung-U",
+      "slug": "nyaung-u-MMR010D005"
+    },
+    "code": {
+      "id": "MMR010D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 214
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.0801",
+      "lon": "95.0106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရမည်းသင်းခရိုင်",
+      "en": "Yamethin",
+      "slug": "yamethin-MMR010D006"
+    },
+    "code": {
+      "id": "MMR010D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 152
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.5126",
+      "lon": "96.0942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D007",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိတ္ထီလာခရိုင်",
+      "en": "Meiktila",
+      "slug": "meiktila-MMR010D007"
+    },
+    "code": {
+      "id": "MMR010D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 290
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9819",
+      "lon": "95.8996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မော်လမြိုင်ခရိုင်",
+      "en": "Mawlamyine",
+      "slug": "mawlamyine-MMR011D001"
+    },
+    "code": {
+      "id": "MMR011D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 10,
+      "ward": 275
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.9438",
+      "lon": "97.7171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR011D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သထုံခရိုင်",
+      "en": "Thaton",
+      "slug": "thaton-MMR011D002"
+    },
+    "code": {
+      "id": "MMR011D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 219
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.0483",
+      "lon": "97.2423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "စစ်တွေခရိုင်",
+      "en": "Sittwe",
+      "slug": "sittwe-MMR012D001"
+    },
+    "code": {
+      "id": "MMR012D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 306
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2831",
+      "lon": "92.9285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မောင်တောခရိုင်",
+      "en": "Maungdaw",
+      "slug": "maungdaw-MMR012D002"
+    },
+    "code": {
+      "id": "MMR012D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 211
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9575",
+      "lon": "92.3734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျောက်ဖြူခရိုင်",
+      "en": "Kyaukpyu",
+      "slug": "kyaukpyu-MMR012D003"
+    },
+    "code": {
+      "id": "MMR012D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 220
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.2836",
+      "lon": "93.7924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "သံတွဲခရိုင်",
+      "en": "Thandwe",
+      "slug": "thandwe-MMR012D004"
+    },
+    "code": {
+      "id": "MMR012D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.5284",
+      "lon": "94.3235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR012D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြောက်ဦးခရိုင်",
+      "en": "Mrauk-U",
+      "slug": "mrauk-u-MMR012D005"
+    },
+    "code": {
+      "id": "MMR012D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR012",
+      "level": 1,
+      "name": {
+        "local": "ရခိုင်ပြည်နယ်",
+        "en": "Rakhine",
+        "slug": "rakhine-MMR012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR012",
+        "level": 1,
+        "name": {
+          "local": "ရခိုင်ပြည်နယ်",
+          "en": "Rakhine",
+          "slug": "rakhine-MMR012"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 330
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3408",
+      "lon": "93.3133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+      "en": "Yangon (North)",
+      "slug": "yangon-north-MMR013D001"
+    },
+    "code": {
+      "id": "MMR013D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 400
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.1257",
+      "lon": "96.0209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+      "en": "Yangon (East)",
+      "slug": "yangon-east-MMR013D002"
+    },
+    "code": {
+      "id": "MMR013D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 14,
+      "ward": 362
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.8306",
+      "lon": "96.1912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရန်ကုန်(တောင်ပိုင်း)",
+      "en": "Yangon (South)",
+      "slug": "yangon-south-MMR013D003"
+    },
+    "code": {
+      "id": "MMR013D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 11,
+      "ward": 489
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.4594",
+      "lon": "95.9846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR013D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရန်ကုန်(အနောက်ပိုင်း)",
+      "en": "Yangon (West)",
+      "slug": "yangon-west-MMR013D004"
+    },
+    "code": {
+      "id": "MMR013D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 157
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.8051",
+      "lon": "96.1417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တောင်ကြီးခရိုင်",
+      "en": "Taunggyi",
+      "slug": "taunggyi-MMR014D001"
+    },
+    "code": {
+      "id": "MMR014D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 19,
+      "ward": 389
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.6322",
+      "lon": "96.8577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လွိုင်လင်ခရိုင်",
+      "en": "Loilen",
+      "slug": "loilen-MMR014D002"
+    },
+    "code": {
+      "id": "MMR014D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 12,
+      "ward": 202
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.3759",
+      "lon": "97.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR014D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လင်းခေးခရိုင်",
+      "en": "Langkho",
+      "slug": "langkho-MMR014D003"
+    },
+    "code": {
+      "id": "MMR014D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.3219",
+      "lon": "98.0375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လားရှိုးခရိုင်",
+      "en": "Lashio",
+      "slug": "lashio-MMR015D001"
+    },
+    "code": {
+      "id": "MMR015D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 247
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.9204",
+      "lon": "98.1615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မူဆယ်ခရိုင်",
+      "en": "Muse",
+      "slug": "muse-MMR015D002"
+    },
+    "code": {
+      "id": "MMR015D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 235
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.8556",
+      "lon": "97.9702"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျောက်မဲခရိုင်",
+      "en": "Kyaukme",
+      "slug": "kyaukme-MMR015D003"
+    },
+    "code": {
+      "id": "MMR015D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 306
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.7949",
+      "lon": "97.0533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လောက်ကိုင်ခရိုင်",
+      "en": "Laukkaing",
+      "slug": "laukkaing-MMR015D005"
+    },
+    "code": {
+      "id": "MMR015D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 84
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.7727",
+      "lon": "98.7311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဟိုပန်ခရိုင်",
+      "en": "Hopang",
+      "slug": "hopang-MMR015D006"
+    },
+    "code": {
+      "id": "MMR015D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.3409",
+      "lon": "98.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D007",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မက်မန်းခရိုင်",
+      "en": "Matman",
+      "slug": "matman-MMR015D007"
+    },
+    "code": {
+      "id": "MMR015D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.2732",
+      "lon": "98.8788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D008",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိုးမိတ်ခရိုင်",
+      "en": "Mongmit",
+      "slug": "mongmit-MMR015D008"
+    },
+    "code": {
+      "id": "MMR015D008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.2936",
+      "lon": "96.6496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR015D331",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိုင်းမော-ဝအထူးဒေသ (၂)",
+      "en": "Mong Maw (Wa SAD)",
+      "slug": "mong-maw-wa-sad-MMR015D331"
+    },
+    "code": {
+      "id": "MMR015D331",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 1,
+      "ward": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "23.4758",
+      "lon": "98.8672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျိုင်းတုံခရိုင်",
+      "en": "Kengtung",
+      "slug": "kengtung-MMR016D001"
+    },
+    "code": {
+      "id": "MMR016D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 127
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.5395",
+      "lon": "99.5145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိုင်းဆတ်ခရိုင်",
+      "en": "Monghsat",
+      "slug": "monghsat-MMR016D002"
+    },
+    "code": {
+      "id": "MMR016D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.2473",
+      "lon": "99.0232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR016D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "တာချီလိတ်ခရိုင်",
+      "en": "Tachileik",
+      "slug": "tachileik-MMR016D003"
+    },
+    "code": {
+      "id": "MMR016D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9035",
+      "lon": "100.2239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပုသိမ်ခရိုင်",
+      "en": "Pathein",
+      "slug": "pathein-MMR017D001"
+    },
+    "code": {
+      "id": "MMR017D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 15,
+      "ward": 590
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.9626",
+      "lon": "94.8047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဟင်္သာတခရိုင်",
+      "en": "Hinthada",
+      "slug": "hinthada-MMR017D002"
+    },
+    "code": {
+      "id": "MMR017D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 13,
+      "ward": 447
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.9116",
+      "lon": "95.3144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြောင်းမြခရိုင်",
+      "en": "Myaungmya",
+      "slug": "myaungmya-MMR017D003"
+    },
+    "code": {
+      "id": "MMR017D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 364
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.6343",
+      "lon": "95.1056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "လပွတ္တာခရိုင်",
+      "en": "Labutta",
+      "slug": "labutta-MMR017D004"
+    },
+    "code": {
+      "id": "MMR017D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 203
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.1378",
+      "lon": "94.9031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မအူပင်ခရိုင်",
+      "en": "Maubin",
+      "slug": "maubin-MMR017D005"
+    },
+    "code": {
+      "id": "MMR017D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 279
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.004",
+      "lon": "95.5862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR017D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဖျာပုံခရိုင်",
+      "en": "Pyapon",
+      "slug": "pyapon-MMR017D006"
+    },
+    "code": {
+      "id": "MMR017D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 347
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.2477",
+      "lon": "95.5957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR018D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဥတ္တရခရိုင်",
+      "en": "Oke Ta Ra",
+      "slug": "oke-ta-ra-MMR018D001"
+    },
+    "code": {
+      "id": "MMR018D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.9318",
+      "lon": "96.1844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR018D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဒက္ခိဏခရိုင်",
+      "en": "Det Khi Na",
+      "slug": "det-khi-na-MMR018D002"
+    },
+    "code": {
+      "id": "MMR018D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR018",
+      "level": 1,
+      "name": {
+        "local": "နေပြည်တော်",
+        "en": "Nay Pyi Taw",
+        "slug": "nay-pyi-taw-MMR018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR018",
+        "level": 1,
+        "name": {
+          "local": "နေပြည်တော်",
+          "en": "Nay Pyi Taw",
+          "slug": "nay-pyi-taw-MMR018"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.7099",
+      "lon": "96.1205"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

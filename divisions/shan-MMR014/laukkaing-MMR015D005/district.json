@@ -1,0 +1,48 @@
+{
+  "id": "MMR015D005",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "လောက်ကိုင်ခရိုင်",
+    "en": "Laukkaing",
+    "slug": "laukkaing-MMR015D005"
+  },
+  "code": {
+    "id": "MMR015D005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014",
+    "level": 1,
+    "name": {
+      "local": "ရှမ်းပြည်နယ်",
+      "en": "Shan",
+      "slug": "shan-MMR014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 4,
+    "ward": 84
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.7727",
+    "lon": "98.7311"
+  },
+  "metadata": {},
+  "source": {}
+}

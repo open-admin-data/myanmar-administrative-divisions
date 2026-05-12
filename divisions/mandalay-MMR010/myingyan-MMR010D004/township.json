@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MMR010017701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြင်းခြံ",
+      "en": "Myingyan",
+      "slug": "myingyan-MMR010017701"
+    },
+    "code": {
+      "id": "MMR010017701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.45745",
+      "lon": "95.39179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010019701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "နွားထိုးကြီး",
+      "en": "Natogyi",
+      "slug": "natogyi-MMR010019701"
+    },
+    "code": {
+      "id": "MMR010019701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.4237",
+      "lon": "95.6545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010021701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ငါန်းဇွန်",
+      "en": "Ngazun",
+      "slug": "ngazun-MMR010021701"
+    },
+    "code": {
+      "id": "MMR010021701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.89846",
+      "lon": "95.68723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010017702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ဆီမီးခုံ",
+      "en": "Si Mee Khon",
+      "slug": "si-mee-khon-MMR010017702"
+    },
+    "code": {
+      "id": "MMR010017702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.735",
+      "lon": "95.4221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010018701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တောင်သာ",
+      "en": "Taungtha",
+      "slug": "taungtha-MMR010018701"
+    },
+    "code": {
+      "id": "MMR010018701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010D004",
+      "level": 2,
+      "name": {
+        "local": "မြင်းခြံခရိုင်",
+        "en": "Myingyan",
+        "slug": "myingyan-MMR010D004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      },
+      {
+        "id": "MMR010D004",
+        "level": 2,
+        "name": {
+          "local": "မြင်းခြံခရိုင်",
+          "en": "Myingyan",
+          "slug": "myingyan-MMR010D004"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.27603",
+      "lon": "95.44541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

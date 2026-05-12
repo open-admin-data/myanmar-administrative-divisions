@@ -1,0 +1,2927 @@
+[
+  {
+    "id": "1404004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(ဃ) ရပ်ကွက်",
+      "en": "(Ga Gyi) Quarter",
+      "slug": "ga-gyi-quarter-1404004"
+    },
+    "code": {
+      "id": "1404004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(ဂ) ရပ်ကွက်",
+      "en": "(Ga Nge) Quarter",
+      "slug": "ga-nge-quarter-1404003"
+    },
+    "code": {
+      "id": "1404003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(က) ရပ်ကွက်",
+      "en": "(Ka Gyi) Quarter",
+      "slug": "ka-gyi-quarter-1404001"
+    },
+    "code": {
+      "id": "1404001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "(ခ) ရပ်ကွက်",
+      "en": "(Kha Gway) Quarter",
+      "slug": "kha-gway-quarter-1404002"
+    },
+    "code": {
+      "id": "1404002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်ကျောက်ဝပ် ကျေးရွာအုပ်စု",
+      "en": "Auk Kyauk Wut Village Tract",
+      "slug": "auk-kyauk-wut-village-tract-1404240"
+    },
+    "code": {
+      "id": "1404240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောက်ရေဖြူ ကျေးရွာအုပ်စု",
+      "en": "Auk Yae Hpyu Village Tract",
+      "slug": "auk-yae-hpyu-village-tract-1404214"
+    },
+    "code": {
+      "id": "1404214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အင်းဇောက် ကျေးရွာအုပ်စု",
+      "en": "Inn Zauk Village Tract",
+      "slug": "inn-zauk-village-tract-1404204"
+    },
+    "code": {
+      "id": "1404204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒက်ကြီး (၇-သိန်) ကျေးရွာအုပ်စု",
+      "en": "Ka Det Gyi (Khun Hnit Thein) Village Tract",
+      "slug": "ka-det-gyi-khun-hnit-thein-village-tract-1404216"
+    },
+    "code": {
+      "id": "1404216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒက်ငယ်ဆိပ် ကျေးရွာအုပ်စု",
+      "en": "Ka Det Nge Seik Village Tract",
+      "slug": "ka-det-nge-seik-village-tract-1404220"
+    },
+    "code": {
+      "id": "1404220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကထောင်းနီ ကျေးရွာအုပ်စု",
+      "en": "Ka Htaung Ni Village Tract",
+      "slug": "ka-htaung-ni-village-tract-1404215"
+    },
+    "code": {
+      "id": "1404215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမြောကြီး ကျေးရွာအုပ်စု",
+      "en": "Ka Myaw Gyi Village Tract",
+      "slug": "ka-myaw-gyi-village-tract-1404224"
+    },
+    "code": {
+      "id": "1404224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမြောကင်း ကျေးရွာအုပ်စု",
+      "en": "Ka Myaw Kin Village Tract",
+      "slug": "ka-myaw-kin-village-tract-1404230"
+    },
+    "code": {
+      "id": "1404230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကညုံကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Ka Nyon Kyun Village Tract",
+      "slug": "ka-nyon-kyun-village-tract-1404202"
+    },
+    "code": {
+      "id": "1404202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခမောင်းတောင် ကျေးရွာအုပ်စု",
+      "en": "Kha Maung Taung Village Tract",
+      "slug": "kha-maung-taung-village-tract-1404227"
+    },
+    "code": {
+      "id": "1404227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်မတ်တတ် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Mat Tat Village Tract",
+      "slug": "kyauk-mat-tat-village-tract-1404237"
+    },
+    "code": {
+      "id": "1404237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်နီမော် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Ni Maw Village Tract",
+      "slug": "kyauk-ni-maw-village-tract-1404239"
+    },
+    "code": {
+      "id": "1404239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဆင် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Sin Village Tract",
+      "slug": "kyauk-sin-village-tract-1404221"
+    },
+    "code": {
+      "id": "1404221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်တွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyauk Twin Village Tract",
+      "slug": "kyauk-twin-village-tract-1404236"
+    },
+    "code": {
+      "id": "1404236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျောက်ဝပ်ပြင် ကျေးရွာအုပ်စု",
+      "en": "Kyauk Wut Pyin Village Tract",
+      "slug": "kyauk-wut-pyin-village-tract-1404238"
+    },
+    "code": {
+      "id": "1404238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြက်ယက်တွင်း ကျေးရွာအုပ်စု",
+      "en": "Kyet Yet Twin Village Tract",
+      "slug": "kyet-yet-twin-village-tract-1404218"
+    },
+    "code": {
+      "id": "1404218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လေးသွန်းခံ ကျေးရွာအုပ်စု",
+      "en": "Lay Thun Khan Village Tract",
+      "slug": "lay-thun-khan-village-tract-1404208"
+    },
+    "code": {
+      "id": "1404208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မောင်းမကန် ကျေးရွာအုပ်စု",
+      "en": "Maung Ma Kan Village Tract",
+      "slug": "maung-ma-kan-village-tract-1404219"
+    },
+    "code": {
+      "id": "1404219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းရပ် ကျေးရွာအုပ်စု",
+      "en": "Min Yat Village Tract",
+      "slug": "min-yat-village-tract-1404207"
+    },
+    "code": {
+      "id": "1404207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြို့ဟောင်း ကျေးရွာအုပ်စု",
+      "en": "Myo Haung Village Tract",
+      "slug": "myo-haung-village-tract-1404225"
+    },
+    "code": {
+      "id": "1404225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နခံတော ကျေးရွာအုပ်စု",
+      "en": "Na Khan Taw Village Tract",
+      "slug": "na-khan-taw-village-tract-1404229"
+    },
+    "code": {
+      "id": "1404229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညင်းမော် ကျေးရွာအုပ်စု",
+      "en": "Nyin Maw Village Tract",
+      "slug": "nyin-maw-village-tract-1404210"
+    },
+    "code": {
+      "id": "1404210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပညစ် ကျေးရွာအုပ်စု",
+      "en": "Pa Nyit Village Tract",
+      "slug": "pa-nyit-village-tract-1404213"
+    },
+    "code": {
+      "id": "1404213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းဒလဲ ကျေးရွာအုပ်စု",
+      "en": "Pan Da Le Village Tract",
+      "slug": "pan-da-le-village-tract-1404205"
+    },
+    "code": {
+      "id": "1404205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းဒက်အင်း ကျေးရွာအုပ်စု",
+      "en": "Pan Det Inn Village Tract",
+      "slug": "pan-det-inn-village-tract-1404222"
+    },
+    "code": {
+      "id": "1404222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်ကြီးကျွန်း ကျေးရွာအုပ်စု",
+      "en": "Pyin Gyi Kyun Village Tract",
+      "slug": "pyin-gyi-kyun-village-tract-1404234"
+    },
+    "code": {
+      "id": "1404234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်းထိန် ကျေးရွာအုပ်စု",
+      "en": "Pyin Htein Village Tract",
+      "slug": "pyin-htein-village-tract-1404200"
+    },
+    "code": {
+      "id": "1404200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပြင်ကျောင်း ကျေးရွာအုပ်စု",
+      "en": "Pyin Kyaung Village Tract",
+      "slug": "pyin-kyaung-village-tract-1404217"
+    },
+    "code": {
+      "id": "1404217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စခန်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Sa Khan Gyi Village Tract",
+      "slug": "sa-khan-gyi-village-tract-1404228"
+    },
+    "code": {
+      "id": "1404228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စမ်းလှမ်း ကျေးရွာအုပ်စု",
+      "en": "San Hlan Village Tract",
+      "slug": "san-hlan-village-tract-1404212"
+    },
+    "code": {
+      "id": "1404212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်ပြဲ ကျေးရွာအုပ်စု",
+      "en": "Sit Pyea Village Tract",
+      "slug": "sit-pyea-village-tract-1404209"
+    },
+    "code": {
+      "id": "1404209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်မင်းပြောင် ကျေးရွာအုပ်စု",
+      "en": "Taung Min Pyaung Village Tract",
+      "slug": "taung-min-pyaung-village-tract-1404226"
+    },
+    "code": {
+      "id": "1404226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောကျဲ ကျေးရွာအုပ်စု",
+      "en": "Taw Kye Village Tract",
+      "slug": "taw-kye-village-tract-1404232"
+    },
+    "code": {
+      "id": "1404232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သဗျာ ကျေးရွာအုပ်စု",
+      "en": "Tha Byar Village Tract",
+      "slug": "tha-byar-village-tract-1404203"
+    },
+    "code": {
+      "id": "1404203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သကျက်တော ကျေးရွာအုပ်စု",
+      "en": "Tha Kyet Taw Village Tract",
+      "slug": "tha-kyet-taw-village-tract-1404231"
+    },
+    "code": {
+      "id": "1404231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေရှောင် ကျေးရွာအုပ်စု",
+      "en": "Tha Pyay Shaung Village Tract",
+      "slug": "tha-pyay-shaung-village-tract-1404233"
+    },
+    "code": {
+      "id": "1404233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာယာကုန်း ကျေးရွာအုပ်စု",
+      "en": "Thar Yar Kone Village Tract",
+      "slug": "thar-yar-kone-village-tract-1404223"
+    },
+    "code": {
+      "id": "1404223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တီဇစ် ကျေးရွာအုပ်စု",
+      "en": "Ti Zit Village Tract",
+      "slug": "ti-zit-village-tract-1404211"
+    },
+    "code": {
+      "id": "1404211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝေဒီ ကျေးရွာအုပ်စု",
+      "en": "Way Di Village Tract",
+      "slug": "way-di-village-tract-1404201"
+    },
+    "code": {
+      "id": "1404201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာဟောင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Ywar Haung Wa Village Tract",
+      "slug": "ywar-haung-wa-village-tract-1404206"
+    },
+    "code": {
+      "id": "1404206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇလွတ် ကျေးရွာအုပ်စု",
+      "en": "ZaLut Village Tract",
+      "slug": "zalut-village-tract-1404235"
+    },
+    "code": {
+      "id": "1404235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006002701",
+      "level": 3,
+      "name": {
+        "local": "လောင်းလုံး",
+        "en": "Launglon",
+        "slug": "launglon-MMR006002701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D001",
+        "level": 2,
+        "name": {
+          "local": "ထားဝယ်ခရိုင်",
+          "en": "Dawei",
+          "slug": "dawei-MMR006D001"
+        }
+      },
+      {
+        "id": "MMR006002701",
+        "level": 3,
+        "name": {
+          "local": "လောင်းလုံး",
+          "en": "Launglon",
+          "slug": "launglon-MMR006002701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1404235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

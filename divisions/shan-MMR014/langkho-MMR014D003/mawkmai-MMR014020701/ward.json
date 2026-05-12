@@ -1,0 +1,977 @@
+[
+  {
+    "id": "0618201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုလွိုင် ကျေးရွာအုပ်စု",
+      "en": "Ho Loi Village Tract",
+      "slug": "ho-loi-village-tract-0618201"
+    },
+    "code": {
+      "id": "0618201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုနမ့် ကျေးရွာအုပ်စု",
+      "en": "Ho Nam Village Tract",
+      "slug": "ho-nam-village-tract-0618205"
+    },
+    "code": {
+      "id": "0618205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒူးကြီး ကျေးရွာအုပ်စု",
+      "en": "Ka Du Gyi Village Tract",
+      "slug": "ka-du-gyi-village-tract-0618207"
+    },
+    "code": {
+      "id": "0618207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းလမ်း ရပ်ကွက်",
+      "en": "Kone Lan Quarter",
+      "slug": "kone-lan-quarter-0618007"
+    },
+    "code": {
+      "id": "0618007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွန်ကျိုင်း ရပ်ကွက်",
+      "en": "Kun Keng Quarter",
+      "slug": "kun-keng-quarter-0618001"
+    },
+    "code": {
+      "id": "0618001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုက်ဟုန်း ရပ်ကွက်",
+      "en": "Maik Hone Quarter",
+      "slug": "maik-hone-quarter-0618006"
+    },
+    "code": {
+      "id": "0618006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပုတ် ကျေးရွာအုပ်စု",
+      "en": "Mong Poke Village Tract",
+      "slug": "mong-poke-village-tract-0618202"
+    },
+    "code": {
+      "id": "0618202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မွေတော် ရပ်ကွက်",
+      "en": "Mway Taw Quarter",
+      "slug": "mway-taw-quarter-0618003"
+    },
+    "code": {
+      "id": "0618003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်လွတ် ကျေးရွာအုပ်စု",
+      "en": "Nam Lut Village Tract",
+      "slug": "nam-lut-village-tract-0618200"
+    },
+    "code": {
+      "id": "0618200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းတန် ကျေးရွာအုပ်စု",
+      "en": "Pang Tan Village Tract",
+      "slug": "pang-tan-village-tract-0618206"
+    },
+    "code": {
+      "id": "0618206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆီဆုံ ရပ်ကွက်",
+      "en": "Si Son Quarter",
+      "slug": "si-son-quarter-0618005"
+    },
+    "code": {
+      "id": "0618005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စဉ့်ဆိုင် ကျေးရွာအုပ်စု",
+      "en": "Sint Hseng Village Tract",
+      "slug": "sint-hseng-village-tract-0618204"
+    },
+    "code": {
+      "id": "0618204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စဉ့်ဝင် ကျေးရွာအုပ်စု",
+      "en": "Sint Win Village Tract",
+      "slug": "sint-win-village-tract-0618203"
+    },
+    "code": {
+      "id": "0618203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်မြို့ ရပ်ကွက်",
+      "en": "Taung Myo Quarter",
+      "slug": "taung-myo-quarter-0618004"
+    },
+    "code": {
+      "id": "0618004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0618002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဈေးတန်း ရပ်ကွက်",
+      "en": "Zay Tan Quarter",
+      "slug": "zay-tan-quarter-0618002"
+    },
+    "code": {
+      "id": "0618002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014020701",
+      "level": 3,
+      "name": {
+        "local": "မောက်မယ်",
+        "en": "Mawkmai",
+        "slug": "mawkmai-MMR014020701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D003",
+        "level": 2,
+        "name": {
+          "local": "လင်းခေးခရိုင်",
+          "en": "Langkho",
+          "slug": "langkho-MMR014D003"
+        }
+      },
+      {
+        "id": "MMR014020701",
+        "level": 3,
+        "name": {
+          "local": "မောက်မယ်",
+          "en": "Mawkmai",
+          "slug": "mawkmai-MMR014020701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0618002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

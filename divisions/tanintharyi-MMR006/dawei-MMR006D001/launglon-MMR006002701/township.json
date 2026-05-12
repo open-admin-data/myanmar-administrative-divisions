@@ -1,0 +1,56 @@
+{
+  "id": "MMR006002701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "လောင်းလုံး",
+    "en": "Launglon",
+    "slug": "launglon-MMR006002701"
+  },
+  "code": {
+    "id": "MMR006002701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR006D001",
+    "level": 2,
+    "name": {
+      "local": "ထားဝယ်ခရိုင်",
+      "en": "Dawei",
+      "slug": "dawei-MMR006D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    {
+      "id": "MMR006D001",
+      "level": 2,
+      "name": {
+        "local": "ထားဝယ်ခရိုင်",
+        "en": "Dawei",
+        "slug": "dawei-MMR006D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.97522",
+    "lon": "98.11963"
+  },
+  "metadata": {},
+  "source": {}
+}

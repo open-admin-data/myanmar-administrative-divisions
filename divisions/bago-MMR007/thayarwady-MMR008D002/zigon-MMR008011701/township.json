@@ -1,0 +1,56 @@
+{
+  "id": "MMR008011701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဇီးကုန်း",
+    "en": "Zigon",
+    "slug": "zigon-MMR008011701"
+  },
+  "code": {
+    "id": "MMR008011701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D002",
+    "level": 2,
+    "name": {
+      "local": "သာယာဝတီခရိုင်",
+      "en": "Thayarwady",
+      "slug": "thayarwady-MMR008D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D002",
+      "level": 2,
+      "name": {
+        "local": "သာယာဝတီခရိုင်",
+        "en": "Thayarwady",
+        "slug": "thayarwady-MMR008D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.33846",
+    "lon": "95.62304"
+  },
+  "metadata": {},
+  "source": {}
+}

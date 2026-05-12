@@ -1,0 +1,56 @@
+{
+  "id": "MMR014021701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိုင်းပန်",
+    "en": "Mongpan",
+    "slug": "mongpan-MMR014021701"
+  },
+  "code": {
+    "id": "MMR014021701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D003",
+    "level": 2,
+    "name": {
+      "local": "လင်းခေးခရိုင်",
+      "en": "Langkho",
+      "slug": "langkho-MMR014D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.3188",
+    "lon": "98.3541"
+  },
+  "metadata": {},
+  "source": {}
+}

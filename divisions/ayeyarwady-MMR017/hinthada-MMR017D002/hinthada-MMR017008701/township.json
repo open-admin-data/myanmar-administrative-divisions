@@ -1,0 +1,56 @@
+{
+  "id": "MMR017008701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဟင်္သာတ",
+    "en": "Hinthada",
+    "slug": "hinthada-MMR017008701"
+  },
+  "code": {
+    "id": "MMR017008701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR017D002",
+    "level": 2,
+    "name": {
+      "local": "ဟင်္သာတခရိုင်",
+      "en": "Hinthada",
+      "slug": "hinthada-MMR017D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR017",
+      "level": 1,
+      "name": {
+        "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+        "en": "Ayeyarwady",
+        "slug": "ayeyarwady-MMR017"
+      }
+    },
+    {
+      "id": "MMR017D002",
+      "level": 2,
+      "name": {
+        "local": "ဟင်္သာတခရိုင်",
+        "en": "Hinthada",
+        "slug": "hinthada-MMR017D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.64958",
+    "lon": "95.45818"
+  },
+  "metadata": {},
+  "source": {}
+}

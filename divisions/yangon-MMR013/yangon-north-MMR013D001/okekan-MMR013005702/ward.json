@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1162003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနော်ရထာ ရပ်ကွက်",
+      "en": "Ah Naw Ra Htar Quarter",
+      "slug": "ah-naw-ra-htar-quarter-1162003"
+    },
+    "code": {
+      "id": "1162003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘုရင့်နောင် ရပ်ကွက်",
+      "en": "Ba Yint Naung Quarter",
+      "slug": "ba-yint-naung-quarter-1162007"
+    },
+    "code": {
+      "id": "1162007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗန္ဓုလ ရပ်ကွက်",
+      "en": "Ban Du La Quarter",
+      "slug": "ban-du-la-quarter-1162004"
+    },
+    "code": {
+      "id": "1162004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဗိုလ်ချုပ်အောင်ဆန်း ရပ်ကွက်",
+      "en": "Bo Gyoke Aung San Quarter",
+      "slug": "bo-gyoke-aung-san-quarter-1162005"
+    },
+    "code": {
+      "id": "1162005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျန်စစ်သား ရပ်ကွက်",
+      "en": "Kyan Sit Thar Quarter",
+      "slug": "kyan-sit-thar-quarter-1162001"
+    },
+    "code": {
+      "id": "1162001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်းရဲကျော်စွာ ရပ်ကွက်",
+      "en": "Min Ye Kyaw Swar Quarter",
+      "slug": "min-ye-kyaw-swar-quarter-1162008"
+    },
+    "code": {
+      "id": "1162008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ဖြူရှင် ရပ်ကွက်",
+      "en": "Sin Hpyu Shin Quarter",
+      "slug": "sin-hpyu-shin-quarter-1162006"
+    },
+    "code": {
+      "id": "1162006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1162002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဦးအောင်ဇေယျ ရပ်ကွက်",
+      "en": "U Aung Zay Ya Quarter",
+      "slug": "u-aung-zay-ya-quarter-1162002"
+    },
+    "code": {
+      "id": "1162002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013005702",
+      "level": 3,
+      "name": {
+        "local": "ဥက္ကံ",
+        "en": "Okekan",
+        "slug": "okekan-MMR013005702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013005702",
+        "level": 3,
+        "name": {
+          "local": "ဥက္ကံ",
+          "en": "Okekan",
+          "slug": "okekan-MMR013005702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1162002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

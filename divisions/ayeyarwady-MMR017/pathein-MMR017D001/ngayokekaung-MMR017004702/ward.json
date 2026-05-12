@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1075001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1075001"
+    },
+    "code": {
+      "id": "1075001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004702",
+      "level": 3,
+      "name": {
+        "local": "ငရုတ်ကောင်း",
+        "en": "Ngayokekaung",
+        "slug": "ngayokekaung-MMR017004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004702",
+        "level": 3,
+        "name": {
+          "local": "ငရုတ်ကောင်း",
+          "en": "Ngayokekaung",
+          "slug": "ngayokekaung-MMR017004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1075001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1075002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1075002"
+    },
+    "code": {
+      "id": "1075002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR017004702",
+      "level": 3,
+      "name": {
+        "local": "ငရုတ်ကောင်း",
+        "en": "Ngayokekaung",
+        "slug": "ngayokekaung-MMR017004702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR017",
+        "level": 1,
+        "name": {
+          "local": "ဧရာဝတီတိုင်းဒေသကြီး",
+          "en": "Ayeyarwady",
+          "slug": "ayeyarwady-MMR017"
+        }
+      },
+      {
+        "id": "MMR017D001",
+        "level": 2,
+        "name": {
+          "local": "ပုသိမ်ခရိုင်",
+          "en": "Pathein",
+          "slug": "pathein-MMR017D001"
+        }
+      },
+      {
+        "id": "MMR017004702",
+        "level": 3,
+        "name": {
+          "local": "ငရုတ်ကောင်း",
+          "en": "Ngayokekaung",
+          "slug": "ngayokekaung-MMR017004702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1075002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

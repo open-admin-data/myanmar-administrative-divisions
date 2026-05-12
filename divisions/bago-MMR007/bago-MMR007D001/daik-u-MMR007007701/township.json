@@ -1,0 +1,56 @@
+{
+  "id": "MMR007007701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဒိုက်ဦး",
+    "en": "Daik-U",
+    "slug": "daik-u-MMR007007701"
+  },
+  "code": {
+    "id": "MMR007007701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR007D001",
+    "level": 2,
+    "name": {
+      "local": "ပဲခူးခရိုင်",
+      "en": "Bago",
+      "slug": "bago-MMR007D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR007D001",
+      "level": 2,
+      "name": {
+        "local": "ပဲခူးခရိုင်",
+        "en": "Bago",
+        "slug": "bago-MMR007D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.78967",
+    "lon": "96.66969"
+  },
+  "metadata": {},
+  "source": {}
+}

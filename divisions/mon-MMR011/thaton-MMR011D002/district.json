@@ -1,0 +1,48 @@
+{
+  "id": "MMR011D002",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "သထုံခရိုင်",
+    "en": "Thaton",
+    "slug": "thaton-MMR011D002"
+  },
+  "code": {
+    "id": "MMR011D002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011",
+    "level": 1,
+    "name": {
+      "local": "မွန်ပြည်နယ်",
+      "en": "Mon",
+      "slug": "mon-MMR011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 219
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.0483",
+    "lon": "97.2423"
+  },
+  "metadata": {},
+  "source": {}
+}

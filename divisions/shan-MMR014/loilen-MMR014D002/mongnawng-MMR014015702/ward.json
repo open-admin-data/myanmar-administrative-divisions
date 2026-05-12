@@ -1,0 +1,327 @@
+[
+  {
+    "id": "0670001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0670001"
+    },
+    "code": {
+      "id": "0670001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းနောင်",
+        "en": "Mongnawng",
+        "slug": "mongnawng-MMR014015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းနောင်",
+          "en": "Mongnawng",
+          "slug": "mongnawng-MMR014015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0670001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0670002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0670002"
+    },
+    "code": {
+      "id": "0670002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းနောင်",
+        "en": "Mongnawng",
+        "slug": "mongnawng-MMR014015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းနောင်",
+          "en": "Mongnawng",
+          "slug": "mongnawng-MMR014015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0670002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0670003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0670003"
+    },
+    "code": {
+      "id": "0670003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းနောင်",
+        "en": "Mongnawng",
+        "slug": "mongnawng-MMR014015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းနောင်",
+          "en": "Mongnawng",
+          "slug": "mongnawng-MMR014015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0670003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0670004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0670004"
+    },
+    "code": {
+      "id": "0670004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းနောင်",
+        "en": "Mongnawng",
+        "slug": "mongnawng-MMR014015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းနောင်",
+          "en": "Mongnawng",
+          "slug": "mongnawng-MMR014015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0670004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0670005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-0670005"
+    },
+    "code": {
+      "id": "0670005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR014015702",
+      "level": 3,
+      "name": {
+        "local": "မိုင်းနောင်",
+        "en": "Mongnawng",
+        "slug": "mongnawng-MMR014015702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR014D002",
+        "level": 2,
+        "name": {
+          "local": "လွိုင်လင်ခရိုင်",
+          "en": "Loilen",
+          "slug": "loilen-MMR014D002"
+        }
+      },
+      {
+        "id": "MMR014015702",
+        "level": 3,
+        "name": {
+          "local": "မိုင်းနောင်",
+          "en": "Mongnawng",
+          "slug": "mongnawng-MMR014015702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0670005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

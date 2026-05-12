@@ -1,0 +1,146 @@
+[
+  {
+    "id": "MMR006D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ထားဝယ်ခရိုင်",
+      "en": "Dawei",
+      "slug": "dawei-MMR006D001"
+    },
+    "code": {
+      "id": "MMR006D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 175
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.1591",
+      "lon": "98.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကော့သောင်းခရိုင်",
+      "en": "Kawthoung",
+      "slug": "kawthoung-MMR006D003"
+    },
+    "code": {
+      "id": "MMR006D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.8005",
+      "lon": "98.7391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြိတ်ခရိုင်",
+      "en": "Myeik",
+      "slug": "myeik-MMR006D002"
+    },
+    "code": {
+      "id": "MMR006D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006",
+      "level": 1,
+      "name": {
+        "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+        "en": "Tanintharyi",
+        "slug": "tanintharyi-MMR006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 7,
+      "ward": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.5566",
+      "lon": "98.8049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

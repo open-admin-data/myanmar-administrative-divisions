@@ -1,0 +1,194 @@
+[
+  {
+    "id": "MMR003D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဘားအံခရိုင်",
+      "en": "Hpa-An",
+      "slug": "hpa-an-MMR003D001"
+    },
+    "code": {
+      "id": "MMR003D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 264
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.0856",
+      "lon": "97.2443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ဖာပွန်ခရိုင်",
+      "en": "Hpapun",
+      "slug": "hpapun-MMR003D004"
+    },
+    "code": {
+      "id": "MMR003D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.705",
+      "lon": "97.5481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကော့ကရိတ်ခရိုင်",
+      "en": "Kawkareik",
+      "slug": "kawkareik-MMR003D003"
+    },
+    "code": {
+      "id": "MMR003D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 131
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.0996",
+      "lon": "98.2355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR003D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြဝတီခရိုင်",
+      "en": "Myawaddy",
+      "slug": "myawaddy-MMR003D002"
+    },
+    "code": {
+      "id": "MMR003D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR003",
+      "level": 1,
+      "name": {
+        "local": "ကရင်ပြည်နယ်",
+        "en": "Kayin",
+        "slug": "kayin-MMR003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR003",
+        "level": 1,
+        "name": {
+          "local": "ကရင်ပြည်နယ်",
+          "en": "Kayin",
+          "slug": "kayin-MMR003"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 3,
+      "ward": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.379",
+      "lon": "98.6075"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

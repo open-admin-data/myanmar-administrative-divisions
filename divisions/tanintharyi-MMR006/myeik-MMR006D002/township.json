@@ -1,0 +1,394 @@
+[
+  {
+    "id": "MMR006006701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ကျွန်းစု",
+      "en": "Kyunsu",
+      "slug": "kyunsu-MMR006006701"
+    },
+    "code": {
+      "id": "MMR006006701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.47386",
+      "lon": "98.45443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006008702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မောတောင်",
+      "en": "Maw Taung",
+      "slug": "maw-taung-MMR006008702"
+    },
+    "code": {
+      "id": "MMR006008702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.7952",
+      "lon": "99.6275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006005701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "မြိတ်",
+      "en": "Myeik",
+      "slug": "myeik-MMR006005701"
+    },
+    "code": {
+      "id": "MMR006005701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.44112",
+      "lon": "98.60978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006007703",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပလ",
+      "en": "Pala",
+      "slug": "pala-MMR006007703"
+    },
+    "code": {
+      "id": "MMR006007703",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.84928",
+      "lon": "98.66188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006007702",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပလောက်",
+      "en": "Palauk",
+      "slug": "palauk-MMR006007702"
+    },
+    "code": {
+      "id": "MMR006007702",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.27223",
+      "lon": "98.62248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006007701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "ပုလော",
+      "en": "Palaw",
+      "slug": "palaw-MMR006007701"
+    },
+    "code": {
+      "id": "MMR006007701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.97531",
+      "lon": "98.64579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR006008701",
+    "level": 3,
+    "level_name": {
+      "local": "မြို့နယ်",
+      "en": "Township"
+    },
+    "name": {
+      "local": "တနင်္သာရီ",
+      "en": "Tanintharyi",
+      "slug": "tanintharyi-MMR006008701"
+    },
+    "code": {
+      "id": "MMR006008701",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR006D002",
+      "level": 2,
+      "name": {
+        "local": "မြိတ်ခရိုင်",
+        "en": "Myeik",
+        "slug": "myeik-MMR006D002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR006",
+        "level": 1,
+        "name": {
+          "local": "တနင်္သာရီတိုင်းဒေသကြီး",
+          "en": "Tanintharyi",
+          "slug": "tanintharyi-MMR006"
+        }
+      },
+      {
+        "id": "MMR006D002",
+        "level": 2,
+        "name": {
+          "local": "မြိတ်ခရိုင်",
+          "en": "Myeik",
+          "slug": "myeik-MMR006D002"
+        }
+      }
+    ],
+    "children_count": {
+      "ward": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.08941",
+      "lon": "99.01278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

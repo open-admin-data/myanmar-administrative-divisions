@@ -1,0 +1,3837 @@
+[
+  {
+    "id": "1604229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခန်းကုန်း ကျေးရွာအုပ်စု",
+      "en": "Hkan Kone Village Tract",
+      "slug": "hkan-kone-village-tract-1604229"
+    },
+    "code": {
+      "id": "1604229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခိုယောင်း ကျေးရွာအုပ်စု",
+      "en": "Hko Yawng Village Tract",
+      "slug": "hko-yawng-village-tract-1604203"
+    },
+    "code": {
+      "id": "1604203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုမန်း ကျေးရွာအုပ်စု",
+      "en": "Ho Man Village Tract",
+      "slug": "ho-man-village-tract-1604209"
+    },
+    "code": {
+      "id": "1604209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုနမ့် ရပ်ကွက်",
+      "en": "Ho Nam Quarter",
+      "slug": "ho-nam-quarter-1604010"
+    },
+    "code": {
+      "id": "1604010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုပတ် ကျေးရွာအုပ်စု",
+      "en": "Ho Pat Village Tract",
+      "slug": "ho-pat-village-tract-1604201"
+    },
+    "code": {
+      "id": "1604201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟိုတာ ကျေးရွာအုပ်စု",
+      "en": "Ho Tar Village Tract",
+      "slug": "ho-tar-village-tract-1604206"
+    },
+    "code": {
+      "id": "1604206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆယ်ဟီ ကျေးရွာအုပ်စု",
+      "en": "Hse Hi Village Tract",
+      "slug": "hse-hi-village-tract-1604232"
+    },
+    "code": {
+      "id": "1604232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဟွေကြိမ် ကျေးရွာအုပ်စု",
+      "en": "Hway Kyein Village Tract",
+      "slug": "hway-kyein-village-tract-1604208"
+    },
+    "code": {
+      "id": "1604208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းလန်း ကျေးရွာအုပ်စု",
+      "en": "Kawng Lan Village Tract",
+      "slug": "kawng-lan-village-tract-1604236"
+    },
+    "code": {
+      "id": "1604236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကောင်းစန်း ကျေးရွာအုပ်စု",
+      "en": "Kawng San Village Tract",
+      "slug": "kawng-san-village-tract-1604240"
+    },
+    "code": {
+      "id": "1604240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုန်းမုံ ကျေးရွာအုပ်စု",
+      "en": "Kone Mon Village Tract",
+      "slug": "kone-mon-village-tract-1604202"
+    },
+    "code": {
+      "id": "1604202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604248",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ပျက် ကျေးရွာအုပ်စု",
+      "en": "Loi Pyet Village Tract",
+      "slug": "loi-pyet-village-tract-1604248"
+    },
+    "code": {
+      "id": "1604248",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604248"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်စဲ ကျေးရွာအုပ်စု",
+      "en": "Loi Se Village Tract",
+      "slug": "loi-se-village-tract-1604222"
+    },
+    "code": {
+      "id": "1604222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604247",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွယ်ဝေါ ကျေးရွာအုပ်စု",
+      "en": "Loi Waw Village Tract",
+      "slug": "loi-waw-village-tract-1604247"
+    },
+    "code": {
+      "id": "1604247",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604247"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုံမုန် ကျေးရွာအုပ်စု",
+      "en": "Long Mon Village Tract",
+      "slug": "long-mon-village-tract-1604207"
+    },
+    "code": {
+      "id": "1604207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လုန်ပုန်း ကျေးရွာအုပ်စု",
+      "en": "Long Pong Village Tract",
+      "slug": "long-pong-village-tract-1604219"
+    },
+    "code": {
+      "id": "1604219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်စန် ရပ်ကွက်",
+      "en": "Man Hsan Quarter",
+      "slug": "man-hsan-quarter-1604009"
+    },
+    "code": {
+      "id": "1604009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ကပ် ကျေးရွာအုပ်စု",
+      "en": "Man Kat Village Tract",
+      "slug": "man-kat-village-tract-1604204"
+    },
+    "code": {
+      "id": "1604204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ကောင်းမူး ကျေးရွာအုပ်စု",
+      "en": "Man Kawng Mu Village Tract",
+      "slug": "man-kawng-mu-village-tract-1604244"
+    },
+    "code": {
+      "id": "1604244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ကောင်း ကျေးရွာအုပ်စု",
+      "en": "Man Kawng Village Tract",
+      "slug": "man-kawng-village-tract-1604238"
+    },
+    "code": {
+      "id": "1604238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်လွယ် ကျေးရွာအုပ်စု",
+      "en": "Man Loi Village Tract",
+      "slug": "man-loi-village-tract-1604226"
+    },
+    "code": {
+      "id": "1604226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်လွယ် ရပ်ကွက်",
+      "en": "Man Lwe Quarter",
+      "slug": "man-lwe-quarter-1604007"
+    },
+    "code": {
+      "id": "1604007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မန်ပိန်း ကျေးရွာအုပ်စု",
+      "en": "Man Ping Village Tract",
+      "slug": "man-ping-village-tract-1604216"
+    },
+    "code": {
+      "id": "1604216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းကောင် ကျေးရွာအုပ်စု",
+      "en": "Mong Kawng Village Tract",
+      "slug": "mong-kawng-village-tract-1604223"
+    },
+    "code": {
+      "id": "1604223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းကျိုင် ကျေးရွာအုပ်စု",
+      "en": "Mong Keng Village Tract",
+      "slug": "mong-keng-village-tract-1604211"
+    },
+    "code": {
+      "id": "1604211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မိုင်းပတ် ကျေးရွာအုပ်စု",
+      "en": "Mong Pat Village Tract",
+      "slug": "mong-pat-village-tract-1604200"
+    },
+    "code": {
+      "id": "1604200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်အွမ် ကျေးရွာအုပ်စု",
+      "en": "Nam Aum Village Tract",
+      "slug": "nam-aum-village-tract-1604230"
+    },
+    "code": {
+      "id": "1604230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဟူးလွယ်ကာ ကျေးရွာအုပ်စု",
+      "en": "Nam Hu Loi Kar Village Tract",
+      "slug": "nam-hu-loi-kar-village-tract-1604214"
+    },
+    "code": {
+      "id": "1604214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်ဟူး ကျေးရွာအုပ်စု",
+      "en": "Nam Hu Village Tract",
+      "slug": "nam-hu-village-tract-1604241"
+    },
+    "code": {
+      "id": "1604241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်လန် ကျေးရွာအုပ်စု",
+      "en": "Nam Lan Village Tract",
+      "slug": "nam-lan-village-tract-1604235"
+    },
+    "code": {
+      "id": "1604235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604246",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်မူဆယ် ကျေးရွာအုပ်စု",
+      "en": "Nam Muse Village Tract",
+      "slug": "nam-muse-village-tract-1604246"
+    },
+    "code": {
+      "id": "1604246",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604246"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နမ့်စိုင် ကျေးရွာအုပ်စု",
+      "en": "Nam Sai Village Tract",
+      "slug": "nam-sai-village-tract-1604227"
+    },
+    "code": {
+      "id": "1604227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားဟန် ကျေးရွာအုပ်စု",
+      "en": "Nar Han Village Tract",
+      "slug": "nar-han-village-tract-1604234"
+    },
+    "code": {
+      "id": "1604234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားဟုတ် ကျေးရွာအုပ်စု",
+      "en": "Nar Hoke Village Tract",
+      "slug": "nar-hoke-village-tract-1604218"
+    },
+    "code": {
+      "id": "1604218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားကော် ကျေးရွာအုပ်စု",
+      "en": "Nar Kaw Village Tract",
+      "slug": "nar-kaw-village-tract-1604224"
+    },
+    "code": {
+      "id": "1604224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားလောင်း ကျေးရွာအုပ်စု",
+      "en": "Nar Lawng Village Tract",
+      "slug": "nar-lawng-village-tract-1604221"
+    },
+    "code": {
+      "id": "1604221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားငွေး ကျေးရွာအုပ်စု",
+      "en": "Nar Ngway Village Tract",
+      "slug": "nar-ngway-village-tract-1604205"
+    },
+    "code": {
+      "id": "1604205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နားဝိုင် ကျေးရွာအုပ်စု",
+      "en": "Nar Waun Village Tract",
+      "slug": "nar-waun-village-tract-1604237"
+    },
+    "code": {
+      "id": "1604237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ခမ်း (မိုင်းထွမ်း) ကျေးရွာအုပ်စု",
+      "en": "Nawng Hkam (Mong Htwun) Village Tract",
+      "slug": "nawng-hkam-mong-htwun-village-tract-1604243"
+    },
+    "code": {
+      "id": "1604243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ခမ်း (မိုင်းမား) ကျေးရွာအုပ်စု",
+      "en": "Nawng Hkam (Mong Mar) Village Tract",
+      "slug": "nawng-hkam-mong-mar-village-tract-1604245"
+    },
+    "code": {
+      "id": "1604245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ခမ်း ကျေးရွာအုပ်စု",
+      "en": "Nawng Hkam Village Tract",
+      "slug": "nawng-hkam-village-tract-1604217"
+    },
+    "code": {
+      "id": "1604217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်ဖာ ကျေးရွာအုပ်စု",
+      "en": "Nawng Hpar Village Tract",
+      "slug": "nawng-hpar-village-tract-1604215"
+    },
+    "code": {
+      "id": "1604215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်စန့် ကျေးရွာအုပ်စု",
+      "en": "Nawng Hsant Village Tract",
+      "slug": "nawng-hsant-village-tract-1604233"
+    },
+    "code": {
+      "id": "1604233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်လိုင် ကျေးရွာအုပ်စု",
+      "en": "Nawng Lai Village Tract",
+      "slug": "nawng-lai-village-tract-1604239"
+    },
+    "code": {
+      "id": "1604239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နောင်မို ရပ်ကွက်",
+      "en": "Nawng Mo Quarter",
+      "slug": "nawng-mo-quarter-1604008"
+    },
+    "code": {
+      "id": "1604008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1604001"
+    },
+    "code": {
+      "id": "1604001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1604002"
+    },
+    "code": {
+      "id": "1604002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1604003"
+    },
+    "code": {
+      "id": "1604003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1604004"
+    },
+    "code": {
+      "id": "1604004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1604005"
+    },
+    "code": {
+      "id": "1604005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ဖီ ကျေးရွာအုပ်စု",
+      "en": "Pang Hpi Village Tract",
+      "slug": "pang-hpi-village-tract-1604228"
+    },
+    "code": {
+      "id": "1604228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်လောင်း ကျေးရွာအုပ်စု",
+      "en": "Pang Lawng Village Tract",
+      "slug": "pang-lawng-village-tract-1604242"
+    },
+    "code": {
+      "id": "1604242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်နွဲ့ ကျေးရွာအုပ်စု",
+      "en": "Pang Nwet Village Tract",
+      "slug": "pang-nwet-village-tract-1604212"
+    },
+    "code": {
+      "id": "1604212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်ညောင် ကျေးရွာအုပ်စု",
+      "en": "Pang Nyawng Village Tract",
+      "slug": "pang-nyawng-village-tract-1604213"
+    },
+    "code": {
+      "id": "1604213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါစန် ကျေးရွာအုပ်စု",
+      "en": "Par Hsan Village Tract",
+      "slug": "par-hsan-village-tract-1604231"
+    },
+    "code": {
+      "id": "1604231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုတ်လောင်း ကျေးရွာအုပ်စု",
+      "en": "Poke Lawng Village Tract",
+      "slug": "poke-lawng-village-tract-1604210"
+    },
+    "code": {
+      "id": "1604210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ဟျှိုး ကျေးရွာအုပ်စု",
+      "en": "Tawng Hyoe Village Tract",
+      "slug": "tawng-hyoe-village-tract-1604225"
+    },
+    "code": {
+      "id": "1604225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းလောင်း ရပ်ကွက်",
+      "en": "Wein Lawng Quarter",
+      "slug": "wein-lawng-quarter-1604006"
+    },
+    "code": {
+      "id": "1604006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝိန်းမိုင်း ကျေးရွာအုပ်စု",
+      "en": "Wein Mong Village Tract",
+      "slug": "wein-mong-village-tract-1604220"
+    },
+    "code": {
+      "id": "1604220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR015004701",
+      "level": 3,
+      "name": {
+        "local": "တန့်ယန်း",
+        "en": "Tangyan",
+        "slug": "tangyan-MMR015004701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR015D001",
+        "level": 2,
+        "name": {
+          "local": "လားရှိုးခရိုင်",
+          "en": "Lashio",
+          "slug": "lashio-MMR015D001"
+        }
+      },
+      {
+        "id": "MMR015004701",
+        "level": 3,
+        "name": {
+          "local": "တန့်ယန်း",
+          "en": "Tangyan",
+          "slug": "tangyan-MMR015004701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1604220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

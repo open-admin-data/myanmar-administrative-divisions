@@ -1,0 +1,56 @@
+{
+  "id": "MMR011009702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "သိမ်ဇရပ်",
+    "en": "Thein Za Yat",
+    "slug": "thein-za-yat-MMR011009702"
+  },
+  "code": {
+    "id": "MMR011009702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR011D002",
+    "level": 2,
+    "name": {
+      "local": "သထုံခရိုင်",
+      "en": "Thaton",
+      "slug": "thaton-MMR011D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR011",
+      "level": 1,
+      "name": {
+        "local": "မွန်ပြည်နယ်",
+        "en": "Mon",
+        "slug": "mon-MMR011"
+      }
+    },
+    {
+      "id": "MMR011D002",
+      "level": 2,
+      "name": {
+        "local": "သထုံခရိုင်",
+        "en": "Thaton",
+        "slug": "thaton-MMR011D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.5137",
+    "lon": "96.884"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,3577 @@
+[
+  {
+    "id": "1130002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အလယ်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Lel Paing Quarter",
+      "slug": "ah-lel-paing-quarter-1130002"
+    },
+    "code": {
+      "id": "1130002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-1130003"
+    },
+    "code": {
+      "id": "1130003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130209",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အစဲ ကျေးရွာအုပ်စု",
+      "en": "Ah Se Village Tract",
+      "slug": "ah-se-village-tract-1130209"
+    },
+    "code": {
+      "id": "1130209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130209"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-1130001"
+    },
+    "code": {
+      "id": "1130001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130242",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ကျေးရွာအုပ်စု",
+      "en": "Aung Chan Thar Village Tract",
+      "slug": "aung-chan-thar-village-tract-1130242"
+    },
+    "code": {
+      "id": "1130242",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130242"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အေးမြသီတာ ရပ်ကွက်",
+      "en": "Aye Mya Thi Dar Quarter",
+      "slug": "aye-mya-thi-dar-quarter-1130009"
+    },
+    "code": {
+      "id": "1130009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130216",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘော်ဂလွတ် ကျေးရွာအုပ်စု",
+      "en": "Baw Ga Lut Village Tract",
+      "slug": "baw-ga-lut-village-tract-1130216"
+    },
+    "code": {
+      "id": "1130216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130216"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130214",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုးဘ ကျေးရွာအုပ်စု",
+      "en": "Boe Ba Village Tract",
+      "slug": "boe-ba-village-tract-1130214"
+    },
+    "code": {
+      "id": "1130214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130214"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130244",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဘိုကုန်း ကျေးရွာအုပ်စု",
+      "en": "Boe Kone Village Tract",
+      "slug": "boe-kone-village-tract-1130244"
+    },
+    "code": {
+      "id": "1130244",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130244"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130217",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ချောင်းဝ ကျေးရွာအုပ်စု",
+      "en": "Chaung Wa Village Tract",
+      "slug": "chaung-wa-village-tract-1130217"
+    },
+    "code": {
+      "id": "1130217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130217"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130234",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကဒပ္ပန ကျေးရွာအုပ်စု",
+      "en": "Ka Dat Pa Na Village Tract",
+      "slug": "ka-dat-pa-na-village-tract-1130234"
+    },
+    "code": {
+      "id": "1130234",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130234"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130229",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကမာကလုပ် ကျေးရွာအုပ်စု",
+      "en": "Ka Mar Ka Loke Village Tract",
+      "slug": "ka-mar-ka-loke-village-tract-1130229"
+    },
+    "code": {
+      "id": "1130229",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130229"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130200",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်ပြောင် ကျေးရွာအုပ်စု",
+      "en": "Kan Pyaung Village Tract",
+      "slug": "kan-pyaung-village-tract-1130200"
+    },
+    "code": {
+      "id": "1130200",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130200"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130207",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကရင်ချောင် ကျေးရွာအုပ်စု",
+      "en": "Kayin Chaung Village Tract",
+      "slug": "kayin-chaung-village-tract-1130207"
+    },
+    "code": {
+      "id": "1130207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130207"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130230",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခနောင် ကျေးရွာအုပ်စု",
+      "en": "Kha Naung Village Tract",
+      "slug": "kha-naung-village-tract-1130230"
+    },
+    "code": {
+      "id": "1130230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130230"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130243",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကုလားတန်း ကျေးရွာအုပ်စု",
+      "en": "Ku Lar Tan Village Tract",
+      "slug": "ku-lar-tan-village-tract-1130243"
+    },
+    "code": {
+      "id": "1130243",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130243"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130218",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကွနှီး ကျေးရွာအုပ်စု",
+      "en": "Kwa Hnee Village Tract",
+      "slug": "kwa-hnee-village-tract-1130218"
+    },
+    "code": {
+      "id": "1130218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130218"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြံပင် ကျေးရွာအုပ်စု",
+      "en": "Kyan Pin Village Tract",
+      "slug": "kyan-pin-village-tract-1130205"
+    },
+    "code": {
+      "id": "1130205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130222",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကြာကန် ကျေးရွာအုပ်စု",
+      "en": "Kyar Kan Village Tract",
+      "slug": "kyar-kan-village-tract-1130222"
+    },
+    "code": {
+      "id": "1130222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130222"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျုံကန် ကျေးရွာအုပ်စု",
+      "en": "Kyon Kan Village Tract",
+      "slug": "kyon-kan-village-tract-1130202"
+    },
+    "code": {
+      "id": "1130202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130238",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မရမ်းဘေး ကျေးရွာအုပ်စု",
+      "en": "Ma Yan Bay Village Tract",
+      "slug": "ma-yan-bay-village-tract-1130238"
+    },
+    "code": {
+      "id": "1130238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130238"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130228",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မီးပြ ကျေးရွာအုပ်စု",
+      "en": "Mee Pya Village Tract",
+      "slug": "mee-pya-village-tract-1130228"
+    },
+    "code": {
+      "id": "1130228",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130228"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130210",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလွန်း ကျေးရွာအုပ်စု",
+      "en": "Min Ga Lun Village Tract",
+      "slug": "min-ga-lun-village-tract-1130210"
+    },
+    "code": {
+      "id": "1130210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130210"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130213",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြကိုင်း ကျေးရွာအုပ်စု",
+      "en": "Mya Kaing Village Tract",
+      "slug": "mya-kaing-village-tract-1130213"
+    },
+    "code": {
+      "id": "1130213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130213"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130211",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "နရွဲချောင် ကျေးရွာအုပ်စု",
+      "en": "Na Ywe Chaung Village Tract",
+      "slug": "na-ywe-chaung-village-tract-1130211"
+    },
+    "code": {
+      "id": "1130211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130211"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130220",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင်ဝိုင်း ကျေးရွာအုပ်စု",
+      "en": "Nyaung Waing Village Tract",
+      "slug": "nyaung-waing-village-tract-1130220"
+    },
+    "code": {
+      "id": "1130220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130220"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130232",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Pan Chaung Village Tract",
+      "slug": "pan-chaung-village-tract-1130232"
+    },
+    "code": {
+      "id": "1130232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130232"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130226",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပန်းတော ကျေးရွာအုပ်စု",
+      "en": "Pan Taw Village Tract",
+      "slug": "pan-taw-village-tract-1130226"
+    },
+    "code": {
+      "id": "1130226",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130226"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130223",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပါဒကြီး ကျေးရွာအုပ်စု",
+      "en": "Par Da Gyi Village Tract",
+      "slug": "par-da-gyi-village-tract-1130223"
+    },
+    "code": {
+      "id": "1130223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130223"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပီလခတ် ကျေးရွာအုပ်စု",
+      "en": "Pi La Khat Village Tract",
+      "slug": "pi-la-khat-village-tract-1130201"
+    },
+    "code": {
+      "id": "1130201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130237",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုတ္တလုပ် ကျေးရွာအုပ်စု",
+      "en": "Poke Ta Loke Village Tract",
+      "slug": "poke-ta-loke-village-tract-1130237"
+    },
+    "code": {
+      "id": "1130237",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130237"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံချိန်မီ ရပ်ကွက်",
+      "en": "San Chein Hmi Quarter",
+      "slug": "san-chein-hmi-quarter-1130006"
+    },
+    "code": {
+      "id": "1130006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130239",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Shan Chaung Village Tract",
+      "slug": "shan-chaung-village-tract-1130239"
+    },
+    "code": {
+      "id": "1130239",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130239"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေကုန်း ရပ်ကွက်",
+      "en": "Shwe Kone Quarter",
+      "slug": "shwe-kone-quarter-1130005"
+    },
+    "code": {
+      "id": "1130005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130225",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပျောက် ကျေးရွာအုပ်စု",
+      "en": "Shwe Pyauk Village Tract",
+      "slug": "shwe-pyauk-village-tract-1130225"
+    },
+    "code": {
+      "id": "1130225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130225"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေပြည်သာယာ ရပ်ကွက်",
+      "en": "Shwe Pyi Thar Yar Quarter",
+      "slug": "shwe-pyi-thar-yar-quarter-1130008"
+    },
+    "code": {
+      "id": "1130008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆင်ကန် ရပ်ကွက်",
+      "en": "Sin Kan Quarter",
+      "slug": "sin-kan-quarter-1130004"
+    },
+    "code": {
+      "id": "1130004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130231",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စင်မကော် ကျေးရွာအုပ်စု",
+      "en": "Sin Ma Kaw Village Tract",
+      "slug": "sin-ma-kaw-village-tract-1130231"
+    },
+    "code": {
+      "id": "1130231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130231"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130212",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်တပင် ကျေးရွာအုပ်စု",
+      "en": "Sit Ta Pin Village Tract",
+      "slug": "sit-ta-pin-village-tract-1130212"
+    },
+    "code": {
+      "id": "1130212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130212"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130236",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စစ်တန်း ကျေးရွာအုပ်စု",
+      "en": "Sit Tan Village Tract",
+      "slug": "sit-tan-village-tract-1130236"
+    },
+    "code": {
+      "id": "1130236",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130236"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130241",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တမံကြီးကုန်း ကျေးရွာအုပ်စု",
+      "en": "Ta Man Gyi Kone Village Tract",
+      "slug": "ta-man-gyi-kone-village-tract-1130241"
+    },
+    "code": {
+      "id": "1130241",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130241"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130233",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တာပတ် ကျေးရွာအုပ်စု",
+      "en": "Tar Pat Village Tract",
+      "slug": "tar-pat-village-tract-1130233"
+    },
+    "code": {
+      "id": "1130233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130233"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130215",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သနပ္ပင်ချင်း ကျေးရွာအုပ်စု",
+      "en": "Tha Nat Pin Chin Village Tract",
+      "slug": "tha-nat-pin-chin-village-tract-1130215"
+    },
+    "code": {
+      "id": "1130215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130215"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130206",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သောင်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Thaung Gyi Village Tract",
+      "slug": "thaung-gyi-village-tract-1130206"
+    },
+    "code": {
+      "id": "1130206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130206"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သီတာမြိုင် ရပ်ကွက်",
+      "en": "Thi Dar Myaing Quarter",
+      "slug": "thi-dar-myaing-quarter-1130007"
+    },
+    "code": {
+      "id": "1130007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130240",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တူးမြောင်း ကျေးရွာအုပ်စု",
+      "en": "Tu Myaung Village Tract",
+      "slug": "tu-myaung-village-tract-1130240"
+    },
+    "code": {
+      "id": "1130240",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130240"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130224",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ် ကျေးရွာအုပ်စု",
+      "en": "U Yin Village Tract",
+      "slug": "u-yin-village-tract-1130224"
+    },
+    "code": {
+      "id": "1130224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130224"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝဲကြီး ကျေးရွာအုပ်စု",
+      "en": "Wea Gyi Village Tract",
+      "slug": "wea-gyi-village-tract-1130203"
+    },
+    "code": {
+      "id": "1130203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130235",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဝင်းကြီး ကျေးရွာအုပ်စု",
+      "en": "Win Gyi Village Tract",
+      "slug": "win-gyi-village-tract-1130235"
+    },
+    "code": {
+      "id": "1130235",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130235"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130221",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေကျော် ကျေးရွာအုပ်စု",
+      "en": "Yae Kyaw Village Tract",
+      "slug": "yae-kyaw-village-tract-1130221"
+    },
+    "code": {
+      "id": "1130221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130221"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ်ကြီး ကျေးရွာအုပ်စု",
+      "en": "Ywar Thit Gyi Village Tract",
+      "slug": "ywar-thit-gyi-village-tract-1130204"
+    },
+    "code": {
+      "id": "1130204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130227",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွာသစ်ကလေး ကျေးရွာအုပ်စု",
+      "en": "Ywar Thit Ka Lay Village Tract",
+      "slug": "ywar-thit-ka-lay-village-tract-1130227"
+    },
+    "code": {
+      "id": "1130227",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130227"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130245",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇီးဖြူပင် ကျေးရွာအုပ်စု",
+      "en": "Zee Hpyu Pin Village Tract",
+      "slug": "zee-hpyu-pin-village-tract-1130245"
+    },
+    "code": {
+      "id": "1130245",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130245"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130219",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇွဲဘာကုန်းတန်း ကျေးရွာအုပ်စု",
+      "en": "Zwe Bar Kone Tan Village Tract",
+      "slug": "zwe-bar-kone-tan-village-tract-1130219"
+    },
+    "code": {
+      "id": "1130219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130219"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1130208",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇွဲကနာ ကျေးရွာအုပ်စု",
+      "en": "Zwe Ka Nar Village Tract",
+      "slug": "zwe-ka-nar-village-tract-1130208"
+    },
+    "code": {
+      "id": "1130208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013024701",
+      "level": 3,
+      "name": {
+        "local": "ကျောက်တန်း",
+        "en": "Kyauktan",
+        "slug": "kyauktan-MMR013024701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D003",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(တောင်ပိုင်း)",
+          "en": "Yangon (South)",
+          "slug": "yangon-south-MMR013D003"
+        }
+      },
+      {
+        "id": "MMR013024701",
+        "level": 3,
+        "name": {
+          "local": "ကျောက်တန်း",
+          "en": "Kyauktan",
+          "slug": "kyauktan-MMR013024701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1130208"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

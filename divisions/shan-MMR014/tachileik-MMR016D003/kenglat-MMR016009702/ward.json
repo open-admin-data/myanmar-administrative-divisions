@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1764001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1764001"
+    },
+    "code": {
+      "id": "1764001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016009702",
+      "level": 3,
+      "name": {
+        "local": "ကျိုင်းလပ်",
+        "en": "Kenglat",
+        "slug": "kenglat-MMR016009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      },
+      {
+        "id": "MMR016009702",
+        "level": 3,
+        "name": {
+          "local": "ကျိုင်းလပ်",
+          "en": "Kenglat",
+          "slug": "kenglat-MMR016009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1764001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1764002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1764002"
+    },
+    "code": {
+      "id": "1764002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016009702",
+      "level": 3,
+      "name": {
+        "local": "ကျိုင်းလပ်",
+        "en": "Kenglat",
+        "slug": "kenglat-MMR016009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      },
+      {
+        "id": "MMR016009702",
+        "level": 3,
+        "name": {
+          "local": "ကျိုင်းလပ်",
+          "en": "Kenglat",
+          "slug": "kenglat-MMR016009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1764002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1764003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1764003"
+    },
+    "code": {
+      "id": "1764003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR016009702",
+      "level": 3,
+      "name": {
+        "local": "ကျိုင်းလပ်",
+        "en": "Kenglat",
+        "slug": "kenglat-MMR016009702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR014",
+        "level": 1,
+        "name": {
+          "local": "ရှမ်းပြည်နယ်",
+          "en": "Shan",
+          "slug": "shan-MMR014"
+        }
+      },
+      {
+        "id": "MMR016D003",
+        "level": 2,
+        "name": {
+          "local": "တာချီလိတ်ခရိုင်",
+          "en": "Tachileik",
+          "slug": "tachileik-MMR016D003"
+        }
+      },
+      {
+        "id": "MMR016009702",
+        "level": 3,
+        "name": {
+          "local": "ကျိုင်းလပ်",
+          "en": "Kenglat",
+          "slug": "kenglat-MMR016009702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1764003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

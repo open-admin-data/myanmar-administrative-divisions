@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "1122009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖို့မြေ ရပ်ကွက်",
+      "en": "Hpoet Myay Quarter",
+      "slug": "hpoet-myay-quarter-1122009"
+    },
+    "code": {
+      "id": "1122009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော်ကလေး (အရှေ့) ရပ်ကွက်",
+      "en": "Kan Taw Ka Lay (East) Quarter",
+      "slug": "kan-taw-ka-lay-east-quarter-1122005"
+    },
+    "code": {
+      "id": "1122005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော်ကလေး (မြောက်) ရပ်ကွက်",
+      "en": "Kan Taw Ka Lay (North) Quarter",
+      "slug": "kan-taw-ka-lay-north-quarter-1122003"
+    },
+    "code": {
+      "id": "1122003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော်ကလေး (တောင်) ရပ်ကွက်",
+      "en": "Kan Taw Ka Lay (South) Quarter",
+      "slug": "kan-taw-ka-lay-south-quarter-1122006"
+    },
+    "code": {
+      "id": "1122006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကန်တော်ကလေး (အနောက်) ရပ်ကွက်",
+      "en": "Kan Taw Ka Lay (West) Quarter",
+      "slug": "kan-taw-ka-lay-west-quarter-1122004"
+    },
+    "code": {
+      "id": "1122004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122020",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကူးတို့ဆိပ် ရပ်ကွက်",
+      "en": "Ku Toet Seik Quarter",
+      "slug": "ku-toet-seik-quarter-1122020"
+    },
+    "code": {
+      "id": "1122020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122020"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122012",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကျီတော် ရပ်ကွက်",
+      "en": "Kyee Taw Quarter",
+      "slug": "kyee-taw-quarter-1122012"
+    },
+    "code": {
+      "id": "1122012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122012"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "လွတ်လပ်ရေး ရပ်ကွက်",
+      "en": "Lut Lat Yay Quarter",
+      "slug": "lut-lat-yay-quarter-1122008"
+    },
+    "code": {
+      "id": "1122008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122018",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မလွှကုန်းမီးရထား ရပ်ကွက်",
+      "en": "Ma Hlwa Kone Mee Ya Htar Quarter",
+      "slug": "ma-hlwa-kone-mee-ya-htar-quarter-1122018"
+    },
+    "code": {
+      "id": "1122018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122018"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122011",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မင်္ဂလာတောင်ညွန့် ရပ်ကွက်",
+      "en": "Min Ga Lar Taung Nyunt Quarter",
+      "slug": "min-ga-lar-taung-nyunt-quarter-1122011"
+    },
+    "code": {
+      "id": "1122011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122011"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122017",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ပုသိမ်ညွန့် ရပ်ကွက်",
+      "en": "Pa Thein Nyunt Quarter",
+      "slug": "pa-thein-nyunt-quarter-1122017"
+    },
+    "code": {
+      "id": "1122017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122017"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စံပြ ဖ-ဆ-ပ-လ ရပ်ကွက်",
+      "en": "San Pya Hpa Sa Pa La Quarter",
+      "slug": "san-pya-hpa-sa-pa-la-quarter-1122002"
+    },
+    "code": {
+      "id": "1122002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122019",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "စက်ဆန်း ရပ်ကွက်",
+      "en": "Sat San Quarter",
+      "slug": "sat-san-quarter-1122019"
+    },
+    "code": {
+      "id": "1122019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122019"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122013",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်လုံးပြန် ရပ်ကွက်",
+      "en": "Taung Lone Pyan Quarter",
+      "slug": "taung-lone-pyan-quarter-1122013"
+    },
+    "code": {
+      "id": "1122013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122013"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122010",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ညွန့်မီးရထား ရပ်ကွက်",
+      "en": "Taung Nyunt Mee Ya Htar Quarter",
+      "slug": "taung-nyunt-mee-ya-htar-quarter-1122010"
+    },
+    "code": {
+      "id": "1122010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122010"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122016",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သာယာကုန်း ရပ်ကွက်",
+      "en": "Thar Yar Kone Quarter",
+      "slug": "thar-yar-kone-quarter-1122016"
+    },
+    "code": {
+      "id": "1122016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122016"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122015",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သပြေကုန်း ရပ်ကွက်",
+      "en": "The Pyay Kone Quarter",
+      "slug": "the-pyay-kone-quarter-1122015"
+    },
+    "code": {
+      "id": "1122015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122015"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "သိမ်ဖြူမီးရထား ရပ်ကွက်",
+      "en": "Thein Hpyu Mee Ya Htar Quarter",
+      "slug": "thein-hpyu-mee-ya-htar-quarter-1122007"
+    },
+    "code": {
+      "id": "1122007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥယျာဉ် ရပ်ကွက်",
+      "en": "U Yin Quarter",
+      "slug": "u-yin-quarter-1122001"
+    },
+    "code": {
+      "id": "1122001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1122014",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရေတွင်းကုန်း ရပ်ကွက်",
+      "en": "Yae Twin Kone Quarter",
+      "slug": "yae-twin-kone-quarter-1122014"
+    },
+    "code": {
+      "id": "1122014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013022701",
+      "level": 3,
+      "name": {
+        "local": "မင်္ဂလာတောင်ညွန့်",
+        "en": "Mingalartaungnyunt",
+        "slug": "mingalartaungnyunt-MMR013022701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D002",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(အရှေ့ပိုင်း)",
+          "en": "Yangon (East)",
+          "slug": "yangon-east-MMR013D002"
+        }
+      },
+      {
+        "id": "MMR013022701",
+        "level": 3,
+        "name": {
+          "local": "မင်္ဂလာတောင်ညွန့်",
+          "en": "Mingalartaungnyunt",
+          "slug": "mingalartaungnyunt-MMR013022701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1122014"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

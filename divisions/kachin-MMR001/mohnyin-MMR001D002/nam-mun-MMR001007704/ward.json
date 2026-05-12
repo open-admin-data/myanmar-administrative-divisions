@@ -1,0 +1,262 @@
+[
+  {
+    "id": "0169001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-0169001"
+    },
+    "code": {
+      "id": "0169001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007704",
+      "level": 3,
+      "name": {
+        "local": "နန့်မွန်း",
+        "en": "Nam Mun",
+        "slug": "nam-mun-MMR001007704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007704",
+        "level": 3,
+        "name": {
+          "local": "နန့်မွန်း",
+          "en": "Nam Mun",
+          "slug": "nam-mun-MMR001007704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0169001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0169002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-0169002"
+    },
+    "code": {
+      "id": "0169002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007704",
+      "level": 3,
+      "name": {
+        "local": "နန့်မွန်း",
+        "en": "Nam Mun",
+        "slug": "nam-mun-MMR001007704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007704",
+        "level": 3,
+        "name": {
+          "local": "နန့်မွန်း",
+          "en": "Nam Mun",
+          "slug": "nam-mun-MMR001007704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0169002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0169003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-0169003"
+    },
+    "code": {
+      "id": "0169003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007704",
+      "level": 3,
+      "name": {
+        "local": "နန့်မွန်း",
+        "en": "Nam Mun",
+        "slug": "nam-mun-MMR001007704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007704",
+        "level": 3,
+        "name": {
+          "local": "နန့်မွန်း",
+          "en": "Nam Mun",
+          "slug": "nam-mun-MMR001007704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0169003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0169004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-0169004"
+    },
+    "code": {
+      "id": "0169004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001007704",
+      "level": 3,
+      "name": {
+        "local": "နန့်မွန်း",
+        "en": "Nam Mun",
+        "slug": "nam-mun-MMR001007704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D002",
+        "level": 2,
+        "name": {
+          "local": "မိုးညှင်းခရိုင်",
+          "en": "Mohnyin",
+          "slug": "mohnyin-MMR001D002"
+        }
+      },
+      {
+        "id": "MMR001007704",
+        "level": 3,
+        "name": {
+          "local": "နန့်မွန်း",
+          "en": "Nam Mun",
+          "slug": "nam-mun-MMR001007704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0169004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

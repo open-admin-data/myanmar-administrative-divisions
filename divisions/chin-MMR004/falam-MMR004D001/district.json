@@ -1,0 +1,48 @@
+{
+  "id": "MMR004D001",
+  "level": 2,
+  "level_name": {
+    "local": "ခရိုင်",
+    "en": "District"
+  },
+  "name": {
+    "local": "ဖလမ်းခရိုင်",
+    "en": "Falam",
+    "slug": "falam-MMR004D001"
+  },
+  "code": {
+    "id": "MMR004D001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004",
+    "level": 1,
+    "name": {
+      "local": "ချင်းပြည်နယ်",
+      "en": "Chin",
+      "slug": "chin-MMR004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    }
+  ],
+  "children_count": {
+    "township": 7,
+    "ward": 198
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "23.3385",
+    "lon": "93.6884"
+  },
+  "metadata": {},
+  "source": {}
+}

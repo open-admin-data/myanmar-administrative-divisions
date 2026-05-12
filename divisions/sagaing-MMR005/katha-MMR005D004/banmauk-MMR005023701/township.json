@@ -1,0 +1,56 @@
+{
+  "id": "MMR005023701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဗန်းမောက်",
+    "en": "Banmauk",
+    "slug": "banmauk-MMR005023701"
+  },
+  "code": {
+    "id": "MMR005023701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D004",
+    "level": 2,
+    "name": {
+      "local": "ကသာခရိုင်",
+      "en": "Katha",
+      "slug": "katha-MMR005D004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D004",
+      "level": 2,
+      "name": {
+        "local": "ကသာခရိုင်",
+        "en": "Katha",
+        "slug": "katha-MMR005D004"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.39986",
+    "lon": "95.85767"
+  },
+  "metadata": {},
+  "source": {}
+}

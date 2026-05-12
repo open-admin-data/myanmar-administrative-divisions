@@ -1,0 +1,56 @@
+{
+  "id": "MMR008005701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "သဲကုန်း",
+    "en": "Thegon",
+    "slug": "thegon-MMR008005701"
+  },
+  "code": {
+    "id": "MMR008005701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR008D001",
+    "level": 2,
+    "name": {
+      "local": "ပြည်ခရိုင်",
+      "en": "Pyay",
+      "slug": "pyay-MMR008D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR007",
+      "level": 1,
+      "name": {
+        "local": "ပဲခူးတိုင်းဒေသကြီး",
+        "en": "Bago",
+        "slug": "bago-MMR007"
+      }
+    },
+    {
+      "id": "MMR008D001",
+      "level": 2,
+      "name": {
+        "local": "ပြည်ခရိုင်",
+        "en": "Pyay",
+        "slug": "pyay-MMR008D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.64698",
+    "lon": "95.41721"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR014019701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "မိုးနဲ",
+    "en": "Mongnai",
+    "slug": "mongnai-MMR014019701"
+  },
+  "code": {
+    "id": "MMR014019701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR014D003",
+    "level": 2,
+    "name": {
+      "local": "လင်းခေးခရိုင်",
+      "en": "Langkho",
+      "slug": "langkho-MMR014D003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR014",
+      "level": 1,
+      "name": {
+        "local": "ရှမ်းပြည်နယ်",
+        "en": "Shan",
+        "slug": "shan-MMR014"
+      }
+    },
+    {
+      "id": "MMR014D003",
+      "level": 2,
+      "name": {
+        "local": "လင်းခေးခရိုင်",
+        "en": "Langkho",
+        "slug": "langkho-MMR014D003"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.5136",
+    "lon": "97.8712"
+  },
+  "metadata": {},
+  "source": {}
+}

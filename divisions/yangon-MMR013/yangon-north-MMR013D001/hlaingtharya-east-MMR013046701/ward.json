@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1140202",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ကစင် ကျေးရွာအုပ်စု",
+      "en": "Ka Sin Village Tract",
+      "slug": "ka-sin-village-tract-1140202"
+    },
+    "code": {
+      "id": "1140202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140202"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁) ရပ်ကွက်",
+      "en": "No (1) Quarter",
+      "slug": "no-1-quarter-1140001"
+    },
+    "code": {
+      "id": "1140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140009",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၁၅) ရပ်ကွက်",
+      "en": "No (15) Quarter",
+      "slug": "no-15-quarter-1140009"
+    },
+    "code": {
+      "id": "1140009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140009"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၂) ရပ်ကွက်",
+      "en": "No (2) Quarter",
+      "slug": "no-2-quarter-1140002"
+    },
+    "code": {
+      "id": "1140002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၃) ရပ်ကွက်",
+      "en": "No (3) Quarter",
+      "slug": "no-3-quarter-1140003"
+    },
+    "code": {
+      "id": "1140003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၄) ရပ်ကွက်",
+      "en": "No (4) Quarter",
+      "slug": "no-4-quarter-1140004"
+    },
+    "code": {
+      "id": "1140004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140005",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၅) ရပ်ကွက်",
+      "en": "No (5) Quarter",
+      "slug": "no-5-quarter-1140005"
+    },
+    "code": {
+      "id": "1140005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140005"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140006",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၆) ရပ်ကွက်",
+      "en": "No (6) Quarter",
+      "slug": "no-6-quarter-1140006"
+    },
+    "code": {
+      "id": "1140006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140006"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140007",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၇) ရပ်ကွက်",
+      "en": "No (7) Quarter",
+      "slug": "no-7-quarter-1140007"
+    },
+    "code": {
+      "id": "1140007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140007"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140008",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အမှတ် (၈) ရပ်ကွက်",
+      "en": "No (8) Quarter",
+      "slug": "no-8-quarter-1140008"
+    },
+    "code": {
+      "id": "1140008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140008"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140205",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ညောင် ကျေးရွာအုပ်စု",
+      "en": "Nyaung Village Tract",
+      "slug": "nyaung-village-tract-1140205"
+    },
+    "code": {
+      "id": "1140205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140205"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140204",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဥက္ကံသောင်ကြား (ရေဥက္ကံ) ကျေးရွာအုပ်စု",
+      "en": "Oke Kan Thaung Kyar (Yae Oke Kan) Village Tract",
+      "slug": "oke-kan-thaung-kyar-yae-oke-kan-village-tract-1140204"
+    },
+    "code": {
+      "id": "1140204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140204"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140203",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရှမ်းချောင်း ကျေးရွာအုပ်စု",
+      "en": "Shan Chaung Village Tract",
+      "slug": "shan-chaung-village-tract-1140203"
+    },
+    "code": {
+      "id": "1140203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140203"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1140201",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ရွှေလင်ဘန်း ကျေးရွာအုပ်စု",
+      "en": "Shwe Lin Ban Village Tract",
+      "slug": "shwe-lin-ban-village-tract-1140201"
+    },
+    "code": {
+      "id": "1140201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR013046701",
+      "level": 3,
+      "name": {
+        "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+        "en": "Hlaingtharya (East)",
+        "slug": "hlaingtharya-east-MMR013046701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR013",
+        "level": 1,
+        "name": {
+          "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+          "en": "Yangon",
+          "slug": "yangon-MMR013"
+        }
+      },
+      {
+        "id": "MMR013D001",
+        "level": 2,
+        "name": {
+          "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+          "en": "Yangon (North)",
+          "slug": "yangon-north-MMR013D001"
+        }
+      },
+      {
+        "id": "MMR013046701",
+        "level": 3,
+        "name": {
+          "local": "လှိုင်သာယာ (အရှေ့ပိုင်း)",
+          "en": "Hlaingtharya (East)",
+          "slug": "hlaingtharya-east-MMR013046701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1140201"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

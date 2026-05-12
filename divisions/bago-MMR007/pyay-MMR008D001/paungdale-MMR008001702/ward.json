@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1860002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အနောက်ပိုင်း ရပ်ကွက်",
+      "en": "Ah Nauk Paing Quarter",
+      "slug": "ah-nauk-paing-quarter-1860002"
+    },
+    "code": {
+      "id": "1860002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008001702",
+      "level": 3,
+      "name": {
+        "local": "ပေါင်းတလည်",
+        "en": "Paungdale",
+        "slug": "paungdale-MMR008001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008001702",
+        "level": 3,
+        "name": {
+          "local": "ပေါင်းတလည်",
+          "en": "Paungdale",
+          "slug": "paungdale-MMR008001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1860001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အရှေ့ပိုင်း ရပ်ကွက်",
+      "en": "Ah Shey Paing Quarter",
+      "slug": "ah-shey-paing-quarter-1860001"
+    },
+    "code": {
+      "id": "1860001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008001702",
+      "level": 3,
+      "name": {
+        "local": "ပေါင်းတလည်",
+        "en": "Paungdale",
+        "slug": "paungdale-MMR008001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008001702",
+        "level": 3,
+        "name": {
+          "local": "ပေါင်းတလည်",
+          "en": "Paungdale",
+          "slug": "paungdale-MMR008001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1860004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "မြောက်ပိုင်း ရပ်ကွက်",
+      "en": "Myauk Paing Quarter",
+      "slug": "myauk-paing-quarter-1860004"
+    },
+    "code": {
+      "id": "1860004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008001702",
+      "level": 3,
+      "name": {
+        "local": "ပေါင်းတလည်",
+        "en": "Paungdale",
+        "slug": "paungdale-MMR008001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008001702",
+        "level": 3,
+        "name": {
+          "local": "ပေါင်းတလည်",
+          "en": "Paungdale",
+          "slug": "paungdale-MMR008001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1860003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "တောင်ပိုင်း ရပ်ကွက်",
+      "en": "Taung Paing Quarter",
+      "slug": "taung-paing-quarter-1860003"
+    },
+    "code": {
+      "id": "1860003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR008001702",
+      "level": 3,
+      "name": {
+        "local": "ပေါင်းတလည်",
+        "en": "Paungdale",
+        "slug": "paungdale-MMR008001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR007",
+        "level": 1,
+        "name": {
+          "local": "ပဲခူးတိုင်းဒေသကြီး",
+          "en": "Bago",
+          "slug": "bago-MMR007"
+        }
+      },
+      {
+        "id": "MMR008D001",
+        "level": 2,
+        "name": {
+          "local": "ပြည်ခရိုင်",
+          "en": "Pyay",
+          "slug": "pyay-MMR008D001"
+        }
+      },
+      {
+        "id": "MMR008001702",
+        "level": 3,
+        "name": {
+          "local": "ပေါင်းတလည်",
+          "en": "Paungdale",
+          "slug": "paungdale-MMR008001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1860003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

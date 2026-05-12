@@ -1,0 +1,31 @@
+{
+  "id": "MMR007",
+  "level": 1,
+  "level_name": {
+    "local": "တိုင်းဒေသကြီး/ပြည်နယ်",
+    "en": "State/Region"
+  },
+  "name": {
+    "local": "ပဲခူးတိုင်းဒေသကြီး",
+    "en": "Bago",
+    "slug": "bago-MMR007"
+  },
+  "code": {
+    "id": "MMR007",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "ward": 1804,
+    "township": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.2638",
+    "lon": "96.0673"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR005034701",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ဟုမ္မလင်း",
+    "en": "Homalin",
+    "slug": "homalin-MMR005034701"
+  },
+  "code": {
+    "id": "MMR005034701",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR005D008",
+    "level": 2,
+    "name": {
+      "local": "ခန္တီးခရိုင်",
+      "en": "Hkamti",
+      "slug": "hkamti-MMR005D008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR005",
+      "level": 1,
+      "name": {
+        "local": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+        "en": "Sagaing",
+        "slug": "sagaing-MMR005"
+      }
+    },
+    {
+      "id": "MMR005D008",
+      "level": 2,
+      "name": {
+        "local": "ခန္တီးခရိုင်",
+        "en": "Hkamti",
+        "slug": "hkamti-MMR005D008"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "24.8644",
+    "lon": "94.91088"
+  },
+  "metadata": {},
+  "source": {}
+}

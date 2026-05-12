@@ -1,0 +1,197 @@
+[
+  {
+    "id": "0160003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်ချမ်းသာ ရပ်ကွက်",
+      "en": "Aung Chan Thar Quarter",
+      "slug": "aung-chan-thar-quarter-0160003"
+    },
+    "code": {
+      "id": "0160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001702",
+      "level": 3,
+      "name": {
+        "local": "ဆင်ဘို",
+        "en": "Sinbo",
+        "slug": "sinbo-MMR001001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001702",
+        "level": 3,
+        "name": {
+          "local": "ဆင်ဘို",
+          "en": "Sinbo",
+          "slug": "sinbo-MMR001001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0160003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0160002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "အောင်မင်္ဂလာ ရပ်ကွက်",
+      "en": "Aung Min Ga Lar Quarter",
+      "slug": "aung-min-ga-lar-quarter-0160002"
+    },
+    "code": {
+      "id": "0160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001702",
+      "level": 3,
+      "name": {
+        "local": "ဆင်ဘို",
+        "en": "Sinbo",
+        "slug": "sinbo-MMR001001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001702",
+        "level": 3,
+        "name": {
+          "local": "ဆင်ဘို",
+          "en": "Sinbo",
+          "slug": "sinbo-MMR001001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0160002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "0160001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဧရာဦး ရပ်ကွက်",
+      "en": "Aye Yar U Quarter",
+      "slug": "aye-yar-u-quarter-0160001"
+    },
+    "code": {
+      "id": "0160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR001001702",
+      "level": 3,
+      "name": {
+        "local": "ဆင်ဘို",
+        "en": "Sinbo",
+        "slug": "sinbo-MMR001001702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR001",
+        "level": 1,
+        "name": {
+          "local": "ကချင်ပြည်နယ်",
+          "en": "Kachin",
+          "slug": "kachin-MMR001"
+        }
+      },
+      {
+        "id": "MMR001D001",
+        "level": 2,
+        "name": {
+          "local": "မြစ်ကြီးနားခရိုင်",
+          "en": "Myitkyina",
+          "slug": "myitkyina-MMR001D001"
+        }
+      },
+      {
+        "id": "MMR001001702",
+        "level": 3,
+        "name": {
+          "local": "ဆင်ဘို",
+          "en": "Sinbo",
+          "slug": "sinbo-MMR001001702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "0160001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

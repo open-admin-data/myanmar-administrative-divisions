@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1262003",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဖလပ် ရပ်ကွက်",
+      "en": "Hpa Lup Quarter",
+      "slug": "hpa-lup-quarter-1262003"
+    },
+    "code": {
+      "id": "1262003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011008702",
+      "level": 3,
+      "name": {
+        "local": "ဇင်းကျိုက်",
+        "en": "Zinkyaik",
+        "slug": "zinkyaik-MMR011008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011008702",
+        "level": 3,
+        "name": {
+          "local": "ဇင်းကျိုက်",
+          "en": "Zinkyaik",
+          "slug": "zinkyaik-MMR011008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1262003"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1262002",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ခလောက်အင်း ရပ်ကွက်",
+      "en": "Kha Lauk Inn Quarter",
+      "slug": "kha-lauk-inn-quarter-1262002"
+    },
+    "code": {
+      "id": "1262002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011008702",
+      "level": 3,
+      "name": {
+        "local": "ဇင်းကျိုက်",
+        "en": "Zinkyaik",
+        "slug": "zinkyaik-MMR011008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011008702",
+        "level": 3,
+        "name": {
+          "local": "ဇင်းကျိုက်",
+          "en": "Zinkyaik",
+          "slug": "zinkyaik-MMR011008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1262002"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1262004",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဆားဖိုစု ရပ်ကွက်",
+      "en": "Sar Hpo Su Quarter",
+      "slug": "sar-hpo-su-quarter-1262004"
+    },
+    "code": {
+      "id": "1262004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011008702",
+      "level": 3,
+      "name": {
+        "local": "ဇင်းကျိုက်",
+        "en": "Zinkyaik",
+        "slug": "zinkyaik-MMR011008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011008702",
+        "level": 3,
+        "name": {
+          "local": "ဇင်းကျိုက်",
+          "en": "Zinkyaik",
+          "slug": "zinkyaik-MMR011008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1262004"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1262001",
+    "level": 4,
+    "level_name": {
+      "local": "ရပ်ကွက်/ကျေးရွာအုပ်စု",
+      "en": "Ward/Village Tract"
+    },
+    "name": {
+      "local": "ဇင်းကျိုက် ရပ်ကွက်",
+      "en": "Zinkyaik Quarter",
+      "slug": "zinkyaik-quarter-1262001"
+    },
+    "code": {
+      "id": "1262001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR011008702",
+      "level": 3,
+      "name": {
+        "local": "ဇင်းကျိုက်",
+        "en": "Zinkyaik",
+        "slug": "zinkyaik-MMR011008702"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR011",
+        "level": 1,
+        "name": {
+          "local": "မွန်ပြည်နယ်",
+          "en": "Mon",
+          "slug": "mon-MMR011"
+        }
+      },
+      {
+        "id": "MMR011D002",
+        "level": 2,
+        "name": {
+          "local": "သထုံခရိုင်",
+          "en": "Thaton",
+          "slug": "thaton-MMR011D002"
+        }
+      },
+      {
+        "id": "MMR011008702",
+        "level": 3,
+        "name": {
+          "local": "ဇင်းကျိုက်",
+          "en": "Zinkyaik",
+          "slug": "zinkyaik-MMR011008702"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "1262001"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

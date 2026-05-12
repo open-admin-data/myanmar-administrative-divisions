@@ -1,0 +1,56 @@
+{
+  "id": "MMR004008702",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "ကျင်ဒွေး",
+    "en": "Kyin Dway",
+    "slug": "kyin-dway-MMR004008702"
+  },
+  "code": {
+    "id": "MMR004008702",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR004D002",
+    "level": 2,
+    "name": {
+      "local": "မင်းတပ်ခရိုင်",
+      "en": "Mindat",
+      "slug": "mindat-MMR004D002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR004",
+      "level": 1,
+      "name": {
+        "local": "ချင်းပြည်နယ်",
+        "en": "Chin",
+        "slug": "chin-MMR004"
+      }
+    },
+    {
+      "id": "MMR004D002",
+      "level": 2,
+      "name": {
+        "local": "မင်းတပ်ခရိုင်",
+        "en": "Mindat",
+        "slug": "mindat-MMR004D002"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.973",
+    "lon": "93.8382"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "MMR013005703",
+  "level": 3,
+  "level_name": {
+    "local": "မြို့နယ်",
+    "en": "Township"
+  },
+  "name": {
+    "local": "အဖျောက်",
+    "en": "Ahpyauk",
+    "slug": "ahpyauk-MMR013005703"
+  },
+  "code": {
+    "id": "MMR013005703",
+    "iso": null
+  },
+  "parent": {
+    "id": "MMR013D001",
+    "level": 2,
+    "name": {
+      "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+      "en": "Yangon (North)",
+      "slug": "yangon-north-MMR013D001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MMR013",
+      "level": 1,
+      "name": {
+        "local": "ရန်ကုန်တိုင်းဒေသကြီး",
+        "en": "Yangon",
+        "slug": "yangon-MMR013"
+      }
+    },
+    {
+      "id": "MMR013D001",
+      "level": 2,
+      "name": {
+        "local": "ရန်ကုန်(မြောက်ပိုင်း)",
+        "en": "Yangon (North)",
+        "slug": "yangon-north-MMR013D001"
+      }
+    }
+  ],
+  "children_count": {
+    "ward": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.38239",
+    "lon": "95.69338"
+  },
+  "metadata": {},
+  "source": {}
+}

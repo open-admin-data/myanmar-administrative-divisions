@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MMR010D003",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ကျောက်ဆည်ခရိုင်",
+      "en": "Kyaukse",
+      "slug": "kyaukse-MMR010D003"
+    },
+    "code": {
+      "id": "MMR010D003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 307
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.5884",
+      "lon": "96.0997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D001",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မန္တလေးခရိုင်",
+      "en": "Mandalay",
+      "slug": "mandalay-MMR010D001"
+    },
+    "code": {
+      "id": "MMR010D001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 8,
+      "ward": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.9433",
+      "lon": "96.0961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D007",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မိတ္ထီလာခရိုင်",
+      "en": "Meiktila",
+      "slug": "meiktila-MMR010D007"
+    },
+    "code": {
+      "id": "MMR010D007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 290
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.9819",
+      "lon": "95.8996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D004",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "မြင်းခြံခရိုင်",
+      "en": "Myingyan",
+      "slug": "myingyan-MMR010D004"
+    },
+    "code": {
+      "id": "MMR010D004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 5,
+      "ward": 293
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.5581",
+      "lon": "95.5202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D005",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ညောင်ဦးခရိုင်",
+      "en": "Nyaung-U",
+      "slug": "nyaung-u-MMR010D005"
+    },
+    "code": {
+      "id": "MMR010D005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 4,
+      "ward": 214
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "21.0801",
+      "lon": "95.0106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D002",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ပြင်ဦးလွင်ခရိုင်",
+      "en": "Pyinoolwin",
+      "slug": "pyinoolwin-MMR010D002"
+    },
+    "code": {
+      "id": "MMR010D002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 6,
+      "ward": 248
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "22.6803",
+      "lon": "96.1756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MMR010D006",
+    "level": 2,
+    "level_name": {
+      "local": "ခရိုင်",
+      "en": "District"
+    },
+    "name": {
+      "local": "ရမည်းသင်းခရိုင်",
+      "en": "Yamethin",
+      "slug": "yamethin-MMR010D006"
+    },
+    "code": {
+      "id": "MMR010D006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MMR010",
+      "level": 1,
+      "name": {
+        "local": "မန္တလေးတိုင်းဒေသကြီး",
+        "en": "Mandalay",
+        "slug": "mandalay-MMR010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MMR010",
+        "level": 1,
+        "name": {
+          "local": "မန္တလေးတိုင်းဒေသကြီး",
+          "en": "Mandalay",
+          "slug": "mandalay-MMR010"
+        }
+      }
+    ],
+    "children_count": {
+      "township": 2,
+      "ward": 152
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "20.5126",
+      "lon": "96.0942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
