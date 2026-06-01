@@ -16,7 +16,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (ward/village tract level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/mm](https://openadmindata.org/mm/) |
 | API | [openadmindata.org/api/mm](https://openadmindata.org/api/mm/) |
 

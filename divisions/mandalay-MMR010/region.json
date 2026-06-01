@@ -27,5 +27,9 @@
     "lon": "95.875"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mm/regions/mandalay-MMR010/",
+    "api": "https://openadmindata.org/api/mm/"
+  }
 }
