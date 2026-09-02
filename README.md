@@ -16,10 +16,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (ward/village tract level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-20 |
+| Last Updated | 2026-09-02 |
 | Website | [openadmindata.org/mm](https://openadmindata.org/mm/) |
 | API | [openadmindata.org/api/mm](https://openadmindata.org/api/mm/) |
-| Flag | [PNG](https://onlygames.me/flags-png/mm/) · [SVG](https://onlygames.me/flags-svg/mm/) · [PDF](https://onlygames.me/flags-pdf/mm/) |
+| Flag | [PNG](https://onlygames.me/flags-png/mm/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Myanmar National Anthem MP3](https://onlygames.me/national-anthems/mm/) |
 
 ## Browse by State/Region
@@ -132,3 +132,7 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 - [Open Admin Data](https://openadmindata.org) — Browse, search and explore administrative divisions for every country
 - [open-admin-data](https://github.com/open-admin-data) — GitHub organization with all country repos
 - [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [FreeFlags.org](https://www.freeflags.org) — Free flag images for every country
+- [Flag CDN](https://www.freeflags.org/cdn/) — Hotlink flag images directly
+- [Flag CSS](https://www.freeflags.org/css/) — CSS flag sprites for web projects
+- [Flag Collections](https://www.freeflags.org/collections/) — Curated flag image packs
